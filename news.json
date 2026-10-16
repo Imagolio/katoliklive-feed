@@ -1,0 +1,666 @@
+{
+  "updatedAt": "2026-10-16T18:28:48.279Z",
+  "news": [
+    {
+      "id": "https://www.ewtnnews.com/world/us/wisconsin-voters-to-weigh-ban-on-church-closures-in-health-emergencies",
+      "title": "Избиратели Висконсина решат вопрос о запрете закрытия церквей во время чрезвычайных ситуаций в здравоохранении",
+      "summary": "Через шесть лет после угрозы епархии Мэдисона подать в суд на власти округа Дейн из-за ограничения в 50 человек на посещение месс в 2020 году, жители Висконсина будут голосовать за запрет закрытия церквей в подобных ситуациях.",
+      "category": "Россия",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/wisconsin-voters-to-weigh-ban-on-church-closures-in-health-emergencies",
+      "publishedAt": "2026-10-16T17:49:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/asia-pacific/australia-s-anti-slavery-chief-who-praised-catholic-sector-as-national-leader-says-reforms-fall",
+      "title": "Антирабовладельческий комиссар Австралии, похваливший католиков как национальных лидеров, считает реформы недостаточными",
+      "summary": "Крис Эванс, комиссар по борьбе с рабством в Австралии, который высоко оценил работу католического сектора, требует обязать крупные компании выявлять и устранять случаи принудительного труда в своих цепочках поставок.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/australia-s-anti-slavery-chief-who-praised-catholic-sector-as-national-leader-says-reforms-fall",
+      "publishedAt": "2026-10-16T17:09:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/pope-leo-speaks-with-russian-president-putin",
+      "title": "Папа Лев XIV поговорил по телефону с президентом России Владимиром Путиным",
+      "summary": "Папа Лев XIV и президент России Владимир Путин провели телефонный разговор, пока понтифик находится в больнице.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-speaks-with-russian-president-putin",
+      "publishedAt": "2026-10-16T16:29:09.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/europe/vatican-cardinal-visits-uk-to-promote-interfaith-dialogue-and-peace",
+      "title": "Кардинал Ватикана посетил Великобританию для продвижения межрелигиозного диалога и мира",
+      "summary": "Префект Ватиканского Дикастерия по межрелигиозному диалогу кардинал Джордж Джейкоб Кувкад впервые посетил Великобританию, где встречается с религиозными лидерами.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/europe/vatican-cardinal-visits-uk-to-promote-interfaith-dialogue-and-peace",
+      "publishedAt": "2026-10-16T15:49:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://cathmos.ru/bratstvo-s-prirodoi-u-sv-francziska/",
+      "title": "«Братство с природой у св. Франциска Ассизского и основные положения энциклики Папы Франциска Laudato si’». Доклад епископа Николая Дубинина",
+      "summary": "15 октября 2026 года в культурном центре «Покровские ворота» на круглом столе «Франциск по стопам святого Франциска» епископ Николай Дубинин рассказал о взглядах святого Франциска Ассизского на природу и их отражении в энциклике Laudato si’.",
+      "category": "Россия",
+      "source": "Архиепархия Божией Матери в Москве",
+      "url": "https://cathmos.ru/bratstvo-s-prirodoi-u-sv-francziska/",
+      "publishedAt": "2026-10-16T15:09:42.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/catholic-leaders-call-on-congress-to-protect-disability-rights-after-doj-legal-shift",
+      "title": "Католические лидеры призывают Конгресс защитить права инвалидов после смены позиции Минюста США",
+      "summary": "Католические лидеры обратились к Конгрессу с призывом защитить права инвалидов, предупреждая, что новая позиция Министерства юстиции может угрожать оказанию помощи в сообществах.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/catholic-leaders-call-on-congress-to-protect-disability-rights-after-doj-legal-shift",
+      "publishedAt": "2026-10-16T15:09:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://cathmos.ru/franczisk-po-stopam-sv-francziska/",
+      "title": "«Франциск по стопам святого Франциска»: межрелигиозный круглый стол в Москве",
+      "summary": "В Москве прошёл межрелигиозный круглый стол, посвящённый наследию святого Франциска и его влиянию на современного Папу Франциска.",
+      "category": "Россия",
+      "source": "Архиепархия Божией Матери в Москве",
+      "url": "https://cathmos.ru/franczisk-po-stopam-sv-francziska/",
+      "publishedAt": "2026-10-16T15:01:57.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-calls-world-hunger-a-terrible-offense-against-human-dignity",
+      "title": "Папа Лев XIV назвал голод в мире «ужасным оскорблением» человеческого достоинства",
+      "summary": "Папа, находящийся в больнице после операции, направил послание к Всемирному дню продовольствия, осуждая голод как нарушение человеческого достоинства.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-calls-world-hunger-a-terrible-offense-against-human-dignity",
+      "publishedAt": "2026-10-16T14:29:00.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/vatican-releases-first-photos-of-pope-leo-xiv-following-surgery",
+      "title": "Ватикан опубликовал первые фотографии Папы Льва XIV после операции",
+      "summary": "Ватикан сообщил, что Папа Лев XIV в это воскресенье проведёт молитву Ангелус, но пока не решено, будет ли это из больницы или Ватикана.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/vatican-releases-first-photos-of-pope-leo-xiv-following-surgery",
+      "publishedAt": "2026-10-16T13:49:57.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/cardinal-parolin-pope-leo-s-demanding-latin-america-trip-depends-on-doctors",
+      "title": "Кардинал Паролин: требовательная поездка Папы Льва в Латинскую Америку теперь зависит от врачей",
+      "summary": "Государственный секретарь Ватикана заявил, что Папа может быть вынужден скорректировать своё понтификат, если это потребуется по состоянию здоровья.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/cardinal-parolin-pope-leo-s-demanding-latin-america-trip-depends-on-doctors",
+      "publishedAt": "2026-10-16T13:03:12.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/africa/catholic-missionaries-in-nigeria-urged-to-persevere-amid-insecurity-restrictions-on-worship",
+      "title": "Католических миссионеров в Нигерии призывают не бояться несмотря на угрозы и ограничения",
+      "summary": "Национальный директор Папских миссионерских обществ в Нигерии призывает миссионеров сохранять мужество несмотря на угрозы насилия и ограничения для христианских общин.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/africa/catholic-missionaries-in-nigeria-urged-to-persevere-amid-insecurity-restrictions-on-worship",
+      "publishedAt": "2026-10-16T12:00:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/guadalupan-institute-established-in-san-antonio-looks-to-be-replicated-throughout-u-s",
+      "title": "В Сан-Антонио создан Институт Гваделупы с планами распространения по США",
+      "summary": "Программа сертификации направлена на подготовку людей, которые смогут распространять знания о событии Гваделупы.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/guadalupan-institute-established-in-san-antonio-looks-to-be-replicated-throughout-u-s",
+      "publishedAt": "2026-10-16T11:00:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/bishops-urge-prayer-as-they-continue-abortion-referendum-fights-in-4-states",
+      "title": "Епископы призывают к молитве в ходе борьбы с референдумами по абортам в четырёх штатах США",
+      "summary": "Епископы и священники активно готовят католиков к голосованию по референдумам в Неваде, Вирджинии, Айдахо и Миссури, которые могут изменить политику в области абортов.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/bishops-urge-prayer-as-they-continue-abortion-referendum-fights-in-4-states",
+      "publishedAt": "2026-10-16T10:00:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://cathmos.ru/30-letie-doma-bosko-otprazdnovali-v-moskve/",
+      "title": "В Москве отметили 30-летие Дома Боско",
+      "summary": "В Москве прошло празднование 30-летия Дома Боско, важного католического центра.",
+      "category": "Россия",
+      "source": "Архиепархия Божией Матери в Москве",
+      "url": "https://cathmos.ru/30-letie-doma-bosko-otprazdnovali-v-moskve/",
+      "publishedAt": "2026-10-16T08:54:45.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/catholic-leaders-urge-catholics-to-vote-in-upcoming-midterm-elections",
+      "title": "Выборы в США вызвали несколько призывов к голосованию среди католиков",
+      "summary": "Президент Конференции католических епископов США призвал католиков использовать своё право и обязанность голосовать, а организация CatholicVote выпустила руководства для избирателей по штатам.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/catholic-leaders-urge-catholics-to-vote-in-upcoming-midterm-elections",
+      "publishedAt": "2026-10-15T23:01:21.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/pope-leo-sends-message-after-surgery-to-vatican-conference-asks-for-prayers",
+      "title": "Папа Лев XIV обратился с посланием после операции к конференции Ватикана, попросил о молитвах",
+      "summary": "Папа Лев XIV попросил молиться за него, обещая молиться за всех в ответ.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-sends-message-after-surgery-to-vatican-conference-asks-for-prayers",
+      "publishedAt": "2026-10-15T17:40:10.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/brazilian-priests-rally-in-defense-of-their-bishop-accused-of-being-a-demon-by-lula-supporter",
+      "title": "Бразильские священники выступили в защиту своего епископа, обвинённого сторонником Лулы в «демонизме»",
+      "summary": "Священники подчеркнули, что партийная политика — вопрос спорный, и разные позиции не делают их врагами.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/brazilian-priests-rally-in-defense-of-their-bishop-accused-of-being-a-demon-by-lula-supporter",
+      "publishedAt": "2026-10-15T17:12:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/firing-squad-execution-of-fort-hood-shooter-will-not-be-livestreamed-trump-says",
+      "title": "Трамп заявил, что казнь стрелка из Форт-Худа не будет транслироваться в прямом эфире",
+      "summary": "Казнь осуждённого за массовое убийство стрелка планируется на 3 декабря и будет проведена расстрельной командой.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/firing-squad-execution-of-fort-hood-shooter-will-not-be-livestreamed-trump-says",
+      "publishedAt": "2026-10-15T16:32:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/conference-in-rome-discusses-declining-trust-in-the-age-of-ai",
+      "title": "«Понимаем ли мы истину?» Конференция в Риме обсудила недоверие в эпоху ИИ",
+      "summary": "Институт Актон провёл дискуссию на тему «Передача истины в эпоху искусственного интеллекта».",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/conference-in-rome-discusses-declining-trust-in-the-age-of-ai",
+      "publishedAt": "2026-10-15T15:52:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/doctors-confirm-pope-leo-xiv-s-operated-lung-is-recovering-well",
+      "title": "Врачи подтвердили, что прооперированное лёгкое Папы Льва XIV хорошо восстанавливается",
+      "summary": "Ватикан пока не объявил, будет ли папа вести молитву Ангелус из больницы Джемелли в воскресенье.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/doctors-confirm-pope-leo-xiv-s-operated-lung-is-recovering-well",
+      "publishedAt": "2026-10-15T15:22:28.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/china-ordains-another-bishop-under-vatican-china-deal",
+      "title": "Another bishop in China consecrated under deal with Vatican",
+      "summary": "Father Ignatius Ding Zuyao’s consecration as bishop of Haimen on Oct. 15 is the ninth such consecration in Pope Leo XIV’s pontificate.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/china-ordains-another-bishop-under-vatican-china-deal",
+      "publishedAt": "2026-10-15T15:12:00.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/vatican-meeting-on-the-family-ends-inconclusively-amid-pope-leo-s-hospitalization",
+      "title": "Vatican meeting on the family ends inconclusively amid Pope Leo’s hospitalization",
+      "summary": "The pontiff said this week he would offer his reflections on the Amoris Laetitia gathering “in due course.”",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/vatican-meeting-on-the-family-ends-inconclusively-amid-pope-leo-s-hospitalization",
+      "publishedAt": "2026-10-15T13:37:42.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/mexican-church-holding-colloquium-on-forgotten-period-of-fierce-persecution",
+      "title": "Mexican Church holds colloquium on forgotten period of fierce persecution",
+      "summary": "One hundred years after the start of the Catholic resistance that led to the Cristero War, the Church in Mexico proposes re-examining this period “objectively.”",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/mexican-church-holding-colloquium-on-forgotten-period-of-fierce-persecution",
+      "publishedAt": "2026-10-15T11:00:00.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/pro-life-advocates-seek-10s-of-thousands-of-signatures-to-halt-massachusetts-abortion-law",
+      "title": "Pro-life advocates seek thousands of signatures to halt Massachusetts abortion law",
+      "summary": "The New England state recently passed a law that effectively removes all limits on abortion.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/pro-life-advocates-seek-10s-of-thousands-of-signatures-to-halt-massachusetts-abortion-law",
+      "publishedAt": "2026-10-15T10:00:00.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/catholic-lung-cancer-specialists-weigh-in-on-pope-leo-xiv-s-diagnosis",
+      "title": "Catholic lung cancer specialists weigh in on Pope Leo XIV’s diagnosis",
+      "summary": "The most common type of lung cancer in both smokers and nonsmokers is non-small cell lung cancer, said Jeff McGovern, a pulmonologist, about Pope Leo’s diagnosis.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/catholic-lung-cancer-specialists-weigh-in-on-pope-leo-xiv-s-diagnosis",
+      "publishedAt": "2026-10-15T00:15:15.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/catholic-evangelical-letter-immigration",
+      "title": "U.S. Catholic bishops, National Association of Evangelicals issue joint declaration on immigration",
+      "summary": "The document “A Call for Christian Compassion and Wisdom in the Immigration Debate” is the product of the Evangelical-Catholic Dialogue on Immigration.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/catholic-evangelical-letter-immigration",
+      "publishedAt": "2026-10-14T21:16:00.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/more-than-two-million-people-participate-in-procession-in-brazil",
+      "title": "More than two million people participate in procession in Brazil",
+      "summary": "The massive, five-hour procession in honor of Our Lady of Nazareth begins and ends with a Mass and features pilgrims fulfilling vows for favors granted",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/more-than-two-million-people-participate-in-procession-in-brazil",
+      "publishedAt": "2026-10-14T20:15:00.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/photos-thousands-follow-blessed-sacrament-in-annual-new-york-city-procession",
+      "title": "PHOTOS: Thousands follow Blessed Sacrament in annual New York City procession",
+      "summary": "By bringing His Presence to the streets, grace overflows.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/photos-thousands-follow-blessed-sacrament-in-annual-new-york-city-procession",
+      "publishedAt": "2026-10-14T19:41:37.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/new-archbishop-appointed-in-archdiocese-of-santo-domingo-dominican-republic",
+      "title": "New archbishop appointed in Archdiocese of Santo Domingo, Dominican Republic",
+      "summary": "Carlos Tomás Morel Diplán was appointed by Pope Leo XIV as coadjutor archbishop of Santo Domingo, Dominican Republic, in 2025, with the automatic right of succession upon his predecessor’s retirement.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/new-archbishop-appointed-in-archdiocese-of-santo-domingo-dominican-republic",
+      "publishedAt": "2026-10-14T19:01:27.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/what-is-pulmonary-adenocarcinoma-an-oncologist-explains-and-talks-about-pope-leo-xiv-s-recovery",
+      "title": "What is pulmonary adenocarcinoma? An oncologist explains and talks about Pope Leo XIV’s recovery",
+      "summary": "According to lung cancer expert Luis Ráez, Pope Leo’s treatment will depend on the size of the tumor and whether the cancer has spread.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/what-is-pulmonary-adenocarcinoma-an-oncologist-explains-and-talks-about-pope-leo-xiv-s-recovery",
+      "publishedAt": "2026-10-14T17:11:18.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/live-updates-pope-leo-s-health-and-preparations-for-surgery",
+      "title": "LIVE UPDATES: Pope Leo XIV shares message after lung cancer surgery",
+      "summary": "The Holy See Press Office confirmed the nodule removed on Tuesday during Pope Leo’s surgery is a type of non-small cell lung cancer. Follow here for more updates.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/live-updates-pope-leo-s-health-and-preparations-for-surgery",
+      "publishedAt": "2026-10-14T16:05:00.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/vatican-reaffirms-intention-of-pope-leo-xiv-to-travel-to-latin-america",
+      "title": "Pope Leo XIV recovering after lung cancer surgery; Vatican says he intends to make South America trip",
+      "summary": "Doctors say the pontiff's recovery is proceeding as expected, while the Vatican confirms his desire to go ahead with a planned visit to Latin America in November.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/vatican-reaffirms-intention-of-pope-leo-xiv-to-travel-to-latin-america",
+      "publishedAt": "2026-10-14T15:44:43.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/africa/nigeria-catholic-parish-hospital-and-3-schools-suspend-activities-indefinitely-amid-insecurity",
+      "title": "Nigeria Catholic parish, hospital and 3 schools suspend activities indefinitely amid insecurity",
+      "summary": "The Catholic Diocese of Gboko has suspended operations at a number of Catholic institutions in Ihugh withdrawing all diocesan personnel due to ongoing violence, attacks, and threats.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/africa/nigeria-catholic-parish-hospital-and-3-schools-suspend-activities-indefinitely-amid-insecurity",
+      "publishedAt": "2026-10-14T15:15:00.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/ohio-university-of-dayton-names-first-woman-president",
+      "title": "Ohio’s University of Dayton names first woman president",
+      "summary": "The University of Dayton announced its first woman president, while Catholic high schools in Cleveland and Omaha launched career development programs in this week’s roundup of Catholic education news.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/ohio-university-of-dayton-names-first-woman-president",
+      "publishedAt": "2026-10-14T11:00:00.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/sen-hawley-asks-fda-to-address-concerns-over-incomplete-data-in-abortion-drug-safety-study",
+      "title": "Sen. Hawley asks FDA to address concerns over incomplete data in abortion drug safety study",
+      "summary": "Here is a roundup of recent pro-life and abortion-related news.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/sen-hawley-asks-fda-to-address-concerns-over-incomplete-data-in-abortion-drug-safety-study",
+      "publishedAt": "2026-10-14T10:00:00.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/catholics-prefer-democrats-midterms",
+      "title": "Pew midterm poll: Catholics prefer Democratic House candidates by 3-point margin",
+      "summary": "The survey found that a narrow plurality of Catholics prefer Democrats in the midterm elections as Catholic approval of President Donald Trump continues to plummet.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/catholics-prefer-democrats-midterms",
+      "publishedAt": "2026-10-13T22:31:00.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/who-is-st-peregrine-the-cancer-saint-catholics-are-invoking-for-pope-leo-xiv",
+      "title": "Who is St. Peregrine, the ‘cancer saint’ Catholics are invoking for Pope Leo XIV?",
+      "summary": "As Pope Leo XIV recovers from lung cancer surgery, meet St. Peregrine Laziosi, the Servite priest healed the night before his amputation and now patron of cancer patients.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/who-is-st-peregrine-the-cancer-saint-catholics-are-invoking-for-pope-leo-xiv",
+      "publishedAt": "2026-10-13T21:51:00.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/brazil-archbishop-receives-presidential-candidate-flavio-bolsonaro-in-institutional-visit",
+      "title": "Brazil archbishop receives presidential candidate Flávio Bolsonaro in ‘institutional visit’",
+      "summary": "The cardinal, senator, and congressman met on the basis of church-state relationships and discussed issues such as protecting human life, social justice, poverty, and the common good.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/brazil-archbishop-receives-presidential-candidate-flavio-bolsonaro-in-institutional-visit",
+      "publishedAt": "2026-10-13T21:11:00.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-has-lung-cancer-vatican-says",
+      "title": "Pope Leo XIV has lung cancer, Vatican says",
+      "summary": "The Holy See Press Office confirmed Tuesday evening that the nodule removed during Pope Leo XIV’s surgery was cancerous.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-has-lung-cancer-vatican-says",
+      "publishedAt": "2026-10-13T20:31:38.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/ewtn-news-explains-who-s-in-charge-of-the-vatican-while-pope-leo-xiv-is-hospitalized",
+      "title": "EWTN News explains: Who’s in charge of the Vatican while Pope Leo XIV is hospitalized?",
+      "summary": "Who exactly runs the Vatican when a pope is hospitalized or unable to perform his normal duties?",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/ewtn-news-explains-who-s-in-charge-of-the-vatican-while-pope-leo-xiv-is-hospitalized",
+      "publishedAt": "2026-10-13T19:36:00.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/praying-for-pope-leo-meet-the-patron-saint-of-lung-problems",
+      "title": "Praying for Pope Leo? Meet the patron saint of lung problems",
+      "summary": "As the Church and the world prays for Pope Leo XIV this week, we turn to St. Bernardine of Siena, known as “the Apostle of Italy” and for his intercession for those with lung and respiratory issues.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/praying-for-pope-leo-meet-the-patron-saint-of-lung-problems",
+      "publishedAt": "2026-10-13T16:32:00.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/who-is-dr-luigi-carbone-pope-leo-xiv-s-personal-physician",
+      "title": "Who is Dr. Luigi Carbone, Pope Leo XIV’s personal physician?",
+      "summary": "As the pontiff undergoes surgery at Rome’s Gemelli Hospital, the Vatican’s chief medical official plays a central role in coordinating his care.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/who-is-dr-luigi-carbone-pope-leo-xiv-s-personal-physician",
+      "publishedAt": "2026-10-13T15:52:00.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-breaks-with-decades-of-secrecy-by-announcing-his-own-surgery",
+      "title": "Pope Leo XIV breaks with decades of secrecy by announcing his own surgery",
+      "summary": "The pontiff’s surprise disclosure about a lung nodule has drawn praise from senior cardinals, who see it as an unprecedented gesture of transparency and an expression of humility and trust.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-breaks-with-decades-of-secrecy-by-announcing-his-own-surgery",
+      "publishedAt": "2026-10-13T15:12:10.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/villanova-scholars-bring-catholic-social-teaching-to-rome-sustainability-conference",
+      "title": "Villanova scholars bring Catholic social teaching to Rome sustainability conference",
+      "summary": "The conference focuses on the ethical and moral dimensions of caring for the environment and vulnerable communities, Father John Abubakar, chief sustainability officer at Villanova University, said.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/villanova-scholars-bring-catholic-social-teaching-to-rome-sustainability-conference",
+      "publishedAt": "2026-10-13T12:00:00.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/bishops-condemn-public-broadcast-of-hasan-execution-emphasize-church-s-opposition-to-death",
+      "title": "Bishops condemn broadcast of firing squad execution, emphasize Church’s opposition to death penalty",
+      "summary": "Archbishop Timothy Broglio said, after meeting with Pope Leo XIV, that the firing squad could cause moral harm to the service members ordered to carry it out.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/bishops-condemn-public-broadcast-of-hasan-execution-emphasize-church-s-opposition-to-death",
+      "publishedAt": "2026-10-13T11:00:00.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/middle-east/across-the-middle-east-children-answer-pope-leo-s-call-to-pray-the-rosary-for-peace",
+      "title": "Across the Middle East, children answer Pope Leo’s call to pray the rosary for peace",
+      "summary": "Children in Lebanon, Palestine, and Syria joined a global rosary campaign for peace this month.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/middle-east/across-the-middle-east-children-answer-pope-leo-s-call-to-pray-the-rosary-for-peace",
+      "publishedAt": "2026-10-13T10:00:00.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/aci-prensa-becomes-ewtn-news-espanol",
+      "title": "ACI Prensa becomes EWTN News Español",
+      "summary": "The platform and name are new, but the mission is the same: report the truth and bring the faith to the Spanish-speaking world.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/aci-prensa-becomes-ewtn-news-espanol",
+      "publishedAt": "2026-10-12T20:45:55.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/new-white-house-press-secretary-describes-miracle-when-her-mother-chose-adoption-over-abortion",
+      "title": "New White House press secretary describes ‘miracle’ when her mother chose adoption over abortion",
+      "summary": "She said that she was “approximately 20, 30 minutes away from being aborted” when her mother changed her mind.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/new-white-house-press-secretary-describes-miracle-when-her-mother-chose-adoption-over-abortion",
+      "publishedAt": "2026-10-12T19:27:27.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/lead-kindly-light-new-documentary-on-st-john-henry-newman-premieres-in-rome",
+      "title": "‘Lead, Kindly Light’: New documentary on St. John Henry Newman premieres in Rome",
+      "summary": "“Lead Kindly Light: The Story of St. John Henry Newman” has premiered in Rome.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/lead-kindly-light-new-documentary-on-st-john-henry-newman-premieres-in-rome",
+      "publishedAt": "2026-10-12T17:14:51.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/europe/archbishop-hicks-recounts-pilgrimage-to-santiago-de-compostela",
+      "title": "‘Do It, Do It, Do It’: New York Archbishop Walks the Camino de Santiago",
+      "summary": "In his pilgrim’s Mass homily, Hicks recalled that “Our Lady of the Pillar wants only one thing from us. She wants us to know her Son and to find salvation through, in, and with her Son Jesus Christ.”",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/europe/archbishop-hicks-recounts-pilgrimage-to-santiago-de-compostela",
+      "publishedAt": "2026-10-12T16:24:05.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/carlo-acutis-and-the-4-popes",
+      "title": "Carlo Acutis and the 4 popes",
+      "summary": "Carlo went on pilgrimage to see John Paul II, offered up his suffering from cancer for Benedict XVI, was beatified during the pontificate of Pope Francis, and was canonized by Pope Leo XIV.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/carlo-acutis-and-the-4-popes",
+      "publishedAt": "2026-10-12T15:00:00.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/breaking-the-stigma-rome-conference-highlights-catholic-mental-health-ministry",
+      "title": "Breaking the stigma: Rome conference highlights Catholic mental health ministry",
+      "summary": "The conference “A Healing Presence: The Church’s Call to Mental Health Ministry” aligns with the pope’s October prayer intention.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/breaking-the-stigma-rome-conference-highlights-catholic-mental-health-ministry",
+      "publishedAt": "2026-10-12T14:20:00.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-appoints-new-archpriest-of-st-peter-s-basilica",
+      "title": "Pope Leo XIV appoints new archpriest of St. Peter’s Basilica",
+      "summary": "The appointment also includes the positions of vicar general for Vatican City and president of the Fabric of St. Peter.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-appoints-new-archpriest-of-st-peter-s-basilica",
+      "publishedAt": "2026-10-12T13:40:00.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-be-admitted-to-rome-s-gemelli-hospital-on-tuesday",
+      "title": "Pope Leo XIV to be admitted to Rome’s Gemelli Hospital on Tuesday",
+      "summary": "The Holy See Press Office announced on Monday the date of the pontiff’s hospitalization for surgery.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-be-admitted-to-rome-s-gemelli-hospital-on-tuesday",
+      "publishedAt": "2026-10-12T13:00:19.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-calls-the-death-penalty-inadmissible-after-announcement-of-a-public-execution-in-us",
+      "title": "Pope Leo XIV calls the death penalty ‘inadmissible’ after announcement of public execution in US",
+      "summary": "He emphasized that the protection of society and the application of justice can be guaranteed without resorting to capital punishment.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-calls-the-death-penalty-inadmissible-after-announcement-of-a-public-execution-in-us",
+      "publishedAt": "2026-10-12T12:10:24.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/europe/st-carlo-acutis-doctors-recall-his-last-days-in-the-hospital",
+      "title": "St. Carlo Acutis’ doctors recall his last days in the hospital",
+      "summary": "Fifteen-year-old Carlo Acutis died within a week of being diagnosed with acute promyelocytic leukemia. Following his beatification, his doctors and hospital chaplain recalled their memories of his final days.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/europe/st-carlo-acutis-doctors-recall-his-last-days-in-the-hospital",
+      "publishedAt": "2026-10-12T10:00:00.000Z"
+    },
+    {
+      "id": "https://cathmos.ru/25-let-svyashhenstva-fernando-vera/",
+      "title": "В Москве отметили 25-летие священства о. Фернандо Вера Соррилья",
+      "summary": "",
+      "category": "Россия",
+      "source": "Архиепархия Божией Матери в Москве",
+      "url": "https://cathmos.ru/25-let-svyashhenstva-fernando-vera/",
+      "publishedAt": "2026-10-12T07:55:20.000Z"
+    },
+    {
+      "id": "https://cathmos.ru/v-skudosti-podpolya/",
+      "title": "«В скудости подполья, в изобилии благодати». Празднование 45-летия священства отца Евгения Гейнрихса",
+      "summary": "",
+      "category": "Россия",
+      "source": "Архиепархия Божией Матери в Москве",
+      "url": "https://cathmos.ru/v-skudosti-podpolya/",
+      "publishedAt": "2026-10-12T06:36:25.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/bishops-around-the-world-ask-for-prayers-for-pope-leo-xiv-s-health",
+      "title": "Bishops around the world ask for prayers for Pope Leo XIV’s health",
+      "summary": "Prayers for the pope’s health have been pouring in from all over the world.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/bishops-around-the-world-ask-for-prayers-for-pope-leo-xiv-s-health",
+      "publishedAt": "2026-10-11T19:40:29.000Z"
+    },
+    {
+      "id": "https://cathmos.ru/dar-uchastiya-v-pire-gospodnem/",
+      "title": "«Дар участия в пире Господнем». Воскресная проповедь епископа Николая Дубинина в Петрозаводске",
+      "summary": "Возлюбленные во Христе братья и сестры! В сегодняшней Литургии слова мы слышим о пире. С первых слов первого чтения Господь даёт нам этот образ. Мы собрались в этом храме в […]",
+      "category": "Россия",
+      "source": "Архиепархия Божией Матери в Москве",
+      "url": "https://cathmos.ru/dar-uchastiya-v-pire-gospodnem/",
+      "publishedAt": "2026-10-11T18:52:22.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/what-we-know-about-pope-leo-xiv-s-health",
+      "title": "What we know about Pope Leo XIV’s health",
+      "summary": "Doctors comment on the pontiff’s news about his upcoming lung surgery.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/what-we-know-about-pope-leo-xiv-s-health",
+      "publishedAt": "2026-10-11T18:13:58.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/asia-pacific/many-australian-catholics-who-skip-mass-still-keep-the-faith-bishops-study-finds",
+      "title": "Many Australian Catholics who skip Mass still keep the faith, bishops’ study finds",
+      "summary": "A survey of nearly 2,000 Australian Catholics found many still pray and value their faith, while priorities, faith crises, and problems with clergy keep them from Mass.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/many-australian-catholics-who-skip-mass-still-keep-the-faith-bishops-study-finds",
+      "publishedAt": "2026-10-11T11:00:00.000Z"
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-announces-that-he-will-undergo-surgery-to-remove-a-lung-nodule",
+      "title": "Pope Leo XIV announces he will undergo surgery to remove a lung nodule",
+      "summary": "The pontiff says doctors detected the nodule at a very early stage and have recommended surgery, which is scheduled for the coming days.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-announces-that-he-will-undergo-surgery-to-remove-a-lung-nodule",
+      "publishedAt": "2026-10-11T10:29:21.000Z"
+    },
+    {
+      "id": "https://cathmos.ru/episkop-nikolaj-dubinin-vozglavil-palomnichestvo-v-petrozavodsk/",
+      "title": "Епископ Николай Дубинин возглавил паломничество в Петрозаводск",
+      "summary": "",
+      "category": "Россия",
+      "source": "Архиепархия Божией Матери в Москве",
+      "url": "https://cathmos.ru/episkop-nikolaj-dubinin-vozglavil-palomnichestvo-v-petrozavodsk/",
+      "publishedAt": "2026-10-11T05:32:49.000Z"
+    },
+    {
+      "id": "https://cathmos.ru/episkop-nikolaj-dubinin-primet-uchastie-v-mezhreligioznom-kruglom-stole-v-chest-yubileya-sv-francziska/",
+      "title": "Епископ Николай Дубинин примет участие в Межрелигиозном круглом столе в честь Юбилея св. Франциска",
+      "summary": "",
+      "category": "Россия",
+      "source": "Архиепархия Божией Матери в Москве",
+      "url": "https://cathmos.ru/episkop-nikolaj-dubinin-primet-uchastie-v-mezhreligioznom-kruglom-stole-v-chest-yubileya-sv-francziska/",
+      "publishedAt": "2026-10-07T15:18:56.000Z"
+    },
+    {
+      "id": "https://cathmos.ru/dai-mne-umeret-radi-lyubvi-k-lyubvi-tvoei/",
+      "title": "«Дай мне умереть ради любви к Любви Твоей». Проповедь о. Андрея Буко на Мессе в честь св. Франциска Ассизского",
+      "summary": "Торжественную Святую Мессу в честь 800-летия блаженной кончины св. Франциска Ассизского в московском Кафедральном соборе возглавил кустод Российской Генеральной кустодии святого Франциска Ассизского о. Андрей Буко, OFMConv. Приводим полный текст […]",
+      "category": "Россия",
+      "source": "Архиепархия Божией Матери в Москве",
+      "url": "https://cathmos.ru/dai-mne-umeret-radi-lyubvi-k-lyubvi-tvoei/",
+      "publishedAt": "2026-10-05T07:51:59.000Z"
+    },
+    {
+      "id": "https://cathmos.ru/spb-franczisk-800/",
+      "title": "В Санкт-Петербурге отметили 800-летие блаженной кончины св. Франциска Ассизского",
+      "summary": "",
+      "category": "Россия",
+      "source": "Архиепархия Божией Матери в Москве",
+      "url": "https://cathmos.ru/spb-franczisk-800/",
+      "publishedAt": "2026-10-05T06:43:10.000Z"
+    },
+    {
+      "id": "https://cathmos.ru/vladyka-nikolaj-dubinin-otmechaet-shestuyu-godovshhinu-episkopskoj-hirotonii/",
+      "title": "Владыка Николай Дубинин отмечает шестую годовщину епископской хиротонии",
+      "summary": "",
+      "category": "Россия",
+      "source": "Архиепархия Божией Матери в Москве",
+      "url": "https://cathmos.ru/vladyka-nikolaj-dubinin-otmechaet-shestuyu-godovshhinu-episkopskoj-hirotonii/",
+      "publishedAt": "2026-10-04T06:16:00.000Z"
+    },
+    {
+      "id": "https://cathmos.ru/video-otkrytie-akademicheskogo-goda-bogoslovskogo-instituta-sv-ioanna-zlatousta-v-sankt-peterburge/",
+      "title": "Видео: открытие академического года Богословского института св. Иоанна Златоуста",
+      "summary": "",
+      "category": "Россия",
+      "source": "Архиепархия Божией Матери в Москве",
+      "url": "https://cathmos.ru/video-otkrytie-akademicheskogo-goda-bogoslovskogo-instituta-sv-ioanna-zlatousta-v-sankt-peterburge/",
+      "publishedAt": "2026-10-02T15:35:55.000Z"
+    }
+  ]
+}

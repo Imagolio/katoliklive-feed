@@ -1,10 +1,65 @@
 {
-  "updatedAt": "2026-10-16T18:49:34.537Z",
+  "updatedAt": "2026-10-16T23:37:43.224Z",
   "news": [
     {
+      "id": "https://cathmos.ru/pozdravleniya-50-letie-prazdnuet-svyashh-dmitrij-novoseleczkij/",
+      "title": "Поздравления с 50-летием священнику Дмитрию Новоселецкому",
+      "summary": "Священник Дмитрий Новоселецкий отмечает 50-летие. Архиепархия Божией Матери в Москве поздравляет его с этим юбилеем.",
+      "category": "Россия",
+      "source": "Архиепархия Божией Матери в Москве",
+      "url": "https://cathmos.ru/pozdravleniya-50-letie-prazdnuet-svyashh-dmitrij-novoseleczkij/",
+      "publishedAt": "2026-10-16T21:14:43.000Z",
+      "importance": 4,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/the-chosen-releases-official-trailer-for-season-6",
+      "title": "Вышел официальный трейлер 6 сезона сериала «Избранные»",
+      "summary": "Новый трейлер сериала «Избранные» за первые 24 часа набрал более миллиона просмотров на YouTube.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/the-chosen-releases-official-trailer-for-season-6",
+      "publishedAt": "2026-10-16T20:29:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/bishop-indiscriminate-ice-raids-incite-anxiety-fear-in-california-s-central-valley",
+      "title": "Епископ: массовые рейды ICE вызывают тревогу и страх в Центральной долине Калифорнии",
+      "summary": "Департамент внутренней безопасности называет офицеров ICE героями, выполняющими закон, несмотря на обеспокоенность епископа из-за массовых рейдов.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/bishop-indiscriminate-ice-raids-incite-anxiety-fear-in-california-s-central-valley",
+      "publishedAt": "2026-10-16T19:49:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/in-wake-of-deadly-shooting-at-oregon-elementary-school-bishops-call-for-prayer",
+      "title": "После трагической стрельбы в школе Орегона епископы призывают к молитве",
+      "summary": "После гибели трёх учеников в Орегоне епископы призывают к молитве и оказывают пастырскую поддержку сообществу.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/in-wake-of-deadly-shooting-at-oregon-elementary-school-bishops-call-for-prayer",
+      "publishedAt": "2026-10-16T19:09:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/federal-funding-restored-to-catholic-charities-in-rio-grande-valley",
+      "title": "Федеральное финансирование восстановлено для католической благотворительности Рио-Гранде-Вэлли",
+      "summary": "Министерство внутренней безопасности США восстановило финансирование католической благотворительной организации на три года с обязательством усиленного контроля.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/federal-funding-restored-to-catholic-charities-in-rio-grande-valley",
+      "publishedAt": "2026-10-16T18:29:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
       "id": "https://www.ewtnnews.com/world/us/wisconsin-voters-to-weigh-ban-on-church-closures-in-health-emergencies",
-      "title": "Избиратели Висконсина решат вопрос о запрете закрытия церквей во время ЧС",
-      "summary": "Через шесть лет после угрозы епархии Мэдисона подать в суд на округ Дейн из-за ограничения в 50 человек на богослужениях в 2020 году, жители Висконсина будут голосовать за запрет закрытия церквей в чрезвычайных ситуациях.",
+      "title": "Избиратели Висконсина решат вопрос о запрете закрытия церквей при чрезвычайных ситуациях в здравоохранении",
+      "summary": "Через шесть лет после угрозы епархии Мэдисона подать в суд на власти округа Дейн из-за ограничения в 50 человек на участие в мессе в 2020 году, жители штата Висконсин будут голосовать по инициативе запрета закрытия церквей в подобных ситуациях.",
       "category": "Россия",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/wisconsin-voters-to-weigh-ban-on-church-closures-in-health-emergencies",
@@ -14,8 +69,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/asia-pacific/australia-s-anti-slavery-chief-who-praised-catholic-sector-as-national-leader-says-reforms-fall",
-      "title": "Антирабовладельческий комиссар Австралии критикует реформы и хвалит католиков",
-      "summary": "Крис Эванс, комиссар по борьбе с рабством в Австралии, отметил заслуги католического сектора, но считает реформы недостаточными и требует обязательного выявления и устранения принудительного труда крупными компаниями.",
+      "title": "Антитрабовщик Австралии, похваливший католиков как «национального лидера», считает реформы недостаточными",
+      "summary": "Комиссар по борьбе с рабством Крис Эванс, отмечавший заслуги католического сектора, требует обязать крупные компании выявлять и устранять принудительный труд в своих цепочках поставок.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/australia-s-anti-slavery-chief-who-praised-catholic-sector-as-national-leader-says-reforms-fall",
@@ -25,8 +80,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-speaks-with-russian-president-putin",
-      "title": "Папа Лев XIV поговорил по телефону с президентом Путиным",
-      "summary": "Папа Лев XIV, находясь в больнице, провёл телефонный разговор с президентом России Владимиром Путиным.",
+      "title": "Папа Лев поговорил по телефону с президентом России Путиным",
+      "summary": "По словам государственного секретаря Ватикана, госпитализированный понтифик сам инициировал звонок российскому президенту.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-speaks-with-russian-president-putin",
@@ -37,7 +92,7 @@
     {
       "id": "https://www.ewtnnews.com/world/europe/vatican-cardinal-visits-uk-to-promote-interfaith-dialogue-and-peace",
       "title": "Кардинал Ватикана посетил Великобританию для продвижения межрелигиозного диалога и мира",
-      "summary": "Кардинал Джордж Джейкоб Кувакат, префект Дикастерии по межрелигиозному диалогу Ватикана, впервые встретился с религиозными лидерами Великобритании для укрепления диалога и мира.",
+      "summary": "Префект Дикастерии Ватикана по межрелигиозному диалогу кардинал Джордж Джейкоб Кувакат впервые находится в Великобритании, где встречается с религиозными лидерами.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/vatican-cardinal-visits-uk-to-promote-interfaith-dialogue-and-peace",
@@ -47,8 +102,8 @@
     },
     {
       "id": "https://cathmos.ru/bratstvo-s-prirodoi-u-sv-francziska/",
-      "title": "Доклад епископа Николая Дубинина о братстве с природой у св. Франциска и энциклике Laudato si’",
-      "summary": "15 октября 2026 года в культурном центре «Покровские ворота» на круглом столе «Франциск по стопам святого Франциска» епископ Николай Дубинин рассказал о взглядах святого Франциска Ассизского на природу и основных положениях энциклики Папы Франциска Laudato si’.",
+      "title": "Доклад епископа Николая Дубинина о братстве с природой у св. Франциска Ассизского и энциклике Laudato si’ Папы Франциска",
+      "summary": "15 октября 2026 года в культурном центре «Покровские ворота» на круглом столе «Франциск по стопам святого Франциска» прозвучал доклад о взглядах святого Франциска на природу и основных положениях энциклики Laudato si’.",
       "category": "Россия",
       "source": "Архиепархия Божией Матери в Москве",
       "url": "https://cathmos.ru/bratstvo-s-prirodoi-u-sv-francziska/",
@@ -59,7 +114,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-leaders-call-on-congress-to-protect-disability-rights-after-doj-legal-shift",
       "title": "Католические лидеры призывают Конгресс защитить права инвалидов после изменения позиции Минюста США",
-      "summary": "Католические лидеры обратились к Конгрессу с призывом защитить права инвалидов, предупредив, что новая юридическая позиция Министерства юстиции может угрожать оказанию помощи в сообществах.",
+      "summary": "Католические лидеры обратились к Конгрессу с призывом защитить права инвалидов, предупредив, что новая позиция Министерства юстиции может угрожать оказанию помощи в сообществах.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/catholic-leaders-call-on-congress-to-protect-disability-rights-after-doj-legal-shift",
@@ -81,7 +136,7 @@
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-calls-world-hunger-a-terrible-offense-against-human-dignity",
       "title": "Папа Лев XIV назвал голод в мире «ужасным оскорблением» человеческого достоинства",
-      "summary": "Папа, находящийся в больнице после операции, направил послание в честь Всемирного дня продовольствия, осудив голод как серьёзное нарушение достоинства человека.",
+      "summary": "Папа, находящийся в больнице после операции, направил послание ко Всемирному дню продовольствия, осудив голод как нарушение достоинства человека.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-calls-world-hunger-a-terrible-offense-against-human-dignity",
@@ -91,19 +146,19 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/vatican-releases-first-photos-of-pope-leo-xiv-following-surgery",
-      "title": "Ватикан опубликовал первые фото Папы Льва XIV после операции",
-      "summary": "Ватикан сообщил, что Папа Лев XIV в это воскресенье проведёт молитву Ангел Господень, но пока не решено, будет ли это из больницы или Ватикана.",
+      "title": "Ватикан опубликовал первые фотографии Папы Льва XIV после операции",
+      "summary": "Ватикан сообщил, что Папа Лев XIV в это воскресенье проведёт молитву Ангелус, но пока не решено, будет ли это из больницы или Ватикана.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/vatican-releases-first-photos-of-pope-leo-xiv-following-surgery",
       "publishedAt": "2026-10-16T13:49:57.000Z",
-      "importance": 7,
+      "importance": 6,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/cardinal-parolin-pope-leo-s-demanding-latin-america-trip-depends-on-doctors",
       "title": "Кардинал Паролин: поездка Папы Льва XIV в Латинскую Америку зависит от врачей",
-      "summary": "Государственный секретарь Ватикана заявил, что Папа может скорректировать своё понтификат, если это потребуется, а также что поездка в Латинскую Америку пока под вопросом.",
+      "summary": "Государственный секретарь Ватикана заявил, что Папа может скорректировать своё понтификат, если это потребуется, учитывая состояние здоровья.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/cardinal-parolin-pope-leo-s-demanding-latin-america-trip-depends-on-doctors",
@@ -113,8 +168,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/africa/catholic-missionaries-in-nigeria-urged-to-persevere-amid-insecurity-restrictions-on-worship",
-      "title": "Католических миссионеров в Нигерии призывают не бояться несмотря на угрозы и ограничения",
-      "summary": "Национальный директор Папских миссионерских обществ в Нигерии призывает миссионеров сохранять мужество несмотря на угрозы насилия и ограничения для христианских общин.",
+      "title": "Католическим миссионерам в Нигерии призвали сохранять мужество на фоне угроз и ограничений",
+      "summary": "Несмотря на угрозы насилия и ограничения для некоторых христианских общин, национальный директор Папских миссионерских обществ в Нигерии призывает миссионеров не бояться и продолжать служение.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/africa/catholic-missionaries-in-nigeria-urged-to-persevere-amid-insecurity-restrictions-on-worship",
@@ -124,7 +179,7 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/guadalupan-institute-established-in-san-antonio-looks-to-be-replicated-throughout-u-s",
-      "title": "В Сан-Антонио создан Институт Гваделупы, планируется распространение по США",
+      "title": "В Сан-Антонио создан Институт Гваделупы с планами расширения по США",
       "summary": "Программа сертификации направлена на подготовку людей, которые смогут распространять знания о событии Гваделупы.",
       "category": "Мир",
       "source": "Catholic News Agency",
@@ -135,7 +190,7 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/bishops-urge-prayer-as-they-continue-abortion-referendum-fights-in-4-states",
-      "title": "Епископы призывают к молитве в борьбе с референдумами об абортах в четырёх штатах США",
+      "title": "Епископы призывают к молитве в борьбе с референдумами по абортам в четырёх штатах США",
       "summary": "Епископы и священники активно готовят католиков к голосованию по референдумам в Неваде, Вирджинии, Айдахо и Миссури, которые могут изменить политику в области абортов.",
       "category": "Мир",
       "source": "Catholic News Agency",
@@ -147,7 +202,7 @@
     {
       "id": "https://cathmos.ru/30-letie-doma-bosko-otprazdnovali-v-moskve/",
       "title": "В Москве отметили 30-летие Дома Боско",
-      "summary": "В Москве состоялось празднование 30-летия Дома Боско, важного католического центра.",
+      "summary": "В Москве прошло празднование 30-летия Дома Боско, важного католического центра.",
       "category": "Россия",
       "source": "Архиепархия Божией Матери в Москве",
       "url": "https://cathmos.ru/30-letie-doma-bosko-otprazdnovali-v-moskve/",
@@ -158,7 +213,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-leaders-urge-catholics-to-vote-in-upcoming-midterm-elections",
       "title": "Выборы в США вызвали несколько призывов к голосованию среди католиков",
-      "summary": "Президент Конференции католических епископов США призвал католиков использовать своё право и обязанность голосовать, а организация CatholicVote выпустила руководства для избирателей по штатам.",
+      "summary": "Президент Конференции католических епископов США призвал католиков использовать своё право и ответственность голосовать, а организация CatholicVote выпустила руководства для избирателей по штатам.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/catholic-leaders-urge-catholics-to-vote-in-upcoming-midterm-elections",
@@ -168,58 +223,48 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-sends-message-after-surgery-to-vatican-conference-asks-for-prayers",
-      "title": "Папа Лев XIV обратился с посланием после операции к конференции Ватикана, попросил о молитвах",
-      "summary": "Папа Лев XIV попросил молиться за него и пообещал молиться за всех в ответ.",
+      "title": "Pope Leo XIV sends message after surgery to Vatican conference, asks for prayers",
+      "summary": "“I ask you please to pray for me, as I pray for you,” Pope Leo XIV wrote.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-sends-message-after-surgery-to-vatican-conference-asks-for-prayers",
-      "publishedAt": "2026-10-15T17:40:10.000Z",
-      "importance": 7,
-      "aiProcessed": true
+      "publishedAt": "2026-10-15T17:40:10.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/brazilian-priests-rally-in-defense-of-their-bishop-accused-of-being-a-demon-by-lula-supporter",
-      "title": "Бразильские священники выступили в защиту епископа, которого сторонник Лулы назвал «демоном»",
-      "summary": "Священники подчеркнули, что политические разногласия не делают их врагами, несмотря на разные позиции.",
+      "title": "Brazilian priests rally in defense of their bishop, accused of being a ‘demon’ by Lula supporter",
+      "summary": "The priests note that “partisan politics falls within the realm of the debatable; thus, the fact that we hold divergent positions in this arena does not necessarily make us enemies.”",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/brazilian-priests-rally-in-defense-of-their-bishop-accused-of-being-a-demon-by-lula-supporter",
-      "publishedAt": "2026-10-15T17:12:00.000Z",
-      "importance": 5,
-      "aiProcessed": true
+      "publishedAt": "2026-10-15T17:12:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/firing-squad-execution-of-fort-hood-shooter-will-not-be-livestreamed-trump-says",
-      "title": "Трамп заявил, что казнь стрелка из Форт-Худа расстрельной командой не будет транслироваться в прямом эфире",
-      "summary": "Казнь осуждённого массового убийцы назначена на 3 декабря, трансляции не будет.",
+      "title": "Firing squad execution of Fort Hood shooter will not be livestreamed, Trump says",
+      "summary": "The execution of the convicted mass shooter by firing squad is set for Dec. 3.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/firing-squad-execution-of-fort-hood-shooter-will-not-be-livestreamed-trump-says",
-      "publishedAt": "2026-10-15T16:32:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
+      "publishedAt": "2026-10-15T16:32:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/vatican/conference-in-rome-discusses-declining-trust-in-the-age-of-ai",
-      "title": "«Понимаем ли мы ещё правду?» Конференция в Риме обсудила недоверие в эпоху ИИ",
-      "summary": "Институт Актон провёл дискуссию на тему «Передача правды в эпоху искусственного интеллекта».",
+      "title": "‘Do we understand truth anymore?’: Conference in Rome discusses distrust in age of AI",
+      "summary": "The Acton Institute held a discussion on “Communicating Truth in an Age of AI.”",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/conference-in-rome-discusses-declining-trust-in-the-age-of-ai",
-      "publishedAt": "2026-10-15T15:52:00.000Z",
-      "importance": 6,
-      "aiProcessed": true
+      "publishedAt": "2026-10-15T15:52:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/vatican/doctors-confirm-pope-leo-xiv-s-operated-lung-is-recovering-well",
-      "title": "Врачи подтвердили, что лёгкое Папы Льва XIV после операции восстанавливается хорошо",
-      "summary": "Ватикан пока не объявил, будет ли папа вести молитву Ангел Господень из больницы Джемелли в воскресенье.",
+      "title": "Doctors confirm Pope Leo XIV’s operated lung is recovering well",
+      "summary": "The Vatican has not yet announced whether the pope will lead the public Angelus prayer from Gemelli Hospital on Sunday.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/doctors-confirm-pope-leo-xiv-s-operated-lung-is-recovering-well",
-      "publishedAt": "2026-10-15T15:22:28.000Z",
-      "importance": 7,
-      "aiProcessed": true
+      "publishedAt": "2026-10-15T15:22:28.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/vatican/china-ordains-another-bishop-under-vatican-china-deal",
@@ -313,7 +358,7 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/live-updates-pope-leo-s-health-and-preparations-for-surgery",
-      "title": "LIVE UPDATES: Pope Leo XIV shares message after lung cancer surgery",
+      "title": "Pope Leo XIV shares message after lung cancer surgery",
       "summary": "The Holy See Press Office confirmed the nodule removed on Tuesday during Pope Leo’s surgery is a type of non-small cell lung cancer. Follow here for more updates.",
       "category": "Ватикан",
       "source": "Catholic News Agency",

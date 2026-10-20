@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T00:22:27.026Z",
+  "updatedAt": "2026-10-20T08:35:37.268Z",
   "news": [
     {
       "id": "https://www.ewtnnews.com/world/us/exorcist-father-ripperger-agrees-to-1-year-fast-from-public-speaking",
@@ -26,7 +26,7 @@
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-speaks-with-zelenskyy-about-humanitarian-ceasefire-in-ukraine",
       "title": "Папа Лев XIV обсудил с Зеленским гуманитарное прекращение огня в Украине",
-      "summary": "Понтифик поднял тему гуманитарного кризиса в Херсонской области и подтвердил приверженность Святого Престола диалогу и миру, спустя несколько дней после разговора с Путиным.",
+      "summary": "Понтифик поднял вопрос гуманитарного кризиса в Херсонской области и подтвердил приверженность Святого Престола диалогу и миру, спустя несколько дней после разговора с Путиным.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-speaks-with-zelenskyy-about-humanitarian-ceasefire-in-ukraine",
@@ -36,9 +36,9 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/ukrainian-priest-forcibly-conscripted-and-could-be-sent-to-the-front-lines",
-      "title": "Украинский священник насильно призван и может быть отправлен на фронт",
-      "summary": "Несмотря на неоднократные попытки подтвердить статус духовного лица и пастырское служение, власти отвергли документы и направили его в военный учебный центр.",
-      "category": "Мир",
+      "title": "Украинский священник принудительно мобилизован и может быть отправлен на фронт",
+      "summary": "Несмотря на неоднократные попытки подтвердить статус духовного лица и пастырскую службу, власти отвергли документы и направили его в военный учебный центр.",
+      "category": "Россия",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/ukrainian-priest-forcibly-conscripted-and-could-be-sent-to-the-front-lines",
       "publishedAt": "2026-10-19T18:37:47.000Z",
@@ -47,7 +47,7 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/notre-dame-boston-college-professors-among-new-members-of-vatican-theological-commission",
-      "title": "Профессора Нотр-Дама и Бостонского колледжа вошли в новую состав Ватиканской теологической комиссии",
+      "title": "Профессора Нотр-Дама и Бостонского колледжа вошли в состав новой Ватиканской теологической комиссии",
       "summary": "Ватикан объявил о назначении 24 новых членов Международной теологической комиссии в понедельник.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
@@ -69,7 +69,7 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/catholics-in-ecuador-mourn-death-of-priest-struck-by-falling-crucifix-during-mass",
-      "title": "Католики Эквадора скорбят по священнику, погибшему от упавшего распятия во время мессы",
+      "title": "Католики Эквадора скорбят по священнику, погибшему от падающего креста во время мессы",
       "summary": "Верующие оплакивают смерть отца Патрисио Альфредо Санчеса Молинари, настоятеля церкви Перпетуо Сокорро в Гуаякиле, который погиб во время мессы.",
       "category": "Мир",
       "source": "Catholic News Agency",
@@ -80,19 +80,19 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-chris-pratt-come-together-for-new-documentary-about-the-tomb-of-st-peter",
-      "title": "Папа Лев XIV и Крис Пратт вместе в новом документальном фильме о гробнице святого Петра",
+      "title": "Папа Лев XIV и Крис Пратт вместе в новом документальном фильме о гробнице Святого Петра",
       "summary": "Фильм «Pétros Ení — Открывая истоки» выйдет в кинотеатрах в феврале 2027 года.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-chris-pratt-come-together-for-new-documentary-about-the-tomb-of-st-peter",
       "publishedAt": "2026-10-19T14:35:06.000Z",
-      "importance": 4,
+      "importance": 5,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/french-bishops-condemn-riots-call-for-peace-amid-arson-attacks-looting",
-      "title": "Французские епископы призывают к спокойствию на фоне волнений и погромов во Франции",
-      "summary": "Епископы Франции призвали прекратить насилие после уличных беспорядков, пожаров и погромов по всей стране, из-за которых была отменена межрелигиозная мирная акция в Лионе.",
+      "title": "Французские епископы призывают к спокойствию на фоне массовых беспорядков и грабежей",
+      "summary": "Епископы Франции призвали прекратить насилие после уикенда с пожарами, грабежами по всей стране и отменой межрелигиозного мирного марша в Лионе.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/french-bishops-condemn-riots-call-for-peace-amid-arson-attacks-looting",
@@ -102,19 +102,19 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-resume-wednesday-general-audience-this-week-skips-castel-gandolfo",
-      "title": "Папа Лев XIV возобновит общую аудиторию в среду, пропустив Кастель Гандольфо",
+      "title": "Папа Лев XIV возобновит общую аудиенцию в среду, пропустит Кастель Гандольфо",
       "summary": "Брат папы Луи Прево выразил удивление в интервью, что поездка в Южную Америку состоится.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-resume-wednesday-general-audience-this-week-skips-castel-gandolfo",
       "publishedAt": "2026-10-19T13:03:47.000Z",
-      "importance": 5,
+      "importance": 6,
       "aiProcessed": true
     },
     {
       "id": "https://cathmos.ru/nunczii-posetil-nizhegorodskii-prihod/",
       "title": "Апостольский нунций посетил нижегородский приход Успения Пресвятой Девы Марии",
-      "summary": "Апостольский нунций совершил визит в нижегородский приход Успения Пресвятой Девы Марии, укрепляя связи с местной католической общиной.",
+      "summary": "Апостольский нунций совершил визит в нижегородский приход Успения Пресвятой Девы Марии, укрепляя связи между Ватиканом и местной католической общиной.",
       "category": "Россия",
       "source": "Архиепархия Божией Матери в Москве",
       "url": "https://cathmos.ru/nunczii-posetil-nizhegorodskii-prihod/",
@@ -124,24 +124,24 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/beauty-tradition-fellowship-drive-surge-in-new-catholic-converts-at-stanford-university",
-      "title": "Красота, традиции и общение способствуют росту числа новых католиков в Стэнфордском университете",
-      "summary": "За последний год католическая община Стэнфорда отметила значительный рост взрослых, вступающих в католическую церковь через Орден христианского посвящения взрослых.",
+      "title": "Красота, традиции и общение стимулируют рост числа новых католиков в Стэнфордском университете",
+      "summary": "За последний год католическая община Стэнфорда отметила значительный рост взрослых, вступающих в католическую церковь через Орден христианской инициации взрослых.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/beauty-tradition-fellowship-drive-surge-in-new-catholic-converts-at-stanford-university",
       "publishedAt": "2026-10-19T11:00:00.000Z",
-      "importance": 6,
+      "importance": 5,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/from-electric-scooter-to-viral-videos-denver-priest-finds-new-ways-to-evangelize",
       "title": "Священник из Денвера использует электросамокат и вирусные видео для евангелизации",
-      "summary": "Священник из Денвера стал известен благодаря вирусному видео с электросамокатом, но его миссия выходит далеко за рамки социальных сетей.",
+      "summary": "Священник из Денвера стал известен благодаря вирусному видео с электросамокатом, но его миссия распространяется далеко за пределы социальных сетей.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/from-electric-scooter-to-viral-videos-denver-priest-finds-new-ways-to-evangelize",
       "publishedAt": "2026-10-19T10:00:00.000Z",
-      "importance": 5,
+      "importance": 4,
       "aiProcessed": true
     },
     {
@@ -152,13 +152,13 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/middle-east/jordan-s-church-leaders-back-bill-expanding-legal-options-for-christian-families",
       "publishedAt": "2026-10-18T11:00:00.000Z",
-      "importance": 7,
+      "importance": 6,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leads-pilgrims-in-prayer-one-day-after-leaving-hospital",
       "title": "Папа возглавил молитву с паломниками через день после выписки из больницы",
-      "summary": "Папа Римский, спустя пять дней после операции по поводу рака, заявил о постепенном возобновлении своих обязанностей и возглавил молитву с паломниками.",
+      "summary": "Папа Римский, спустя пять дней после операции по поводу рака, заявил о намерении постепенно возобновить свою деятельность.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leads-pilgrims-in-prayer-one-day-after-leaving-hospital",
@@ -168,8 +168,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/africa/priest-in-ghana-recounts-escape-from-car-fire-urges-devotion-to-the-rosary",
-      "title": "Священник из Ганы рассказал о спасении из горящего автомобиля и призвал к молитве розария",
-      "summary": "Отец Дэвид Обенг Пейнтсил, переживший опасный пожар, назвал розарий «очень мощной молитвой».",
+      "title": "Священник из Ганы рассказывает об спасении из горящего автомобиля и призывает к молитве розария",
+      "summary": "Отец Дэвид Обенг Пейнтсил, переживший опасный пожар, назвал розарий «очень мощной молитвой» и призвал к преданности ей.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/africa/priest-in-ghana-recounts-escape-from-car-fire-urges-devotion-to-the-rosary",
@@ -191,7 +191,7 @@
     {
       "id": "https://www.ewtnnews.com/vatican/pope-s-surgeon-green-lights-his-nov-6-17-apostolic-trip-to-latin-america",
       "title": "Хирург папы одобрил апостольскую поездку в Латинскую Америку с 6 по 17 ноября",
-      "summary": "Доктор Стефано Маргаритора заявил, что нет клинических противопоказаний для поездки, назвав папу Львом «идеальным пациентом».",
+      "summary": "Доктор Стефано Маргаритора заявил, что нет клинических причин для отмены поездки, назвав папу Льва «идеальным пациентом».",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-s-surgeon-green-lights-his-nov-6-17-apostolic-trip-to-latin-america",
@@ -201,13 +201,13 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/a-century-of-church-growth-from-10-million-to-347-million-in-the-mission-territories",
-      "title": "Столетие роста Церкви: с 10 миллионов до 347 миллионов в миссионерских территориях",
-      "summary": "За последние 100 лет в миссионерских регионах ежедневно крестится более 9 тысяч человек, совершается по две священнические ординации и пять обетов принимают женщины-монахини.",
-      "category": "Ватикан",
+      "title": "Столетие роста Церкви: от 10 миллионов до 347 миллионов в миссионерских территориях",
+      "summary": "За последние 100 лет в миссионерских регионах ежедневно крестятся более 9000 человек, совершается две священнические хиротонии и пять женщин принимают монашеские обеты.",
+      "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/a-century-of-church-growth-from-10-million-to-347-million-in-the-mission-territories",
       "publishedAt": "2026-10-17T14:00:00.000Z",
-      "importance": 8,
+      "importance": 7,
       "aiProcessed": true
     },
     {

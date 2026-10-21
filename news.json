@@ -1,22 +1,88 @@
 {
-  "updatedAt": "2026-10-21T17:14:30.739Z",
+  "updatedAt": "2026-10-21T21:44:52.153Z",
   "news": [
     {
-      "id": "https://www.ewtnnews.com/vatican/chaldean-catholics-from-around-the-world-gather-with-patriarch-at-the-vatican",
-      "title": "Халдейские католики со всего мира собрались с патриархом в Ватикане",
-      "summary": "Халдейские католики со всего мира встретились с патриархом в Ватикане, обсуждая веру, воссоединение и надежду на возвращение.",
-      "category": "Ватикан",
+      "id": "https://www.ewtnnews.com/world/americas/photos-lord-of-the-miracles-enters-peru-s-government-palace-for-the-first-time-in-40-years",
+      "title": "Образ Господа Милосердного впервые за 40 лет вошёл во Дворец правительства Перу",
+      "summary": "Образ Господа Милосердного был внесён во Двор почёта в Правительственном дворце Перу, где его встретили президент Кеико Фудзимори и министры.",
+      "category": "Мир",
       "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/chaldean-catholics-from-around-the-world-gather-with-patriarch-at-the-vatican",
-      "publishedAt": "2026-10-21T16:19:49.000Z",
+      "url": "https://www.ewtnnews.com/world/americas/photos-lord-of-the-miracles-enters-peru-s-government-palace-for-the-first-time-in-40-years",
+      "publishedAt": "2026-10-21T20:46:00.000Z",
       "importance": 6,
       "aiProcessed": true
     },
     {
-      "id": "https://www.ewtnnews.com/world/us/exorcist-files-priest-sues-catholic-commentators-who-questioned-his-credentials",
-      "title": "Священник из «Файлов экзорциста» подал в суд на католических комментаторов, усомнившихся в его квалификации",
-      "summary": "Отец Карлос Мартинс обвиняет двух католических комментаторов в ложных заявлениях о нём в подкасте; ответчики отрицают обвинения.",
+      "id": "https://www.ewtnnews.com/world/us/indianapolis-to-host-national-eucharistic-congress-in-2029",
+      "title": "Индианаполис примет Национальный Евхаристический конгресс в 2029 году",
+      "summary": "Епископ Эндрю Коззенс отметил, что Господь уже показал, что происходит, когда Иисус Христос в Евхаристии становится центром и люди отдаются Ему.",
       "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/indianapolis-to-host-national-eucharistic-congress-in-2029",
+      "publishedAt": "2026-10-21T20:06:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/pope-s-cancer-was-localized-requires-no-further-treatment-doctors-say",
+      "title": "Папа Лев XIV не нуждается в дальнейшем лечении после операции на лёгких, сообщает Ватикан",
+      "summary": "Завершены окончательные гистологические и молекулярно-биологические исследования тканей, удалённых во время операции Святейшего Отца.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/pope-s-cancer-was-localized-requires-no-further-treatment-doctors-say",
+      "publishedAt": "2026-10-21T19:26:46.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/bishops-november-meeting-to-focus-on-ai-immigration-evangelization",
+      "title": "Ноябрьское собрание епископов США сосредоточится на ИИ, миграции и евангелизации",
+      "summary": "Пленарное заседание Конференции католических епископов США обсудит разнообразие, переводы литургических текстов, канонизационные дела и выборы руководства.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/bishops-november-meeting-to-focus-on-ai-immigration-evangelization",
+      "publishedAt": "2026-10-21T19:02:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/catholic-moral-theologians-urge-federal-court-to-support-clear-boundaries-around-military-ai",
+      "title": "Католические моральные теологи призывают суд поддержать чёткие границы использования ИИ в военных целях",
+      "summary": "Учёные обратились в Апелляционный суд США с просьбой установить определённые нормативные границы для применения искусственного интеллекта в войне.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/catholic-moral-theologians-urge-federal-court-to-support-clear-boundaries-around-military-ai",
+      "publishedAt": "2026-10-21T18:22:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/europe/spain-s-soccer-coach-presents-world-cup-to-virgin-of-the-pillar",
+      "title": "Тренер сборной Испании по футболу преподнёс Кубок мира Деве Марии Пиларской",
+      "summary": "Луис де ла Фуэнте, тренер сборной Испании, 19 октября принес Кубок мира в базилику Девы Марии Пиларской в Сарагосе и преподнёс его Деве во время церемонии.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/europe/spain-s-soccer-coach-presents-world-cup-to-virgin-of-the-pillar",
+      "publishedAt": "2026-10-21T17:42:46.000Z",
+      "importance": 4,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/chaldean-catholics-from-around-the-world-gather-with-patriarch-at-the-vatican",
+      "title": "Халдейские католики со всего мира собрались с патриархом в Ватикане",
+      "summary": "Халдейские католики из разных стран встретились с патриархом в Ватикане на мероприятии, посвящённом вере, единству и надежде на возвращение.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/chaldean-catholics-from-around-the-world-gather-with-patriarch-at-the-vatican",
+      "publishedAt": "2026-10-21T16:19:49.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/exorcist-files-priest-sues-catholic-commentators-who-questioned-his-credentials",
+      "title": "Священник из «Файлов экзорциста» подал в суд на католических комментаторов",
+      "summary": "Отец Карлос Мартинс обвиняет двух католических комментаторов в ложных заявлениях о нём в подкасте; обвиняемые отрицают эти утверждения.",
+      "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/exorcist-files-priest-sues-catholic-commentators-who-questioned-his-credentials",
       "publishedAt": "2026-10-21T14:20:08.000Z",
@@ -26,7 +92,7 @@
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-the-world-is-poorer-without-saints",
       "title": "Папа Лев XIV: Мир беднее без святых",
-      "summary": "Папа встретился с участниками конференции «Святость в истории» в Ватикане, подчеркнув важность святости для мира.",
+      "summary": "Понтифик встретился с участниками конференции «Святость в истории» в Ватикане в среду, подчеркнув важность святости для мира.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-the-world-is-poorer-without-saints",
@@ -36,13 +102,13 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/archbishop-to-spain-s-senate-i-engage-in-politics-whenever-i-can",
-      "title": "Архиепископ в Сенате Испании: «Я занимаюсь политикой, когда могу»",
+      "title": "Архиепископ Сенату Испании: «Я занимаюсь политикой, когда могу»",
       "summary": "Архиепископ Хесус Санц Монтес из Овьедо защитил присутствие Бога в общественной жизни на форуме в Сенате Испании.",
-      "category": "Мир",
+      "category": "Россия",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/archbishop-to-spain-s-senate-i-engage-in-politics-whenever-i-can",
       "publishedAt": "2026-10-21T12:00:00.000Z",
-      "importance": 5,
+      "importance": 6,
       "aiProcessed": true
     },
     {
@@ -58,13 +124,13 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/jubilee-year-of-st-francis-brings-rare-relic-historic-art-to-san-francisco",
-      "title": "Юбилейный год святого Франциска привозит редкую реликвию и историческое искусство в Сан-Франциско",
+      "title": "Юбилейный год святого Франциска привез редкую реликвию и историческое искусство в Сан-Франциско",
       "summary": "Выставка проходит с 16 октября по 28 ноября в соборе Святой Марии Успения в Сан-Франциско.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/jubilee-year-of-st-francis-brings-rare-relic-historic-art-to-san-francisco",
       "publishedAt": "2026-10-21T11:00:00.000Z",
-      "importance": 5,
+      "importance": 4,
       "aiProcessed": true
     },
     {
@@ -80,8 +146,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/conference-encourages-black-catholic-men-to-lead-families-parishes-and-communities",
-      "title": "Конференция призывает чернокожих католиков брать на себя руководство семьями, приходами и общинами",
-      "summary": "Национальная конференция чернокожих католических мужчин прошла в Бирмингеме, Алабама, с 15 по 18 октября, продолжая наследие отца Честера П. Смита.",
+      "title": "Конференция призывает чернокожих католиков-мужчин возглавлять семьи, приходы и сообщества",
+      "summary": "Национальная конференция чернокожих католиков-мужчин прошла в Бирмингеме, Алабама, с 15 по 18 октября, продолжая наследие отца Честера П. Смита.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/conference-encourages-black-catholic-men-to-lead-families-parishes-and-communities",
@@ -92,18 +158,18 @@
     {
       "id": "https://www.ewtnnews.com/world/americas/falling-cross-that-killed-priest-a-punishment-from-god-a-priest-reflects",
       "title": "Падение креста, убившее священника, — наказание от Бога? Священник размышляет",
-      "summary": "Отец Хуан Васконес считает, что смерть отца Патрисио Санчеса из-за упавшего креста не следует воспринимать как наказание, а как призыв к покаянию, ведь все мы умрем.",
+      "summary": "Отец Хуан Васконес считает, что смерть отца Патрисио Санчеса из-за упавшего креста — не наказание, а призыв к покаянию, ведь все мы смертны.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/falling-cross-that-killed-priest-a-punishment-from-god-a-priest-reflects",
       "publishedAt": "2026-10-20T18:29:19.000Z",
-      "importance": 4,
+      "importance": 5,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/u-s-bill-would-hold-syrian-officials-accountable-for-abuses-against-minorities",
-      "title": "Законопроект США призывает привлечь сирийских чиновников к ответственности за нарушения прав меньшинств",
-      "summary": "Законопроект требует отчёта с именами сирийских чиновников, подозреваемых в нарушениях, и рассмотрения возможности введения против них санкций.",
+      "title": "Законопроект США призывает привлечь сирийских чиновников к ответственности за нарушения в отношении меньшинств",
+      "summary": "Законопроект требует составить доклад с именами сирийских чиновников, подозреваемых в нарушениях, и рассмотреть возможность введения против них целевых санкций.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/u-s-bill-would-hold-syrian-officials-accountable-for-abuses-against-minorities",
@@ -114,29 +180,29 @@
     {
       "id": "https://www.ewtnnews.com/world/europe/from-rector-in-rome-to-bishop-in-england-stephen-wang-embraces-new-mission-of-truth-and-love",
       "title": "От ректора в Риме до епископа в Англии: Стивен Ванг принимает новую миссию истины и любви",
-      "summary": "Отец Стивен Ванг, бывший ректор Почётного английского колледжа в Риме, назначен новым епископом Арундэла и Брайтона.",
+      "summary": "Бывший ректор Почётного английского колледжа в Риме, отец Стивен Ванг назначен новым епископом Арундела и Брайтона.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/from-rector-in-rome-to-bishop-in-england-stephen-wang-embraces-new-mission-of-truth-and-love",
       "publishedAt": "2026-10-20T16:32:00.000Z",
-      "importance": 7,
+      "importance": 6,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/rector-of-pontifical-university-in-brazil-dies-in-wind-related-accident-during-arizona-visit",
-      "title": "Ректор папского университета в Бразилии погиб в аварии, связанной с ветром, во время визита в Аризону",
-      "summary": "Папский католический университет Параны в Куритибе провёл заупокойную Мессу по Рожерио Ренато Матеуччи после трагедии.",
+      "title": "Ректор понтификального университета в Бразилии погиб в аварии, связанной с ветром, во время визита в Аризону",
+      "summary": "Понтификальный католический университет Параны в Куритибе провёл мемориальную мессу по Рожерио Ренато Матеуччи после трагедии.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/rector-of-pontifical-university-in-brazil-dies-in-wind-related-accident-during-arizona-visit",
       "publishedAt": "2026-10-20T15:52:16.000Z",
-      "importance": 6,
+      "importance": 5,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/u-s-companies-settle-discrimination-claims-by-multiple-religious-workers-government-says",
       "title": "Американские компании урегулировали иски о религиозной дискриминации христианских и мусульманских работников",
-      "summary": "Компании выплатили более 100 тысяч долларов для урегулирования претензий сотрудников по религиозной дискриминации.",
+      "summary": "Компании выплатили более 100 тысяч долларов для урегулирования претензий сотрудников о религиозной дискриминации.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/u-s-companies-settle-discrimination-claims-by-multiple-religious-workers-government-says",
@@ -157,69 +223,57 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/new-vatican-official-says-men-and-women-are-in-this-together-as-witnesses-to-god",
-      "title": "Новый ватиканский чиновник: мужчины и женщины вместе свидетельствуют о Боге",
-      "summary": "В интервью EWTN News сестра Мэри Тереза Баррон, OLA, рассказала о своей новой роли в поддержке миссионерской работы Церкви.",
+      "title": "New Vatican official says men and women are ‘in this together as witnesses to God’",
+      "summary": "In an interview with EWTN News, Sister Mary Teresa Barron, OLA, spoke about her new role supporting the Church’s missionary work.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/new-vatican-official-says-men-and-women-are-in-this-together-as-witnesses-to-god",
-      "publishedAt": "2026-10-20T13:29:00.000Z",
-      "importance": 6,
-      "aiProcessed": true
+      "publishedAt": "2026-10-20T13:29:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/eu-bishops-set-out-8-principles-to-keep-ai-at-the-service-of-the-human-person",
-      "title": "Европейские епископы сформулировали 8 принципов для ИИ «во служении человеку»",
-      "summary": "В декларации в Брюсселе COMECE призвала Европу укреплять цифровые возможности и возглавить управление ИИ, основанное на достоинстве человека, солидарности и мире.",
+      "title": "EU bishops set out 8 principles to keep AI ‘at the service of the human person’",
+      "summary": "In a Brussels declaration, COMECE urged Europe to strengthen its digital capacities and lead on AI governance anchored in human dignity, solidarity, and peace.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/eu-bishops-set-out-8-principles-to-keep-ai-at-the-service-of-the-human-person",
-      "publishedAt": "2026-10-20T12:49:24.000Z",
-      "importance": 8,
-      "aiProcessed": true
+      "publishedAt": "2026-10-20T12:49:24.000Z"
     },
     {
       "id": "https://cathmos.ru/apostolskii-nunczii-obsudil-podderzhku-katolicheskoi-czerkvi-v-nizhegorodskoi-oblasti/",
-      "title": "Апостольский нунций обсудил поддержку Католической Церкви в Нижегородской области с региональным правительством",
-      "summary": "Апостольский нунций провёл переговоры с представителями правительства Нижегородской области о поддержке Католической Церкви в регионе.",
+      "title": "Апостольский нунций обсудил поддержку Католической Церкви в Нижегородской области с представителями регионального правительства",
+      "summary": "",
       "category": "Россия",
       "source": "Архиепархия Божией Матери в Москве",
       "url": "https://cathmos.ru/apostolskii-nunczii-obsudil-podderzhku-katolicheskoi-czerkvi-v-nizhegorodskoi-oblasti/",
-      "publishedAt": "2026-10-20T11:16:01.000Z",
-      "importance": 6,
-      "aiProcessed": true
+      "publishedAt": "2026-10-20T11:16:01.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/new-apostolate-to-atheists-and-agnostics-taking-off-in-spain",
-      "title": "В Испании началось новое апостольство для атеистов и агностиков",
-      "summary": "Обращение Хавьера Уэрты привело к созданию «Encuentros Siloé» — апостольства, которое помогает атеистам и агностикам понять разумность веры.",
+      "title": "New apostolate to atheists and agnostics takes off in Spain",
+      "summary": "The conversion of Javier Huerta has led to the establishment of “Encuentros Siloé,” a new apostolate dedicated to making the reasonableness of faith accessible to atheists and agnostics.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/new-apostolate-to-atheists-and-agnostics-taking-off-in-spain",
-      "publishedAt": "2026-10-20T11:00:00.000Z",
-      "importance": 5,
-      "aiProcessed": true
+      "publishedAt": "2026-10-20T11:00:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/vatican/young-members-of-the-order-of-malta-help-the-homeless-in-st-peter-s-square",
-      "title": "Молодёжь Ордена Мальты помогает бездомным на площади Святого Петра",
-      "summary": "Каждый вторник волонтёры собираются у площади Святого Петра, чтобы раздавать еду бездомным.",
+      "title": "Young members of the Order of Malta help the homeless in St. Peter’s Square",
+      "summary": "Every Tuesday, volunteers gather near St. Peter’s Square to provide food to the homeless.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/young-members-of-the-order-of-malta-help-the-homeless-in-st-peter-s-square",
-      "publishedAt": "2026-10-20T10:00:00.000Z",
-      "importance": 4,
-      "aiProcessed": true
+      "publishedAt": "2026-10-20T10:00:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/exorcist-father-ripperger-agrees-to-1-year-fast-from-public-speaking",
-      "title": "Экзорцист отец Риппергер согласился на годичный «пост» от публичных выступлений",
-      "summary": "Известный священник по просьбе архиепископа Денвера Джеймса Голки временно прекращает публичные выступления, чтобы сосредоточиться на религиозной общине и её служении.",
+      "title": "Exorcist Father Ripperger agrees to 1-year ‘fast’ from public speaking",
+      "summary": "The prominent priest agreed to Denver Archbishop James Golka’s request, which the archdiocese says will allow him to focus on his religious community and the people it serves.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/exorcist-father-ripperger-agrees-to-1-year-fast-from-public-speaking",
-      "publishedAt": "2026-10-19T22:24:46.000Z",
-      "importance": 5,
-      "aiProcessed": true
+      "publishedAt": "2026-10-19T22:24:46.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/ai-task-force-established-by-usccb",

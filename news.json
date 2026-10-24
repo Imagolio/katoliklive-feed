@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-10-24T11:04:28.701Z",
+  "updatedAt": "2026-10-24T15:58:39.822Z",
   "news": [
+    {
+      "id": "https://www.ewtnnews.com/world/us/sfla-tpusa-feminists-lied-tour-pro-life-roundup",
+      "title": "Студенты за жизнь и Turning Point обсуждают аборты в туре «Феминистки лгали»",
+      "summary": "Обзор последних новостей, связанных с движением за жизнь и вопросами абортов.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/sfla-tpusa-feminists-lied-tour-pro-life-roundup",
+      "publishedAt": "2026-10-24T15:00:00.000Z",
+      "importance": 4,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/how-can-you-say-god-is-my-great-friend-after-a-terrible-tragedy-a-venezuelan-mother-responds",
+      "title": "Как пережить трагедию и сохранить веру в Бога? Ответ венесуэльской матери",
+      "summary": "Мария Елена Роча рассказывает, как вера и доверие Богу поддерживают её после потери мужа и двух сыновей в землетрясении в Венесуэле.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/how-can-you-say-god-is-my-great-friend-after-a-terrible-tragedy-a-venezuelan-mother-responds",
+      "publishedAt": "2026-10-24T14:00:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/he-died-doing-what-he-loved-remembering-ecuadorian-priest-who-died-at-the-altar",
+      "title": "«Он умер, занимаясь любимым делом»: воспоминания о священнике из Эквадора, умершем у алтаря",
+      "summary": "Отец Патрисио Санчес Молинари был человеком с чистым сердцем, спокойным и терпеливым, всегда с готовой улыбкой.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/he-died-doing-what-he-loved-remembering-ecuadorian-priest-who-died-at-the-altar",
+      "publishedAt": "2026-10-24T13:00:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/africa/suspect-arrested-after-fire-at-virgin-mary-church-in-egypt-s-giza",
+      "title": "Задержан подозреваемый после пожара в церкви Девы Марии в Гизе, Египет",
+      "summary": "Коптская православная епархия Центральной Гизы сообщила, что после поджога в церкви Девы Марии никто не пострадал.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/africa/suspect-arrested-after-fire-at-virgin-mary-church-in-egypt-s-giza",
+      "publishedAt": "2026-10-24T12:00:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/asia-pacific/franciscans-call-for-solidarity-as-haze-from-indonesian-fires-blankets-southeast-asia",
+      "title": "Францисканцы призывают к солидарности из-за задымления от пожаров в Индонезии",
+      "summary": "На собрании Францисканской сети мира и интегральной экологии в Малайзии обсудили продолжающееся загрязнение воздуха и его последствия в Юго-Восточной Азии.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/franciscans-call-for-solidarity-as-haze-from-indonesian-fires-blankets-southeast-asia",
+      "publishedAt": "2026-10-24T11:00:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
     {
       "id": "https://www.ewtnnews.com/world/us/korean-bishops-elect-new-president-approve-guidelines-on-sexual-violence",
       "title": "Корейские епископы избрали нового президента и утвердили рекомендации по вопросам сексуального насилия",
@@ -13,9 +68,20 @@
       "aiProcessed": true
     },
     {
+      "id": "https://www.ewtnnews.com/world/asia-pacific/korean-bishops-elect-new-president-approve-guidelines-on-sexual-violence",
+      "title": "Корейские епископы избрали нового президента и утвердили рекомендации по сексуальному насилию",
+      "summary": "Корейские епископы избрали нового президента, Церковь в Бурунди поддерживает более 80 000 беженцев, президент Епископской конференции Шотландии временно отстранён от обязанностей и другие новости католического мира за неделю.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/korean-bishops-elect-new-president-approve-guidelines-on-sexual-violence",
+      "publishedAt": "2026-10-24T10:00:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
       "id": "https://www.ewtnnews.com/vatican/it-s-what-i-m-called-to-do-montse-alvarado-on-her-new-vatican-role",
       "title": "Монсе Альварадо о своей новой роли в Ватикане: «Это моё призвание»",
-      "summary": "1 ноября Монсе Альварадо станет первой мирянкой, возглавившей префектуру одного из дикастерий Святого Престола, что станет историческим событием.",
+      "summary": "1 ноября Монсе Альварадо станет первой мирянкой, возглавившей префектуру дикастерии Святого Престола, что станет историческим событием.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/it-s-what-i-m-called-to-do-montse-alvarado-on-her-new-vatican-role",
@@ -26,7 +92,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/bishop-barron-slams-clownish-irrelevance-of-german-catholic-academy-in-blistering-statement",
       "title": "Епископ Баррон резко раскритиковал «клоунское бессмысленное» поведение немецкой католической академии",
-      "summary": "Вновь вспыхнул спор вокруг принятия епископом Робертом Барроном награды немецкой католической организации, которая должна быть вручена в 2025 году.",
+      "summary": "Возобновилась полемика вокруг принятия епископом Робертом Барроном награды немецкой католической организации, присуждаемой в 2025 году.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/bishop-barron-slams-clownish-irrelevance-of-german-catholic-academy-in-blistering-statement",
@@ -36,8 +102,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-ethicists-debate-morality-of-embryo-adoption",
-      "title": "Католические этики обсуждают моральные аспекты усыновления эмбрионов",
-      "summary": "Документ Ватикана 2008 года Dignitas Personae подтвердил достоинство и права замороженных эмбрионов и выразил сомнения по поводу предложений о пренатальном усыновлении.",
+      "title": "Католические этики обсуждают моральность усыновления эмбрионов",
+      "summary": "Документ Ватикана 2008 года «Dignitas Personae» подтвердил достоинство и права замороженных эмбрионов и выразил сомнения по поводу предложений о пренатальном усыновлении.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/catholic-ethicists-debate-morality-of-embryo-adoption",
@@ -48,18 +114,18 @@
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-increases-lay-appointments-to-international-theology-commission",
       "title": "Папа Лев XIV увеличил число мирян в Международной теологической комиссии",
-      "summary": "Число женщин в комиссии выросло с пяти до восьми, включая пять мирянок, что удвоило общее количество мирян в комиссии по сравнению с предыдущим сроком.",
+      "summary": "Число женщин в комиссии выросло с пяти до восьми, включая пять мирянок, что удвоило общее количество мирян по сравнению с предыдущим составом.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-increases-lay-appointments-to-international-theology-commission",
       "publishedAt": "2026-10-23T17:49:00.000Z",
-      "importance": 7,
+      "importance": 6,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-campus-ministries-eligible-for-lilly-grant-of-up-to-usd7-5-million",
-      "title": "Католические студенческие миссии могут получить грант Lilly до 7,5 млн долларов",
-      "summary": "Грант фонда Lilly Endowment открыт для католических студенческих миссий. Мать святого Карло Акутиса подарила Университету Франциска реликвию сына. Обзор новостей католического образования за неделю.",
+      "title": "Католические студенческие миссии могут получить грант Lilly до $7,5 млн",
+      "summary": "Грант фонда Lilly Endowment открыт для католических студенческих миссий. Мать святого Карло Акутиса передала Университету Францисканцев реликвию сына. Обзор новостей католического образования за неделю.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/catholic-campus-ministries-eligible-for-lilly-grant-of-up-to-usd7-5-million",
@@ -81,7 +147,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-social-scientists-hold-conference-blending-disciplines-and-faith",
       "title": "Католические социальные учёные провели конференцию, объединяющую дисциплины и веру",
-      "summary": "Учёные выступили с докладами о католическом учении в контексте американской истории, политологии и актуальных тем: искусственный интеллект, иммиграция, эвтаназия.",
+      "summary": "Учёные выступили с докладами о католическом учении в контексте американской истории, политологии и актуальных тем: искусственный интеллект, миграция, эвтаназия.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/catholic-social-scientists-hold-conference-blending-disciplines-and-faith",
@@ -92,7 +158,7 @@
     {
       "id": "https://cathmos.ru/vladimir-plenarnoe-sobranie-kker/",
       "title": "Во Владимире прошло заседание Пленарного собрания Конференции католических епископов России",
-      "summary": "Во Владимире состоялось заседание Пленарного собрания Конференции католических епископов России.",
+      "summary": "Во Владимире состоялось пленарное заседание Конференции католических епископов России, обсуждались важные вопросы церковной жизни.",
       "category": "Россия",
       "source": "Архиепархия Божией Матери в Москве",
       "url": "https://cathmos.ru/vladimir-plenarnoe-sobranie-kker/",
@@ -103,17 +169,17 @@
     {
       "id": "https://www.ewtnnews.com/world/middle-east/at-least-6-killed-dozens-wounded-in-jordan-as-gunmen-open-fire-in-church-during-funeral",
       "title": "В Иордании при стрельбе в церкви во время похорон погибло не менее 6 человек",
-      "summary": "Неизвестные открыли огонь в церкви провинции Карак. По данным полиции, погибли минимум шесть человек, десятки ранены.",
+      "summary": "Неизвестные открыли огонь в церкви провинции Карак, Иордания. По меньшей мере шесть человек погибли, десятки ранены.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/middle-east/at-least-6-killed-dozens-wounded-in-jordan-as-gunmen-open-fire-in-church-during-funeral",
       "publishedAt": "2026-10-23T15:09:29.000Z",
-      "importance": 8,
+      "importance": 9,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/vatican-backed-congress-offers-a-catholic-response-to-the-infertility-emergency",
-      "title": "Конгресс при поддержке Ватикана предлагает католический ответ на «чрезвычайную ситуацию с бесплодием»",
+      "title": "Конгресс при поддержке Ватикана предлагает католический ответ на «кризис бесплодия»",
       "summary": "Папа Лев XIV должен был выступить в первый день конференции 16–18 октября, но встреча была отменена из-за госпитализации понтифика.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
@@ -125,7 +191,7 @@
     {
       "id": "https://cathmos.ru/palomnichestvo-po-mestam-svv-francziska-assizskogo-i-karlo-akutisa/",
       "title": "Группа из России совершила юбилейное паломничество по местам свв. Франциска Ассизского и Карло Акутиса",
-      "summary": "Российская группа совершила паломничество по святым местам Франциска Ассизского и Карло Акутиса в честь юбилея.",
+      "summary": "Российская группа совершила паломничество к святым Франциску Ассизскому и Карло Акутису в честь юбилея.",
       "category": "Россия",
       "source": "Архиепархия Божией Матери в Москве",
       "url": "https://cathmos.ru/palomnichestvo-po-mestam-svv-francziska-assizskogo-i-karlo-akutisa/",
@@ -136,7 +202,7 @@
     {
       "id": "https://www.ewtnnews.com/world/europe/liechtenstein-s-prince-vetoes-bill-to-legalize-abortion-up-to-12-weeks",
       "title": "Принц Лихтенштейна наложил вето на закон о легализации абортов до 12 недель",
-      "summary": "Парламент Лихтенштейна принял законопроект 13 голосами против 12, но без одобрения принца закон не вступит в силу.",
+      "summary": "Парламент Лихтенштейна одобрил закон 13 голосами против 12, но он не вступит в силу без одобрения правящего принца.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/liechtenstein-s-prince-vetoes-bill-to-legalize-abortion-up-to-12-weeks",
@@ -146,8 +212,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/canadian-nonprofit-creates-space-for-catholic-art-to-reach-secular-audiences",
-      "title": "Канадская организация создает пространство для католического искусства, доступного светской аудитории",
-      "summary": "Некоммерческая организация Theopolis поддерживает католических художников и объединяет верующих и светских через искусство и культуру.",
+      "title": "Канадская организация создаёт площадку для католического искусства в светской среде",
+      "summary": "НКО Theopolis поддерживает католических художников и объединяет верующих и светскую аудиторию через искусство и культуру.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/canadian-nonprofit-creates-space-for-catholic-art-to-reach-secular-audiences",
@@ -158,7 +224,7 @@
     {
       "id": "https://www.ewtnnews.com/world/americas/more-than-100-churches-in-panama-affected-by-october-earthquake",
       "title": "Более 100 церквей в Панаме пострадали от октябрьского землетрясения",
-      "summary": "По оценке Епископской конференции Панамы, две церкви были полностью разрушены в результате землетрясения 9 октября.",
+      "summary": "Две церкви были полностью разрушены землетрясением 9 октября, сообщает Конференция епископов Панамы.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/more-than-100-churches-in-panama-affected-by-october-earthquake",
@@ -168,58 +234,48 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/conference-in-rome-addresses-welcoming-missionaries-amid-migration-tensions",
-      "title": "Конференция в Риме обсудила поддержку миссионеров на фоне миграционного кризиса",
-      "summary": "На конференции «Церковь снопов» обсуждались вопросы интеграции и поддержки новых миссионеров в западном мире.",
+      "title": "Conference in Rome addresses welcoming missionaries amid migration tensions",
+      "summary": "The “Church of the Sheaves” conference discussed integrating and supporting new missionaries in the Western world.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/conference-in-rome-addresses-welcoming-missionaries-amid-migration-tensions",
-      "publishedAt": "2026-10-23T11:00:00.000Z",
-      "importance": 6,
-      "aiProcessed": true
+      "publishedAt": "2026-10-23T11:00:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-cancels-assisi-visit-on-doctors-advice",
-      "title": "Папа Лев XIV отменил визит в Ассизи по совету врачей",
-      "summary": "Врачи отмечают хорошее восстановление папы после операции на лёгких, но рекомендуют отказаться от вертолётных перелётов в качестве меры предосторожности.",
+      "title": "Pope Leo XIV cancels Assisi visit on doctors’ advice",
+      "summary": "Doctors say the pope is recovering exceptionally well from lung surgery but have advised against helicopter travel as a precaution.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-cancels-assisi-visit-on-doctors-advice",
-      "publishedAt": "2026-10-23T08:05:16.000Z",
-      "importance": 7,
-      "aiProcessed": true
+      "publishedAt": "2026-10-23T08:05:16.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/vice-president-vance-to-ewtn-we-are-god-s-ambassadors-on-earth",
-      "title": "Вице-президент Вэнс в интервью EWTN: «Мы — послы Бога на Земле»",
-      "summary": "Джей Ди Вэнс в интервью EWTN обсудил политику, миграцию, экономику и веру, подчеркнув важность духовной миссии.",
+      "title": "Vice President Vance to EWTN: ‘We are God’s ambassadors on Earth’",
+      "summary": "JD Vance spoke with EWTN News anchor Raymond Arroyo in a wide-ranging interview that included politics, immigration, economics, and faith.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/vice-president-vance-to-ewtn-we-are-god-s-ambassadors-on-earth",
-      "publishedAt": "2026-10-23T00:03:43.000Z",
-      "importance": 7,
-      "aiProcessed": true
+      "publishedAt": "2026-10-23T00:03:43.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/bishops-pray-with-trump-in-oval-office",
-      "title": "Католические епископы молились вместе с президентом Трампом",
-      "summary": "В ходе встречи обсуждались вопросы религиозной свободы, выбора школ, религиозных виз и политики в защиту жизни.",
+      "title": "Catholic bishops pray with President Trump",
+      "summary": "In addition to praying with Trump, topics discussed during the meeting included religious freedom, school choice, religious visas, and life policy.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/bishops-pray-with-trump-in-oval-office",
-      "publishedAt": "2026-10-22T22:52:35.000Z",
-      "importance": 6,
-      "aiProcessed": true
+      "publishedAt": "2026-10-22T22:52:35.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/chicago-artist-creates-marian-icon-for-pope-leo-xiv-who-will-keep-the-image-in-his-bedroom",
-      "title": "Художник из Чикаго создал марианскую икону для Папы Льва XIV",
-      "summary": "Иконописец из Чикаго за неделю создал икону Божией Матери Доброго Совета для Папы Льва XIV, которая будет храниться в его спальне.",
-      "category": "Ватикан",
+      "title": "Chicago artist creates Marian icon for Pope Leo XIV, who will keep the image in his bedroom",
+      "summary": "A Chicago iconographer had just one week to create an icon of Our Lady of Good Counsel for Pope Leo XIV, forging a spiritual connection through art, prayer, and vocation.",
+      "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/chicago-artist-creates-marian-icon-for-pope-leo-xiv-who-will-keep-the-image-in-his-bedroom",
-      "publishedAt": "2026-10-22T20:21:00.000Z",
-      "importance": 5,
-      "aiProcessed": true
+      "publishedAt": "2026-10-22T20:21:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/u-s-bishops-urge-continued-protections-for-ukrainians-salvadorans",

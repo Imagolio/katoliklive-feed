@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-25T20:53:22.335Z",
+  "updatedAt": "2026-10-25T23:17:29.338Z",
   "news": [
     {
       "id": "https://www.ewtnnews.com/world/us/milwaukee-archbishop-grob-issues-public-apology-over-white-house-meeting",
       "title": "Архиепископ Милуоки Гроб принес публичные извинения за встречу в Белом доме",
-      "summary": "Архиепископ Джеффри Гроб заявил, что не хотел вызывать путаницу, гнев или разочарование у своих прихожан, и что встреча была анонсирована без его согласия.",
+      "summary": "Архиепископ Джеффри Гроб заявил, что не хотел вызывать путаницу, гнев или разочарование у верующих, и что встреча была обнародована без его согласия.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/milwaukee-archbishop-grob-issues-public-apology-over-white-house-meeting",
       "publishedAt": "2026-10-25T17:02:22.000Z",
-      "importance": 5,
+      "importance": 6,
       "aiProcessed": true
     },
     {
       "id": "https://cathmos.ru/voskresnaya-propoved-episkopa-nikolaya-dubinina-v-sobore-uspeniya-presvyatoj-devy-marii-v-sankt-peterburge/",
       "title": "Воскресная проповедь епископа Николая Дубинина в соборе Успения Пресвятой Девы Марии в Санкт-Петербурге",
-      "summary": "Епископ Николай Дубинин призвал к любви, которая не остается теорией, а становится живым действием, основываясь на литургических чтениях воскресенья.",
+      "summary": "Епископ Николай Дубинин призвал к любви, которая не остается теорией, а становится живым действием, основываясь на литургических чтениях этого воскресенья.",
       "category": "Россия",
       "source": "Архиепархия Божией Матери в Москве",
       "url": "https://cathmos.ru/voskresnaya-propoved-episkopa-nikolaya-dubinina-v-sobore-uspeniya-presvyatoj-devy-marii-v-sankt-peterburge/",
@@ -26,7 +26,7 @@
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-love-for-neighbor-begins-with-a-personal-relationship-with-god",
       "title": "Папа Лев XIV: Любовь к ближнему начинается с личных отношений с Богом",
-      "summary": "Во время воскресного Ангелуса Папа размышлял о великой заповеди и призвал к миру в Йемене и Иордании.",
+      "summary": "Во время воскресного Ангелуса папа размышлял о великой заповеди и призвал к миру в Йемене и Иордании.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-love-for-neighbor-begins-with-a-personal-relationship-with-god",
@@ -37,7 +37,7 @@
     {
       "id": "https://www.ewtnnews.com/world/africa/rights-group-urges-immediate-release-of-6-christians-detained-over-tiktok-video-in-egypt",
       "title": "Правозащитники требуют немедленного освобождения шести христиан, задержанных в Египте из-за видео в TikTok",
-      "summary": "Организация Alliance Defending Freedom призвала египетские власти освободить шестерых молодых христиан, которых задержали за видео, признанное оскорбительным для ислама.",
+      "summary": "Организация Alliance Defending Freedom призвала египетские власти освободить шестерых молодых христиан, которых задержали после публикации видео, признанного оскорбительным для ислама.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/africa/rights-group-urges-immediate-release-of-6-christians-detained-over-tiktok-video-in-egypt",
@@ -48,7 +48,7 @@
     {
       "id": "https://www.ewtnnews.com/world/africa/what-the-catholic-church-in-egypt-is-doing-to-keep-youths-attached-to-their-faith",
       "title": "Что католическая церковь в Египте делает для сохранения веры среди молодежи",
-      "summary": "Епископ Эммануэль Бишай рассказал Aid to the Church in Need о хороших отношениях между католической и православной церквями в Египте и усилиях по укреплению веры у молодежи.",
+      "summary": "Епископ Эммануэль Бишай рассказал, что отношения между католической и православной церквями в Египте хорошие, и поделился мерами по укреплению веры у молодежи.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/africa/what-the-catholic-church-in-egypt-is-doing-to-keep-youths-attached-to-their-faith",
@@ -59,7 +59,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/virgin-of-guadalupe-takes-center-stage-at-u-s-hispanic-ministry-meeting",
       "title": "Дева Гваделупская в центре внимания на встрече испаноязычного служения в США",
-      "summary": "Конференция собрала десятки директоров епархий и лидеров испаноязычного и латиноамериканского служения из разных регионов США.",
+      "summary": "Конференция собрала десятки директоров епархий и лидеров испаноязычного служения из разных регионов США.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/virgin-of-guadalupe-takes-center-stage-at-u-s-hispanic-ministry-meeting",
@@ -69,8 +69,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/middle-east/jordan-church-attack-death-toll-rises-to-9-as-christian-leaders-call-for-unity",
-      "title": "Число погибших при нападении на церковь в Иордании возросло до 9, христиане призывают к единству",
-      "summary": "Нападение произошло во время похорон в пятницу. Власти продолжают расследование и поиски виновных.",
+      "title": "Число погибших при нападении на церковь в Иордании выросло до 9, христиане призывают к единству",
+      "summary": "Атака произошла во время похорон в пятницу, власти продолжают расследование и поиски виновных.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/middle-east/jordan-church-attack-death-toll-rises-to-9-as-christian-leaders-call-for-unity",
@@ -80,7 +80,7 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/denver-archbishop-responds-to-criticism-over-trump-prayer-meeting-i-was-being-a-catholic-priest",
-      "title": "Архиепископ Денвера ответил на критику за молитву с Трампом: «Я был католическим священником»",
+      "title": "Архиепископ Денвера ответил на критику из-за молитвенной встречи с Трампом: «Я был католическим священником»",
       "summary": "Архиепископ Джеймс Голка возглавил молитву на встрече 22 октября в Овальном кабинете между Трампом и несколькими американскими епископами.",
       "category": "Мир",
       "source": "Catholic News Agency",
@@ -103,7 +103,7 @@
     {
       "id": "https://www.ewtnnews.com/world/americas/how-can-you-say-god-is-my-great-friend-after-a-terrible-tragedy-a-venezuelan-mother-responds",
       "title": "Как пережить трагедию и сохранить веру в Бога? Ответ венесуэльской матери",
-      "summary": "Мария Елена Роча рассказала, как несмотря на потерю мужа и двух сынов в землетрясении летом, её вера и доверие к Богу поддерживают её.",
+      "summary": "Мария Елена Роча рассказала, как несмотря на потерю мужа и двух сынов в землетрясении, её вера и доверие к Богу остаются крепкими.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/how-can-you-say-god-is-my-great-friend-after-a-terrible-tragedy-a-venezuelan-mother-responds",
@@ -114,7 +114,7 @@
     {
       "id": "https://www.ewtnnews.com/world/americas/he-died-doing-what-he-loved-remembering-ecuadorian-priest-who-died-at-the-altar",
       "title": "Память об эквадорском священнике, умершем у алтаря",
-      "summary": "Отец Патрисио Санчес Молинари описывался как человек с чистым сердцем и доброй улыбкой, всегда спокойный, терпеливый и терпимый.",
+      "summary": "Отец Патрисио Санчес Молинари был человеком с чистым сердцем и доброй улыбкой, всегда спокойным, терпеливым и терпимым. Он умер, занимаясь тем, что любил.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/he-died-doing-what-he-loved-remembering-ecuadorian-priest-who-died-at-the-altar",
@@ -125,7 +125,7 @@
     {
       "id": "https://www.ewtnnews.com/world/africa/suspect-arrested-after-fire-at-virgin-mary-church-in-egypt-s-giza",
       "title": "Задержан подозреваемый после пожара в церкви Девы Марии в Гизе, Египет",
-      "summary": "Епархия Коптской православной церкви Центральной Гизы сообщила, что в результате поджога в церкви Девы Марии никто не пострадал.",
+      "summary": "Епархия коптов-ортодоксов Центральной Гизы сообщила, что после поджога в церкви Девы Марии в Гизе никто не пострадал.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/africa/suspect-arrested-after-fire-at-virgin-mary-church-in-egypt-s-giza",
@@ -135,8 +135,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/asia-pacific/franciscans-call-for-solidarity-as-haze-from-indonesian-fires-blankets-southeast-asia",
-      "title": "Францисканцы призывают к солидарности из-за дыма от пожаров в Индонезии",
-      "summary": "На собрании Францисканской сети за мир и целостную экологию в Азии обсуждались проблемы загрязнения воздуха и его последствия для Юго-Восточной Азии.",
+      "title": "Францисканцы призывают к солидарности из-за смога от пожаров в Индонезии",
+      "summary": "На собрании Францисканской сети за мир и целостную экологию в Азии обсуждались последствия продолжающегося загрязнения воздуха от пожаров в регионе.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/franciscans-call-for-solidarity-as-haze-from-indonesian-fires-blankets-southeast-asia",
@@ -157,8 +157,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/asia-pacific/korean-bishops-elect-new-president-approve-guidelines-on-sexual-violence",
-      "title": "Епископы Кореи избрали нового президента и утвердили рекомендации по сексуальному насилию",
-      "summary": "Епископы Кореи выбрали нового президента, церковь Бурунди поддерживает более 80 тысяч беженцев, а президент конференции епископов Шотландии временно отстранился от обязанностей.",
+      "title": "Корейские епископы избрали нового президента и утвердили рекомендации по сексуальному насилию",
+      "summary": "Корейские епископы выбрали нового президента, церковь Бурунди поддерживает более 80 000 беженцев, а президент конференции епископов Шотландии временно отстранился от обязанностей.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/korean-bishops-elect-new-president-approve-guidelines-on-sexual-violence",
@@ -180,8 +180,8 @@
     {
       "id": "https://www.ewtnnews.com/world/us/bishop-barron-slams-clownish-irrelevance-of-german-catholic-academy-in-blistering-statement",
       "title": "Епископ Баррон резко раскритиковал «клоунскую неактуальность» немецкой католической академии",
-      "summary": "Вновь вспыхнул спор вокруг принятия епископом Робертом Барроном награды немецкого католического учреждения, присуждаемой в 2025 году.",
-      "category": "Мир",
+      "summary": "Вновь вспыхнул спор вокруг принятия епископом Робертом Барроном награды немецкого католического учреждения за 2025 год.",
+      "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/bishop-barron-slams-clownish-irrelevance-of-german-catholic-academy-in-blistering-statement",
       "publishedAt": "2026-10-23T19:43:30.000Z",
@@ -202,7 +202,7 @@
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-increases-lay-appointments-to-international-theology-commission",
       "title": "Папа Лев XIV увеличил число мирян в Международной теологической комиссии",
-      "summary": "Количество женщин в комиссии выросло с пяти до восьми, включая пять мирянок, что удвоило общее число мирян по сравнению с предыдущим составом.",
+      "summary": "Количество женщин в комиссии выросло с пяти до восьми, включая пять мирянок, что удвоило общее число мирян по сравнению с предыдущим сроком.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-increases-lay-appointments-to-international-theology-commission",
@@ -213,7 +213,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-campus-ministries-eligible-for-lilly-grant-of-up-to-usd7-5-million",
       "title": "Католические студенческие миссии могут получить грант Lilly до 7,5 млн долларов",
-      "summary": "Грант фонда Lilly Endowment открыт для католических студенческих миссий; мать святого Карло Акутиса подарила Университету Францисканцев реликвию сына.",
+      "summary": "Грант фонда Lilly Endowment открыт для католических студенческих миссий; мать святого Карло Акутиса передала Университету Францисканцев реликвию сына.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/catholic-campus-ministries-eligible-for-lilly-grant-of-up-to-usd7-5-million",
@@ -223,13 +223,13 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-true-justice-is-never-separated-from-truth-and-mercy",
-      "title": "Папа Лев XIV: Истинная справедливость неразрывна с истиной и милосердием",
+      "title": "Папа Лев XIV: Истинная справедливость неотделима от «истины и милосердия»",
       "summary": "Понтифик имеет докторскую степень по каноническому праву, что заметно влияет на его взгляд на управление Церковью.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-true-justice-is-never-separated-from-truth-and-mercy",
       "publishedAt": "2026-10-23T16:29:00.000Z",
-      "importance": 7,
+      "importance": 6,
       "aiProcessed": true
     },
     {

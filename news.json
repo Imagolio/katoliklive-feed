@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T23:17:15.585Z",
+  "updatedAt": "2026-10-25T04:44:22.941Z",
   "news": [
     {
       "id": "https://www.ewtnnews.com/world/middle-east/jordan-church-attack-death-toll-rises-to-9-as-christian-leaders-call-for-unity",
@@ -14,7 +14,7 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/denver-archbishop-responds-to-criticism-over-trump-prayer-meeting-i-was-being-a-catholic-priest",
-      "title": "Архиепископ Денвера ответил на критику из-за молитвы с Трампом: «Я был католическим священником»",
+      "title": "Архиепископ Денвера ответил на критику за молитву с Трампом: «Я был католическим священником»",
       "summary": "Архиепископ Джеймс Голка возглавил молитву на встрече Трампа с американскими епископами 22 октября в Овальном кабинете.",
       "category": "Мир",
       "source": "Catholic News Agency",
@@ -37,7 +37,7 @@
     {
       "id": "https://www.ewtnnews.com/world/americas/how-can-you-say-god-is-my-great-friend-after-a-terrible-tragedy-a-venezuelan-mother-responds",
       "title": "Как пережить трагедию и сохранить веру в Бога? Ответ венесуэльской матери",
-      "summary": "Мария Елена Роча рассказывает, как вера и доверие Богу поддерживают её после потери мужа и двух сынов в землетрясении в Венесуэле.",
+      "summary": "Мария Елена Роча рассказывает, как вера и доверие к Богу поддерживают её после потери мужа и двух сынов в землетрясении летом.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/how-can-you-say-god-is-my-great-friend-after-a-terrible-tragedy-a-venezuelan-mother-responds",
@@ -47,8 +47,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/he-died-doing-what-he-loved-remembering-ecuadorian-priest-who-died-at-the-altar",
-      "title": "«Он умер, занимаясь любимым делом»: воспоминания об эквадорском священнике, скончавшемся у алтаря",
-      "summary": "Отец Патрисио Санчес Молинари был человеком с чистым сердцем, спокойным, терпеливым и добрым, всегда с улыбкой.",
+      "title": "«Он умер, занимаясь любимым делом»: воспоминания о священнике из Эквадора, умершем у алтаря",
+      "summary": "Отец Патрисио Санчес Молинари был человеком с чистым сердцем, спокойным и терпеливым, всегда с улыбкой.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/he-died-doing-what-he-loved-remembering-ecuadorian-priest-who-died-at-the-altar",
@@ -64,13 +64,13 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/africa/suspect-arrested-after-fire-at-virgin-mary-church-in-egypt-s-giza",
       "publishedAt": "2026-10-24T12:00:00.000Z",
-      "importance": 5,
+      "importance": 6,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/asia-pacific/franciscans-call-for-solidarity-as-haze-from-indonesian-fires-blankets-southeast-asia",
       "title": "Францисканцы призывают к солидарности из-за смога от пожаров в Индонезии",
-      "summary": "На собрании Францисканской сети за мир и целостную экологию в Азии в Кота-Кинабалу обсуждались проблемы загрязнения воздуха и его последствия для региона.",
+      "summary": "На собрании Францисканской сети за мир и целостную экологию в Азии в Малайзии обсуждались проблемы загрязнения воздуха и его последствия для региона.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/franciscans-call-for-solidarity-as-haze-from-indonesian-fires-blankets-southeast-asia",
@@ -92,12 +92,12 @@
     {
       "id": "https://www.ewtnnews.com/world/asia-pacific/korean-bishops-elect-new-president-approve-guidelines-on-sexual-violence",
       "title": "Корейские епископы избрали нового президента и утвердили рекомендации по сексуальному насилию",
-      "summary": "В новостях католического мира: избрание президента корейских епископов, поддержка более 80 000 беженцев церковью в Бурунди и отставка президента епископской конференции Шотландии.",
+      "summary": "В новостях католического мира: избрание президента корейских епископов, поддержка более 80 тысяч беженцев церковью в Бурунди и отставка главы епископата Шотландии.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/korean-bishops-elect-new-president-approve-guidelines-on-sexual-violence",
       "publishedAt": "2026-10-24T10:00:00.000Z",
-      "importance": 6,
+      "importance": 7,
       "aiProcessed": true
     },
     {
@@ -108,13 +108,13 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/it-s-what-i-m-called-to-do-montse-alvarado-on-her-new-vatican-role",
       "publishedAt": "2026-10-24T01:00:00.000Z",
-      "importance": 7,
+      "importance": 8,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/bishop-barron-slams-clownish-irrelevance-of-german-catholic-academy-in-blistering-statement",
       "title": "Епископ Баррон резко раскритиковал «клоунскую неактуальность» немецкой католической академии",
-      "summary": "На этой неделе вновь вспыхнул скандал вокруг принятия епископом Робертом Барроном награды от немецкой католической организации, вызвавшей критику.",
+      "summary": "На этой неделе вновь вспыхнул спор вокруг принятия епископом Робертом Барроном награды от немецкой католической организации, запланированной на 2025 год.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/bishop-barron-slams-clownish-irrelevance-of-german-catholic-academy-in-blistering-statement",
@@ -147,7 +147,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-campus-ministries-eligible-for-lilly-grant-of-up-to-usd7-5-million",
       "title": "Католические студенческие служения могут получить грант Lilly до 7,5 млн долларов",
-      "summary": "Грант фонда Lilly Endowment открыт для католических студенческих служений; мать Карло Акутиса подарила Университету Францисканцев реликвию сына.",
+      "summary": "Грант фонда Lilly Endowment открыт для католических студенческих служений; мать святого Карло Акутиса подарила Университету Францисканцев реликвию сына.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/catholic-campus-ministries-eligible-for-lilly-grant-of-up-to-usd7-5-million",
@@ -157,8 +157,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-true-justice-is-never-separated-from-truth-and-mercy",
-      "title": "Папа Лев XIV: Истинная справедливость неотделима от правды и милосердия",
-      "summary": "Понтифик имеет докторскую степень по каноническому праву, что существенно влияет на его взгляд на управление Церковью.",
+      "title": "Папа Лев XIV: Истинная справедливость неразрывна с истиной и милосердием",
+      "summary": "Понтифик имеет докторскую степень по каноническому праву, что заметно влияет на его взгляд на управление Церковью.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-true-justice-is-never-separated-from-truth-and-mercy",
@@ -180,7 +180,7 @@
     {
       "id": "https://cathmos.ru/vladimir-plenarnoe-sobranie-kker/",
       "title": "Во Владимире прошло заседание Пленарного собрания Конференции католических епископов России",
-      "summary": "Во Владимире состоялось пленарное заседание Конференции католических епископов России, на котором обсуждались важные вопросы жизни Церкви в стране.",
+      "summary": "Во Владимире состоялось Пленарное собрание Конференции католических епископов России, на котором обсуждались важные вопросы жизни католической церкви в стране.",
       "category": "Россия",
       "source": "Архиепархия Божией Матери в Москве",
       "url": "https://cathmos.ru/vladimir-plenarnoe-sobranie-kker/",
@@ -190,7 +190,7 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/middle-east/at-least-6-killed-dozens-wounded-in-jordan-as-gunmen-open-fire-in-church-during-funeral",
-      "title": "В Иордании при стрельбе в церкви во время похорон погибло не менее 6 человек",
+      "title": "В Иордании не менее 6 человек погибли и десятки ранены в результате стрельбы в церкви во время похорон",
       "summary": "В провинции Карак в Иордании неизвестные открыли огонь в церкви во время похорон, в результате чего погибли не менее шести человек и десятки получили ранения.",
       "category": "Мир",
       "source": "Catholic News Agency",
@@ -202,7 +202,7 @@
     {
       "id": "https://www.ewtnnews.com/vatican/vatican-backed-congress-offers-a-catholic-response-to-the-infertility-emergency",
       "title": "Конгресс при поддержке Ватикана предлагает католический ответ на проблему бесплодия",
-      "summary": "Конференция, запланированная на 16–18 октября, должна была открыться выступлением Папы Льва XIV, но из-за госпитализации понтифика мероприятие пришлось отменить.",
+      "summary": "Конференция, запланированная на 16–18 октября, должна была открыться выступлением Папы Льва XIV, но из-за госпитализации понтифика мероприятие отменили.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/vatican-backed-congress-offers-a-catholic-response-to-the-infertility-emergency",
@@ -212,8 +212,8 @@
     },
     {
       "id": "https://cathmos.ru/palomnichestvo-po-mestam-svv-francziska-assizskogo-i-karlo-akutisa/",
-      "title": "Российская группа совершила юбилейное паломничество по местам святых Франциска Ассизского и Карло Акутиса",
-      "summary": "Паломники из России посетили святые места, связанные с Франциском Ассизским и Карло Акутисом, совершив юбилейное паломничество.",
+      "title": "Группа из России совершила юбилейное паломничество по местам святых Франциска Ассизского и Карло Акутиса",
+      "summary": "Российская группа паломников посетила святые места, связанные с Франциском Ассизским и Карло Акутисом, совершив юбилейное паломничество.",
       "category": "Россия",
       "source": "Архиепархия Божией Матери в Москве",
       "url": "https://cathmos.ru/palomnichestvo-po-mestam-svv-francziska-assizskogo-i-karlo-akutisa/",

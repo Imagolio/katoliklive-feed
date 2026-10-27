@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-27T00:27:23.512Z",
+  "updatedAt": "2026-10-27T09:02:30.761Z",
   "news": [
     {
       "id": "https://www.ewtnnews.com/world/us/more-bishops-respond-after-trump-meeting-prayer",
-      "title": "Епископ Йоэнсен считает, что встреча с Трампом использована в политических целях, другие уточняют детали",
-      "summary": "Епископы, присутствовавшие на встрече и молитве, заявили, что их пригласил Белый дом для обсуждения важных для католиков вопросов.",
+      "title": "Епископ Йоэнсен заявил, что встреча с Трампом использована в политических целях, другие уточнили детали",
+      "summary": "Епископы, присутствовавшие на встрече и молитве, сообщили, что их пригласил офис веры Белого дома для обсуждения важных для католиков вопросов.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/more-bishops-respond-after-trump-meeting-prayer",
@@ -14,8 +14,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/venezuelan-opposition-leader-returns-from-exile-and-attends-mass-at-popular-shrine",
-      "title": "Лидер оппозиции Венесуэлы вернулась из изгнания и посетила мессу в популярном святом месте",
-      "summary": "Мария Корина Мачадо впервые публично вернулась в Венесуэлу и посетила Архидиоцезальный храм Божественной Пастырки в Баркисимето.",
+      "title": "Лидер оппозиции Венесуэлы вернулась из изгнания и посетила мессу в известном святом месте",
+      "summary": "Мария Корина Мачадо впервые публично вернулась в Венесуэлу и посетила Архидиоцезальный храм Божьей Пастырки в Баркисимето.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/venezuelan-opposition-leader-returns-from-exile-and-attends-mass-at-popular-shrine",
@@ -26,7 +26,7 @@
     {
       "id": "https://www.ewtnnews.com/vatican/for-first-time-in-500-years-pope-and-king-of-england-bestow-religious-titles-on-each-other",
       "title": "Впервые за 500 лет папа и король Англии обменялись религиозными титулами",
-      "summary": "Королю Карлу III присвоен титул королевского брата, а папе Льву XIV — титул папского брата.",
+      "summary": "Король Чарльз III получил титул королевского брата, а папа Лев XIV — титул папского брата.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/for-first-time-in-500-years-pope-and-king-of-england-bestow-religious-titles-on-each-other",
@@ -37,7 +37,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/archdiocese-of-new-york-will-pay-out-usd800-million-in-sexual-abuse-settlement",
       "title": "Архидиоцез Нью-Йорка выплатит 800 миллионов долларов по делу о сексуальных домогательствах",
-      "summary": "Архиепископ Хикс заявил, что соглашение позволит архидиоцезу начать процесс исцеления и примирения с пострадавшими.",
+      "summary": "Архиепископ Хикс отметил, что соглашение позволит архидиоцезу начать процесс исцеления и примирения с жертвами.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/archdiocese-of-new-york-will-pay-out-usd800-million-in-sexual-abuse-settlement",
@@ -48,18 +48,18 @@
     {
       "id": "https://www.ewtnnews.com/vatican/leo-xiv-confirms-his-trip-to-uruguay-argentina-peru",
       "title": "Папа Лев XIV подтвердил поездку в Уругвай, Аргентину и Перу",
-      "summary": "Пресс-служба Святого Престола подтвердила, что апостольское путешествие с 6 по 17 ноября 2026 года состоится согласно ранее опубликованной программе.",
+      "summary": "Пресс-служба Святого Престола подтвердила, что апостольское путешествие с 6 по 17 ноября 2026 года пройдет согласно ранее опубликованной программе.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/leo-xiv-confirms-his-trip-to-uruguay-argentina-peru",
       "publishedAt": "2026-10-26T17:20:16.000Z",
-      "importance": 6,
+      "importance": 7,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/vatican-sends-new-humanitarian-mission-to-ukraine-ahead-of-very-harsh-winter",
-      "title": "Ватикан отправляет новую гуманитарную миссию в Украину перед «очень суровой зимой»",
-      "summary": "Апостольский милостынник архиепископ Луис Марин с 27 по 30 октября посетит Киев, Запорожье, Днепр и Фастов, чтобы оказать помощь Украине перед наступлением тяжелой зимы.",
+      "title": "Ватикан направляет новую гуманитарную миссию в Украину перед «очень суровой зимой»",
+      "summary": "Апостольский милостынник архиепископ Луис Марин посетит Киев, Запорожье, Днепр и Фастов с 27 по 30 октября для оказания помощи.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/vatican-sends-new-humanitarian-mission-to-ukraine-ahead-of-very-harsh-winter",
@@ -69,8 +69,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-cultivate-charity-to-heal-our-divisions",
-      "title": "Папа Лев XIV: Взращивайте милосердие для исцеления наших разделений",
-      "summary": "Понтифик провел частную аудиенцию с сестрами милосердия Святой Жанны-Антид Туре, призывая к развитию любви и единства для преодоления разногласий.",
+      "title": "Папа Лев XIV: Воспитывайте милосердие для исцеления наших разделений",
+      "summary": "Понтифик провёл частную аудиенцию с монахинями Общества милосердия святой Жанны-Антид Туре, призывая к любви и единству.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-cultivate-charity-to-heal-our-divisions",
@@ -81,7 +81,7 @@
     {
       "id": "https://www.ewtnnews.com/world/europe/polish-bishops-oppose-abortion-bills-name-historian-to-lead-abuse-commission",
       "title": "Польские епископы выступают против законопроектов об абортах и назначают историка главой комиссии по злоупотреблениям",
-      "summary": "Епископы осуждают политику, которая «не строит, а разрушает», заявил архиепископ Тадеуш Войда. Историк Пётр Франашек возглавил церковную комиссию по расследованию злоупотреблений.",
+      "summary": "Епископы осуждают политику, которая «не строит, а разрушает», заявил архиепископ Тадеуш Войда. Историк Пётр Франашек возглавит церковную комиссию по злоупотреблениям.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/polish-bishops-oppose-abortion-bills-name-historian-to-lead-abuse-commission",
@@ -92,7 +92,7 @@
     {
       "id": "https://cathmos.ru/v-moskve-predstavyat/",
       "title": "В Москве представят первую католическую экосистему",
-      "summary": "В столице России состоится презентация первой католической экосистемы, направленной на развитие церковной жизни и взаимодействия общин.",
+      "summary": "В столице России состоится презентация первой католической экосистемы, направленной на развитие церковной жизни и взаимодействия.",
       "category": "Россия",
       "source": "Архиепархия Божией Матери в Москве",
       "url": "https://cathmos.ru/v-moskve-predstavyat/",
@@ -103,7 +103,7 @@
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-sends-condolences-on-the-death-of-longtime-church-diplomat-and-cardinal-from-sicily",
       "title": "Папа Лев выражает соболезнования в связи со смертью давнего дипломата и кардинала из Сицилии",
-      "summary": "Кардинал Паоло Ромео почти четыре десятилетия служил в дипломатической службе Святого Престола, затем был назначен архиепископом Палермо на Сицилии.",
+      "summary": "Кардинал Паоло Ромео почти четыре десятилетия служил в дипломатической службе Святого Престола, затем был назначен архиепископом Палермо.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-sends-condolences-on-the-death-of-longtime-church-diplomat-and-cardinal-from-sicily",
@@ -125,8 +125,8 @@
     {
       "id": "https://www.ewtnnews.com/world/us/milwaukee-archbishop-grob-issues-public-apology-over-white-house-meeting",
       "title": "Архиепископ Милуоки Гроб принес публичные извинения за встречу в Белом доме",
-      "summary": "Архиепископ Джеффри Гроб заявил, что не хотел вызвать недоразумений или разочарования, а встреча была анонсирована без его согласия.",
-      "category": "Мир",
+      "summary": "Архиепископ Джеффри Гроб заявил, что не хотел вызвать недоразумений и что встреча была обнародована без его согласия.",
+      "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/milwaukee-archbishop-grob-issues-public-apology-over-white-house-meeting",
       "publishedAt": "2026-10-25T17:02:22.000Z",
@@ -147,7 +147,7 @@
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-love-for-neighbor-begins-with-a-personal-relationship-with-god",
       "title": "Папа Лев XIV: Любовь к ближнему начинается с личных отношений с Богом",
-      "summary": "Во время воскресного Ангелуса папа размышлял о великой заповеди и призвал к миру в Йемене и Иордании.",
+      "summary": "Во время воскресного Ангелуса понтифик размышлял о великой заповеди и призвал к миру в Йемене и Иордании.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-love-for-neighbor-begins-with-a-personal-relationship-with-god",
@@ -157,8 +157,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/africa/rights-group-urges-immediate-release-of-6-christians-detained-over-tiktok-video-in-egypt",
-      "title": "Правозащитники требуют немедленного освобождения шести христиан, задержанных в Египте из-за видео в TikTok",
-      "summary": "Организация Alliance Defending Freedom призвала власти Египта освободить шестерых молодых христиан, которых задержали за видео, признанное оскорбительным для ислама.",
+      "title": "Правозащитники требуют немедленного освобождения шести христиан, задержанных в Египте",
+      "summary": "Организация Alliance Defending Freedom призвала власти Египта освободить шестерых молодых христиан, задержанных после публикации видео в TikTok, признанного оскорбительным для ислама.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/africa/rights-group-urges-immediate-release-of-6-christians-detained-over-tiktok-video-in-egypt",
@@ -168,7 +168,7 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/africa/what-the-catholic-church-in-egypt-is-doing-to-keep-youths-attached-to-their-faith",
-      "title": "Что католическая церковь в Египте делает для сохранения веры среди молодежи",
+      "title": "Что католическая церковь в Египте делает для сохранения веры у молодежи",
       "summary": "Епископ Эммануил Бишай из коптской католической епархии Луксора отметил хорошие отношения между католической и православной церквями в Египте.",
       "category": "Мир",
       "source": "Catholic News Agency",
@@ -190,7 +190,7 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/middle-east/jordan-church-attack-death-toll-rises-to-9-as-christian-leaders-call-for-unity",
-      "title": "Число погибших при нападении на церковь в Иордании возросло до 9, христианские лидеры призывают к единству",
+      "title": "Число погибших при атаке на церковь в Иордании выросло до 9, христианские лидеры призывают к единству",
       "summary": "Атака произошла во время похорон в пятницу, власти продолжают расследование и поиски виновных.",
       "category": "Мир",
       "source": "Catholic News Agency",
@@ -202,7 +202,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/denver-archbishop-responds-to-criticism-over-trump-prayer-meeting-i-was-being-a-catholic-priest",
       "title": "Архиепископ Денвера ответил на критику из-за молитвенной встречи с Трампом: «Я был католическим священником»",
-      "summary": "Архиепископ Джеймс Голка возглавил молитву 22 октября во время встречи Трампа с несколькими американскими епископами в Овальном кабинете.",
+      "summary": "Архиепископ Джеймс Голка возглавил молитву на встрече 22 октября в Овальном кабинете между Трампом и несколькими американскими епископами.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/denver-archbishop-responds-to-criticism-over-trump-prayer-meeting-i-was-being-a-catholic-priest",
@@ -212,7 +212,7 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/sfla-tpusa-feminists-lied-tour-pro-life-roundup",
-      "title": "Студенты за жизнь и Turning Point обсуждают аборты в туре «Феминистки лгали»",
+      "title": "Студенты за жизнь и Turning Point обсуждают аборты на туре «Феминистки лгали»",
       "summary": "Обзор последних новостей, связанных с движением за жизнь и вопросами абортов.",
       "category": "Мир",
       "source": "Catholic News Agency",

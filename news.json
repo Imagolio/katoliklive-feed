@@ -1,6 +1,116 @@
 {
-  "updatedAt": "2026-10-30T10:03:59.341Z",
+  "updatedAt": "2026-10-30T18:01:59.804Z",
   "news": [
+    {
+      "id": "https://www.ewtnnews.com/world/us/santiago-schnell-resigns-as-dartmouth-provost-over-ai-use",
+      "title": "Сантьяго Шнелл уходит в отставку с поста проректора Дартмута из-за использования ИИ",
+      "summary": "Случай поднимает сложные вопросы, связанные с быстрым внедрением ИИ в профессиональное письмо, особенно в высшем образовании.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/santiago-schnell-resigns-as-dartmouth-provost-over-ai-use",
+      "publishedAt": "2026-10-30T17:18:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/africa/tanzania-bishop-urges-truth-forgiveness-to-prevent-further-election-violence",
+      "title": "Епископ Танзании призывает к правде и прощению для предотвращения насилия после выборов",
+      "summary": "Год спустя после выборов 29 октября 2025 года председатель Епископской конференции Танзании призвал народ сохранять правду и пересмотреть избирательную систему страны.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/africa/tanzania-bishop-urges-truth-forgiveness-to-prevent-further-election-violence",
+      "publishedAt": "2026-10-30T16:38:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-ai-can-never-be-a-person-its-future-depends-on-our-choices",
+      "title": "Папа Лев XIV: ИИ никогда не станет личностью; его будущее зависит от наших решений",
+      "summary": "Понтифик встретился с участниками конференции по ИИ в Ватикане, организованной Папской академией жизни.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-ai-can-never-be-a-person-its-future-depends-on-our-choices",
+      "publishedAt": "2026-10-30T15:58:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-modifies-disciplinary-sanctions-for-employees-of-the-roman-curia",
+      "title": "Папа изменил дисциплинарные санкции для сотрудников Римской Курии",
+      "summary": "Изменения были утверждены 19 октября через Rescriptum ex Audientia Sanctissimi — рескрипт от Святейшего Отца.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-modifies-disciplinary-sanctions-for-employees-of-the-roman-curia",
+      "publishedAt": "2026-10-30T15:18:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-appoints-2-new-undersecretaries-to-synod-office",
+      "title": "Папа Лев XIV назначил двух новых заместителей секретаря Синода",
+      "summary": "Иезуит отец Джакомо Коста и салезианка Елена Массими заняли руководящие должности после ухода сестры Натали Беккар, занимавшей пост с февраля 2021 года.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-appoints-2-new-undersecretaries-to-synod-office",
+      "publishedAt": "2026-10-30T14:38:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/europe/polish-court-convicts-tarnow-bishop-of-failing-to-promptly-report-abuse",
+      "title": "Польский суд признал епископа виновным в несвоевременном сообщении о случаях насилия",
+      "summary": "Суд постановил, что каноническое право не отменяет польские обязанности по сообщению о преступлениях. Епархия утверждает, что уведомила власти в обоих случаях и намерена обжаловать решение.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/europe/polish-court-convicts-tarnow-bishop-of-failing-to-promptly-report-abuse",
+      "publishedAt": "2026-10-30T13:58:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/pope-leo-xiv-to-become-first-pope-to-vote-in-an-american-election",
+      "title": "Папа Лев XIV стал первым папой, проголосовавшим на выборах в США",
+      "summary": "Ватикан подтвердил 30 октября, что Святейший Отец подал голос по почте в своем родном штате Иллинойс.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/pope-leo-xiv-to-become-first-pope-to-vote-in-an-american-election",
+      "publishedAt": "2026-10-30T13:18:22.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/nicaraguan-bishop-holy-see-postponed-ad-limina-visit-due-to-lack-of-appropriate-conditions",
+      "title": "Святой Престол отложил визит никурагуанских епископов ad limina",
+      "summary": "В Никарагуа сейчас девять активных епископов, четверо из которых находятся в изгнании.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/nicaraguan-bishop-holy-see-postponed-ad-limina-visit-due-to-lack-of-appropriate-conditions",
+      "publishedAt": "2026-10-30T12:00:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/highly-secularized-uruguay-prepares-to-welcome-pope-leo-xiv",
+      "title": "Сильно секуляризованный Уругвай готовится к визиту Папы Льва XIV",
+      "summary": "Хотя опросы показывают, что лишь 33% уругвайцев считают себя католиками, а 28% — атеистами или агностиками, визит Папы вызывает большой интерес.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/highly-secularized-uruguay-prepares-to-welcome-pope-leo-xiv",
+      "publishedAt": "2026-10-30T11:00:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/all-saints-day-2026-what-catholics-should-know-about-this-holy-day-of-obligation",
+      "title": "День всех святых 2026: что католикам нужно знать об этом праздничном дне",
+      "summary": "В этом году торжество Дня всех святых заменит 31-й воскресный день обычного времени.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/all-saints-day-2026-what-catholics-should-know-about-this-holy-day-of-obligation",
+      "publishedAt": "2026-10-30T10:00:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
     {
       "id": "https://cathmos.ru/konstantin-leviczkij-prinyat-v-kandidaty-v-svyashhennyj-san/",
       "title": "Константин Левицкий принят в кандидаты в священный сан",
@@ -15,7 +125,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/pro-life-group-protests-cardinal-cupich-s-award-to-philanthropist-planned-parenthood-donor",
       "title": "Группа за жизнь протестует против награды кардиналу Купичу, вручённой филантропу и донору Planned Parenthood",
-      "summary": "Кардинал Блэйз Купич заявил, что награда не означает одобрение всех взглядов человека, однако организация Illinois Right to Life обвинила его в «оскорблении верующих» на банкете 29 октября.",
+      "summary": "Кардинал Блэйз Купич заявил, что награда не означает одобрения всех взглядов человека, однако организация Illinois Right to Life обвинила его в «оскорблении верующих» на банкете 29 октября.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/pro-life-group-protests-cardinal-cupich-s-award-to-philanthropist-planned-parenthood-donor",
@@ -31,7 +141,7 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/scholars-criticize-u-s-bishops-for-comparing-proposed-census-rule-to-1700s-slave-compromise",
       "publishedAt": "2026-10-29T19:31:41.000Z",
-      "importance": 6,
+      "importance": 7,
       "aiProcessed": true
     },
     {
@@ -47,13 +157,13 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/u-s-bishops-urge-catholic-voters-start-with-your-faith",
-      "title": "Американские епископы призывают католиков избирать, руководствуясь верой",
-      "summary": "За несколько дней до промежуточных выборов 2026 года в США епископы выпустили видео с призывом к католикам начинать выборы с размышления о своей вере.",
+      "title": "Американские епископы призывают католиков избирать, исходя из веры",
+      "summary": "Видеоролики опубликованы за несколько дней до промежуточных выборов 2026 года в США, которые могут стать референдумом по второму сроку президента Дональда Трампа.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/u-s-bishops-urge-catholic-voters-start-with-your-faith",
       "publishedAt": "2026-10-29T16:48:00.000Z",
-      "importance": 6,
+      "importance": 7,
       "aiProcessed": true
     },
     {
@@ -70,7 +180,7 @@
     {
       "id": "https://www.ewtnnews.com/world/europe/eyewitness-to-train-accident-aftermath-recounts-dying-man-s-final-words-god-is-good",
       "title": "Очевидец последствий железнодорожной аварии рассказал последние слова умирающего: «Бог добр»",
-      "summary": "Антонио Гарсия Кондадо, 78-летний фармацевт, одним из первых увидел тела погибших под обломками после смертельного столкновения поездов в Испании.",
+      "summary": "Антонио Гарсия Кондадо, 78-летний аптекарь, одним из первых увидел тела под обломками после смертельного столкновения поездов в Испании.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/eyewitness-to-train-accident-aftermath-recounts-dying-man-s-final-words-god-is-good",
@@ -80,8 +190,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/canada-tables-bill-to-halt-maid-expansion-for-mental-illness-decriminalize-advance-requests",
-      "title": "Канада предлагает законопроект о приостановке расширения эвтаназии для психических заболеваний и декриминализации предварительных запросов",
-      "summary": "Законопроект C-41 продолжит исключать эвтаназию для лиц с психическими заболеваниями и декриминализирует предварительные запросы на эвтаназию.",
+      "title": "Канада предлагает законопроект о приостановке расширения эвтаназии при психических заболеваниях",
+      "summary": "Законопроект C-41 продолжит исключать эвтаназию для лиц с только психическими заболеваниями и декриминализирует предварительные запросы на эвтаназию.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/canada-tables-bill-to-halt-maid-expansion-for-mental-illness-decriminalize-advance-requests",
@@ -97,13 +207,13 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/father-give-me-a-hug-i-m-alive-a-priest-s-testimony-of-the-train-collision-in-spain",
       "publishedAt": "2026-10-29T13:30:49.000Z",
-      "importance": 6,
+      "importance": 5,
       "aiProcessed": true
     },
     {
       "id": "https://cathmos.ru/video-kafedralnyj-lektorij-otkrytaya-czerkov-v-otkrytom-gorode/",
       "title": "Видео: Кафедральный лекторий. Открытая церковь в открытом городе",
-      "summary": "Видео лекции, посвящённой теме открытости Церкви в современном городе, представленной в Архиепархии Божией Матери в Москве.",
+      "summary": "Видео лекции Архиепархии Божией Матери в Москве о значении открытой церкви в современном городе.",
       "category": "Россия",
       "source": "Архиепархия Божией Матери в Москве",
       "url": "https://cathmos.ru/video-kafedralnyj-lektorij-otkrytaya-czerkov-v-otkrytom-gorode/",
@@ -113,113 +223,93 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/5-god-incidences-will-mark-pope-leo-xiv-s-upcoming-trip-to-south-america",
-      "title": "Пять «божественных совпадений» сопроводят поездку Папы Льва XIV в Южную Америку",
-      "summary": "Во время ноябрьского визита Папы Льва XIV в Уругвай, Аргентину и Перу произойдут ряд провиденциальных совпадений.",
-      "category": "Ватикан",
+      "title": "5 ‘God-incidences’ will mark Pope Leo XIV’s upcoming trip to South America",
+      "summary": "A series of providential coincidences will coincide with Pope Leo’s November visit to Uruguay, Argentina, and Peru.",
+      "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/5-god-incidences-will-mark-pope-leo-xiv-s-upcoming-trip-to-south-america",
-      "publishedAt": "2026-10-29T10:00:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
+      "publishedAt": "2026-10-29T10:00:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/cardinal-tobin-asks-for-prayers-as-he-heads-to-surgery-for-mass-in-kidney",
-      "title": "Кардинал Тобин просит молиться перед операцией по удалению опухоли в почке",
-      "summary": "Кардинал Джозеф Тобин готовится к операции по удалению опухоли в почке, которую обследуют врачи. Архиепархия сообщает об оптимистичных прогнозах.",
-      "category": "Ватикан",
+      "title": "Cardinal Tobin asks for prayers as he heads to surgery for mass in kidney",
+      "summary": "Cardinal Joseph Tobin will undergo surgery to remove a mass in a kidney, which will be examined by doctors. The archdiocese said doctors are optimistic about his outlook.",
+      "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/cardinal-tobin-asks-for-prayers-as-he-heads-to-surgery-for-mass-in-kidney",
-      "publishedAt": "2026-10-28T20:30:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
+      "publishedAt": "2026-10-28T20:30:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/deadly-train-accident-in-spain-the-church-joins-in-the-grief-of-the-victims",
-      "title": "Смертельная железнодорожная авария в Испании: Церковь выражает соболезнования",
-      "summary": "Епископская конференция Испании и многие епископы выразили соболезнования после железнодорожной трагедии с десятками погибших.",
+      "title": "Deadly train accident in Spain: The Church joins in grief",
+      "summary": "The Spanish Bishops’ Conference, along with numerous bishops and dioceses, expressed condolences and consternation following a railway tragedy that resulted in dozens of deaths.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/deadly-train-accident-in-spain-the-church-joins-in-the-grief-of-the-victims",
-      "publishedAt": "2026-10-28T19:50:00.000Z",
-      "importance": 8,
-      "aiProcessed": true
+      "publishedAt": "2026-10-28T19:50:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/pew-report-challenges-narrative-on-rising-religiosity-in-u-s",
-      "title": "Отчет Pew ставит под сомнение рост религиозности в США",
-      "summary": "Исследование Pew показало, что религиозная практика в США с 2020 года остается стабильной, однако опрос молодых взрослых выявил неоднозначные данные.",
+      "title": "Pew report challenges narrative on rising religiosity in U.S.",
+      "summary": "A Pew Research Center report found that while religious practice in the U.S. has “remained stable” since 2020, a survey of young adults about religious practice found “mixed signals.”",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/pew-report-challenges-narrative-on-rising-religiosity-in-u-s",
-      "publishedAt": "2026-10-28T19:10:00.000Z",
-      "importance": 6,
-      "aiProcessed": true
+      "publishedAt": "2026-10-28T19:10:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/middle-east/coptic-youths-freed-after-video-sparks-accusations-of-insulting-islam",
-      "title": "Коптские молодые люди освобождены после обвинений в оскорблении ислама",
-      "summary": "Коптский исследователь призывает к осторожности на фоне продолжающихся дел о религиозных оскорблениях в Египте.",
+      "title": "Coptic youths freed after video sparks accusations of insulting Islam",
+      "summary": "Coptic researcher urges caution as religious contempt cases persist in Egypt.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/middle-east/coptic-youths-freed-after-video-sparks-accusations-of-insulting-islam",
-      "publishedAt": "2026-10-28T18:30:00.000Z",
-      "importance": 5,
-      "aiProcessed": true
+      "publishedAt": "2026-10-28T18:30:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/vatican/china-vatican-deal-has-imperfections-vatican-s-foreign-minister-says",
-      "title": "Министр иностранных дел Ватикана признал несовершенства соглашения с Китаем",
-      "summary": "Архиепископ Пол Галлахер отметил сложности в соглашении с Китаем на встрече с журналистами в Риме.",
+      "title": "China-Vatican deal has imperfections, Vatican’s foreign minister says",
+      "summary": "Archbishop Paul Gallagher acknowledged the agreement’s challenges in a meeting with journalists in Rome.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/china-vatican-deal-has-imperfections-vatican-s-foreign-minister-says",
-      "publishedAt": "2026-10-28T17:50:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
+      "publishedAt": "2026-10-28T17:50:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/vatican/mercedes-benz-marks-long-history-of-making-cars-for-the-pope",
-      "title": "Mercedes-Benz отмечает долгую историю производства автомобилей для Папы",
-      "summary": "Папа Лев XIV также встретился с руководителями немецкой автокомпании в среду.",
+      "title": "Mercedes-Benz marks long history of making cars for the pope",
+      "summary": "Pope Leo XIV also met with the executives of the German auto company on Wednesday.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/mercedes-benz-marks-long-history-of-making-cars-for-the-pope",
-      "publishedAt": "2026-10-28T17:10:00.000Z",
-      "importance": 4,
-      "aiProcessed": true
+      "publishedAt": "2026-10-28T17:10:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/kansas-city-priest-pleads-guilty-to-usd160-000-theft-from-parish",
-      "title": "Священник из Канзас-Сити признал вину в краже 160 тысяч долларов из прихода",
-      "summary": "Отец Ричард Стори обвинялся в уголовной краже в мае этого года.",
-      "category": "Россия",
+      "title": "Kansas City priest pleads guilty to $160,000 theft from parish",
+      "summary": "Father Richard Storey was accused of the felony theft in May of this year.",
+      "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/kansas-city-priest-pleads-guilty-to-usd160-000-theft-from-parish",
-      "publishedAt": "2026-10-28T16:30:00.000Z",
-      "importance": 5,
-      "aiProcessed": true
+      "publishedAt": "2026-10-28T16:30:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/vatican/vatican-publishes-pope-leo-s-mass-schedule-from-all-souls-day-to-dec-20",
-      "title": "Ватикан опубликовал расписание мессы Папы Льва с Дня всех усопших до 20 декабря",
-      "summary": "Ватикан пока не подтвердил детали литургических торжеств, запланированных на Рождество.",
+      "title": "Vatican publishes Pope Leo’s Mass schedule from All Souls’ Day to Dec. 20",
+      "summary": "The Vatican has not yet confirmed details regarding the liturgical celebrations planned for Christmas.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/vatican-publishes-pope-leo-s-mass-schedule-from-all-souls-day-to-dec-20",
-      "publishedAt": "2026-10-28T15:45:00.000Z",
-      "importance": 4,
-      "aiProcessed": true
+      "publishedAt": "2026-10-28T15:45:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/nordic-bishops-countries-must-weigh-how-many-migrants-they-can-integrate",
-      "title": "Северные епископы призывают аккуратно интегрировать мигрантов",
-      "summary": "Шесть католических епископов из Швеции, Дании, Норвегии, Финляндии и Исландии подчёркивают обязанности мигрантов перед новыми странами и предупреждают против высылки беженцев и хорошо интегрированных.",
+      "title": "Nordic bishops: Countries must carefully integrate migrants",
+      "summary": "Six Catholic bishops from Sweden, Denmark, Norway, Finland, and Iceland stress migrants' duties to their new homelands and warn against expelling refugees and those already well integrated.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/nordic-bishops-countries-must-weigh-how-many-migrants-they-can-integrate",
-      "publishedAt": "2026-10-28T15:00:00.000Z",
-      "importance": 6,
-      "aiProcessed": true
+      "publishedAt": "2026-10-28T15:00:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/vatican/a-century-after-pius-xi-ordained-6-chinese-bishops-who-chooses-china-s-bishops",
@@ -1756,96 +1846,6 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/ohio-university-of-dayton-names-first-woman-president",
       "publishedAt": "2026-10-14T11:00:00.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/sen-hawley-asks-fda-to-address-concerns-over-incomplete-data-in-abortion-drug-safety-study",
-      "title": "Sen. Hawley asks FDA to address concerns over incomplete data in abortion drug safety study",
-      "summary": "Here is a roundup of recent pro-life and abortion-related news.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/sen-hawley-asks-fda-to-address-concerns-over-incomplete-data-in-abortion-drug-safety-study",
-      "publishedAt": "2026-10-14T10:00:00.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/catholics-prefer-democrats-midterms",
-      "title": "Pew midterm poll: Catholics prefer Democratic House candidates by 3-point margin",
-      "summary": "The survey found that a narrow plurality of Catholics prefer Democrats in the midterm elections as Catholic approval of President Donald Trump continues to plummet.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/catholics-prefer-democrats-midterms",
-      "publishedAt": "2026-10-13T22:31:00.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/who-is-st-peregrine-the-cancer-saint-catholics-are-invoking-for-pope-leo-xiv",
-      "title": "Who is St. Peregrine, the ‘cancer saint’ Catholics are invoking for Pope Leo XIV?",
-      "summary": "As Pope Leo XIV recovers from lung cancer surgery, meet St. Peregrine Laziosi, the Servite priest healed the night before his amputation and now patron of cancer patients.",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/who-is-st-peregrine-the-cancer-saint-catholics-are-invoking-for-pope-leo-xiv",
-      "publishedAt": "2026-10-13T21:51:00.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/americas/brazil-archbishop-receives-presidential-candidate-flavio-bolsonaro-in-institutional-visit",
-      "title": "Brazil archbishop receives presidential candidate Flávio Bolsonaro in ‘institutional visit’",
-      "summary": "The cardinal, senator, and congressman met on the basis of church-state relationships and discussed issues such as protecting human life, social justice, poverty, and the common good.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/americas/brazil-archbishop-receives-presidential-candidate-flavio-bolsonaro-in-institutional-visit",
-      "publishedAt": "2026-10-13T21:11:00.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-has-lung-cancer-vatican-says",
-      "title": "Pope Leo XIV has lung cancer, Vatican says",
-      "summary": "The Holy See Press Office confirmed Tuesday evening that the nodule removed during Pope Leo XIV’s surgery was cancerous.",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-has-lung-cancer-vatican-says",
-      "publishedAt": "2026-10-13T20:31:38.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/ewtn-news-explains-who-s-in-charge-of-the-vatican-while-pope-leo-xiv-is-hospitalized",
-      "title": "EWTN News explains: Who’s in charge of the Vatican while Pope Leo XIV is hospitalized?",
-      "summary": "Who exactly runs the Vatican when a pope is hospitalized or unable to perform his normal duties?",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/ewtn-news-explains-who-s-in-charge-of-the-vatican-while-pope-leo-xiv-is-hospitalized",
-      "publishedAt": "2026-10-13T19:36:00.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/praying-for-pope-leo-meet-the-patron-saint-of-lung-problems",
-      "title": "Praying for Pope Leo? Meet the patron saint of lung problems",
-      "summary": "As the Church and the world prays for Pope Leo XIV this week, we turn to St. Bernardine of Siena, known as “the Apostle of Italy” and for his intercession for those with lung and respiratory issues.",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/praying-for-pope-leo-meet-the-patron-saint-of-lung-problems",
-      "publishedAt": "2026-10-13T16:32:00.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/who-is-dr-luigi-carbone-pope-leo-xiv-s-personal-physician",
-      "title": "Who is Dr. Luigi Carbone, Pope Leo XIV’s personal physician?",
-      "summary": "As the pontiff undergoes surgery at Rome’s Gemelli Hospital, the Vatican’s chief medical official plays a central role in coordinating his care.",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/who-is-dr-luigi-carbone-pope-leo-xiv-s-personal-physician",
-      "publishedAt": "2026-10-13T15:52:00.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-breaks-with-decades-of-secrecy-by-announcing-his-own-surgery",
-      "title": "Pope Leo XIV breaks with decades of secrecy by announcing his own surgery",
-      "summary": "The pontiff’s surprise disclosure about a lung nodule has drawn praise from senior cardinals, who see it as an unprecedented gesture of transparency and an expression of humility and trust.",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-breaks-with-decades-of-secrecy-by-announcing-his-own-surgery",
-      "publishedAt": "2026-10-13T15:12:10.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/villanova-scholars-bring-catholic-social-teaching-to-rome-sustainability-conference",
-      "title": "Villanova scholars bring Catholic social teaching to Rome sustainability conference",
-      "summary": "The conference focuses on the ethical and moral dimensions of caring for the environment and vulnerable communities, Father John Abubakar, chief sustainability officer at Villanova University, said.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/villanova-scholars-bring-catholic-social-teaching-to-rome-sustainability-conference",
-      "publishedAt": "2026-10-13T12:00:00.000Z"
     }
   ]
 }

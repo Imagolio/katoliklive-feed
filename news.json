@@ -1,21 +1,32 @@
 {
-  "updatedAt": "2026-10-30T01:02:10.063Z",
+  "updatedAt": "2026-10-30T10:03:59.341Z",
   "news": [
     {
-      "id": "https://www.ewtnnews.com/world/us/pro-life-group-protests-cardinal-cupich-s-award-to-philanthropist-planned-parenthood-donor",
-      "title": "Протест про-жизни против награждения кардиналом Купичем филантропа и донора Planned Parenthood",
-      "summary": "Кардинал Блэйз Купич заявил, что награда не означает одобрение всех взглядов человека, но Illinois Right to Life обвинила его в «оскорблении верующих» на банкете 29 октября.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/pro-life-group-protests-cardinal-cupich-s-award-to-philanthropist-planned-parenthood-donor",
-      "publishedAt": "2026-10-29T20:11:00.000Z",
+      "id": "https://cathmos.ru/konstantin-leviczkij-prinyat-v-kandidaty-v-svyashhennyj-san/",
+      "title": "Константин Левицкий принят в кандидаты в священный сан",
+      "summary": "Константин Левицкий официально принят в кандидаты на священнический сан в Архиепархии Божией Матери в Москве.",
+      "category": "Россия",
+      "source": "Архиепархия Божией Матери в Москве",
+      "url": "https://cathmos.ru/konstantin-leviczkij-prinyat-v-kandidaty-v-svyashhennyj-san/",
+      "publishedAt": "2026-10-30T06:25:55.000Z",
       "importance": 5,
       "aiProcessed": true
     },
     {
+      "id": "https://www.ewtnnews.com/world/us/pro-life-group-protests-cardinal-cupich-s-award-to-philanthropist-planned-parenthood-donor",
+      "title": "Группа за жизнь протестует против награды кардиналу Купичу, вручённой филантропу и донору Planned Parenthood",
+      "summary": "Кардинал Блэйз Купич заявил, что награда не означает одобрение всех взглядов человека, однако организация Illinois Right to Life обвинила его в «оскорблении верующих» на банкете 29 октября.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/pro-life-group-protests-cardinal-cupich-s-award-to-philanthropist-planned-parenthood-donor",
+      "publishedAt": "2026-10-29T20:11:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
       "id": "https://www.ewtnnews.com/world/us/scholars-criticize-u-s-bishops-for-comparing-proposed-census-rule-to-1700s-slave-compromise",
-      "title": "Учёные критикуют епископов США за сравнение предложенного правила переписи с компромиссом по рабству XVIII века",
-      "summary": "Многие юристы и эксперты резко не согласились с утверждением епископов, что исключение неграждан из переписи означает, что они не считаются людьми.",
+      "title": "Учёные критикуют американских епископов за сравнение предложенного правила переписи с компромиссом по рабству XVIII века",
+      "summary": "Многие юристы и эксперты резко не согласились с утверждением епископов, что исключение неграждан из переписи означает, что они не считаются личностями.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/scholars-criticize-u-s-bishops-for-comparing-proposed-census-rule-to-1700s-slave-compromise",
@@ -26,7 +37,7 @@
     {
       "id": "https://www.ewtnnews.com/world/americas/attending-lord-of-the-miracles-procession-not-enough-says-auxiliary-bishop-of-lima",
       "title": "Празднование Господа Чудес в Перу: «Недостаточно просто участвовать в процессии», — призывает епископ",
-      "summary": "Епископ Гильермо Элиас призвал верующих жить верой, выходящей за рамки процессий и проявляющейся в делах любви.",
+      "summary": "Епископ Гильермо Элиас призвал верующих жить верой, которая выходит за рамки процессий и проявляется в делах любви.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/attending-lord-of-the-miracles-procession-not-enough-says-auxiliary-bishop-of-lima",
@@ -36,8 +47,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/u-s-bishops-urge-catholic-voters-start-with-your-faith",
-      "title": "Епископы США призывают католиков: начинайте с веры, осмысливайте свой выбор на выборах",
-      "summary": "Видео опубликованы за несколько дней до промежуточных выборов 2026 года в США, которые могут стать референдумом по второму сроку Дональда Трампа.",
+      "title": "Американские епископы призывают католиков избирать, руководствуясь верой",
+      "summary": "За несколько дней до промежуточных выборов 2026 года в США епископы выпустили видео с призывом к католикам начинать выборы с размышления о своей вере.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/u-s-bishops-urge-catholic-voters-start-with-your-faith",
@@ -47,8 +58,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/rome-conference-asks-whether-the-church-did-enough-to-resist-totalitarian-regimes",
-      "title": "Римская конференция: сделала ли Церковь достаточно для сопротивления тоталитаризму",
-      "summary": "Во время конференции кардинал Пьетро Паролин предупредил страны о соблазне «быть как Бог».",
+      "title": "Римская конференция обсуждает, достаточно ли Церковь сопротивлялась тоталитарным режимам",
+      "summary": "На конференции кардинал Пьетро Паролин предупредил страны о соблазне «быть как Бог» и призвал к осмыслению роли Церкви в противостоянии тоталитаризму.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/rome-conference-asks-whether-the-church-did-enough-to-resist-totalitarian-regimes",
@@ -59,18 +70,18 @@
     {
       "id": "https://www.ewtnnews.com/world/europe/eyewitness-to-train-accident-aftermath-recounts-dying-man-s-final-words-god-is-good",
       "title": "Очевидец последствий железнодорожной аварии рассказал последние слова умирающего: «Бог добр»",
-      "summary": "Антонио Гарсия Кондадо, 78-летний аптекарь из города, был одним из первых, кто увидел десятки тел под искорёженным металлом после смертельного столкновения поездов в Испании.",
+      "summary": "Антонио Гарсия Кондадо, 78-летний фармацевт, одним из первых увидел тела погибших под обломками после смертельного столкновения поездов в Испании.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/eyewitness-to-train-accident-aftermath-recounts-dying-man-s-final-words-god-is-good",
       "publishedAt": "2026-10-29T14:50:00.000Z",
-      "importance": 7,
+      "importance": 6,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/canada-tables-bill-to-halt-maid-expansion-for-mental-illness-decriminalize-advance-requests",
       "title": "Канада предлагает законопроект о приостановке расширения эвтаназии для психических заболеваний и декриминализации предварительных запросов",
-      "summary": "Законопроект C-41 продолжит исключать доступ к эвтаназии для лиц с исключительно психическими заболеваниями и декриминализует предварительные запросы на эвтаназию.",
+      "summary": "Законопроект C-41 продолжит исключать эвтаназию для лиц с психическими заболеваниями и декриминализирует предварительные запросы на эвтаназию.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/canada-tables-bill-to-halt-maid-expansion-for-mental-illness-decriminalize-advance-requests",
@@ -81,18 +92,18 @@
     {
       "id": "https://www.ewtnnews.com/world/europe/father-give-me-a-hug-i-m-alive-a-priest-s-testimony-of-the-train-collision-in-spain",
       "title": "«Отец, обними меня, я жив»: свидетельство священника о железнодорожной аварии в Испании",
-      "summary": "Священник провёл часы, сопровождая раненых пассажиров, застрявших в искорёженных вагонах поезда после столкновения.",
+      "summary": "Священник несколько часов сопровождал раненых пассажиров, застрявших в повреждённых вагонах поезда после столкновения.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/father-give-me-a-hug-i-m-alive-a-priest-s-testimony-of-the-train-collision-in-spain",
       "publishedAt": "2026-10-29T13:30:49.000Z",
-      "importance": 7,
+      "importance": 6,
       "aiProcessed": true
     },
     {
       "id": "https://cathmos.ru/video-kafedralnyj-lektorij-otkrytaya-czerkov-v-otkrytom-gorode/",
       "title": "Видео: Кафедральный лекторий. Открытая церковь в открытом городе",
-      "summary": "Видео лекции, посвящённой открытой церкви в современном городе, представлено Архиепархией Божией Матери в Москве.",
+      "summary": "Видео лекции, посвящённой теме открытости Церкви в современном городе, представленной в Архиепархии Божией Матери в Москве.",
       "category": "Россия",
       "source": "Архиепархия Божией Матери в Москве",
       "url": "https://cathmos.ru/video-kafedralnyj-lektorij-otkrytaya-czerkov-v-otkrytom-gorode/",
@@ -102,19 +113,19 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/5-god-incidences-will-mark-pope-leo-xiv-s-upcoming-trip-to-south-america",
-      "title": "Пять «божественных совпадений» сопроводят предстоящий визит Папы Льва XIV в Южную Америку",
-      "summary": "Серия провиденциальных совпадений ожидается во время ноябрьского визита Папы Льва XIV в Уругвай, Аргентину и Перу.",
+      "title": "Пять «божественных совпадений» сопроводят поездку Папы Льва XIV в Южную Америку",
+      "summary": "Во время ноябрьского визита Папы Льва XIV в Уругвай, Аргентину и Перу произойдут ряд провиденциальных совпадений.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/5-god-incidences-will-mark-pope-leo-xiv-s-upcoming-trip-to-south-america",
       "publishedAt": "2026-10-29T10:00:00.000Z",
-      "importance": 6,
+      "importance": 7,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/cardinal-tobin-asks-for-prayers-as-he-heads-to-surgery-for-mass-in-kidney",
-      "title": "Кардинал Тобин просит молитв перед операцией по удалению опухоли в почке",
-      "summary": "Кардинал Джозеф Тобин готовится к операции по удалению опухоли в почке, которую затем исследуют врачи. Архиепархия сообщает, что врачи настроены оптимистично относительно его состояния.",
+      "title": "Кардинал Тобин просит молиться перед операцией по удалению опухоли в почке",
+      "summary": "Кардинал Джозеф Тобин готовится к операции по удалению опухоли в почке, которую обследуют врачи. Архиепархия сообщает об оптимистичных прогнозах.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/cardinal-tobin-asks-for-prayers-as-he-heads-to-surgery-for-mass-in-kidney",
@@ -125,7 +136,7 @@
     {
       "id": "https://www.ewtnnews.com/world/europe/deadly-train-accident-in-spain-the-church-joins-in-the-grief-of-the-victims",
       "title": "Смертельная железнодорожная авария в Испании: Церковь выражает соболезнования",
-      "summary": "Епископская конференция Испании и многие епископы и епархии выразили соболезнования и скорбь после железнодорожной трагедии, унесшей десятки жизней.",
+      "summary": "Епископская конференция Испании и многие епископы выразили соболезнования после железнодорожной трагедии с десятками погибших.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/deadly-train-accident-in-spain-the-church-joins-in-the-grief-of-the-victims",
@@ -135,8 +146,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/pew-report-challenges-narrative-on-rising-religiosity-in-u-s",
-      "title": "Отчёт Pew ставит под сомнение рост религиозности в США",
-      "summary": "Исследование Pew Research Center показало, что религиозная практика в США с 2020 года остаётся стабильной, однако опрос молодых взрослых выявил противоречивые данные.",
+      "title": "Отчет Pew ставит под сомнение рост религиозности в США",
+      "summary": "Исследование Pew показало, что религиозная практика в США с 2020 года остается стабильной, однако опрос молодых взрослых выявил неоднозначные данные.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/pew-report-challenges-narrative-on-rising-religiosity-in-u-s",
@@ -147,7 +158,7 @@
     {
       "id": "https://www.ewtnnews.com/world/middle-east/coptic-youths-freed-after-video-sparks-accusations-of-insulting-islam",
       "title": "Коптские молодые люди освобождены после обвинений в оскорблении ислама",
-      "summary": "Коптский исследователь призывает к осторожности, поскольку случаи религиозного неуважения в Египте продолжаются.",
+      "summary": "Коптский исследователь призывает к осторожности на фоне продолжающихся дел о религиозных оскорблениях в Египте.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/middle-east/coptic-youths-freed-after-video-sparks-accusations-of-insulting-islam",
@@ -157,8 +168,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/china-vatican-deal-has-imperfections-vatican-s-foreign-minister-says",
-      "title": "Министр иностранных дел Ватикана признал недостатки соглашения с Китаем",
-      "summary": "Архиепископ Пол Галлахер в Риме отметил существующие сложности в соглашении между Ватиканом и Китаем.",
+      "title": "Министр иностранных дел Ватикана признал несовершенства соглашения с Китаем",
+      "summary": "Архиепископ Пол Галлахер отметил сложности в соглашении с Китаем на встрече с журналистами в Риме.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/china-vatican-deal-has-imperfections-vatican-s-foreign-minister-says",
@@ -169,23 +180,23 @@
     {
       "id": "https://www.ewtnnews.com/vatican/mercedes-benz-marks-long-history-of-making-cars-for-the-pope",
       "title": "Mercedes-Benz отмечает долгую историю производства автомобилей для Папы",
-      "summary": "Папа Лев XIV также встретился в среду с руководителями немецкой автомобильной компании Mercedes-Benz.",
+      "summary": "Папа Лев XIV также встретился с руководителями немецкой автокомпании в среду.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/mercedes-benz-marks-long-history-of-making-cars-for-the-pope",
       "publishedAt": "2026-10-28T17:10:00.000Z",
-      "importance": 5,
+      "importance": 4,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/kansas-city-priest-pleads-guilty-to-usd160-000-theft-from-parish",
       "title": "Священник из Канзас-Сити признал вину в краже 160 тысяч долларов из прихода",
-      "summary": "Отец Ричард Стори был обвинён в уголовной краже в мае этого года.",
+      "summary": "Отец Ричард Стори обвинялся в уголовной краже в мае этого года.",
       "category": "Россия",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/kansas-city-priest-pleads-guilty-to-usd160-000-theft-from-parish",
       "publishedAt": "2026-10-28T16:30:00.000Z",
-      "importance": 6,
+      "importance": 5,
       "aiProcessed": true
     },
     {
@@ -196,30 +207,28 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/vatican-publishes-pope-leo-s-mass-schedule-from-all-souls-day-to-dec-20",
       "publishedAt": "2026-10-28T15:45:00.000Z",
-      "importance": 5,
+      "importance": 4,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/nordic-bishops-countries-must-weigh-how-many-migrants-they-can-integrate",
-      "title": "Северные епископы: страны должны тщательно интегрировать мигрантов",
-      "summary": "Шесть католических епископов из Швеции, Дании, Норвегии, Финляндии и Исландии подчёркивают обязанности мигрантов перед новыми родинами и предупреждают против высылки беженцев и хорошо интегрированных.",
+      "title": "Северные епископы призывают аккуратно интегрировать мигрантов",
+      "summary": "Шесть католических епископов из Швеции, Дании, Норвегии, Финляндии и Исландии подчёркивают обязанности мигрантов перед новыми странами и предупреждают против высылки беженцев и хорошо интегрированных.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/nordic-bishops-countries-must-weigh-how-many-migrants-they-can-integrate",
       "publishedAt": "2026-10-28T15:00:00.000Z",
-      "importance": 7,
+      "importance": 6,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/a-century-after-pius-xi-ordained-6-chinese-bishops-who-chooses-china-s-bishops",
-      "title": "Столетие со дня рукоположения шести китайских епископов Пием XI: кто выбирает епископов в Китае?",
-      "summary": "Кардинал Стивен Чоу приветствовал новые рукоположения с одобрения Ватикана в рамках соглашения с Китаем; миссионеры, учёные и правозащитники задаются вопросом, насколько это увеличило свободу.",
+      "title": "A century after Pius XI ordained 6 Chinese bishops, who chooses China's bishops?",
+      "summary": "Cardinal Stephen Chow welcomed more papal-approved ordinations under the Vatican-China deal; a missionary, scholars, and rights advocates ask how much freedom it has brought.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/a-century-after-pius-xi-ordained-6-chinese-bishops-who-chooses-china-s-bishops",
-      "publishedAt": "2026-10-28T14:00:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
+      "publishedAt": "2026-10-28T14:00:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-live-the-faith-without-hostility-towards-the-world",
@@ -1837,15 +1846,6 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/villanova-scholars-bring-catholic-social-teaching-to-rome-sustainability-conference",
       "publishedAt": "2026-10-13T12:00:00.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/bishops-condemn-public-broadcast-of-hasan-execution-emphasize-church-s-opposition-to-death",
-      "title": "Bishops condemn broadcast of firing squad execution, emphasize Church’s opposition to death penalty",
-      "summary": "Archbishop Timothy Broglio said, after meeting with Pope Leo XIV, that the firing squad could cause moral harm to the service members ordered to carry it out.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/bishops-condemn-public-broadcast-of-hasan-execution-emphasize-church-s-opposition-to-death",
-      "publishedAt": "2026-10-13T11:00:00.000Z"
     }
   ]
 }

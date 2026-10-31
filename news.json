@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-30T22:23:26.437Z",
+  "updatedAt": "2026-10-31T05:45:26.733Z",
   "news": [
     {
       "id": "https://www.ewtnnews.com/world/americas/cardinal-cabrera-announces-safety-plan-following-death-of-priest-struck-by-cross",
-      "title": "Архиепископ Эквадора объявил план безопасности после смерти священника, которого убила падающая крест",
-      "summary": "Архиепископ Гуаякиля объявил план безопасности, чтобы предотвратить подобные несчастные случаи, как смерть отца Патрисио Санчеса, которого убил падающий крест во время мессы.",
+      "title": "Архиепископ Эквадора объявил план безопасности после смерти священника, пострадавшего от упавшего креста",
+      "summary": "Архиепископ Гуаякиля объявил план безопасности для предотвращения подобных несчастных случаев после гибели отца Патрисио Санчеса, которого травмировал упавший крест во время мессы.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/cardinal-cabrera-announces-safety-plan-following-death-of-priest-struck-by-cross",
@@ -14,7 +14,7 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/ewtn-to-end-shortwave-radio-operations-after-34-years",
-      "title": "EWTN прекращает вещание на коротких волнах после 34 лет работы",
+      "title": "EWTN прекращает работу коротковолнового радио после 34 лет вещания",
       "summary": "Глобальная католическая сеть закрывает коротковолновую станцию из-за высоких затрат и изменений в медиа-среде, где она работала с начала 1990-х годов.",
       "category": "Мир",
       "source": "Catholic News Agency",
@@ -37,7 +37,7 @@
     {
       "id": "https://www.ewtnnews.com/world/asia-pacific/catholic-sisters-visit-to-buddhist-temple-stirs-controversy-in-vietnam",
       "title": "Визит католических сестер в буддийский храм вызвал споры во Вьетнаме",
-      "summary": "Католические сестры посетили буддийское святилище, число епископов в Ирландии сократится на треть, а Святой Престол призвал к мирному использованию космоса на заседании ООН.",
+      "summary": "Католические сестры посетили буддийский храм, число епископов в Ирландии сократится на треть, а Святой Престол призвал к мирному использованию космоса на заседании ООН.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-sisters-visit-to-buddhist-temple-stirs-controversy-in-vietnam",
@@ -58,7 +58,7 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/muslim-u-s-senate-candidate-raises-contentious-comparison-of-canon-law-sharia-law",
-      "title": "Мусульманский кандидат в Сенат США вновь подвергся критике за сравнение канонического и шариатского права",
+      "title": "Мусульманский кандидат в Сенат США вновь подвергся критике за сравнение канонического права с шариатом",
       "summary": "Кандидат в Сенат от Мичигана вызвал обсуждение значительных различий между католическим и исламским правом после своих высказываний.",
       "category": "Мир",
       "source": "Catholic News Agency",
@@ -69,8 +69,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/santiago-schnell-resigns-as-dartmouth-provost-over-ai-use",
-      "title": "Сантьяго Шнелл уходит с поста проректора Дартмута из-за использования ИИ",
-      "summary": "Случай подчёркивает сложные вопросы, связанные с быстрым внедрением ИИ в профессиональное письмо, особенно в высшем образовании.",
+      "title": "Сантьяго Шнелл подал в отставку с поста проректора Дартмутского колледжа из-за использования ИИ",
+      "summary": "Этот случай поднимает сложные вопросы, связанные с быстрым внедрением ИИ в профессиональное письмо, особенно в высшем образовании.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/santiago-schnell-resigns-as-dartmouth-provost-over-ai-use",
@@ -80,8 +80,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/africa/tanzania-bishop-urges-truth-forgiveness-to-prevent-further-election-violence",
-      "title": "Епископ Танзании призывает к правде и прощению во избежание новых выборных конфликтов",
-      "summary": "Год спустя после насилия на выборах 29 октября 2025 года председатель епископской конференции Танзании призвал соблюдать правду и пересмотреть избирательную систему страны.",
+      "title": "Епископ Танзании призывает к правде и прощению, чтобы предотвратить дальнейшее насилие после выборов",
+      "summary": "Год спустя после насилия на выборах 29 октября 2025 года председатель Танзанийской епископской конференции призвал народ сохранять правду и пересмотреть избирательную систему страны.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/africa/tanzania-bishop-urges-truth-forgiveness-to-prevent-further-election-violence",
@@ -91,7 +91,7 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-ai-can-never-be-a-person-its-future-depends-on-our-choices",
-      "title": "Папа Лев XIV: ИИ никогда не станет личностью; его будущее зависит от наших решений",
+      "title": "Папа Лев XIV: Искусственный интеллект никогда не станет личностью; его будущее зависит от наших решений",
       "summary": "Понтифик встретился с участниками ватиканской конференции по ИИ, организованной Папской академией жизни.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
@@ -103,7 +103,7 @@
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-modifies-disciplinary-sanctions-for-employees-of-the-roman-curia",
       "title": "Папа изменил дисциплинарные санкции для сотрудников Римской курии",
-      "summary": "Изменения были утверждены 19 октября через Rescriptum ex Audientia Sanctissimi — рескрипт от Святейшего Отца.",
+      "summary": "Изменения были утверждены понтификом 19 октября через Rescriptum ex Audientia Sanctissimi («Рескрипт от аудиенции Святейшего Отца»).",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-modifies-disciplinary-sanctions-for-employees-of-the-roman-curia",
@@ -125,7 +125,7 @@
     {
       "id": "https://www.ewtnnews.com/world/europe/polish-court-convicts-tarnow-bishop-of-failing-to-promptly-report-abuse",
       "title": "Польский суд признал епископа виновным в несвоевременном сообщении о насилии",
-      "summary": "Суд постановил, что каноническое право не отменяет польские обязанности по отчетности. Епархия, заявляющая, что уведомила власти в обоих случаях, намерена обжаловать решение.",
+      "summary": "Суд постановил, что каноническое право не отменяет польские обязанности по отчетности. Епархия, заявляющая о своевременном уведомлении властей, намерена обжаловать решение.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/polish-court-convicts-tarnow-bishop-of-failing-to-promptly-report-abuse",
@@ -157,8 +157,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/highly-secularized-uruguay-prepares-to-welcome-pope-leo-xiv",
-      "title": "Высокосекуляризированный Уругвай готовится к визиту Папы Льва XIV",
-      "summary": "Хотя опросы показывают, что только 33% уругвайцев считают себя католиками, а 28% — атеистами или агностиками, визит папы вызывает большой интерес.",
+      "title": "Сильно секуляризованный Уругвай готовится к визиту Папы Льва XIV",
+      "summary": "Хотя опросы показывают, что лишь 33% уругвайцев считают себя католиками, а 28% — атеистами или агностиками, визит Папы вызывает большой интерес.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/highly-secularized-uruguay-prepares-to-welcome-pope-leo-xiv",
@@ -169,7 +169,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/all-saints-day-2026-what-catholics-should-know-about-this-holy-day-of-obligation",
       "title": "День всех святых 2026: что католикам нужно знать об этом праздничном дне обязательного богослужения",
-      "summary": "В 2026 году торжество Всех Святых заменит 31-й воскресный день обычного времени в литургическом календаре.",
+      "summary": "В 2026 году торжество Всех Святых заменит 31-е воскресенье обычного времени в литургическом календаре.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/all-saints-day-2026-what-catholics-should-know-about-this-holy-day-of-obligation",
@@ -180,7 +180,7 @@
     {
       "id": "https://cathmos.ru/konstantin-leviczkij-prinyat-v-kandidaty-v-svyashhennyj-san/",
       "title": "Константин Левицкий принят в кандидаты на священнический сан",
-      "summary": "Архиепархия Божией Матери в Москве сообщила о принятии Константина Левицкого в кандидаты на священство.",
+      "summary": "Архиепархия Божией Матери в Москве объявила о принятии Константина Левицкого в кандидаты на священнический сан.",
       "category": "Россия",
       "source": "Архиепархия Божией Матери в Москве",
       "url": "https://cathmos.ru/konstantin-leviczkij-prinyat-v-kandidaty-v-svyashhennyj-san/",
@@ -191,7 +191,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/pro-life-group-protests-cardinal-cupich-s-award-to-philanthropist-planned-parenthood-donor",
       "title": "Противники абортов протестуют против награждения кардиналом Купичем филантропа и донора Planned Parenthood",
-      "summary": "Кардинал Блэйз Купич заявил, что награда не означает одобрение всех взглядов лауреата, однако группа Illinois Right to Life обвинила его в «оскорблении верующих» на банкете 29 октября.",
+      "summary": "Кардинал Блейз Купич заявил, что награда не означает одобрения всех взглядов человека, однако группа Illinois Right to Life обвинила его в «оскорблении верующих» на банкете 29 октября.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/pro-life-group-protests-cardinal-cupich-s-award-to-philanthropist-planned-parenthood-donor",
@@ -213,7 +213,7 @@
     {
       "id": "https://www.ewtnnews.com/world/americas/attending-lord-of-the-miracles-procession-not-enough-says-auxiliary-bishop-of-lima",
       "title": "Празднование Господа Чудес в Перу: епископ призывает верующих к активной вере",
-      "summary": "Епископ Гильермо Элиас призвал верующих жить верой, которая выходит за рамки участия в процессиях и проявляется в делах любви.",
+      "summary": "Епископ Гильермо Элиас призвал верующих жить верой, выходящей за рамки процессий и проявляющейся в делах любви.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/attending-lord-of-the-miracles-procession-not-enough-says-auxiliary-bishop-of-lima",

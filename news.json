@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-31T19:19:21.745Z",
+  "updatedAt": "2026-11-01T00:08:55.726Z",
   "news": [
     {
       "id": "https://www.ewtnnews.com/world/us/new-york-archbishop-joins-religious-sisters-in-suing-state-over-assisted-suicide-law",
       "title": "Архиепископ Нью-Йорка присоединился к иску религиозных сестёр против закона об эвтаназии",
-      "summary": "Архиепископ Рональд Хикс поддержал иск нескольких орденов сестёр против недавно принятого закона штата об ассистированном самоубийстве.",
+      "summary": "Архиепископ Рональд Хикс поддержал иск нескольких орденов сестёр против недавно принятого закона штата об ассистированном суициде.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/new-york-archbishop-joins-religious-sisters-in-suing-state-over-assisted-suicide-law",
@@ -14,8 +14,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-welcomes-thousands-from-notre-dame-villanova-to-vatican",
-      "title": "Папа Лев XIV встретил тысячи гостей из Нотр-Дама и Виллановы в Ватикане перед исторической игрой",
-      "summary": "Папа встретился с баскетбольными командами, студентами и болельщиками обоих университетов перед воскресным матчем Eternal City Tip-Off.",
+      "title": "Папа Лев XIV встретил тысячи студентов и болельщиков из Нотр-Дама и Виллановы перед исторической игрой",
+      "summary": "Папа встретился с баскетбольными командами, студентами и фанатами обоих университетов перед воскресным матчем Eternal City Tip-Off.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-welcomes-thousands-from-notre-dame-villanova-to-vatican",
@@ -26,7 +26,7 @@
     {
       "id": "https://www.ewtnnews.com/world/europe/cardinal-simoni-says-faith-sustained-him-through-death-sentence-for-mass-honoring-president",
       "title": "Кардинал Симони: вера поддержала меня во время смертного приговора за мессу в честь президента Кеннеди",
-      "summary": "98-летний албанский кардинал призвал молиться за мировых лидеров после пережитых жестоких религиозных гонений.",
+      "summary": "98-летний албанский кардинал призвал молиться за мировых лидеров после пережитых жестоких религиозных преследований.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/cardinal-simoni-says-faith-sustained-him-through-death-sentence-for-mass-honoring-president",
@@ -36,7 +36,7 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/plru-bishops-celebrate-prcs",
-      "title": "Епископы США отмечают центры помощи беременным в Неделю благодарности за поддержку жизни",
+      "title": "Епископы США отмечают центры помощи беременным в Неделю признательности за поддержку жизни",
       "summary": "Обзор последних новостей, связанных с защитой жизни и вопросами абортов в США.",
       "category": "Мир",
       "source": "Catholic News Agency",
@@ -47,19 +47,19 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/how-catholics-can-get-8-plenary-indulgences-during-the-first-week-of-november",
-      "title": "Как католики могут получить 8 полноценных индульгенций в первую неделю ноября",
-      "summary": "Католическая церковь традиционно отмечает День всех святых (1 ноября) как октву, продлевая праздник на восемь дней.",
+      "title": "Как католики могут получить восемь полноценных индульгенций в первую неделю ноября",
+      "summary": "Веками Католическая Церковь отмечала День всех святых (1 ноября) как октву, продлевая праздник на восемь дней.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/how-catholics-can-get-8-plenary-indulgences-during-the-first-week-of-november",
       "publishedAt": "2026-10-31T12:00:00.000Z",
-      "importance": 4,
+      "importance": 5,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-presented-with-book-on-eucharistic-miracle-he-promoted-as-bishop",
       "title": "Папе Льву XIV подарили книгу о евхаристическом чуде, которое он продвигал будучи епископом",
-      "summary": "Священник вручил Папе Льву XIV книгу о паломничестве «Божественного Ребёнка Чуда», почитание которого папа сам поддерживал, вдохновлённое единственным в Перу евхаристическим чудом.",
+      "summary": "Священник преподнёс Папе Льву XIV книгу о паломничестве «Божественного Ребёнка Чуда», почитание которого папа сам поощрял, вдохновлённое единственным в Перу евхаристическим чудом.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-presented-with-book-on-eucharistic-miracle-he-promoted-as-bishop",
@@ -70,7 +70,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/new-ewtn-docuseries-offers-inside-look-at-the-catholic-church-s-rite-of-exorcism",
       "title": "Новый документальный сериал EWTN раскрывает обряд экзорцизма в Католической Церкви",
-      "summary": "Трёхсерийный документальный проект «Во имя Иисуса» стремится развеять мифы об экзорцизме, показать, как проводится обряд и как люди находят освобождение.",
+      "summary": "Трёхсерийный документальный сериал «Во имя Иисуса» стремится развеять мифы об экзорцизме, показать, как проводится обряд и как люди находят освобождение.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/new-ewtn-docuseries-offers-inside-look-at-the-catholic-church-s-rite-of-exorcism",
@@ -81,7 +81,7 @@
     {
       "id": "https://www.ewtnnews.com/world/americas/cardinal-cabrera-announces-safety-plan-following-death-of-priest-struck-by-cross",
       "title": "Архиепископ Эквадора объявил план безопасности после смерти священника, пострадавшего от падающего креста",
-      "summary": "Архиепископ Гуаякиля объявил меры безопасности, чтобы предотвратить несчастные случаи, подобные смерти отца Патрисио Санчеса, которого задел упавший крест во время мессы.",
+      "summary": "Архиепископ Гуаякиля объявил план безопасности, чтобы предотвратить подобные несчастные случаи, как тот, что унес жизнь отца Патрисио Санчеса, которого ударил упавший крест во время мессы.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/cardinal-cabrera-announces-safety-plan-following-death-of-priest-struck-by-cross",
@@ -92,7 +92,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/ewtn-to-end-shortwave-radio-operations-after-34-years",
       "title": "EWTN прекращает вещание на коротких волнах после 34 лет работы",
-      "summary": "Глобальная католическая сеть закрывает коротковолновую станцию, работающую с начала 1990-х, из-за высоких затрат и изменений в медиасреде.",
+      "summary": "Глобальная католическая сеть закрывает коротковолновую станцию, работающую с начала 1990-х, из-за высоких затрат и изменений в медиа-среде.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/ewtn-to-end-shortwave-radio-operations-after-34-years",
@@ -113,8 +113,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/asia-pacific/catholic-sisters-visit-to-buddhist-temple-stirs-controversy-in-vietnam",
-      "title": "Вьетнам: визит католических сестёр в буддийский храм вызвал споры",
-      "summary": "Вьетнаме визит католических сестёр в буддийский храм вызвал общественный резонанс. Также в обзоре: сокращение числа епископов в Ирландии на треть и призыв Святого Престола к мирному использованию космоса на заседании ООН.",
+      "title": "Вьетнам: визит католических сестер в буддийский храм вызвал споры",
+      "summary": "Вьетнамские католические сестры посетили буддийский храм, что вызвало общественные споры. Также в новостях: сокращение числа епископов в Ирландии на треть и призыв Святого Престола к мирному использованию космоса на заседании ООН.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-sisters-visit-to-buddhist-temple-stirs-controversy-in-vietnam",
@@ -124,8 +124,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/pro-life-advocates-say-they-have-enough-signatures-to-suspend-massachusetts-abortion-law",
-      "title": "Сторонники защиты жизни заявляют о достаточном числе подписей для приостановки закона об абортах в Массачусетсе",
-      "summary": "В Массачусетсе активисты pro-life собрали подписи для приостановки закона об абортах. Закон также будет вынесен на голосование в 2028 году после подтверждения штатом.",
+      "title": "Сторонники жизни заявляют о достаточном числе подписей для приостановки закона об абортах в Массачусетсе",
+      "summary": "Активисты против абортов утверждают, что собрали достаточно подписей для приостановки закона об абортах в Массачусетсе. Закон будет вынесен на голосование в 2028 году после подтверждения штатом.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/pro-life-advocates-say-they-have-enough-signatures-to-suspend-massachusetts-abortion-law",
@@ -135,8 +135,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/muslim-u-s-senate-candidate-raises-contentious-comparison-of-canon-law-sharia-law",
-      "title": "Мусульманский кандидат в Сенат США вновь подвергся критике за сравнение канонического права с шариатом",
-      "summary": "Кандидат в Сенат от Мичигана вызвал обсуждение значительных различий между католическим и исламским правом после своих высказываний.",
+      "title": "Мусульманский кандидат в Сенат США вновь подвергся критике за сравнение канонического и шариатского права",
+      "summary": "Кандидат в Сенат от Мичигана вызвал обсуждение значительных различий между католическим каноническим правом и исламским шариатом после своих высказываний.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/muslim-u-s-senate-candidate-raises-contentious-comparison-of-canon-law-sharia-law",
@@ -146,8 +146,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/santiago-schnell-resigns-as-dartmouth-provost-over-ai-use",
-      "title": "Сантьяго Шнелл ушёл в отставку с поста проректора Дартмутского колледжа из-за использования ИИ",
-      "summary": "Отставка подчёркивает сложные вопросы, связанные с быстрым внедрением ИИ в профессиональное письмо, особенно в высшем образовании.",
+      "title": "Сантьяго Шнелл уходит с поста проректора Дартмутского колледжа из-за использования ИИ",
+      "summary": "Отставка подчеркивает сложные вопросы, связанные с быстрым внедрением инструментов искусственного интеллекта в профессиональное письмо, особенно в высшем образовании.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/santiago-schnell-resigns-as-dartmouth-provost-over-ai-use",
@@ -158,7 +158,7 @@
     {
       "id": "https://www.ewtnnews.com/world/africa/tanzania-bishop-urges-truth-forgiveness-to-prevent-further-election-violence",
       "title": "Епископ Танзании призывает к правде и прощению для предотвращения насилия после выборов",
-      "summary": "Год спустя после насилия на выборах 29 октября 2025 года председатель Епископской конференции Танзании призвал народ к правде и пересмотру избирательной системы.",
+      "summary": "Год спустя после выборов 29 октября 2025 года председатель Епископской конференции Танзании призвал народ страны соблюдать правду и пересмотреть избирательную систему, чтобы избежать дальнейшего насилия.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/africa/tanzania-bishop-urges-truth-forgiveness-to-prevent-further-election-violence",
@@ -169,7 +169,7 @@
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-ai-can-never-be-a-person-its-future-depends-on-our-choices",
       "title": "Папа Лев XIV: Искусственный интеллект никогда не станет личностью; его будущее зависит от наших решений",
-      "summary": "Папа встретился с участниками конференции по ИИ, организованной Папской академией жизни, подчеркнув, что ИИ не может быть личностью, и его развитие зависит от человеческих выборов.",
+      "summary": "Папа встретился с участниками конференции по ИИ в Ватикане, организованной Папской академией жизни. Он подчеркнул, что ИИ не может быть личностью, и его развитие зависит от выбора человека.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-ai-can-never-be-a-person-its-future-depends-on-our-choices",
@@ -179,8 +179,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-modifies-disciplinary-sanctions-for-employees-of-the-roman-curia",
-      "title": "Папа изменил дисциплинарные санкции для сотрудников Римской Курии",
-      "summary": "19 октября Папа утвердил изменения в дисциплинарных мерах для сотрудников Римской Курии через Rescriptum ex Audientia Sanctissimi.",
+      "title": "Папа изменил дисциплинарные санкции для сотрудников Римской курии",
+      "summary": "19 октября Папа утвердил изменения через Rescriptum ex Audientia Sanctissimi — рескрипт от Святейшего Отца, касающийся дисциплинарных мер для работников Римской курии.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-modifies-disciplinary-sanctions-for-employees-of-the-roman-curia",
@@ -191,7 +191,7 @@
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-appoints-2-new-undersecretaries-to-synod-office",
       "title": "Папа Лев XIV назначил двух новых заместителей секретаря Синода",
-      "summary": "Иезуит отец Джакомо Коста и салезианка Елена Массимми заняли руководящие должности после ухода сестры Натали Беккар, занимавшей пост с февраля 2021 года.",
+      "summary": "Иезуит отец Джакомо Коста и салезианка сестра Елена Массимми заняли руководящие должности после ухода сестры Натали Беккар, которая была заместителем секретаря с февраля 2021 года.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-appoints-2-new-undersecretaries-to-synod-office",
@@ -202,7 +202,7 @@
     {
       "id": "https://www.ewtnnews.com/world/europe/polish-court-convicts-tarnow-bishop-of-failing-to-promptly-report-abuse",
       "title": "Польский суд признал епископа виновным в несвоевременном сообщении о насилии",
-      "summary": "Суд постановил, что каноническое право не отменяет польские обязательства по отчетности. Епархия, утверждающая, что уведомила власти, намерена обжаловать решение.",
+      "summary": "Суд постановил, что каноническое право не отменяет польские обязательства по отчетности. Епархия, заявляющая о своевременном уведомлении властей, намерена обжаловать решение.",
       "category": "Россия",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/polish-court-convicts-tarnow-bishop-of-failing-to-promptly-report-abuse",
@@ -213,7 +213,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/pope-leo-xiv-to-become-first-pope-to-vote-in-an-american-election",
       "title": "Папа Лев XIV стал первым папой, проголосовавшим на выборах в США",
-      "summary": "Ватикан подтвердил, что Святой Отец подал заочный бюллетень на выборах в своем родном штате Иллинойс.",
+      "summary": "30 октября Ватикан подтвердил, что Святейший Отец подал заочный бюллетень на выборах в своем родном штате Иллинойс.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/pope-leo-xiv-to-become-first-pope-to-vote-in-an-american-election",

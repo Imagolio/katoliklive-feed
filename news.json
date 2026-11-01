@@ -1,21 +1,65 @@
 {
-  "updatedAt": "2026-11-01T06:08:55.348Z",
+  "updatedAt": "2026-11-01T13:27:53.395Z",
   "news": [
     {
+      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-holiness-is-not-a-privilege-reserved-for-a-few",
+      "title": "Папа Лев XIV: «Святость — не привилегия избранных»",
+      "summary": "Папа отметил, что Торжество Всех Святых несёт обнадёживающее послание: Бог видит добро, скрытое от нас, и призывает каждого человека к святости.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-holiness-is-not-a-privilege-reserved-for-a-few",
+      "publishedAt": "2026-11-01T12:41:07.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/africa/africa-surpasses-europe-in-catholic-population-church-leaders-highlight-missionary-role",
+      "title": "Население католиков в Африке превысило европейское; лидеры Церкви подчёркивают миссионерскую роль",
+      "summary": "По последним данным Agenzia Fides, численность католиков в Африке достигла 288,3 млн, превысив численность в Европе.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/africa/africa-surpasses-europe-in-catholic-population-church-leaders-highlight-missionary-role",
+      "publishedAt": "2026-11-01T12:00:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://cathmos.ru/voskresnaya-propoved-episkopa-nikolaya-dubinina-v-torzhestvo-vse/",
+      "title": "Проповедь епископа Николая Дубинина в Торжество Всех Святых",
+      "summary": "Епископ Николай Дубинин обратился к верующим в кафедральном соборе, отмечая, что Церковь празднует Торжество Всех Святых, объединяя множество людей из разных племён.",
+      "category": "Россия",
+      "source": "Архиепархия Божией Матери в Москве",
+      "url": "https://cathmos.ru/voskresnaya-propoved-episkopa-nikolaya-dubinina-v-torzhestvo-vse/",
+      "publishedAt": "2026-11-01T11:41:56.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/wisconsin-pilgrims-visit-belgium-to-explore-roots-of-our-lady-of-champion-visionary",
+      "title": "Паломники из Висконсина посетили Бельгию, чтобы узнать о видении Девы Марии в Шампьоне",
+      "summary": "Епископ Дэвид Рикен возглавил группу из 50 паломников из Висконсина, чтобы проследить путь Адэль Брис и укрепить связь с видением, лежащим в основе Национального святилища Девы Марии в Шампьоне.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/wisconsin-pilgrims-visit-belgium-to-explore-roots-of-our-lady-of-champion-visionary",
+      "publishedAt": "2026-11-01T11:00:00.000Z",
+      "importance": 4,
+      "aiProcessed": true
+    },
+    {
       "id": "https://www.ewtnnews.com/world/us/america-s-first-martyrs-for-marriage-the-georgia-martyrs-declared-blessed",
-      "title": "Первые мученики Америки за брак: Мученики Джорджии провозглашены блаженными",
-      "summary": "Мученики Джорджии стали первыми американскими мучениками за брак и первыми, кто был беатифицирован на юге США, что стало важным событием для католической церкви в Америке.",
+      "title": "Первые мученики Америки за брак: Мученики Джорджии беатифицированы",
+      "summary": "Мученики Джорджии стали первыми американскими мучениками за брак и первыми беатифицированными на юге США, что стало важным событием для католической Церкви в Америке.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/america-s-first-martyrs-for-marriage-the-georgia-martyrs-declared-blessed",
       "publishedAt": "2026-11-01T01:21:15.000Z",
-      "importance": 8,
+      "importance": 7,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/new-york-archbishop-joins-religious-sisters-in-suing-state-over-assisted-suicide-law",
-      "title": "Архиепископ Нью-Йорка присоединился к иску монахинь против закона об эвтаназии",
-      "summary": "Архиепископ Рональд Хикс поддержал иск нескольких орденов монахинь против недавно принятого в штате закона об ассистированном суициде.",
+      "title": "Архиепископ Нью-Йорка присоединился к иску религиозных сестёр против закона об эвтаназии",
+      "summary": "Архиепископ Рональд Хикс поддержал иск нескольких орденов религиозных сестёр против недавно введённого в штате закона об ассистированном самоубийстве.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/new-york-archbishop-joins-religious-sisters-in-suing-state-over-assisted-suicide-law",
@@ -26,7 +70,7 @@
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-welcomes-thousands-from-notre-dame-villanova-to-vatican",
       "title": "Папа Лев XIV встретил тысячи студентов и болельщиков из Нотр-Дама и Виллановы перед исторической игрой",
-      "summary": "Папа встретился с баскетбольными командами, студентами и болельщиками обоих университетов перед воскресным матчем Eternal City Tip-Off.",
+      "summary": "Папа встретился с баскетбольными командами, студентами и фанатами обоих университетов перед воскресным матчем Eternal City Tip-Off в Ватикане.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-welcomes-thousands-from-notre-dame-villanova-to-vatican",
@@ -36,8 +80,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/cardinal-simoni-says-faith-sustained-him-through-death-sentence-for-mass-honoring-president",
-      "title": "Кардинал Симони: вера поддержала меня во время смертного приговора за мессу в честь Кеннеди",
-      "summary": "98-летний албанский кардинал призвал молиться за мировых лидеров после пережитых им жестоких религиозных гонений.",
+      "title": "Кардинал Симони: вера поддержала меня во время смертного приговора за мессу в честь президента Кеннеди",
+      "summary": "98-летний албанский кардинал призвал молиться за мировых лидеров после пережитых им серьёзных религиозных гонений.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/cardinal-simoni-says-faith-sustained-him-through-death-sentence-for-mass-honoring-president",
@@ -48,7 +92,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/plru-bishops-celebrate-prcs",
       "title": "Епископы США отмечают центры помощи беременным в Неделю признательности за помощь при беременности",
-      "summary": "Обзор последних новостей, связанных с защитой жизни и вопросами абортов, в рамках Недели признательности центрам помощи беременным.",
+      "summary": "Обзор последних новостей, связанных с защитой жизни и вопросами абортов в США.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/plru-bishops-celebrate-prcs",
@@ -58,19 +102,19 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/how-catholics-can-get-8-plenary-indulgences-during-the-first-week-of-november",
-      "title": "Как католики могут получить 8 полномочных индульгенций в первую неделю ноября",
-      "summary": "Католическая церковь на протяжении веков отмечала День всех святых (1 ноября) как октеву — восьмидневный праздник, в течение которого можно получить восемь полномочных индульгенций.",
+      "title": "Как католики могут получить восемь полноценных индульгенций в первую неделю ноября",
+      "summary": "Веками Католическая Церковь отмечала День всех святых (1 ноября) как октву, продлевая праздник на восемь дней.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/how-catholics-can-get-8-plenary-indulgences-during-the-first-week-of-november",
       "publishedAt": "2026-10-31T12:00:00.000Z",
-      "importance": 6,
+      "importance": 4,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-presented-with-book-on-eucharistic-miracle-he-promoted-as-bishop",
-      "title": "Папе Льву XIV вручили книгу о евхаристическом чуде, которое он продвигал будучи епископом",
-      "summary": "Священник подарил Льву XIV книгу о паломничестве «Божественного Ребёнка Чуда» — почитании, которое папа сам поощрял, вдохновлённый единственным в Перу евхаристическим чудом.",
+      "title": "Папе Льву XIV подарили книгу о евхаристическом чуде, которое он продвигал будучи епископом",
+      "summary": "Священник вручил Папе Льву XIV книгу о паломничестве «Божественного Ребёнка Чуда» — почитании, которое сам папа поддерживал, вдохновлённом единственным в Перу евхаристическим чудом.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-presented-with-book-on-eucharistic-miracle-he-promoted-as-bishop",
@@ -80,19 +124,19 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/new-ewtn-docuseries-offers-inside-look-at-the-catholic-church-s-rite-of-exorcism",
-      "title": "Новый документальный сериал EWTN раскрывает обряд экзорцизма в католической церкви",
-      "summary": "Трёхсерийный документальный фильм «Во имя Иисуса» стремится развеять мифы об экзорцизме, показать, как проводится обряд и как люди находят освобождение.",
+      "title": "Новый документальный сериал EWTN раскрывает обряд экзорцизма в Католической Церкви",
+      "summary": "Трёхсерийный документальный фильм «Во имя Иисуса» стремится развеять мифы об экзорцизме, показать, как проходят обряды и как люди находят освобождение.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/new-ewtn-docuseries-offers-inside-look-at-the-catholic-church-s-rite-of-exorcism",
       "publishedAt": "2026-10-31T10:00:00.000Z",
-      "importance": 5,
+      "importance": 6,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/cardinal-cabrera-announces-safety-plan-following-death-of-priest-struck-by-cross",
       "title": "Архиепископ Эквадора объявил план безопасности после смерти священника, которого убила падающая крест",
-      "summary": "Архиепископ Гуаякиля объявил план безопасности, чтобы предотвратить несчастные случаи, подобные гибели отца Патрисио Санчеса, которого убил упавший крест во время мессы.",
+      "summary": "Архиепископ Гуаякиля объявил меры безопасности, чтобы предотвратить несчастные случаи, подобные смерти отца Патрисио Санчеса, которого убил упавший крест во время мессы.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/cardinal-cabrera-announces-safety-plan-following-death-of-priest-struck-by-cross",
@@ -103,40 +147,40 @@
     {
       "id": "https://www.ewtnnews.com/world/us/ewtn-to-end-shortwave-radio-operations-after-34-years",
       "title": "EWTN прекращает вещание на коротких волнах после 34 лет работы",
-      "summary": "Глобальная католическая сеть закрывает коротковолновую станцию, работающую с начала 1990-х, из-за высоких затрат и изменений в медиаландшафте.",
+      "summary": "Глобальная католическая сеть закрывает коротковолновую станцию, работающую с начала 1990-х, из-за высоких затрат и изменений в медиасреде.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/ewtn-to-end-shortwave-radio-operations-after-34-years",
       "publishedAt": "2026-10-30T20:38:00.000Z",
-      "importance": 6,
+      "importance": 5,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/ewtn-live-election-coverage-2026-midterms",
       "title": "EWTN News расширяет освещение промежуточных выборов в США",
-      "summary": "Глобальная католическая сеть EWTN News предоставит расширенное освещение предстоящих промежуточных выборов в США на нескольких платформах.",
-      "category": "Мир",
+      "summary": "Глобальная католическая сеть обеспечит трансляцию выборов в США на нескольких платформах на следующей неделе.",
+      "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/ewtn-live-election-coverage-2026-midterms",
       "publishedAt": "2026-10-30T19:58:00.000Z",
-      "importance": 7,
+      "importance": 5,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/asia-pacific/catholic-sisters-visit-to-buddhist-temple-stirs-controversy-in-vietnam",
       "title": "Вьетнам: визит католических сестер в буддийский храм вызвал споры",
-      "summary": "Католические сестры посетили буддийский храм во Вьетнаме, что вызвало общественные дискуссии. Также в новостях: сокращение числа епископов в Ирландии и призыв Святого Престола к мирному использованию космоса на заседании ООН.",
+      "summary": "Вьетнамские католические сестры посетили буддийский храм, что вызвало общественные споры. Также в новостях: сокращение числа ирландских епископов на треть и призыв Святого Престола к мирному использованию космоса на заседании ООН.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-sisters-visit-to-buddhist-temple-stirs-controversy-in-vietnam",
       "publishedAt": "2026-10-30T19:18:00.000Z",
-      "importance": 6,
+      "importance": 7,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/pro-life-advocates-say-they-have-enough-signatures-to-suspend-massachusetts-abortion-law",
       "title": "Сторонники защиты жизни собрали подписи для приостановки закона об абортах в Массачусетсе",
-      "summary": "Активисты заявляют, что собрали достаточно подписей, чтобы приостановить действие закона об абортах в Массачусетсе. В 2028 году вопрос будет вынесен на голосование, после подтверждения штатом.",
+      "summary": "Активисты заявляют, что собрали достаточно подписей для приостановки закона об абортах в штате Массачусетс. В 2028 году закон будет вынесен на голосование после подтверждения властями.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/pro-life-advocates-say-they-have-enough-signatures-to-suspend-massachusetts-abortion-law",
@@ -146,13 +190,13 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/muslim-u-s-senate-candidate-raises-contentious-comparison-of-canon-law-sharia-law",
-      "title": "Мусульманский кандидат в Сенат США вновь подвергся критике за сравнение канонического и шариатского права",
+      "title": "Мусульманский кандидат в Сенат США снова подвергся критике за сравнение канонического и шариатского права",
       "summary": "Кандидат в Сенат от Мичигана вызвал обсуждение значительных различий между католическим каноническим правом и исламским шариатом после своих высказываний.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/muslim-u-s-senate-candidate-raises-contentious-comparison-of-canon-law-sharia-law",
       "publishedAt": "2026-10-30T17:58:00.000Z",
-      "importance": 5,
+      "importance": 6,
       "aiProcessed": true
     },
     {
@@ -163,13 +207,13 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/santiago-schnell-resigns-as-dartmouth-provost-over-ai-use",
       "publishedAt": "2026-10-30T17:18:00.000Z",
-      "importance": 6,
+      "importance": 5,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/africa/tanzania-bishop-urges-truth-forgiveness-to-prevent-further-election-violence",
-      "title": "Епископ Танзании призывает к правде и прощению для предотвращения новых выборных конфликтов",
-      "summary": "Год спустя после выборных беспорядков 29 октября 2025 года председатель Епископской конференции Танзании призвал народ сохранять правду и пересмотреть избирательную систему страны.",
+      "title": "Епископ Танзании призвал к правде и прощению для предотвращения насилия после выборов",
+      "summary": "Год спустя после выборов 29 октября 2025 года председатель Епископской конференции Танзании призвал народ сохранять правду и пересмотреть избирательную систему страны, чтобы избежать дальнейшего насилия.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/africa/tanzania-bishop-urges-truth-forgiveness-to-prevent-further-election-violence",
@@ -179,47 +223,39 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-ai-can-never-be-a-person-its-future-depends-on-our-choices",
-      "title": "Папа Лев XIV: Искусственный интеллект никогда не станет личностью; его будущее зависит от наших решений",
-      "summary": "Понтифик встретился с участниками конференции по ИИ в Ватикане, организованной Папской академией жизни, подчеркнув важность человеческого выбора в развитии технологий.",
+      "title": "Pope Leo XIV: AI can never be a person; its future depends on our choices",
+      "summary": "The pontiff met on Friday with participants in a Vatican AI conference organized by the Pontifical Academy for Life.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-ai-can-never-be-a-person-its-future-depends-on-our-choices",
-      "publishedAt": "2026-10-30T15:58:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
+      "publishedAt": "2026-10-30T15:58:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-modifies-disciplinary-sanctions-for-employees-of-the-roman-curia",
-      "title": "Папа изменил дисциплинарные санкции для сотрудников Римской курии",
-      "summary": "19 октября понтифик утвердил изменения через Rescriptum ex Audientia Sanctissimi, обновив правила дисциплины для работников Римской курии.",
+      "title": "Pope modifies disciplinary sanctions for employees of the Roman Curia",
+      "summary": "The changes were approved by the pontiff on Oct. 19 through a Rescriptum ex Audientia Sanctissimi (“Rescript from the Audience of the Most Holy Father”).",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-modifies-disciplinary-sanctions-for-employees-of-the-roman-curia",
-      "publishedAt": "2026-10-30T15:18:00.000Z",
-      "importance": 6,
-      "aiProcessed": true
+      "publishedAt": "2026-10-30T15:18:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-appoints-2-new-undersecretaries-to-synod-office",
-      "title": "Папа Лев XIV назначил двух новых заместителей секретаря Синода",
-      "summary": "Иезуит отец Джакомо Коста и салезианка сестра Елена Массимми заняли руководящие должности после ухода сестры Натали Беккар, занимавшей пост с февраля 2021 года.",
+      "title": "Pope Leo XIV appoints 2 new undersecretaries to Synod office",
+      "summary": "Jesuit Father Giacomo Costa and Salesian Sister Elena Massimi take on leadership roles following the departure of Sister Nathalie Becquart, who had served as undersecretary since February 2021.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-appoints-2-new-undersecretaries-to-synod-office",
-      "publishedAt": "2026-10-30T14:38:00.000Z",
-      "importance": 5,
-      "aiProcessed": true
+      "publishedAt": "2026-10-30T14:38:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/polish-court-convicts-tarnow-bishop-of-failing-to-promptly-report-abuse",
-      "title": "Польский суд признал епископа виновным в несвоевременном сообщении о насилии",
-      "summary": "Суд постановил, что каноническое право не отменяет польские обязательства по отчетности. Епархия, утверждающая, что уведомила власти, намерена обжаловать решение.",
-      "category": "Россия",
+      "title": "Polish court convicts bishop of failing to promptly report abuse",
+      "summary": "The court said canon law does not override Polish reporting duties. The diocese, which says it notified authorities in both cases, will appeal.",
+      "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/polish-court-convicts-tarnow-bishop-of-failing-to-promptly-report-abuse",
-      "publishedAt": "2026-10-30T13:58:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
+      "publishedAt": "2026-10-30T13:58:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/pope-leo-xiv-to-become-first-pope-to-vote-in-an-american-election",
@@ -1810,42 +1846,6 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-sends-message-after-surgery-to-vatican-conference-asks-for-prayers",
       "publishedAt": "2026-10-15T17:40:10.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/americas/brazilian-priests-rally-in-defense-of-their-bishop-accused-of-being-a-demon-by-lula-supporter",
-      "title": "Brazilian priests rally in defense of their bishop, accused of being a ‘demon’ by Lula supporter",
-      "summary": "The priests note that “partisan politics falls within the realm of the debatable; thus, the fact that we hold divergent positions in this arena does not necessarily make us enemies.”",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/americas/brazilian-priests-rally-in-defense-of-their-bishop-accused-of-being-a-demon-by-lula-supporter",
-      "publishedAt": "2026-10-15T17:12:00.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/firing-squad-execution-of-fort-hood-shooter-will-not-be-livestreamed-trump-says",
-      "title": "Firing squad execution of Fort Hood shooter will not be livestreamed, Trump says",
-      "summary": "The execution of the convicted mass shooter by firing squad is set for Dec. 3.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/firing-squad-execution-of-fort-hood-shooter-will-not-be-livestreamed-trump-says",
-      "publishedAt": "2026-10-15T16:32:00.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/conference-in-rome-discusses-declining-trust-in-the-age-of-ai",
-      "title": "‘Do we understand truth anymore?’: Conference in Rome discusses distrust in age of AI",
-      "summary": "The Acton Institute held a discussion on “Communicating Truth in an Age of AI.”",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/conference-in-rome-discusses-declining-trust-in-the-age-of-ai",
-      "publishedAt": "2026-10-15T15:52:00.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/doctors-confirm-pope-leo-xiv-s-operated-lung-is-recovering-well",
-      "title": "Doctors confirm Pope Leo XIV’s operated lung is recovering well",
-      "summary": "The Vatican has not yet announced whether the pope will lead the public Angelus prayer from Gemelli Hospital on Sunday.",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/doctors-confirm-pope-leo-xiv-s-operated-lung-is-recovering-well",
-      "publishedAt": "2026-10-15T15:22:28.000Z"
     }
   ]
 }

@@ -1,22 +1,33 @@
 {
-  "updatedAt": "2026-11-02T21:43:48.574Z",
+  "updatedAt": "2026-11-03T06:50:54.516Z",
   "news": [
     {
-      "id": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-to-return-to-chiclayo-in-peru-and-the-places-that-shaped-his-ministry",
-      "title": "Папа Лев XIV вернётся в Чиклайо в Перу и посетит места, связанные с его служением",
-      "summary": "Папа Лев XIV вернётся в Чиклайо, Перу, где ранее был епископом, и посетит ключевые места своего пастырского служения, включая кафедральный собор, святыню Богоматери Мира и город Занья.",
+      "id": "https://www.ewtnnews.com/world/us/catholic-conferences-midterms",
+      "title": "Католические конференции штатов готовят верующих к голосованию по инициативам",
+      "summary": "В некоторых штатах конференции епископов заняли чёткую позицию по инициативам, призывая католиков поддержать или отвергнуть предлагаемые меры.",
       "category": "Мир",
       "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-to-return-to-chiclayo-in-peru-and-the-places-that-shaped-his-ministry",
-      "publishedAt": "2026-11-02T19:51:29.000Z",
+      "url": "https://www.ewtnnews.com/world/us/catholic-conferences-midterms",
+      "publishedAt": "2026-11-02T23:27:52.000Z",
       "importance": 6,
       "aiProcessed": true
     },
     {
+      "id": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-to-return-to-chiclayo-in-peru-and-the-places-that-shaped-his-ministry",
+      "title": "Папа Лев XIV вернётся в Чиклайо в Перу и посетит места, связанные с его служением",
+      "summary": "Папа Лев XIV посетит Чиклайо, где ранее был епископом, и ключевые места его пастырского служения, включая собор, святыню Пресвятой Девы Мира и город Занья.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-to-return-to-chiclayo-in-peru-and-the-places-that-shaped-his-ministry",
+      "publishedAt": "2026-11-02T19:51:29.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-faith-assures-us-that-our-bond-with-the-faithful-departed-has-not-been-broken",
-      "title": "Лев XIV: Вера уверяет, что «наша связь с усопшими не прервана»",
-      "summary": "Продолжая традицию, начатую святым Иоанном Павлом II, Папа Лев XIV 2 ноября посетил римское кладбище Верано, подтверждая духовную связь с усопшими.",
-      "category": "Мир",
+      "title": "Лев XIV: Вера уверяет, что «наша связь с усопшими верными не прервана»",
+      "summary": "Продолжая традицию, начатую святым Иоанном Павлом II, Папа Лев XIV 2 ноября посетил римское кладбище Верано.",
+      "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-faith-assures-us-that-our-bond-with-the-faithful-departed-has-not-been-broken",
       "publishedAt": "2026-11-02T18:47:14.000Z",
@@ -25,7 +36,7 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/savannah-gives-thanks-for-newly-beatified-georgia-martyrs",
-      "title": "ФОТО: Савана благодарит за недавно беатифицированных мучеников Джорджии",
+      "title": "ФОТО: Савана благодарит за беатификацию мучеников Джорджии",
       "summary": "В соборе Святого Иоанна Крестителя в Саване в День всех святых собралась полная церковь, где епископ Стивен Паркс предложил пути продолжения свидетельства монахов.",
       "category": "Мир",
       "source": "Catholic News Agency",
@@ -37,7 +48,7 @@
     {
       "id": "https://www.ewtnnews.com/world/europe/polish-bishops-appeal-for-dialogue-as-constitutional-court-standoff-deepens",
       "title": "Польские епископы призывают к диалогу на фоне обострения конфликта вокруг Конституционного суда",
-      "summary": "Польские епископы, примас и религиозные настоятели призвали к деэскалации конфликта и молитве в связи с обострением спора о руководстве Конституционного трибунала.",
+      "summary": "Епископы Польши, примас и религиозные руководители призвали к деэскалации и молитве в связи с углубляющимся спором о руководстве Конституционного трибунала.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/polish-bishops-appeal-for-dialogue-as-constitutional-court-standoff-deepens",
@@ -47,8 +58,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/asia-pacific/love-transcends-death-how-singapore-s-chinese-catholics-remember-their-dead",
-      "title": "«Любовь превосходит смерть»: как китайские католики Сингапура чтят память усопших",
-      "summary": "Китайские и католические традиции в Сингапуре сосуществуют и объединены общим отношением к памяти усопших, отмечает сингапурский священник.",
+      "title": "«Любовь превосходит смерть»: как китайские католики Сингапура поминают усопших",
+      "summary": "Китайские и католические традиции вокруг смерти сосуществуют и объединены общим отношением к умершим, отмечает сингапурский священник.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/love-transcends-death-how-singapore-s-chinese-catholics-remember-their-dead",
@@ -58,8 +69,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/notre-dame-bests-villanova-in-eternal-city-tip-off-basketball-games",
-      "title": "Команды Нотр-Дама победили Вилланову в баскетбольных матчах Eternal City Tip-Off",
-      "summary": "Мужская и женская команды Нотр-Дама одержали победу в историческом открытии сезона в Риме.",
+      "title": "«Нотр-Дам» обыграл «Вилланову» в баскетбольных матчах в Риме",
+      "summary": "Мужская и женская команды «Нотр-Дам» одержали победы в историческом открытии сезона в Риме.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/notre-dame-bests-villanova-in-eternal-city-tip-off-basketball-games",
@@ -69,9 +80,9 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/theology-of-the-body-meets-psychology-catholics-seek-healing-through-jpii-s-personalism",
-      "title": "Теология тела и психология: католики ищут исцеление через персонализм Иоанна Павла II",
-      "summary": "Католики собрались, чтобы изучить, как понимание личности святым Иоанном Павлом II может сочетаться с психологией для борьбы с тревогой и поиском любви и исцеления.",
-      "category": "Ватикан",
+      "title": "Теология тела и психология: католики ищут исцеления через персонализм Иоанна Павла II",
+      "summary": "Католики обсуждают, как учение Иоанна Павла II о личности может сочетаться с психологией для борьбы с тревогой и поиском любви и исцеления.",
+      "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/theology-of-the-body-meets-psychology-catholics-seek-healing-through-jpii-s-personalism",
       "publishedAt": "2026-11-02T12:00:00.000Z",
@@ -81,7 +92,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/ewtn-news-explains-what-s-the-difference-between-catholic-canon-law-and-islamic-sharia-law",
       "title": "EWTN News объясняет: в чем разница между каноническим и шариатским правом?",
-      "summary": "В недавней политической кампании каноническое право сравнивали с шариатом — но насколько они сопоставимы?",
+      "summary": "В недавней политической кампании каноническое право сравнивали с шариатом — но насколько эти системы сопоставимы?",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/ewtn-news-explains-what-s-the-difference-between-catholic-canon-law-and-islamic-sharia-law",
@@ -91,8 +102,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/peru-loses-second-bishop-in-two-days-as-pope-leo-s-visit-nears",
-      "title": "Перу теряет второго епископа за два дня накануне визита Папы Льва",
-      "summary": "Епископ Хорхе Каррион Павлич, возглавлявший епархию Пуно более 24 лет, скончался в 76 лет, спустя два дня после архиепископа Ричарда Аларкона из Куско.",
+      "title": "В Перу скончался второй епископ за два дня накануне визита Папы Льва",
+      "summary": "Епископ Хорхе Каррион Павлич, возглавлявший епархию Пуно более 24 лет, умер в 76 лет, спустя два дня после архиепископа Ричарда Аларкона из Куско.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/peru-loses-second-bishop-in-two-days-as-pope-leo-s-visit-nears",
@@ -114,7 +125,7 @@
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-holiness-is-not-a-privilege-reserved-for-a-few",
       "title": "Папа Лев XIV: «Святость — не привилегия избранных»",
-      "summary": "Понтифик заявил, что праздник Всех Святых несет «надежду»: Бог видит скрытое добро и призывает каждого к святости.",
+      "summary": "Понтифик отметил, что праздник Всех Святых несёт обнадёживающее послание: Бог видит скрытое от нас добро и призывает каждого к святости.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-holiness-is-not-a-privilege-reserved-for-a-few",
@@ -124,8 +135,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/africa/africa-surpasses-europe-in-catholic-population-church-leaders-highlight-missionary-role",
-      "title": "Население католиков в Африке превысило европейское; церковные лидеры отмечают миссионерскую роль",
-      "summary": "Согласно последним данным Agenzia Fides, численность католиков в Африке достигла 288,3 млн, превысив население католиков в Европе.",
+      "title": "Католическое население Африки превысило европейское; лидеры Церкви подчёркивают миссионерскую роль",
+      "summary": "По последним данным Agenzia Fides, численность католиков в Африке достигла 288,3 млн, превысив численность в Европе.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/africa/africa-surpasses-europe-in-catholic-population-church-leaders-highlight-missionary-role",
@@ -146,8 +157,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/wisconsin-pilgrims-visit-belgium-to-explore-roots-of-our-lady-of-champion-visionary",
-      "title": "Паломники из Висконсина посетили Бельгию, чтобы узнать о корнях видения Богородицы из Шампань",
-      "summary": "Епископ Дэвид Рикен возглавил группу из 50 паломников из Висконсина, чтобы проследить путь Адель Брис и укрепить связь с видением, лежащим в основе Национального святилища Богородицы из Шампань.",
+      "title": "Паломники из Висконсина посетили Бельгию, чтобы узнать о корнях видения Богородицы в Шампьоне",
+      "summary": "Епископ Дэвид Рикен возглавил группу из 50 паломников из Висконсина, чтобы проследить путь Адель Брис и укрепить связь с видением, лежащим в основе Национального святилища Богородицы в Шампьоне.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/wisconsin-pilgrims-visit-belgium-to-explore-roots-of-our-lady-of-champion-visionary",
@@ -157,8 +168,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/america-s-first-martyrs-for-marriage-the-georgia-martyrs-declared-blessed",
-      "title": "Первые мученики Америки за брак: мученики Джорджии беатифицированы",
-      "summary": "Мученики Джорджии стали первыми американскими мучениками за брак и первыми беатифицированными на юге США, что стало важным событием для католической церкви в Америке.",
+      "title": "Первые мученики Америки за брак: Мученики Джорджии беатифицированы",
+      "summary": "Мученики Джорджии стали первыми американскими мучениками за брак и первыми беатифицированными на юге США, что стало важным событием для католической Церкви в Америке.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/america-s-first-martyrs-for-marriage-the-georgia-martyrs-declared-blessed",
@@ -168,8 +179,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/new-york-archbishop-joins-religious-sisters-in-suing-state-over-assisted-suicide-law",
-      "title": "Архиепископ Нью-Йорка присоединился к иску против закона об эвтаназии",
-      "summary": "Архиепископ Рональд Хикс поддержал иск нескольких орденов монахинь против недавно принятого закона штата о помощи в суициде.",
+      "title": "Архиепископ Нью-Йорка присоединился к монахиням в иске против закона об эвтаназии",
+      "summary": "Архиепископ Рональд Хикс поддержал иск нескольких орденов монахинь против недавно принятого закона штата о помощи в самоубийстве.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/new-york-archbishop-joins-religious-sisters-in-suing-state-over-assisted-suicide-law",
@@ -179,20 +190,20 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-welcomes-thousands-from-notre-dame-villanova-to-vatican",
-      "title": "Папа Лев XIV встретил тысячи представителей университетов Нотр-Дам и Вилланова перед исторической игрой",
-      "summary": "Папа встретился с баскетбольными командами, студентами и болельщиками обоих университетов перед воскресным матчем Eternal City Tip-Off.",
+      "title": "Папа Лев XIV приветствует тысячи гостей из Нотр-Дам и Виллановы в Ватикане перед исторической игрой",
+      "summary": "Папа встретился с баскетбольными командами, студентами и болельщиками обеих университетов перед воскресным матчем Eternal City Tip-Off.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-welcomes-thousands-from-notre-dame-villanova-to-vatican",
       "publishedAt": "2026-10-31T16:00:00.000Z",
-      "importance": 6,
+      "importance": 7,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/cardinal-simoni-says-faith-sustained-him-through-death-sentence-for-mass-honoring-president",
       "title": "Кардинал Симони: вера поддерживала меня во время смертного приговора за мессу в честь президента Кеннеди",
-      "summary": "98-летний албанский кардинал призвал молиться за мировых лидеров после пережитых им жестоких религиозных гонений.",
-      "category": "Мир",
+      "summary": "98-летний албанский кардинал призвал молиться за мировых лидеров после пережитых жестоких религиозных гонений.",
+      "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/cardinal-simoni-says-faith-sustained-him-through-death-sentence-for-mass-honoring-president",
       "publishedAt": "2026-10-31T15:00:00.000Z",
@@ -201,7 +212,7 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/plru-bishops-celebrate-prcs",
-      "title": "Епископы США отмечают центры поддержки беременных в Неделю признательности помощи беременным",
+      "title": "Епископы США отмечают центры помощи беременным в Неделю признательности за поддержку жизни",
       "summary": "Обзор последних новостей, связанных с защитой жизни и вопросами абортов.",
       "category": "Мир",
       "source": "Catholic News Agency",
@@ -212,9 +223,9 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/how-catholics-can-get-8-plenary-indulgences-during-the-first-week-of-november",
-      "title": "Как католики могут получить 8 полных индульгенций в первую неделю ноября",
-      "summary": "Католическая Церковь веками отмечает День всех святых (1 ноября) как октву, продлевая праздник на восемь дней.",
-      "category": "Мир",
+      "title": "Как католики могут получить восемь полноценных индульгенций в первую неделю ноября",
+      "summary": "Веками Католическая Церковь отмечала День всех святых (1 ноября) в течение восьмидневного октава, продлевая торжество.",
+      "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/how-catholics-can-get-8-plenary-indulgences-during-the-first-week-of-november",
       "publishedAt": "2026-10-31T12:00:00.000Z",
@@ -224,24 +235,22 @@
     {
       "id": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-presented-with-book-on-eucharistic-miracle-he-promoted-as-bishop",
       "title": "Папе Льву XIV вручили книгу о евхаристическом чуде, которое он продвигал будучи епископом",
-      "summary": "Священник подарил Льву XIV книгу о паломничестве «Божественного Ребёнка Чуда», почитание которого папа сам поощрял, вдохновлённое единственным в Перу евхаристическим чудом.",
+      "summary": "Священник подарил Льву XIV книгу о паломничестве «Божественного Ребёнка Чуда», почитаемом благодаря единственному в Перу евхаристическому чуду, которое поощрял сам папа.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-presented-with-book-on-eucharistic-miracle-he-promoted-as-bishop",
       "publishedAt": "2026-10-31T11:00:00.000Z",
-      "importance": 4,
+      "importance": 5,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/new-ewtn-docuseries-offers-inside-look-at-the-catholic-church-s-rite-of-exorcism",
-      "title": "Новый документальный сериал EWTN раскрывает обряд экзорцизма в Католической Церкви",
-      "summary": "Трёхсерийный фильм «Во имя Иисуса» стремится развеять мифы об экзорцизме и показать, как он проводится и как люди находят освобождение.",
+      "title": "New EWTN docuseries offers inside look at the Catholic Church’s rite of exorcism",
+      "summary": "“In Jesus’ Name,” a three-part documentary series, seeks to demystify the rite of exorcism and provide an accurate view of how they are conducted and how people have found deliverance.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/new-ewtn-docuseries-offers-inside-look-at-the-catholic-church-s-rite-of-exorcism",
-      "publishedAt": "2026-10-31T10:00:00.000Z",
-      "importance": 5,
-      "aiProcessed": true
+      "publishedAt": "2026-10-31T10:00:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/cardinal-cabrera-announces-safety-plan-following-death-of-priest-struck-by-cross",
@@ -1841,15 +1850,6 @@
       "source": "Архиепархия Божией Матери в Москве",
       "url": "https://cathmos.ru/bratstvo-s-prirodoi-u-sv-francziska/",
       "publishedAt": "2026-10-16T15:09:42.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/catholic-leaders-call-on-congress-to-protect-disability-rights-after-doj-legal-shift",
-      "title": "Catholic leaders call on Congress to protect disability rights after DOJ legal shift",
-      "summary": "Catholic leaders urged Congress to defend disability rights, warning a new Department of Justice opinion could threaten community-based care.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/catholic-leaders-call-on-congress-to-protect-disability-rights-after-doj-legal-shift",
-      "publishedAt": "2026-10-16T15:09:00.000Z"
     }
   ]
 }

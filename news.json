@@ -1,10 +1,65 @@
 {
-  "updatedAt": "2026-11-04T06:26:42.613Z",
+  "updatedAt": "2026-11-04T17:16:36.374Z",
   "news": [
     {
+      "id": "https://www.ewtnnews.com/world/us/catholic-fire-chaplain-hails-selfless-sacrificial-cleveland-fireman-who-died-in-line-of-duty",
+      "title": "Католический пожарный капеллан почтил память самоотверженного пожарного из Кливленда, погибшего при исполнении служебных обязанностей",
+      "summary": "Пожарная служба Норт-Ройалтона сообщила 3 ноября о смерти пожарного Райана Миллигана, который погиб, борясь с пожаром в Бродвью-Хайтс накануне.",
+      "category": "Россия",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/catholic-fire-chaplain-hails-selfless-sacrificial-cleveland-fireman-who-died-in-line-of-duty",
+      "publishedAt": "2026-11-04T16:31:57.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-encourages-middle-eastern-christians-to-become-servants-of-peace",
+      "title": "Папа Лев XIV призывает христиан Ближнего Востока стать «слугами мира»",
+      "summary": "Понтифик провел частную аудиенцию с делегацией L’Oeuvre d’Orient, поддерживающей восточных христиан с 1856 года.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-encourages-middle-eastern-christians-to-become-servants-of-peace",
+      "publishedAt": "2026-11-04T15:05:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-warns-of-the-dangers-an-unjust-economy-poses-to-world-peace",
+      "title": "Папа Лев XIV предупреждает об угрозах несправедливой экономики для мирового мира",
+      "summary": "Понтифик подчеркнул важность призывов Церкви к устранению дискриминации уязвимых социальных групп и мигрантов.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-warns-of-the-dangers-an-unjust-economy-poses-to-world-peace",
+      "publishedAt": "2026-11-04T14:20:32.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/abortion-wins-in-3-states-amid-major-democratic-victories-across-u-s",
+      "title": "В трех штатах США сохраняется запрет на аборты на фоне побед демократов на промежуточных выборах",
+      "summary": "В Айдахо избиратели сохранили запрет на аборты, но в других штатах аборты расширены, а демократы вернули контроль над Конгрессом.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/abortion-wins-in-3-states-amid-major-democratic-victories-across-u-s",
+      "publishedAt": "2026-11-04T12:10:58.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/digital-missionary-warns-of-dangers-of-hate-filled-comments-on-social-media",
+      "title": "Цифровой миссионер призывает задуматься о вреде ненавистнических высказываний в соцсетях",
+      "summary": "Отец Хосе Хуан Монтальво обращает внимание на влияние критики, насмешек и ненавистнических сообщений в соцсетях на молодежь.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/digital-missionary-warns-of-dangers-of-hate-filled-comments-on-social-media",
+      "publishedAt": "2026-11-04T11:00:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
       "id": "https://www.ewtnnews.com/world/us/2026-election-results-abortion-referendums",
-      "title": "Вирджиния приняла референдум о праве на аборт, результаты в трёх других штатах ещё неизвестны",
-      "summary": "В Вирджинии одобрили референдум о закреплении конституционного права на аборт. В трёх других штатах результаты голосования по вопросам, связанным с абортами, пока не подведены.",
+      "title": "Вирджиния утвердила референдум о праве на аборт, результаты в трёх других штатах ещё неизвестны",
+      "summary": "В Вирджинии принят референдум о закреплении конституционного права на аборт. В трёх других штатах результаты подобных референдумов пока не определены.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/2026-election-results-abortion-referendums",
@@ -26,7 +81,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/bishops-urge-religious-liberty-language-in-irs-school-discrimination-rule",
       "title": "Епископы призывают включить защиту религиозной свободы в правило IRS о дискриминации в школах",
-      "summary": "Обзор последних новостей, связанных с католическим образованием, включая призывы епископов к учёту религиозной свободы в нормативных актах.",
+      "summary": "Обзор последних новостей, связанных с католическим образованием, включая призывы епископов к учёту религиозной свободы в новых правилах.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/bishops-urge-religious-liberty-language-in-irs-school-discrimination-rule",
@@ -36,8 +91,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/active-duty-military-service-members-have-new-pathway-to-become-chaplains",
-      "title": "Военнослужащие на активной службе получили новую возможность стать капелланами",
-      "summary": "Ранее военнослужащие должны были покинуть армию для получения богословского образования и затем повторно подавать заявку на капелланство.",
+      "title": "Военнослужащие на действительной службе получили новую возможность стать капелланами",
+      "summary": "Ранее для получения богословского образования и становления капелланом военнослужащим приходилось покидать армию и затем повторно подавать заявку.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/active-duty-military-service-members-have-new-pathway-to-become-chaplains",
@@ -48,7 +103,7 @@
     {
       "id": "https://www.ewtnnews.com/world/americas/mexican-priest-recovers-from-kidnapping-ordeal",
       "title": "Мексиканский священник оправился после похищения",
-      "summary": "Священник Клементе Моралес Топете из Мексики пережил избиения, ожоги и угрозы смерти после похищения преступной группировкой, пытавшейся получить от него информацию, которой он не обладал.",
+      "summary": "Священник Клементе Моралес Топете пережил избиения, ожоги и угрозы смерти после похищения преступной группировкой, которая пыталась получить от него информацию, которой он не имел.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/mexican-priest-recovers-from-kidnapping-ordeal",
@@ -91,8 +146,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/asia-pacific/wildfire-smoke-coal-and-conflict-asian-laudato-si-groups-compare-notes-in-philippines",
-      "title": "Дым от лесных пожаров, конфликты и обращение: азиатские группы Laudato Si’ делятся опытом на Филиппинах",
-      "summary": "Лидеры из Мьянмы, Южной Кореи, Тимора-Лешти, Индонезии и Филиппин обсудили свою работу и приняли план движения на 2027–2030 годы.",
+      "title": "Дым от лесных пожаров, конфликты и обращение: азиатские группы Laudato Si’ обмениваются опытом на Филиппинах",
+      "summary": "Лидеры из Мьянмы, Южной Кореи, Тимора-Лесте, Индонезии и Филиппин поделились своей работой и приняли план движения на 2027–2030 годы.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/wildfire-smoke-coal-and-conflict-asian-laudato-si-groups-compare-notes-in-philippines",
@@ -113,7 +168,7 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/pennsylvania-teen-s-witness-of-faith-and-hope-inspires-calls-for-her-canonization",
-      "title": "Подросток из Пенсильвании вдохновляет на канонизацию своей верой и надеждой",
+      "title": "Свидетельство веры и надежды подростка из Пенсильвании вдохновляет на её канонизацию",
       "summary": "Шесть лет спустя после смерти Марии Миддлтон от рака мозга её радостная вера продолжает вдохновлять, и церковь Филадельфии рассматривает возможность открытия её дела о канонизации.",
       "category": "Мир",
       "source": "Catholic News Agency",
@@ -136,7 +191,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-conferences-midterms",
       "title": "Католические конференции на уровне штатов готовят верующих к голосованию по инициативам",
-      "summary": "В некоторых штатах конференции епископов заняли чёткую позицию по инициативам на голосовании, призывая католиков поддержать или отвергнуть меры.",
+      "summary": "В некоторых штатах конференции епископов заняли чёткую позицию по инициативам на голосовании, призывая католиков поддержать или отвергнуть их.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/catholic-conferences-midterms",
@@ -147,7 +202,7 @@
     {
       "id": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-to-return-to-chiclayo-in-peru-and-the-places-that-shaped-his-ministry",
       "title": "Папа Лев XIV вернётся в Чиклайо в Перу и места, где формировалось его служение",
-      "summary": "Папа Лев XIV посетит Чиклайо, где был епископом, а также ключевые места его пастырского служения, включая собор, святилище Пресвятой Девы Мира и Занью.",
+      "summary": "Папа Лев XIV посетит Чиклайо, где был епископом, а также ключевые места его пастырской деятельности, включая собор, святыню Пресвятой Девы Мира и Занью.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-to-return-to-chiclayo-in-peru-and-the-places-that-shaped-his-ministry",
@@ -157,8 +212,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-faith-assures-us-that-our-bond-with-the-faithful-departed-has-not-been-broken",
-      "title": "Лев XIV: Вера подтверждает, что связь с усопшими не прервана",
-      "summary": "Продолжая традицию, начатую Иоанном Павлом II, Папа Лев XIV 2 ноября посетил кладбище Верано в Риме.",
+      "title": "Лев XIV: Вера утверждает, что «наша связь с усопшими не прервана»",
+      "summary": "Продолжая традицию, начатую Иоанном Павлом II в 1970-х, Папа Лев XIV 2 ноября посетил кладбище Верано в Риме.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-faith-assures-us-that-our-bond-with-the-faithful-departed-has-not-been-broken",
@@ -168,58 +223,48 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/savannah-gives-thanks-for-newly-beatified-georgia-martyrs",
-      "title": "Саванна благодарит за беатификацию мучеников Джорджии",
-      "summary": "В Соборе Святого Иоанна Крестителя в День всех святых собралась полная церковь, где епископ Стивен Паркс предложил пути продолжения свидетельства монахов-мучеников.",
+      "title": "PHOTOS: Savannah gives thanks for newly beatified Georgia Martyrs",
+      "summary": "A standing-room-only congregation filled the Cathedral Basilica of St. John the Baptist on All Saints’ Day as Bishop Stephen D. Parkes proposed ways to carry the friars’ witness.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/savannah-gives-thanks-for-newly-beatified-georgia-martyrs",
-      "publishedAt": "2026-11-02T17:25:30.000Z",
-      "importance": 5,
-      "aiProcessed": true
+      "publishedAt": "2026-11-02T17:25:30.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/polish-bishops-appeal-for-dialogue-as-constitutional-court-standoff-deepens",
-      "title": "Польские епископы призывают к диалогу на фоне конфликта вокруг Конституционного суда",
-      "summary": "Епископы Польши, примас и религиозные руководители обратились с призывом к деэскалации и молитве в связи с обострением спора о руководстве Конституционного трибунала.",
+      "title": "Polish bishops appeal for dialogue as constitutional court standoff deepens",
+      "summary": "Poland’s bishops, the primate, and religious superiors appealed for de-escalation and prayer as a dispute over the Constitutional Tribunal’s leadership deepens.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/polish-bishops-appeal-for-dialogue-as-constitutional-court-standoff-deepens",
-      "publishedAt": "2026-11-02T15:55:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
+      "publishedAt": "2026-11-02T15:55:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/asia-pacific/love-transcends-death-how-singapore-s-chinese-catholics-remember-their-dead",
-      "title": "«Любовь превосходит смерть»: как китайские католики Сингапура поминают усопших",
-      "summary": "По словам сингапурского священника, китайские и католические традиции в отношении смерти сосуществуют, объединённые общим отношением к памяти умерших.",
+      "title": "‘Love transcends death’: How Singapore’s Chinese Catholics remember their dead",
+      "summary": "Chinese and Catholic customs around death sit side by side and share “one attitude towards the dead,” according to a Singaporean priest.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/love-transcends-death-how-singapore-s-chinese-catholics-remember-their-dead",
-      "publishedAt": "2026-11-02T15:10:00.000Z",
-      "importance": 4,
-      "aiProcessed": true
+      "publishedAt": "2026-11-02T15:10:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/vatican/notre-dame-bests-villanova-in-eternal-city-tip-off-basketball-games",
-      "title": "Нотр-Дам одержал победу над Виллановой в баскетбольных матчах в Риме",
-      "summary": "Мужская и женская команды Нотр-Дама выиграли в историческом открытии сезона в Риме.",
-      "category": "Мир",
+      "title": "Notre Dame bests Villanova in Eternal City Tip-Off basketball games",
+      "summary": "The Notre Dame men’s and women’s teams emerged victorious in the historic season opener in Rome.",
+      "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/notre-dame-bests-villanova-in-eternal-city-tip-off-basketball-games",
-      "publishedAt": "2026-11-02T14:25:41.000Z",
-      "importance": 3,
-      "aiProcessed": true
+      "publishedAt": "2026-11-02T14:25:41.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/theology-of-the-body-meets-psychology-catholics-seek-healing-through-jpii-s-personalism",
-      "title": "Теология тела и психология: католики ищут исцеления через персонализм Иоанна Павла II",
-      "summary": "Католики обсудили, как понимание личности по Иоанну Павлу II может сочетаться с психологией для борьбы с тревогой и поиском любви и исцеления.",
+      "title": "Theology of the body meets psychology: Catholics seek healing through JPII’s personalism",
+      "summary": "Catholics gathered to explore how St. John Paul II’s understanding of the person can integrate with psychological science to address anxiety and the search for lasting love and healing.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/theology-of-the-body-meets-psychology-catholics-seek-healing-through-jpii-s-personalism",
-      "publishedAt": "2026-11-02T12:00:00.000Z",
-      "importance": 6,
-      "aiProcessed": true
+      "publishedAt": "2026-11-02T12:00:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/ewtn-news-explains-what-s-the-difference-between-catholic-canon-law-and-islamic-sharia-law",
@@ -1805,51 +1850,6 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/a-century-of-church-growth-from-10-million-to-347-million-in-the-mission-territories",
       "publishedAt": "2026-10-17T14:00:00.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-leaves-gemelli-hospital-returns-to-vatican",
-      "title": "Pope Leo XIV leaves Gemelli Hospital, returns to Vatican",
-      "summary": "The 71-year-old pope had been admitted last Tuesday and underwent surgery to remove the lower lobe of his right lung.",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-leaves-gemelli-hospital-returns-to-vatican",
-      "publishedAt": "2026-10-17T13:56:51.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/for-the-first-time-in-5-years-the-number-of-priests-worldwide-rose",
-      "title": "For the first time in 5 years, the number of priests worldwide rose",
-      "summary": "The Catholic Church has 407,421 priests, 425 more than the previous year. Africa and Asia are driving this growth, while Europe recorded another decline.",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/for-the-first-time-in-5-years-the-number-of-priests-worldwide-rose",
-      "publishedAt": "2026-10-17T13:00:00.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/asia-pacific/in-a-wealthy-asian-city-a-play-asks-why-st-clare-of-assisi-chose-to-own-nothing",
-      "title": "In a wealthy Asian city, a play asks why St. Clare of Assisi chose to own nothing",
-      "summary": "A Catholic parish in western Singapore hosted the play “TO GAZE: St. Clare of Assisi” as part of celebrations for the Jubilee Year of St. Francis of Assisi.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/in-a-wealthy-asian-city-a-play-asks-why-st-clare-of-assisi-chose-to-own-nothing",
-      "publishedAt": "2026-10-17T12:00:00.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/europe/german-bishops-join-initiative-for-child-friendly-artificial-intelligence",
-      "title": "German bishops join initiative for ‘child-friendly’ artificial intelligence",
-      "summary": "Citing Pope Leo XIV’s call to defend human dignity in the age of AI, the German Bishops’ Conference has joined an initiative to make artificial intelligence safe for children.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/europe/german-bishops-join-initiative-for-child-friendly-artificial-intelligence",
-      "publishedAt": "2026-10-17T11:00:00.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/catholic-theologian-challenges-u-s-senate-candidate-on-abortion-the-bible-is-not-silent",
-      "title": "Catholic theologian challenges U.S. Senate candidate on abortion: ‘The Bible is not silent’",
-      "summary": "Professor Jodi Hunt told EWTN News she thinks Talarico was trying to appear as a “centrist” to undecided voters, or Republicans unhappy with the party, but she does not think he was convincing.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/catholic-theologian-challenges-u-s-senate-candidate-on-abortion-the-bible-is-not-silent",
-      "publishedAt": "2026-10-17T10:30:00.000Z"
     }
   ]
 }

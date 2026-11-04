@@ -1,21 +1,76 @@
 {
-  "updatedAt": "2026-11-04T17:16:36.374Z",
+  "updatedAt": "2026-11-04T23:42:03.950Z",
   "news": [
+    {
+      "id": "https://www.ewtnnews.com/world/us/as-texas-democrats-sweep-statewide-offices-pro-life-and-parents-rights-advocates-voice-concerns",
+      "title": "Демократы Техаса одержали победу на выборах по всему штату; реакция католиков и защитников жизни",
+      "summary": "Активисты движения за жизнь отмечают, что республиканцы, многие из которых выступают за защиту жизни, сохраняют контроль над сенатом штата, что станет преградой для законов, способных навредить движению за жизнь.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/as-texas-democrats-sweep-statewide-offices-pro-life-and-parents-rights-advocates-voice-concerns",
+      "publishedAt": "2026-11-04T22:32:06.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/pope-leo-meets-with-renowned-singer-bob-dylan",
+      "title": "Папа Лев встретился с известным певцом Бобом Диланом",
+      "summary": "Во время встречи Святейший Отец подарил Бобу Дилану розарий.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/pope-leo-meets-with-renowned-singer-bob-dylan",
+      "publishedAt": "2026-11-04T20:54:00.000Z",
+      "importance": 4,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/pro-life-groups-bishops-weigh-in-on-election-results",
+      "title": "Епископы и движение за жизнь отреагировали на референдумы по абортам и результаты выборов",
+      "summary": "Католические епископы прокомментировали три поражения движения за жизнь на референдумах, а также оценили влияние убедительных побед демократов в Конгрессе.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/pro-life-groups-bishops-weigh-in-on-election-results",
+      "publishedAt": "2026-11-04T20:14:31.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/vatican-publishes-digital-atlas-honoring-pope-francis-ecological-vision",
+      "title": "Ватикан опубликовал цифровой атлас, посвящённый экологическому видению Папы Франциска",
+      "summary": "Платформа Laudato Si’ представила карту на пресс-конференции в пресс-службе Святого Престола в среду.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/vatican-publishes-digital-atlas-honoring-pope-francis-ecological-vision",
+      "publishedAt": "2026-11-04T18:48:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/europe/pope-leo-xiv-appoints-the-youngest-bishop-in-france-at-age-48",
+      "title": "Папа Лев XIV назначил самого молодого епископа во Франции",
+      "summary": "Папа Лев XIV назначил Марсиаля Бернара новым епископом Суассона. В 48 лет на момент рукоположения 20 декабря он станет самым молодым епископом во Франции.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/europe/pope-leo-xiv-appoints-the-youngest-bishop-in-france-at-age-48",
+      "publishedAt": "2026-11-04T18:03:36.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-fire-chaplain-hails-selfless-sacrificial-cleveland-fireman-who-died-in-line-of-duty",
       "title": "Католический пожарный капеллан почтил память самоотверженного пожарного из Кливленда, погибшего при исполнении служебных обязанностей",
-      "summary": "Пожарная служба Норт-Ройалтона сообщила 3 ноября о смерти пожарного Райана Миллигана, который погиб, борясь с пожаром в Бродвью-Хайтс накануне.",
-      "category": "Россия",
+      "summary": "Пожарное управление Норт-Ройалтона сообщило 3 ноября о гибели пожарного Райана Миллигана, который накануне погиб, борясь с пожаром в Бродвью-Хайтс.",
+      "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/catholic-fire-chaplain-hails-selfless-sacrificial-cleveland-fireman-who-died-in-line-of-duty",
       "publishedAt": "2026-11-04T16:31:57.000Z",
-      "importance": 6,
+      "importance": 7,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-encourages-middle-eastern-christians-to-become-servants-of-peace",
       "title": "Папа Лев XIV призывает христиан Ближнего Востока стать «слугами мира»",
-      "summary": "Понтифик провел частную аудиенцию с делегацией L’Oeuvre d’Orient, поддерживающей восточных христиан с 1856 года.",
+      "summary": "Понтифик провёл частную аудиенцию с делегацией организации L’Oeuvre d’Orient, поддерживающей восточных христиан с 1856 года.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-encourages-middle-eastern-christians-to-become-servants-of-peace",
@@ -25,8 +80,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-warns-of-the-dangers-an-unjust-economy-poses-to-world-peace",
-      "title": "Папа Лев XIV предупреждает об угрозах несправедливой экономики для мирового мира",
-      "summary": "Понтифик подчеркнул важность призывов Церкви к устранению дискриминации уязвимых социальных групп и мигрантов.",
+      "title": "Папа Лев XIV предупреждает о рисках несправедливой экономики для мирового мира",
+      "summary": "Понтифик подчеркнул актуальность призывов Церкви к устранению дискриминации уязвимых социальных групп и мигрантов.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-warns-of-the-dangers-an-unjust-economy-poses-to-world-peace",
@@ -36,8 +91,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/abortion-wins-in-3-states-amid-major-democratic-victories-across-u-s",
-      "title": "В трех штатах США сохраняется запрет на аборты на фоне побед демократов на промежуточных выборах",
-      "summary": "В Айдахо избиратели сохранили запрет на аборты, но в других штатах аборты расширены, а демократы вернули контроль над Конгрессом.",
+      "title": "В трёх штатах США расширили право на аборты на фоне побед демократов на промежуточных выборах",
+      "summary": "Избиратели Айдахо сохранили запрет на аборты, но в других штатах их право расширили, а демократы вернули контроль над Конгрессом.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/abortion-wins-in-3-states-amid-major-democratic-victories-across-u-s",
@@ -48,7 +103,7 @@
     {
       "id": "https://www.ewtnnews.com/world/americas/digital-missionary-warns-of-dangers-of-hate-filled-comments-on-social-media",
       "title": "Цифровой миссионер призывает задуматься о вреде ненавистнических высказываний в соцсетях",
-      "summary": "Отец Хосе Хуан Монтальво обращает внимание на влияние критики, насмешек и ненавистнических сообщений в соцсетях на молодежь.",
+      "summary": "Отец Хосе Хуан Монтальво обращает внимание на влияние критики, насмешек и ненавистнических сообщений в соцсетях на молодёжь.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/digital-missionary-warns-of-dangers-of-hate-filled-comments-on-social-media",
@@ -58,8 +113,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/2026-election-results-abortion-referendums",
-      "title": "Вирджиния утвердила референдум о праве на аборт, результаты в трёх других штатах ещё неизвестны",
-      "summary": "В Вирджинии принят референдум о закреплении конституционного права на аборт. В трёх других штатах результаты подобных референдумов пока не определены.",
+      "title": "Вирджиния утвердила референдум о праве на аборт",
+      "summary": "В Вирджинии принят референдум, закрепляющий конституционное право на аборт в штате.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/2026-election-results-abortion-referendums",
@@ -70,29 +125,29 @@
     {
       "id": "https://www.ewtnnews.com/world/us/u-s-supreme-court-leans-toward-catholic-schools-in-clash-over-pre-k-funding",
       "title": "Верховный суд США склоняется в пользу католических школ в споре о финансировании дошкольного образования",
-      "summary": "Дело в Колорадо ставит в противоречие защиту прав по сексуальной ориентации и гендерной идентичности с религиозными стандартами при приёме в школы.",
+      "summary": "Дело в Колорадо ставит в противоречие защиту прав ЛГБТ и религиозные стандарты при приеме в школы.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/u-s-supreme-court-leans-toward-catholic-schools-in-clash-over-pre-k-funding",
       "publishedAt": "2026-11-03T22:55:00.000Z",
-      "importance": 8,
+      "importance": 7,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/bishops-urge-religious-liberty-language-in-irs-school-discrimination-rule",
-      "title": "Епископы призывают включить защиту религиозной свободы в правило IRS о дискриминации в школах",
-      "summary": "Обзор последних новостей, связанных с католическим образованием, включая призывы епископов к учёту религиозной свободы в новых правилах.",
+      "title": "Епископы призывают включить защиту религиозной свободы в правила IRS о дискриминации в школах",
+      "summary": "Обзор последних новостей, связанных с католическим образованием.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/bishops-urge-religious-liberty-language-in-irs-school-discrimination-rule",
       "publishedAt": "2026-11-03T22:15:00.000Z",
-      "importance": 5,
+      "importance": 4,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/active-duty-military-service-members-have-new-pathway-to-become-chaplains",
       "title": "Военнослужащие на действительной службе получили новую возможность стать капелланами",
-      "summary": "Ранее для получения богословского образования и становления капелланом военнослужащим приходилось покидать армию и затем повторно подавать заявку.",
+      "summary": "Ранее для получения богословского образования и становления капелланом нужно было покинуть армию и затем повторно подавать заявку.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/active-duty-military-service-members-have-new-pathway-to-become-chaplains",
@@ -103,7 +158,7 @@
     {
       "id": "https://www.ewtnnews.com/world/americas/mexican-priest-recovers-from-kidnapping-ordeal",
       "title": "Мексиканский священник оправился после похищения",
-      "summary": "Священник Клементе Моралес Топете пережил избиения, ожоги и угрозы смерти после похищения преступной группировкой, которая пыталась получить от него информацию, которой он не имел.",
+      "summary": "Священник Клементе Моралес Топете подвергся избиениям, ожогам и угрозам смерти от преступной группировки, пытавшейся получить от него информацию, которой он не имел.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/mexican-priest-recovers-from-kidnapping-ordeal",
@@ -113,8 +168,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/national-vocation-awareness-week-highlights-call-to-priesthood-religious-life",
-      "title": "Неделя национального осознания призвания подчеркивает призыв к священству и религиозной жизни",
-      "summary": "Католические организации, епархии, школы и приходы отмечают Неделю национального осознания призвания с 1 по 7 ноября.",
+      "title": "Национальная неделя осознания призвания подчеркивает важность призыва к священству и религиозной жизни",
+      "summary": "Католические организации, епархии, школы и приходы отмечают Национальную неделю осознания призвания с 1 по 7 ноября.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/national-vocation-awareness-week-highlights-call-to-priesthood-religious-life",
@@ -136,7 +191,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/7-fascinating-facts-about-st-martin-de-porres-the-first-black-saint-of-the-americas",
       "title": "7 интересных фактов о святом Мартине де Порресе, первом чернокожем святом Америки",
-      "summary": "3 ноября Католическая Церковь отмечает праздник святого Мартина де Порреса, перуанского доминиканца, первого чернокожего святого Америки.",
+      "summary": "3 ноября Католическая церковь отмечает праздник святого Мартина де Порреса, перуанского доминиканца, ставшего первым чернокожим святым Америки.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/7-fascinating-facts-about-st-martin-de-porres-the-first-black-saint-of-the-americas",
@@ -157,69 +212,59 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-young-people-make-room-for-christ-whenever-you-feel-lonely",
-      "title": "Папа Лев XIV молодёжи: освобождайте место для Христа, когда чувствуете одиночество",
-      "summary": "Ватикан опубликовал послание Папы к 41-му Всемирному дню молодёжи, который пройдет в августе 2027 года в Сеуле, Южная Корея.",
+      "title": "Папа Лев XIV к молодежи: освобождайте место для Христа, когда чувствуете одиночество",
+      "summary": "Ватикан опубликовал послание понтифика к 41-му Всемирному дню молодежи, который пройдет в августе 2027 года в Сеуле, Южная Корея.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-young-people-make-room-for-christ-whenever-you-feel-lonely",
       "publishedAt": "2026-11-03T13:46:08.000Z",
-      "importance": 7,
+      "importance": 6,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/pennsylvania-teen-s-witness-of-faith-and-hope-inspires-calls-for-her-canonization",
-      "title": "Свидетельство веры и надежды подростка из Пенсильвании вдохновляет на её канонизацию",
-      "summary": "Шесть лет спустя после смерти Марии Миддлтон от рака мозга её радостная вера продолжает вдохновлять, и церковь Филадельфии рассматривает возможность открытия её дела о канонизации.",
+      "title": "Pennsylvania teen’s witness of faith and hope inspires calls for her canonization",
+      "summary": "Six years after Maria Middleton’s death from brain cancer, her joyful faith continues to inspire others as the Church in Philadelphia considers opening her cause for sainthood.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/pennsylvania-teen-s-witness-of-faith-and-hope-inspires-calls-for-her-canonization",
-      "publishedAt": "2026-11-03T11:00:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
+      "publishedAt": "2026-11-03T11:00:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/vatican/the-mission-pope-leo-xiv-in-south-america",
-      "title": "Миссия: Папа Лев XIV в Южной Америке",
-      "summary": "Понтифик возвращается на континент, который сформировал его призвание.",
+      "title": "The mission: Pope Leo XIV in South America",
+      "summary": "A pontiff returns to the continent that shaped his vocation.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/the-mission-pope-leo-xiv-in-south-america",
-      "publishedAt": "2026-11-03T11:00:00.000Z",
-      "importance": 6,
-      "aiProcessed": true
+      "publishedAt": "2026-11-03T11:00:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-conferences-midterms",
-      "title": "Католические конференции на уровне штатов готовят верующих к голосованию по инициативам",
-      "summary": "В некоторых штатах конференции епископов заняли чёткую позицию по инициативам на голосовании, призывая католиков поддержать или отвергнуть их.",
+      "title": "State-level Catholic conferences prepare the faithful for ballot initiatives",
+      "summary": "In some states, bishops’ conferences have taken a clear position on ballot initiatives, urging Catholics to either support or oppose the measures.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/catholic-conferences-midterms",
-      "publishedAt": "2026-11-02T23:27:52.000Z",
-      "importance": 5,
-      "aiProcessed": true
+      "publishedAt": "2026-11-02T23:27:52.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-to-return-to-chiclayo-in-peru-and-the-places-that-shaped-his-ministry",
-      "title": "Папа Лев XIV вернётся в Чиклайо в Перу и места, где формировалось его служение",
-      "summary": "Папа Лев XIV посетит Чиклайо, где был епископом, а также ключевые места его пастырской деятельности, включая собор, святыню Пресвятой Девы Мира и Занью.",
-      "category": "Ватикан",
+      "title": "Pope Leo XIV to return to Chiclayo in Peru and the places that shaped his ministry",
+      "summary": "Pope Leo XIV will return to Chiclayo, Peru, where he once served as bishop, and will visit key sites from his pastoral ministry, including the cathedral, the Shrine of Our Lady of Peace, and Zaña.",
+      "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-to-return-to-chiclayo-in-peru-and-the-places-that-shaped-his-ministry",
-      "publishedAt": "2026-11-02T19:51:29.000Z",
-      "importance": 6,
-      "aiProcessed": true
+      "publishedAt": "2026-11-02T19:51:29.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-faith-assures-us-that-our-bond-with-the-faithful-departed-has-not-been-broken",
-      "title": "Лев XIV: Вера утверждает, что «наша связь с усопшими не прервана»",
-      "summary": "Продолжая традицию, начатую Иоанном Павлом II в 1970-х, Папа Лев XIV 2 ноября посетил кладбище Верано в Риме.",
+      "title": "Leo XIV: Faith assures us that ‘our bond with the faithful departed has not been broken’",
+      "summary": "Continuing a tradition begun by St. John Paul II in the late 1970s, Pope Leo XIV visited Rome’s Verano Cemetery on Nov. 2.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-faith-assures-us-that-our-bond-with-the-faithful-departed-has-not-been-broken",
-      "publishedAt": "2026-11-02T18:47:14.000Z",
-      "importance": 5,
-      "aiProcessed": true
+      "publishedAt": "2026-11-02T18:47:14.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/savannah-gives-thanks-for-newly-beatified-georgia-martyrs",
@@ -1805,51 +1850,6 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/middle-east/jordan-s-church-leaders-back-bill-expanding-legal-options-for-christian-families",
       "publishedAt": "2026-10-18T11:00:00.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/pope-leads-pilgrims-in-prayer-one-day-after-leaving-hospital",
-      "title": "Pope leads pilgrims in prayer 1 day after leaving hospital",
-      "summary": "The pontiff, five days after undergoing surgery for cancer, said he would “gradually resume my activities.”",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/pope-leads-pilgrims-in-prayer-one-day-after-leaving-hospital",
-      "publishedAt": "2026-10-18T10:05:48.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/africa/priest-in-ghana-recounts-escape-from-car-fire-urges-devotion-to-the-rosary",
-      "title": "Priest in Ghana recounts escape from car fire, urges devotion to the rosary",
-      "summary": "After surviving a life-threatening fire, Father David Obeng Paintsil called the rosary “a really powerful prayer.”",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/africa/priest-in-ghana-recounts-escape-from-car-fire-urges-devotion-to-the-rosary",
-      "publishedAt": "2026-10-18T10:00:00.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/united-in-mission-international-rosary-in-rome-marks-100th-world-mission-sunday",
-      "title": "International rosary in Rome held in advance of 100th World Mission Sunday",
-      "summary": "The rosary, recited in 13 languages, also marked the 75th anniversary of the World Mission Rosary by Blessed Fulton Sheen.",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/united-in-mission-international-rosary-in-rome-marks-100th-world-mission-sunday",
-      "publishedAt": "2026-10-17T20:38:44.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/pope-s-surgeon-green-lights-his-nov-6-17-apostolic-trip-to-latin-america",
-      "title": "Pope’s surgeon green lights Nov. 6–17 apostolic trip to Latin America",
-      "summary": "“No clinical reasons why it should not take place,” said Dr. Stefano Margaritora, who called Pope Leo “an ideal patient.”",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/pope-s-surgeon-green-lights-his-nov-6-17-apostolic-trip-to-latin-america",
-      "publishedAt": "2026-10-17T16:18:56.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/europe/a-century-of-church-growth-from-10-million-to-347-million-in-the-mission-territories",
-      "title": "A century of Church growth: From 10 million to 347 million in the mission territories",
-      "summary": "On average each day, over the last 100 years in mission territories, the Church has seen more than 9,000 people becoming Catholic, two priestly ordinations, and five women taking vows as religious.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/europe/a-century-of-church-growth-from-10-million-to-347-million-in-the-mission-territories",
-      "publishedAt": "2026-10-17T14:00:00.000Z"
     }
   ]
 }

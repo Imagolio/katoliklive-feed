@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-04T23:42:03.950Z",
+  "updatedAt": "2026-11-05T06:50:14.612Z",
   "news": [
     {
       "id": "https://www.ewtnnews.com/world/us/as-texas-democrats-sweep-statewide-offices-pro-life-and-parents-rights-advocates-voice-concerns",
-      "title": "Демократы Техаса одержали победу на выборах по всему штату; реакция католиков и защитников жизни",
-      "summary": "Активисты движения за жизнь отмечают, что республиканцы, многие из которых выступают за защиту жизни, сохраняют контроль над сенатом штата, что станет преградой для законов, способных навредить движению за жизнь.",
+      "title": "Демократы Техаса побеждают на выборах по всему штату; реакция католиков и защитников жизни",
+      "summary": "Активисты за жизнь отмечают, что республиканцы, многие из которых выступают за жизнь, сохраняют контроль над сенатом штата, что станет преградой для законов, способных навредить движению за жизнь.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/as-texas-democrats-sweep-statewide-offices-pro-life-and-parents-rights-advocates-voice-concerns",
@@ -14,8 +14,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/pope-leo-meets-with-renowned-singer-bob-dylan",
-      "title": "Папа Лев встретился с известным певцом Бобом Диланом",
-      "summary": "Во время встречи Святейший Отец подарил Бобу Дилану розарий.",
+      "title": "Папа Лев встречается с известным певцом Бобом Диланом",
+      "summary": "Во время встречи Святейший Отец подарил Дилану розарий.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/pope-leo-meets-with-renowned-singer-bob-dylan",
@@ -25,8 +25,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/pro-life-groups-bishops-weigh-in-on-election-results",
-      "title": "Епископы и движение за жизнь отреагировали на референдумы по абортам и результаты выборов",
-      "summary": "Католические епископы прокомментировали три поражения движения за жизнь на референдумах, а также оценили влияние убедительных побед демократов в Конгрессе.",
+      "title": "Епископы и движение за жизнь реагируют на референдумы по абортам и результаты выборов",
+      "summary": "Католические епископы отреагировали на три поражения сторонников жизни на референдумах, а группы за жизнь прокомментировали результаты и влияние побед демократов в Конгрессе.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/pro-life-groups-bishops-weigh-in-on-election-results",
@@ -36,35 +36,35 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/vatican-publishes-digital-atlas-honoring-pope-francis-ecological-vision",
-      "title": "Ватикан опубликовал цифровой атлас, посвящённый экологическому видению Папы Франциска",
+      "title": "Ватикан публикует цифровой атлас, посвящённый экологическому видению Папы Франциска",
       "summary": "Платформа Laudato Si’ представила карту на пресс-конференции в пресс-службе Святого Престола в среду.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/vatican-publishes-digital-atlas-honoring-pope-francis-ecological-vision",
       "publishedAt": "2026-11-04T18:48:00.000Z",
-      "importance": 5,
+      "importance": 6,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/pope-leo-xiv-appoints-the-youngest-bishop-in-france-at-age-48",
       "title": "Папа Лев XIV назначил самого молодого епископа во Франции",
-      "summary": "Папа Лев XIV назначил Марсиаля Бернара новым епископом Суассона. В 48 лет на момент рукоположения 20 декабря он станет самым молодым епископом во Франции.",
+      "summary": "Папа Лев XIV назначил Мартиаля Бернара новым епископом Суассона. В 48 лет на момент рукоположения 20 декабря он станет самым молодым епископом Франции.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/pope-leo-xiv-appoints-the-youngest-bishop-in-france-at-age-48",
       "publishedAt": "2026-11-04T18:03:36.000Z",
-      "importance": 6,
+      "importance": 5,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-fire-chaplain-hails-selfless-sacrificial-cleveland-fireman-who-died-in-line-of-duty",
       "title": "Католический пожарный капеллан почтил память самоотверженного пожарного из Кливленда, погибшего при исполнении служебных обязанностей",
-      "summary": "Пожарное управление Норт-Ройалтона сообщило 3 ноября о гибели пожарного Райана Миллигана, который накануне погиб, борясь с пожаром в Бродвью-Хайтс.",
-      "category": "Мир",
+      "summary": "Пожарная служба Норт-Ройалтона сообщила 3 ноября о гибели пожарного Райана Миллигана, который погиб, борясь с огнём в Бродвью-Хайтс накануне.",
+      "category": "Россия",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/catholic-fire-chaplain-hails-selfless-sacrificial-cleveland-fireman-who-died-in-line-of-duty",
       "publishedAt": "2026-11-04T16:31:57.000Z",
-      "importance": 7,
+      "importance": 6,
       "aiProcessed": true
     },
     {
@@ -80,7 +80,7 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-warns-of-the-dangers-an-unjust-economy-poses-to-world-peace",
-      "title": "Папа Лев XIV предупреждает о рисках несправедливой экономики для мирового мира",
+      "title": "Папа Лев XIV предупреждает об угрозах несправедливой экономики для мирового мира",
       "summary": "Понтифик подчеркнул актуальность призывов Церкви к устранению дискриминации уязвимых социальных групп и мигрантов.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
@@ -91,8 +91,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/abortion-wins-in-3-states-amid-major-democratic-victories-across-u-s",
-      "title": "В трёх штатах США расширили право на аборты на фоне побед демократов на промежуточных выборах",
-      "summary": "Избиратели Айдахо сохранили запрет на аборты, но в других штатах их право расширили, а демократы вернули контроль над Конгрессом.",
+      "title": "В трёх штатах США одержали победу сторонники абортов на фоне крупных побед демократов на промежуточных выборах",
+      "summary": "Избиратели Айдахо сохранили запрет на аборты, но в других штатах их расширили, а демократы вернули контроль над Палатой представителей и Сенатом США.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/abortion-wins-in-3-states-amid-major-democratic-victories-across-u-s",
@@ -102,8 +102,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/digital-missionary-warns-of-dangers-of-hate-filled-comments-on-social-media",
-      "title": "Цифровой миссионер призывает задуматься о вреде ненавистнических высказываний в соцсетях",
-      "summary": "Отец Хосе Хуан Монтальво обращает внимание на влияние критики, насмешек и ненавистнических сообщений в соцсетях на молодёжь.",
+      "title": "Цифровой миссионер: проблема ненавистнических высказываний в соцсетях",
+      "summary": "Отец Хосе Хуан Монтальво призывает задуматься о влиянии критики, насмешек и ненавистнических сообщений в соцсетях на молодёжь.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/digital-missionary-warns-of-dangers-of-hate-filled-comments-on-social-media",
@@ -114,7 +114,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/2026-election-results-abortion-referendums",
       "title": "Вирджиния утвердила референдум о праве на аборт",
-      "summary": "В Вирджинии принят референдум, закрепляющий конституционное право на аборт в штате.",
+      "summary": "В Вирджинии принят референдум, закрепляющий конституционное право на аборт в местной конституции.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/2026-election-results-abortion-referendums",
@@ -136,18 +136,18 @@
     {
       "id": "https://www.ewtnnews.com/world/us/bishops-urge-religious-liberty-language-in-irs-school-discrimination-rule",
       "title": "Епископы призывают включить защиту религиозной свободы в правила IRS о дискриминации в школах",
-      "summary": "Обзор последних новостей, связанных с католическим образованием.",
+      "summary": "Обзор последних новостей, связанных с католическим образованием и защитой религиозных прав.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/bishops-urge-religious-liberty-language-in-irs-school-discrimination-rule",
       "publishedAt": "2026-11-03T22:15:00.000Z",
-      "importance": 4,
+      "importance": 5,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/active-duty-military-service-members-have-new-pathway-to-become-chaplains",
       "title": "Военнослужащие на действительной службе получили новую возможность стать капелланами",
-      "summary": "Ранее для получения богословского образования и становления капелланом нужно было покинуть армию и затем повторно подавать заявку.",
+      "summary": "Ранее для получения богословского образования и становления капелланом нужно было покидать армию и затем повторно подавать заявку.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/active-duty-military-service-members-have-new-pathway-to-become-chaplains",
@@ -158,7 +158,7 @@
     {
       "id": "https://www.ewtnnews.com/world/americas/mexican-priest-recovers-from-kidnapping-ordeal",
       "title": "Мексиканский священник оправился после похищения",
-      "summary": "Священник Клементе Моралес Топете подвергся избиениям, ожогам и угрозам смерти от преступной группировки, пытавшейся получить от него информацию, которой он не имел.",
+      "summary": "Священник Клементе Моралес Топете пережил избиения, ожоги и угрозы смерти после похищения преступной группировкой, которая пыталась получить от него информацию.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/mexican-priest-recovers-from-kidnapping-ordeal",
@@ -168,7 +168,7 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/national-vocation-awareness-week-highlights-call-to-priesthood-religious-life",
-      "title": "Национальная неделя осознания призвания подчеркивает важность призыва к священству и религиозной жизни",
+      "title": "Национальная неделя осознания призвания подчеркивает призыв к священству и религиозной жизни",
       "summary": "Католические организации, епархии, школы и приходы отмечают Национальную неделю осознания призвания с 1 по 7 ноября.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
@@ -191,7 +191,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/7-fascinating-facts-about-st-martin-de-porres-the-first-black-saint-of-the-americas",
       "title": "7 интересных фактов о святом Мартине де Порресе, первом чернокожем святом Америки",
-      "summary": "3 ноября Католическая церковь отмечает праздник святого Мартина де Порреса, перуанского доминиканца, ставшего первым чернокожим святым Америки.",
+      "summary": "3 ноября Католическая церковь празднует память святого Мартина де Порреса, перуанского доминиканца, ставшего первым чернокожим святым Америки.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/7-fascinating-facts-about-st-martin-de-porres-the-first-black-saint-of-the-americas",
@@ -212,13 +212,13 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-young-people-make-room-for-christ-whenever-you-feel-lonely",
-      "title": "Папа Лев XIV к молодежи: освобождайте место для Христа, когда чувствуете одиночество",
-      "summary": "Ватикан опубликовал послание понтифика к 41-му Всемирному дню молодежи, который пройдет в августе 2027 года в Сеуле, Южная Корея.",
+      "title": "Папа Лев XIV молодёжи: находите место для Христа, когда чувствуете одиночество",
+      "summary": "Ватикан опубликовал послание понтифика к 41-му Всемирному дню молодёжи, который пройдет в августе 2027 года в Сеуле, Южная Корея.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-young-people-make-room-for-christ-whenever-you-feel-lonely",
       "publishedAt": "2026-11-03T13:46:08.000Z",
-      "importance": 6,
+      "importance": 7,
       "aiProcessed": true
     },
     {

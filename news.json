@@ -1,21 +1,87 @@
 {
-  "updatedAt": "2026-11-06T06:51:04.609Z",
+  "updatedAt": "2026-11-06T16:47:31.262Z",
   "news": [
     {
+      "id": "https://www.ewtnnews.com/vatican/new-book-recounts-stories-of-papal-flights-from-john-paul-ii-to-leo-xiv",
+      "title": "Новая книга рассказывает истории папских перелётов от Иоанна Павла II до Льва XIV",
+      "summary": "Рино Анастасио делится личными историями о заботе о папах на борту, включая тревоги из-за нехватки топлива и неожиданный сюрприз на день рождения.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/new-book-recounts-stories-of-papal-flights-from-john-paul-ii-to-leo-xiv",
+      "publishedAt": "2026-11-06T15:48:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/live-updates-pope-leo-xiv-in-south-america",
+      "title": "Папа Лев XIV в Южной Америке: прямые обновления",
+      "summary": "Папа Лев XIV совершает апостольское путешествие с 6 по 17 ноября в Уругвай, Аргентину и Перу, где ранее служил миссионером и епископом.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/live-updates-pope-leo-xiv-in-south-america",
+      "publishedAt": "2026-11-06T15:08:13.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/africa/nigerian-government-lacks-political-will-to-end-attacks-in-benue-state-catholic-bishop-says",
+      "title": "Католический епископ: правительство Нигерии не хочет прекращать нападения в штате Бенуе",
+      "summary": "Епископ Вилфред Чикпа Анагь заявил, что неоднократные предупреждения перед смертельной атакой на общину Йелвата остались без внимания.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/africa/nigerian-government-lacks-political-will-to-end-attacks-in-benue-state-catholic-bishop-says",
+      "publishedAt": "2026-11-06T14:00:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/middle-east/st-catherine-s-monastery-nears-settlement-to-end-dispute-with-egyptian-government",
+      "title": "Монастырь Святой Екатерины близок к урегулированию спора с египетским правительством",
+      "summary": "Ожидается, что соглашение обеспечит большую стабильность монастырю и позволит правительству Египта продолжить проект Великого Преображения.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/middle-east/st-catherine-s-monastery-nears-settlement-to-end-dispute-with-egyptian-government",
+      "publishedAt": "2026-11-06T13:00:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/theologian-highlights-contribution-of-laypeople-to-international-theological-commission",
+      "title": "Теолог отметил вклад мирян в Международную теологическую комиссию",
+      "summary": "В Международной теологической комиссии 30 членов, из которых 10 — миряне.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/theologian-highlights-contribution-of-laypeople-to-international-theological-commission",
+      "publishedAt": "2026-11-06T12:00:00.000Z",
+      "importance": 4,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/first-ever-catholic-military-conference-will-focus-on-living-and-serving-justly",
+      "title": "Первая в истории католическая военная конференция сосредоточится на теме «Жить и служить справедливо»",
+      "summary": "Архиепископ Тимоти Броллио заявил, что участники конференции смогут узнать и задать вопросы о католическом учении о теории справедливой войны.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/first-ever-catholic-military-conference-will-focus-on-living-and-serving-justly",
+      "publishedAt": "2026-11-06T11:00:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
       "id": "https://www.ewtnnews.com/world/us/catholic-group-praises-california-for-largest-commutation-in-history-as-hundreds-spared",
-      "title": "Католическая организация приветствует Калифорнию за «самое крупное помилование в истории» — сотни осуждённых спасены от казни",
-      "summary": "Губернатор Калифорнии Гэвин Ньюсом 5 ноября помиловал почти 550 заключённых, приговорённых к смертной казни, что стало крупнейшим в истории штата актом помилования.",
+      "title": "Католическая организация приветствует Калифорнию за «крупнейшее в истории помилование» — сотни осуждённых избежали казни",
+      "summary": "Губернатор Калифорнии Гэвин Ньюсом 5 ноября помиловал почти 550 заключённых, приговорённых к смертной казни.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/catholic-group-praises-california-for-largest-commutation-in-history-as-hundreds-spared",
       "publishedAt": "2026-11-05T22:22:00.000Z",
-      "importance": 8,
+      "importance": 7,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/texas-bishops-congratulate-democratic-winners-reaffirm-pro-life-and-family-agenda",
-      "title": "Епископы Техаса поздравили победителей-демократов и подтвердили приверженность ценностям жизни и семьи",
-      "summary": "Католические епископы Техаса поздравили демократов, выигравших все высшие посты в штате, и молились за их мудрость, подчеркнув неизменность католических принципов.",
+      "title": "Епископы Техаса поздравили победителей-демократов и подтвердили приверженность про-жизненной и семейной повестке",
+      "summary": "Католические епископы Техаса поздравили демократов, выигравших все высшие посты в штате, и молились за их мудрость, подтверждая неизменность католических принципов.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/texas-bishops-congratulate-democratic-winners-reaffirm-pro-life-and-family-agenda",
@@ -26,7 +92,7 @@
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-praises-chinese-catholics-for-unity-100-years-after-consecration-of-their-first",
       "title": "Папа Лев XIV похвалил китайских католиков за единство спустя 100 лет после посвящения первых епископов",
-      "summary": "Папа направил послание на конференцию в Риме, посвящённую столетию, где обсуждались сложные отношения Ватикана с Китаем.",
+      "summary": "Папа направил послание на конференцию в Риме, посвящённую юбилею, где обсуждались сложные отношения Ватикана с Китаем.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-praises-chinese-catholics-for-unity-100-years-after-consecration-of-their-first",
@@ -37,7 +103,7 @@
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-priest-pleads-guilty-to-1970s-sexual-assault-of-baltimore-boy",
       "title": "Католический священник признал вину в сексуальном насилии над мальчиком в Балтиморе в 1970-х годах",
-      "summary": "Прокуратура штата Мэриленд сообщила, что отец Лоренс Лапуант признал факт насилия над мальчиком в школе Гилман.",
+      "summary": "Прокуратура штата Мэриленд сообщила, что отец Лоренс Лапоинт признал факт насилия над мальчиком в школе Гилман.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/catholic-priest-pleads-guilty-to-1970s-sexual-assault-of-baltimore-boy",
@@ -47,8 +113,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/chiclayo-priest-eagerly-awaits-his-friend-pope-leo-xiv-in-peru",
-      "title": "Священник из Чиклайо с нетерпением ждёт своего друга, Папу Льва XIV, в Перу",
-      "summary": "Отец Уго Габриэль Санчес отметил, что Папа Лев остаётся близким другом, внимательным и заботящимся о них.",
+      "title": "Священник из Чиклаё с нетерпением ждёт своего друга, Папу Льва XIV, в Перу",
+      "summary": "Отец Уго Габриэль Санчес говорит, что Папа Лев остаётся таким же близким другом, внимательным и заботящимся о благополучии прихожан.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/chiclayo-priest-eagerly-awaits-his-friend-pope-leo-xiv-in-peru",
@@ -58,68 +124,68 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-appoints-2-undersecretaries-to-promoting-integral-human-development-dicastery",
-      "title": "Папа назначил двух заместителей секретаря в дикастерий по целостному развитию человека",
-      "summary": "5 ноября Папа назначил отца Авелино Чикому Бундо Чико, SJ, и Клаудию Леаль Луну заместителями секретаря в дикастерии по целостному развитию человека.",
+      "title": "Папа назначил двух заместителей секретарей в дикастерии по целостному развитию человека",
+      "summary": "5 ноября понтифик назначил отца Авелино Чикома Бундо Чико, SJ, и Клаудию Леаль Луну на должности заместителей в дикастерии по целостному развитию человека.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-appoints-2-undersecretaries-to-promoting-integral-human-development-dicastery",
       "publishedAt": "2026-11-05T15:23:00.000Z",
-      "importance": 6,
+      "importance": 7,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-let-us-not-allow-the-memory-of-the-deceased-to-be-reduced-to-mere-nostalgia",
-      "title": "Папа Лев XIV: Не позволим памяти усопших стать лишь ностальгией",
-      "summary": "Папа отслужил Мессу в четверг за упокой епископов и кардиналов, умерших в течение года, призывая сохранять живую память о них.",
+      "title": "Папа Лев XIV: Не допустим, чтобы память о умерших стала лишь ностальгией",
+      "summary": "В четверг понтифик отслужил Мессу за упокой епископов и кардиналов, скончавшихся в течение года.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-let-us-not-allow-the-memory-of-the-deceased-to-be-reduced-to-mere-nostalgia",
       "publishedAt": "2026-11-05T14:43:00.000Z",
-      "importance": 6,
+      "importance": 7,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-chooses-community-as-theme-for-world-day-of-the-sick-2027",
       "title": "Папа Лев XIV выбрал тему «Сообщество» для Всемирного дня больного 2027 года",
-      "summary": "В 2027 году Церковь отметит 35-летие Всемирного дня больного, тема которого будет посвящена сообществу и поддержке больных.",
+      "summary": "В 2027 году Церковь отметит 35-летие этого памятного дня, посвящённого больным.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-chooses-community-as-theme-for-world-day-of-the-sick-2027",
       "publishedAt": "2026-11-05T14:03:30.000Z",
-      "importance": 5,
+      "importance": 6,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/humility-according-to-merry-del-val-vatican-secretary-of-state-who-slept-on-a-straw-mattress",
-      "title": "Уроки смирения от государственного секретаря Ватикана XX века, спавшего на соломенном матрасе",
+      "title": "Уроки смирения от госсекретаря Ватикана XX века, спавшего на соломенном матрасе",
       "summary": "Новая книга «Рост в смирении: 7 шагов с кардиналом Мерри дель Валь» посвящена приобретению подлинной добродетели смирения.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/humility-according-to-merry-del-val-vatican-secretary-of-state-who-slept-on-a-straw-mattress",
       "publishedAt": "2026-11-05T12:00:00.000Z",
-      "importance": 4,
+      "importance": 5,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/a-world-war-ii-mystery-who-dropped-bombs-on-the-vatican-on-nov-5-1943",
-      "title": "Загадка Второй мировой: Кто сбросил бомбы на Ватикан?",
-      "summary": "5 ноября 1943 года неизвестный самолет сбросил бомбы на Ватикан, одна из которых едва не попала в собор Святого Петра. Причины и виновники этого события остаются неизвестными.",
+      "title": "Загадка Второй мировой: кто сбросил бомбы на Ватикан?",
+      "summary": "5 ноября 1943 года неизвестный самолет сбросил бомбы на Ватикан, одна из которых едва не попала в собор Святого Петра. Кто это сделал и почему до сих пор остается загадкой?",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/a-world-war-ii-mystery-who-dropped-bombs-on-the-vatican-on-nov-5-1943",
       "publishedAt": "2026-11-05T11:00:00.000Z",
-      "importance": 7,
+      "importance": 8,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/as-texas-democrats-sweep-statewide-offices-pro-life-and-parents-rights-advocates-voice-concerns",
-      "title": "Демократы Техаса побеждают на выборах по всему штату; реакция католиков и защитников жизни",
-      "summary": "Активисты за жизнь отмечают, что республиканцы, многие из которых поддерживают защиту жизни, сохраняют контроль над сенатом штата, что станет преградой для законов, способных навредить движению за жизнь.",
+      "title": "Демократы Техаса побеждают на выборах; реакция католиков и защитников жизни",
+      "summary": "Активисты за жизнь отмечают, что республиканцы, многие из которых выступают за защиту жизни, сохраняют контроль над сенатом штата, что станет преградой для законов, ослабляющих движение за жизнь.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/as-texas-democrats-sweep-statewide-offices-pro-life-and-parents-rights-advocates-voice-concerns",
       "publishedAt": "2026-11-04T22:32:06.000Z",
-      "importance": 7,
+      "importance": 6,
       "aiProcessed": true
     },
     {
@@ -141,18 +207,18 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-meets-with-renowned-singer-bob-dylan",
       "publishedAt": "2026-11-04T20:54:00.000Z",
-      "importance": 4,
+      "importance": 5,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/pro-life-groups-bishops-weigh-in-on-election-results",
-      "title": "Епископы и движение за жизнь реагируют на референдумы по абортам и результаты выборов",
-      "summary": "Католические епископы отреагировали на три поражения сторонников жизни на референдумах, а группы за жизнь прокомментировали результаты и влияние побед демократов в Конгрессе.",
+      "title": "Епископы и движение за жизнь комментируют результаты референдумов и выборов по абортам",
+      "summary": "Католические епископы отреагировали на три поражения сторонников жизни на референдумах, а группы за жизнь оценили результаты и влияние побед демократов в Конгрессе.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/pro-life-groups-bishops-weigh-in-on-election-results",
       "publishedAt": "2026-11-04T20:14:31.000Z",
-      "importance": 7,
+      "importance": 6,
       "aiProcessed": true
     },
     {
@@ -168,69 +234,57 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/pope-leo-xiv-appoints-the-youngest-bishop-in-france-at-age-48",
-      "title": "Папа Лев XIV назначает самого молодого епископа во Франции",
-      "summary": "Папа Лев XIV назначил Мартиаля Бернара новым епископом Суассона. В 48 лет при рукоположении 20 декабря он станет самым молодым епископом Франции.",
-      "category": "Ватикан",
+      "title": "Pope Leo XIV appoints youngest bishop in France",
+      "summary": "Pope Leo XIV has appointed Martial Bernard as the new bishop of Soissons. At 48 years of age at his Dec. 20 episcopal ordination, he will become the youngest bishop in France.",
+      "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/pope-leo-xiv-appoints-the-youngest-bishop-in-france-at-age-48",
-      "publishedAt": "2026-11-04T18:03:36.000Z",
-      "importance": 6,
-      "aiProcessed": true
+      "publishedAt": "2026-11-04T18:03:36.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-fire-chaplain-hails-selfless-sacrificial-cleveland-fireman-who-died-in-line-of-duty",
-      "title": "Католический пожарный капеллан почтил память самоотверженного пожарного из Кливленда, погибшего при исполнении служебных обязанностей",
-      "summary": "Пожарная служба Норт-Ройалтона сообщила 3 ноября о смерти пожарного Райана Миллигана, который погиб, сражаясь с огнём в Бродвью-Хайтс накануне.",
-      "category": "Россия",
+      "title": "Catholic fire chaplain hails ‘selfless, sacrificial’ Cleveland fireman who died in line of duty",
+      "summary": "The North Royalton Fire Department announced on Nov. 3 that one of its firefighters, Ryan Milligan, had died after fighting a fire in Broadview Heights the day before.",
+      "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/catholic-fire-chaplain-hails-selfless-sacrificial-cleveland-fireman-who-died-in-line-of-duty",
-      "publishedAt": "2026-11-04T16:31:57.000Z",
-      "importance": 6,
-      "aiProcessed": true
+      "publishedAt": "2026-11-04T16:31:57.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-encourages-middle-eastern-christians-to-become-servants-of-peace",
-      "title": "Папа Лев XIV призывает христиан Ближнего Востока стать «слугами мира»",
-      "summary": "Понтифик провёл частную аудиенцию с делегацией L’Oeuvre d’Orient, поддерживающей восточных христиан с 1856 года.",
+      "title": "Pope Leo XIV encourages Middle Eastern Christians to become ‘servants of peace’",
+      "summary": "The pontiff held a private audience on Wednesday with a delegation from L’Oeuvre d’Orient, which has supported Eastern Christians since 1856.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-encourages-middle-eastern-christians-to-become-servants-of-peace",
-      "publishedAt": "2026-11-04T15:05:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
+      "publishedAt": "2026-11-04T15:05:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-warns-of-the-dangers-an-unjust-economy-poses-to-world-peace",
-      "title": "Папа Лев XIV предупреждает о рисках несправедливой экономики для мирового мира",
-      "summary": "Понтифик подчеркнул актуальность призывов Церкви к устранению дискриминации уязвимых социальных групп и мигрантов.",
+      "title": "Pope Leo XIV warns of the dangers an unjust economy poses to world peace",
+      "summary": "The pontiff highlighted the continuing relevance of the Church’s calls to “commit to eliminating discrimination against the most vulnerable social groups and migrants.”",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-warns-of-the-dangers-an-unjust-economy-poses-to-world-peace",
-      "publishedAt": "2026-11-04T14:20:32.000Z",
-      "importance": 8,
-      "aiProcessed": true
+      "publishedAt": "2026-11-04T14:20:32.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/abortion-wins-in-3-states-amid-major-democratic-victories-across-u-s",
-      "title": "В трёх штатах США сохраняется запрет на аборты на фоне побед демократов на промежуточных выборах",
-      "summary": "Избиратели Айдахо сохранили запрет на аборты, тогда как в других штатах аборты расширились, а демократы вернули контроль над Конгрессом.",
+      "title": "Abortion wins in 3 states amid major Democratic victories in U.S. midterms",
+      "summary": "Voters in Idaho preserved the state’s ban on abortion, but elsewhere abortion was expanded as Democrats retook the U.S. House and Senate.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/abortion-wins-in-3-states-amid-major-democratic-victories-across-u-s",
-      "publishedAt": "2026-11-04T12:10:58.000Z",
-      "importance": 8,
-      "aiProcessed": true
+      "publishedAt": "2026-11-04T12:10:58.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/digital-missionary-warns-of-dangers-of-hate-filled-comments-on-social-media",
-      "title": "Цифровой миссионер призывает задуматься о вреде ненавистнических высказываний в соцсетях",
-      "summary": "Отец Хосе Хуан Монтальво обращает внимание на влияние критики, насмешек и ненавистнических сообщений в соцсетях на молодёжь.",
-      "category": "Ватикан",
+      "title": "Digital missionary: The bane of hate-filled speech on social media",
+      "summary": "Digital missionary Father José Juan Montalvo calls for reflection on the impact that criticism, mockery, and hate-filled messages on social media can have on young people.",
+      "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/digital-missionary-warns-of-dangers-of-hate-filled-comments-on-social-media",
-      "publishedAt": "2026-11-04T11:00:00.000Z",
-      "importance": 5,
-      "aiProcessed": true
+      "publishedAt": "2026-11-04T11:00:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/2026-election-results-abortion-referendums",
@@ -1798,60 +1852,6 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/eu-bishops-set-out-8-principles-to-keep-ai-at-the-service-of-the-human-person",
       "publishedAt": "2026-10-20T12:49:24.000Z"
-    },
-    {
-      "id": "https://cathmos.ru/apostolskii-nunczii-obsudil-podderzhku-katolicheskoi-czerkvi-v-nizhegorodskoi-oblasti/",
-      "title": "Апостольский нунций обсудил поддержку Католической Церкви в Нижегородской области с представителями регионального правительства",
-      "summary": "",
-      "category": "Россия",
-      "source": "Архиепархия Божией Матери в Москве",
-      "url": "https://cathmos.ru/apostolskii-nunczii-obsudil-podderzhku-katolicheskoi-czerkvi-v-nizhegorodskoi-oblasti/",
-      "publishedAt": "2026-10-20T11:16:01.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/europe/new-apostolate-to-atheists-and-agnostics-taking-off-in-spain",
-      "title": "New apostolate to atheists and agnostics takes off in Spain",
-      "summary": "The conversion of Javier Huerta has led to the establishment of “Encuentros Siloé,” a new apostolate dedicated to making the reasonableness of faith accessible to atheists and agnostics.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/europe/new-apostolate-to-atheists-and-agnostics-taking-off-in-spain",
-      "publishedAt": "2026-10-20T11:00:00.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/young-members-of-the-order-of-malta-help-the-homeless-in-st-peter-s-square",
-      "title": "Young members of the Order of Malta help the homeless in St. Peter’s Square",
-      "summary": "Every Tuesday, volunteers gather near St. Peter’s Square to provide food to the homeless.",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/young-members-of-the-order-of-malta-help-the-homeless-in-st-peter-s-square",
-      "publishedAt": "2026-10-20T10:00:00.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/exorcist-father-ripperger-agrees-to-1-year-fast-from-public-speaking",
-      "title": "Exorcist Father Ripperger agrees to 1-year ‘fast’ from public speaking",
-      "summary": "The prominent priest agreed to Denver Archbishop James Golka’s request, which the archdiocese says will allow him to focus on his religious community and the people it serves.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/exorcist-father-ripperger-agrees-to-1-year-fast-from-public-speaking",
-      "publishedAt": "2026-10-19T22:24:46.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/ai-task-force-established-by-usccb",
-      "title": "U.S. bishops name members of AI task force formed in response to encyclical",
-      "summary": "U.S. bishops formed the task force after meeting with AI experts and executives in September to identify how the Church could help shape the moral foundations of AI.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/ai-task-force-established-by-usccb",
-      "publishedAt": "2026-10-19T21:39:03.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-speaks-with-zelenskyy-about-humanitarian-ceasefire-in-ukraine",
-      "title": "Pope Leo XIV speaks with Zelenskyy about humanitarian ceasefire in Ukraine",
-      "summary": "The pontiff raised the humanitarian crisis in the Kherson region and reiterated the Holy See’s commitment to dialogue and peace, days after speaking with Russian President Vladimir Putin.",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-speaks-with-zelenskyy-about-humanitarian-ceasefire-in-ukraine",
-      "publishedAt": "2026-10-19T19:16:08.000Z"
     }
   ]
 }

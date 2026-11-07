@@ -1,21 +1,43 @@
 {
-  "updatedAt": "2026-11-06T23:11:45.228Z",
+  "updatedAt": "2026-11-07T06:00:46.666Z",
   "news": [
     {
+      "id": "https://www.ewtnnews.com/world/americas/priest-refuses-to-remove-his-clerical-attire-after-being-told-he-must-to-renew-passport-in",
+      "title": "Священник отказался снять рясу для обновления паспорта в Мексике",
+      "summary": "Отец Альберто Медель сообщил, что ему потребовали снять церковную одежду для обновления паспорта, несмотря на судебные решения, защищающие ношение религиозной одежды.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/priest-refuses-to-remove-his-clerical-attire-after-being-told-he-must-to-renew-passport-in",
+      "publishedAt": "2026-11-06T23:57:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/nationwide-tax-funded-abortion-is-top-priority-for-democrats-in-next-session",
+      "title": "Финансируемый налогами аборт — главный приоритет демократов в следующей сессии",
+      "summary": "Демократы планируют рассмотреть два законопроекта: легализацию абортов по всей стране и разрешение финансирования абортов из федеральных налогов.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/nationwide-tax-funded-abortion-is-top-priority-for-democrats-in-next-session",
+      "publishedAt": "2026-11-06T23:17:00.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
       "id": "https://www.ewtnnews.com/world/us/new-film-jimmy-explores-the-untold-story-of-jimmy-stewart-s-wwii-service-and-enduring-faith",
-      "title": "Новый фильм «Джимми» рассказывает о службе Джимми Стюарта во Второй мировой войне и его вере",
-      "summary": "Фильм раскрывает малоизвестную историю военной службы Джимми Стюарта, а также его веру, смирение и доброту, которые определяли его жизнь.",
+      "title": "Новый фильм «Джимми» рассказывает о службе Джимми Стюарта в ВМВ и его вере",
+      "summary": "Фильм раскрывает малоизвестную историю военной службы Джимми Стюарта и его веру, смирение и доброту, которые формировали его жизнь.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/new-film-jimmy-explores-the-untold-story-of-jimmy-stewart-s-wwii-service-and-enduring-faith",
       "publishedAt": "2026-11-06T22:37:00.000Z",
-      "importance": 5,
+      "importance": 4,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-in-uruguay-protect-life-at-all-stages-provide-universal-healthcare",
       "title": "Папа Лев в Уругвае: защищать жизнь на всех этапах, обеспечить универсальное здравоохранение",
-      "summary": "В своей речи понтифик упомянул о недавно перенесённой операции по удалению рака.",
+      "summary": "В своей речи понтифик упомянул недавнюю операцию по удалению рака, призывая к защите жизни и доступу к медпомощи для всех.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-in-uruguay-protect-life-at-all-stages-provide-universal-healthcare",
@@ -25,31 +47,31 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/exit-polling-shows-catholics-evenly-split-between-democrats-republicans-in-2026-midterms",
-      "title": "Опросы показывают почти равное число католиков, поддерживающих демократов и республиканцев на выборах 2026 года",
-      "summary": "По данным опросов, мусульмане, евреи и нерелигиозные избиратели преимущественно голосуют за демократов.",
+      "title": "Опросы показывают почти равное число католиков среди демократов и республиканцев на выборах 2026 года",
+      "summary": "По данным опросов, мусульмане, евреи и нерелигиозные избиратели преимущественно поддерживают демократов.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/exit-polling-shows-catholics-evenly-split-between-democrats-republicans-in-2026-midterms",
       "publishedAt": "2026-11-06T21:35:00.000Z",
-      "importance": 6,
+      "importance": 5,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/colombia-s-congress-to-debate-bill-prohibiting-surrogacy",
       "title": "Конгресс Колумбии обсудит законопроект о запрете суррогатного материнства",
-      "summary": "Законопроект направлен на регулирование суррогатного материнства, предусматривает наказание за практику, но не криминализирует беременную женщину и признаёт её законной матерью.",
+      "summary": "В Колумбии предложен законопроект, направленный на регулирование суррогатного материнства. Законопроект предусматривает наказание за практику, но не криминализирует беременную женщину, признавая её законной матерью.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/colombia-s-congress-to-debate-bill-prohibiting-surrogacy",
       "publishedAt": "2026-11-06T20:55:00.000Z",
-      "importance": 6,
+      "importance": 7,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/we-are-all-impacted-by-ai-but-nobody-s-listening-to-one-another-cardinal-warns-at-conference",
-      "title": "Кардинал предупреждает: «Искусственный интеллект влияет на всех, но никто не слушает друг друга»",
-      "summary": "Основанный в 2024 году форум Builders AI объединяет мировых разработчиков ИИ и пастырей для обсуждения будущего искусственного интеллекта.",
-      "category": "Ватикан",
+      "title": "Кардинал предупреждает: «Искусственный интеллект затрагивает всех, но никто не слушает друг друга»",
+      "summary": "На конференции Builders AI Forum, основанной в 2024 году, мировые разработчики ИИ и пастырские лидеры обсуждают будущее искусственного интеллекта и необходимость взаимного понимания.",
+      "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/we-are-all-impacted-by-ai-but-nobody-s-listening-to-one-another-cardinal-warns-at-conference",
       "publishedAt": "2026-11-06T20:15:00.000Z",
@@ -58,19 +80,19 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-talks-health-and-voting-en-route-to-south-america",
-      "title": "Папа Лев о здоровье и голосовании по пути в Южную Америку",
-      "summary": "Понтифик беседовал с журналистами, сопровождающими его во время перелёта в Уругвай.",
+      "title": "Папа Лев о здоровье и выборах в пути в Южную Америку",
+      "summary": "Понтифик дал интервью журналистам во время перелёта в Уругвай, затронув темы здоровья и предстоящих выборов.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-talks-health-and-voting-en-route-to-south-america",
       "publishedAt": "2026-11-06T19:35:33.000Z",
-      "importance": 5,
+      "importance": 6,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-arrives-in-south-america",
       "title": "Папа Лев XIV прибыл в Южную Америку",
-      "summary": "11-дневное путешествие понтифика охватит Уругвай, Аргентину и его усыновлённый Перу.",
+      "summary": "В ходе 11-дневного визита понтифик посетит Уругвай, Аргентину и Перу, страну своего усыновления.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-arrives-in-south-america",
@@ -80,8 +102,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/asia-pacific/south-korea-unveils-world-youth-day-2027-venues-expects-1-million-at-closing-mass",
-      "title": "Южная Корея представила площадки Всемирного дня молодежи 2027 года, ожидается миллион участников на заключительной мессе",
-      "summary": "Организаторы раскрыли места проведения WYD Seoul 2027 и планы безопасности; епископы Эфиопии осудили убийства; Австралия отметила день молитвы за заключённых.",
+      "title": "Южная Корея представила площадки Всемирного дня молодёжи 2027 года, ожидается миллион участников на заключительной мессе",
+      "summary": "Организаторы объявили места проведения ВДМ в Сеуле и планы по безопасности. Епископы Эфиопии осудили убийства, в Австралии прошёл день молитвы за заключённых.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/south-korea-unveils-world-youth-day-2027-venues-expects-1-million-at-closing-mass",
@@ -91,41 +113,41 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/polish-bishops-call-for-day-of-fasting-and-penance-amid-political-crisis",
-      "title": "Польские епископы призвали к дню поста и покаяния на фоне политического кризиса",
+      "title": "Польские епископы призывают к дню поста и покаяния на фоне политического кризиса",
       "summary": "После экстренного заседания в Варшаве Постоянный совет Польши призвал верующих поститься во вторник и молиться за общественный мир перед Днём независимости.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/polish-bishops-call-for-day-of-fasting-and-penance-amid-political-crisis",
       "publishedAt": "2026-11-06T17:48:00.000Z",
-      "importance": 6,
+      "importance": 7,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/the-3-marian-shrines-that-pope-leo-xiv-will-visit-during-his-first-trip-to-south-america",
       "title": "Три марианских святыни, которые посетит Папа Лев XIV во время поездки в Южную Америку",
-      "summary": "Папа Лев посетит святыни Девы Тридцати трёх в Уругвае, Девы Луханской в Аргентине и Девы Мира в Перу, где посвятил своё служение Деве Марии.",
+      "summary": "Папа Лев XIV посетит святыни Девы Тридцати Трёх в Уругвае, Пресвятой Девы Луханской в Аргентине и Пресвятой Девы Мира в Перу, где посвятил своё служение Деве Марии.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/the-3-marian-shrines-that-pope-leo-xiv-will-visit-during-his-first-trip-to-south-america",
       "publishedAt": "2026-11-06T17:08:00.000Z",
-      "importance": 6,
+      "importance": 7,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/cardinal-parolin-on-us-midterm-elections-let-s-hope-that-reason-and-common-sense-prevail",
-      "title": "Кардинал Паролин о промежуточных выборах в США: «Надеемся, что разум и здравый смысл восторжествуют»",
-      "summary": "Государственный секретарь Ватикана на этой неделе ответил на вопросы журналистов о выборах в США.",
+      "title": "Кардинал Паролин о выборах в США: «Надеемся, что разум и здравый смысл восторжествуют»",
+      "summary": "Государственный секретарь Ватикана ответил на вопросы журналистов на этой неделе, касающиеся промежуточных выборов в США.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/cardinal-parolin-on-us-midterm-elections-let-s-hope-that-reason-and-common-sense-prevail",
       "publishedAt": "2026-11-06T16:28:00.000Z",
-      "importance": 5,
+      "importance": 6,
       "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/new-book-recounts-stories-of-papal-flights-from-john-paul-ii-to-leo-xiv",
       "title": "Новая книга рассказывает истории папских перелётов от Иоанна Павла II до Льва XIV",
-      "summary": "Рино Анастасио делится личными историями о заботе о папах на борту, включая опасения по поводу топлива и неожиданный сюрприз на день рождения.",
+      "summary": "Рино Анастасио делится личными историями о заботе о папах на борту, включая переживания из-за нехватки топлива и неожиданный сюрприз на день рождения.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/new-book-recounts-stories-of-papal-flights-from-john-paul-ii-to-leo-xiv",
@@ -135,8 +157,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/live-updates-pope-leo-xiv-in-south-america",
-      "title": "Прямые обновления: Папа Лев XIV обращается к президенту Уругвая и представителям власти",
-      "summary": "Папа Лев XIV совершает апостольское путешествие с 6 по 17 ноября в Уругвай, Аргентину и Перу, где ранее служил миссионером и епископом.",
+      "title": "Папа Лев XIV завершил первый день поездки в Южную Америку",
+      "summary": "Папа Лев XIV прибыл в Монтевидео, Уругвай, где встретился с президентом страны, обратился к официальным лицам и возглавил вечерню в соборе города.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/live-updates-pope-leo-xiv-in-south-america",
@@ -146,7 +168,7 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/africa/nigerian-government-lacks-political-will-to-end-attacks-in-benue-state-catholic-bishop-says",
-      "title": "Католический епископ: правительство Нигерии не проявляет политической воли для прекращения нападений в штате Бенуе",
+      "title": "Католический епископ: правительство Нигерии не проявляет политической воли для прекращения нападений в штате Бенуэ",
       "summary": "Епископ Вилфред Чикпа Анагбе заявил, что неоднократные предупреждения перед смертельной атакой на общину Йелвата остались без внимания.",
       "category": "Мир",
       "source": "Catholic News Agency",
@@ -169,7 +191,7 @@
     {
       "id": "https://www.ewtnnews.com/vatican/theologian-highlights-contribution-of-laypeople-to-international-theological-commission",
       "title": "Теолог отметил вклад мирян в Международную теологическую комиссию",
-      "summary": "Международная теологическая комиссия состоит из 30 членов, из которых 10 — миряне.",
+      "summary": "В состав Международной теологической комиссии входят 30 членов, из которых 10 — миряне.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/theologian-highlights-contribution-of-laypeople-to-international-theological-commission",
@@ -179,8 +201,8 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/first-ever-catholic-military-conference-will-focus-on-living-and-serving-justly",
-      "title": "Первая в истории католическая военная конференция будет посвящена теме «Жить и служить справедливо»",
-      "summary": "Архиепископ Тимоти Броллио сообщил, что участники конференции смогут узнать и задать вопросы о католическом учении о теории справедливой войны.",
+      "title": "Первая в истории Католическая военная конференция сосредоточится на теме «Жить и служить справедливо»",
+      "summary": "Архиепископ Тимоти Броллио сообщил, что участники конференции смогут узнать и задать вопросы о учении Церкви по теории справедливой войны.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/first-ever-catholic-military-conference-will-focus-on-living-and-serving-justly",
@@ -190,7 +212,7 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-group-praises-california-for-largest-commutation-in-history-as-hundreds-spared",
-      "title": "Католическая организация приветствует крупнейшее в истории помилование в Калифорнии, сотни приговорённых к смертной казни помилованы",
+      "title": "Католическая организация приветствует крупнейшее в истории помилование в Калифорнии, сотни осуждённых избежали казни",
       "summary": "Губернатор Калифорнии Гэвин Ньюсом 5 ноября помиловал почти 550 заключённых, приговорённых к смертной казни.",
       "category": "Мир",
       "source": "Catholic News Agency",
@@ -201,25 +223,21 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/texas-bishops-congratulate-democratic-winners-reaffirm-pro-life-and-family-agenda",
-      "title": "Епископы Техаса поздравили победителей-демократов и подтвердили приверженность про-жизненной и семейной повестке",
-      "summary": "Католические епископы Техаса поздравили демократов, выигравших все высшие должности в штате, и молились за их мудрость, подтверждая неизменность католических принципов.",
+      "title": "Texas bishops congratulate Democratic winners, reaffirm pro-life and family agenda",
+      "summary": "Texas’ Catholic bishops congratulated Democratic winners, who won every top office statewide, and prayed for their wisdom while reaffirming that Catholic principles remain unchanged.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/texas-bishops-congratulate-democratic-winners-reaffirm-pro-life-and-family-agenda",
-      "publishedAt": "2026-11-05T21:52:41.000Z",
-      "importance": 6,
-      "aiProcessed": true
+      "publishedAt": "2026-11-05T21:52:41.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-praises-chinese-catholics-for-unity-100-years-after-consecration-of-their-first",
-      "title": "Папа Лев XIV похвалил китайских католиков за единство спустя 100 лет после посвящения первых епископов",
-      "summary": "Папа направил послание на конференцию в Риме, посвящённую юбилею, где обсуждались сложные отношения Ватикана с Китаем.",
+      "title": "Pope Leo XIV praises Chinese Catholics for unity 100 years after consecration of their first bishops",
+      "summary": "The pope sent a message to a conference in Rome marking the anniversary, where attendees discussed the Vatican’s complex relations with China.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-praises-chinese-catholics-for-unity-100-years-after-consecration-of-their-first",
-      "publishedAt": "2026-11-05T17:23:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
+      "publishedAt": "2026-11-05T17:23:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-priest-pleads-guilty-to-1970s-sexual-assault-of-baltimore-boy",
@@ -1834,24 +1852,6 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-the-world-is-poorer-without-saints",
       "publishedAt": "2026-10-21T13:20:27.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/europe/archbishop-to-spain-s-senate-i-engage-in-politics-whenever-i-can",
-      "title": "Archbishop to Spain’s Senate: ‘I engage in politics whenever I can’",
-      "summary": "Archbishop Jesús Sanz Montes of Oviedo, Spain, defended the presence of God in public life during a forum held at the Spanish Senate.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/europe/archbishop-to-spain-s-senate-i-engage-in-politics-whenever-i-can",
-      "publishedAt": "2026-10-21T12:00:00.000Z"
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/pope-leo-affirms-the-unbreakable-oneness-of-marriage-at-first-general-audience-post-surgery",
-      "title": "Pope Leo affirms the ‘unbreakable oneness’ of marriage at first general audience post-surgery",
-      "summary": "The pope stressed that the commitment to protect families is “more urgent than ever before.”",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/pope-leo-affirms-the-unbreakable-oneness-of-marriage-at-first-general-audience-post-surgery",
-      "publishedAt": "2026-10-21T11:30:00.000Z"
     }
   ]
 }

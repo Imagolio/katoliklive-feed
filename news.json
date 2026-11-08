@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T22:24:50.880Z",
+  "updatedAt": "2026-11-08T22:34:57.456Z",
   "news": [
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-visits-san-martin-monument-argentina.html",
@@ -872,12 +872,14 @@
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-was-confident-south-america-trip-would-go-ahead.html",
-      "title": "Pope Leo XIV was ‘confident South America trip would go ahead’",
-      "summary": "Aboard the flight to Uruguay, Pope Leo XIV expresses his happiness at making the visit, introduces the new Prefect of the Dicastery for Communication, Montserrat Alvarado, and says he is “proud to be American and to exercise the right to vote.” Read all",
+      "title": "Папа Лев XIV уверен в успешности поездки в Южную Америку",
+      "summary": "Во время полёта в Уругвай Папа Лев XIV выразил радость по поводу предстоящего визита, представил нового префекта Дикастерии по коммуникациям Монсеррат Альварадо и заявил, что гордится быть американцем и пользоваться правом голоса.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-was-confident-south-america-trip-would-go-ahead.html",
-      "publishedAt": "2026-11-06T19:20:00.000Z"
+      "publishedAt": "2026-11-06T19:20:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-arrives-in-south-america",
@@ -892,174 +894,212 @@
     },
     {
       "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/malta-court-awards-vatican-bank-millions-investment-case.html",
-      "title": "Maltese court awards IOR €24.1 million in investment case",
-      "summary": "A court in Malta orders four companies to pay the Institute for the Works of Religion (IOR) €24.1 million plus interest for breaching their fiduciary duties in the Kappa Fund case, rejecting their claims against the Institute in a first-instance judgment. Read all",
+      "title": "Мальтийский суд присудил ИОР €24,1 млн по делу об инвестициях",
+      "summary": "Суд на Мальте обязал четыре компании выплатить Институту религиозных дел €24,1 млн с процентами за нарушение фидуциарных обязанностей в деле фонда Kappa, отклонив их претензии к Институту в решении первой инстанции.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/malta-court-awards-vatican-bank-millions-investment-case.html",
-      "publishedAt": "2026-11-06T18:57:00.000Z"
+      "publishedAt": "2026-11-06T18:57:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/asia-pacific/south-korea-unveils-world-youth-day-2027-venues-expects-1-million-at-closing-mass",
-      "title": "South Korea unveils World Youth Day 2027 venues, expects 1 million at closing Mass",
-      "summary": "Organizers unveil WYD Seoul 2027 venues and safety plans, bishops in Ethiopia decry killings, Australia marks a day to pray for prisoners, and more in this week’s roundup of Catholic world news.",
+      "title": "Южная Корея представила площадки Всемирного дня молодёжи 2027 года",
+      "summary": "Организаторы объявили места проведения ВДМ в Сеуле и планы безопасности, епископы Эфиопии осудили убийства, Австралия провела день молитвы за заключённых — обзор католических новостей недели.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/south-korea-unveils-world-youth-day-2027-venues-expects-1-million-at-closing-mass",
-      "publishedAt": "2026-11-06T18:28:00.000Z"
+      "publishedAt": "2026-11-06T18:28:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://cruxnow.com/vatican/2026/11/pope-introduces-new-communications-chief-who-shows-a-more-informal-approach/",
-      "title": "Pope introduces new communications chief who shows a more informal approach",
-      "summary": "Alvarado is the first woman to lead the office, one of the largest and costliest parts of the Holy See bureaucracy. The post Pope introduces new communications chief who shows a more informal approach appeared first on Crux .",
+      "title": "Папа назначил нового руководителя коммуникаций с более неформальным подходом",
+      "summary": "Монсеррат Альварадо стала первой женщиной на посту главы одного из крупнейших и самых затратных отделов Святого Престола, демонстрируя более неформальный стиль работы.",
       "category": "Ватикан",
       "source": "Crux",
       "url": "https://cruxnow.com/vatican/2026/11/pope-introduces-new-communications-chief-who-shows-a-more-informal-approach/",
-      "publishedAt": "2026-11-06T18:16:00.000Z"
+      "publishedAt": "2026-11-06T18:16:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://cruxnow.com/ap/2026/11/pope-proud-to-be-an-american-after-us-elections-and-credits-god-and-doctors-with-cancer-rebound/",
-      "title": "Pope ‘proud to be an American’ after US elections, and credits God and doctors with cancer rebound",
-      "summary": "Pope Leo XIV said Friday that he was “proud to be an American and to exercise the right” to vote in U.S. midterm elections that gave control of Congress to the Democrats in a repudiation of U.S. President Donald Trump and his policies. The post Pope ‘proud to be an American’ after US elections, and credits God and doctors with cancer rebound appeared first on Crux .",
-      "category": "Мир",
+      "title": "Папа заявил о гордости быть американцем и поблагодарил Бога и врачей за выздоровление",
+      "summary": "Папа Лев XIV после выборов в США отметил гордость за право голоса и связал своё выздоровление от рака с помощью Бога и врачей, отметив смену контроля в Конгрессе в пользу демократов.",
+      "category": "Ватикан",
       "source": "Crux",
       "url": "https://cruxnow.com/ap/2026/11/pope-proud-to-be-an-american-after-us-elections-and-credits-god-and-doctors-with-cancer-rebound/",
-      "publishedAt": "2026-11-06T18:00:00.000Z"
+      "publishedAt": "2026-11-06T18:00:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/polish-bishops-call-for-day-of-fasting-and-penance-amid-political-crisis",
-      "title": "Polish bishops call for day of fasting and penance amid political crisis",
-      "summary": "After an emergency meeting in Warsaw, Poland’s Permanent Council asks the faithful to fast Tuesday and pray for social peace before Independence Day.",
+      "title": "Польские епископы призывают к дню поста и покаяния на фоне политического кризиса",
+      "summary": "После экстренного заседания в Варшаве Постоянный совет Польши призвал верующих поститься во вторник и молиться за общественный мир перед Днем независимости.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/polish-bishops-call-for-day-of-fasting-and-penance-amid-political-crisis",
-      "publishedAt": "2026-11-06T17:48:00.000Z"
+      "publishedAt": "2026-11-06T17:48:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://aleteia.org/2026/11/06/already-living-laudato-si-put-yourself-on-the-map/",
-      "title": "Already living Laudato si’? Put yourself on the map!",
-      "summary": "Five years after the Vatican launched it, the Laudato Si’ Action Platform presented a progress report on November 4, 2026. The online platform allows Catholic organizations around the world to create and track their own environmental projects. The initiative brings together tens of thousands of people involved in efforts ranging from composting to reforestation. At the Holy See Press Office, the organizers of the platform, sponsored by the Dicastery for Promoting Integral Human Development — the",
-      "category": "Мир",
+      "title": "Уже живёте Laudato si’? Отметьтесь на карте!",
+      "summary": "Пять лет спустя после запуска Платформы Laudato Si’ Ватикан представил отчёт о прогрессе 4 ноября 2026 года. Онлайн-платформа позволяет католическим организациям создавать и отслеживать экологические проекты по всему миру.",
+      "category": "Ватикан",
       "source": "Aleteia",
       "url": "https://aleteia.org/2026/11/06/already-living-laudato-si-put-yourself-on-the-map/",
-      "publishedAt": "2026-11-06T17:10:26.000Z"
+      "publishedAt": "2026-11-06T17:10:26.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/the-3-marian-shrines-that-pope-leo-xiv-will-visit-during-his-first-trip-to-south-america",
-      "title": "The 3 Marian shrines that Pope Leo XIV will visit during his trip to South America",
-      "summary": "Pope Leo will visit the shrines of the Virgin of the Thirty-Three in Uruguay, Our Lady of Luján in Argentina, and Our Lady of Peace in Peru, where he dedicated his ministry to the Virgin.",
-      "category": "Мир",
+      "title": "Три марианских святыни, которые посетит папа Лев XIV в Южной Америке",
+      "summary": "Папа Лев XIV посетит святыни Девы Тридцати Трёх в Уругвае, Богородицы Луханской в Аргентине и Богородицы Мира в Перу, где посвятил своё служение Деве Марии.",
+      "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/the-3-marian-shrines-that-pope-leo-xiv-will-visit-during-his-first-trip-to-south-america",
-      "publishedAt": "2026-11-06T17:08:00.000Z"
+      "publishedAt": "2026-11-06T17:08:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://aleteia.org/2026/11/06/pierre-you-can-take-away-some-apps-but-not-aleteia/",
-      "title": "Pierre: “You can take away some apps, but not Aleteia!”",
-      "summary": "“What does Aleteia do for you?” That was the first question the editors asked Pierre, an 81-year-old reader from France. His name had been suggested by an acquaintance, who described him somewhat mysteriously as “one of your most loyal readers.” And Pierre certainly had an answer ready! “It’s practically the first thing I read in the morning! After visiting my prayer website, I open Aleteia’s email and look through all the featured articles. Then I open the ones that interest me (usually most of",
+      "title": "Пьер: «Можно убрать некоторые приложения, но не Aleteia!»",
+      "summary": "81-летний читатель из Франции рассказал, что Aleteia — первое, что он читает утром после посещения сайта молитв. Он просматривает все главные статьи и читает большинство из них.",
       "category": "Мир",
       "source": "Aleteia",
       "url": "https://aleteia.org/2026/11/06/pierre-you-can-take-away-some-apps-but-not-aleteia/",
-      "publishedAt": "2026-11-06T16:53:18.000Z"
+      "publishedAt": "2026-11-06T16:53:18.000Z",
+      "importance": 3,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/cardinal-parolin-on-us-midterm-elections-let-s-hope-that-reason-and-common-sense-prevail",
-      "title": "Cardinal Parolin on U.S. midterm elections: ‘Let’s hope that reason and common sense prevail’",
-      "summary": "The Vatican secretary of state responded to questions from journalists this week about the elections.",
+      "title": "Кардинал Паролин о промежуточных выборах в США: «Надеемся на разум и здравый смысл»",
+      "summary": "Государственный секретарь Ватикана ответил на вопросы журналистов на этой неделе, касающиеся выборов в США.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/cardinal-parolin-on-us-midterm-elections-let-s-hope-that-reason-and-common-sense-prevail",
-      "publishedAt": "2026-11-06T16:28:00.000Z"
+      "publishedAt": "2026-11-06T16:28:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/flags-and-painted-faces-welcome-pope-leo-to-montevideo.html",
-      "title": "Flags and painted faces welcome Pope Leo to Montevideo",
-      "summary": "Pope Leo concludes his first day in Uruguay with vespers in Montevideo's Metropolitan Cathedral. Before that he addresses the country's civil authorities following a welcome ceremony at Montevideo's Carrasco airport. Read all",
+      "title": "Папу Льва встречают флагами и раскрашенными лицами в Монтевидео",
+      "summary": "Папа Лев завершил первый день в Уругвае вечерней службой в Монтевидейском кафедральном соборе. Ранее он обратился к гражданским властям страны после церемонии встречи в аэропорту Карраско.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/flags-and-painted-faces-welcome-pope-leo-to-montevideo.html",
-      "publishedAt": "2026-11-06T16:28:00.000Z"
+      "publishedAt": "2026-11-06T16:28:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://aleteia.org/2026/11/06/meet-hobi-and-cobi-wyd-seoul-introduces-mascots-shares-plans/",
-      "title": "Meet Hobi and Cobi: WYD Seoul introduces mascots, shares plans",
-      "summary": "Planning a pilgrimage to World Youth Day in Seoul next year? You won’t be alone. WYD 2027 mascots were introduced this week, and they’re two charming companions for the journey. Hobi and Cobi were introduced at a November 5 press conference from the World Youth Day Seoul 2027 Local Organizing Committee. Hobi is a Korean tiger ready to guide you through Seoul. Cobi is a lion who represents the universal Church, ready to guide you on your journey of faith. This is their story: In the East lives Ho",
-      "category": "Мир",
+      "title": "Познакомьтесь с Хоби и Коби: маскоты Всемирного дня молодежи в Сеуле",
+      "summary": "На пресс-конференции представили маскотов Всемирного дня молодежи 2027 в Сеуле — Хоби, корейского тигра, и Коби, льва, символизирующего универсальную Церковь. Они будут сопровождать паломников в их духовном путешествии.",
+      "category": "Ватикан",
       "source": "Aleteia",
       "url": "https://aleteia.org/2026/11/06/meet-hobi-and-cobi-wyd-seoul-introduces-mascots-shares-plans/",
-      "publishedAt": "2026-11-06T16:20:42.000Z"
+      "publishedAt": "2026-11-06T16:20:42.000Z",
+      "importance": 4,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/new-book-recounts-stories-of-papal-flights-from-john-paul-ii-to-leo-xiv",
-      "title": "New book recounts stories of papal flights from John Paul II to Leo XIV",
-      "summary": "Rino Anastasio shares personal anecdotes about caring for the popes on board, ranging from worries about insufficient fuel to an unexpected birthday surprise.",
+      "title": "Новая книга рассказывает истории папских перелётов от Иоанна Павла II до Льва XIV",
+      "summary": "Рино Анастасио делится личными историями о заботе о папах на борту самолётов, включая переживания из-за топлива и неожиданный сюрприз на день рождения.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/new-book-recounts-stories-of-papal-flights-from-john-paul-ii-to-leo-xiv",
-      "publishedAt": "2026-11-06T15:48:00.000Z"
+      "publishedAt": "2026-11-06T15:48:00.000Z",
+      "importance": 4,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/live-updates-pope-leo-xiv-in-south-america",
-      "title": "LIVE UPDATES: Pope XIV honors women as transmitters of faith at Uruguay shrine",
-      "summary": "Leo XIV celebrated Mass in Uruguay on Sunday and is having lunch with Uruguay’s bishops. Later he is set to depart for Argentina, where he is scheduled to visit the Monument to General San Martín and meet with President Javier Milei.",
+      "title": "Папа Лев XIV почтил женщин как хранительниц веры на святыне в Уругвае",
+      "summary": "В воскресенье Папа Лев XIV отслужил мессу в Уругвае и обедает с уругвайскими епископами. Позже он отправится в Аргентину, где посетит памятник генералу Сан-Мартину и встретится с президентом Хавьером Милей.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/live-updates-pope-leo-xiv-in-south-america",
-      "publishedAt": "2026-11-06T15:08:13.000Z"
+      "publishedAt": "2026-11-06T15:08:13.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/church/news/2026-11/pope-leo-to-bless-homes-for-families-in-montevideo-s-casavalle.html",
-      "title": "Church in Casavalle prepares to welcome Pope Leo to Montevideo neighbourhood",
-      "summary": "Ahead of Pope Leo XIV’s visit to Casavalle, we visit the twelve the Pope will bless and a local priests and a social ministry worker describe how the Church helps families build homes and gives teenagers and adults a chance to finish school. Read all",
+      "title": "Церковь в Касавалье готовится к визиту Папы Льва в район Монтевидео",
+      "summary": "Перед визитом Папы Льва XIV в Касавалье местные священник и социальный работник рассказывают, как Церковь помогает семьям строить дома и даёт подросткам и взрослым возможность закончить школу.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/church/news/2026-11/pope-leo-to-bless-homes-for-families-in-montevideo-s-casavalle.html",
-      "publishedAt": "2026-11-06T14:37:00.000Z"
+      "publishedAt": "2026-11-06T14:37:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/africa/nigerian-government-lacks-political-will-to-end-attacks-in-benue-state-catholic-bishop-says",
-      "title": "Nigerian government lacks political will to end attacks in Benue state, Catholic bishop says",
-      "summary": "Bishop Wilfred Chikpa Anagbe alleged that repeated warnings before the deadly attack on the Yelwata community went unheeded.",
+      "title": "Католический епископ: правительство Нигерии не проявляет политической воли для прекращения атак в штате Бенуэ",
+      "summary": "Епископ Вилфред Чикпа Анагбе заявил, что неоднократные предупреждения перед смертельной атакой на общину Йелвата остались без внимания.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/africa/nigerian-government-lacks-political-will-to-end-attacks-in-benue-state-catholic-bishop-says",
-      "publishedAt": "2026-11-06T14:00:00.000Z"
+      "publishedAt": "2026-11-06T14:00:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.agensir.it/italia/2026/11/06/dizionario-poetico-dellumano-sergio-astori-e-le-centoquaranta-parole-che-curano/",
-      "title": "“Dizionario poetico dell’umano”: Sergio Astori e le centoquaranta parole che curano",
-      "summary": "Centoquaranta parole, da “Abbraccio” a “Vela”. Sei anni di scrittura, cominciati il 21 marzo 2020 nel tempo sospeso del primo lockdown, quando le “Parole buone” di Sergio Astori presero a circolare gratuitamente in rete come “pillole di resilienza per superare la crisi”. Oggi quel lessico diventa un libro: “Dizionario poetico dell’umano. 140 racconti” (Castelvecchi), con […] The post “Dizionario poetico dell’umano”: Sergio Astori e le centoquaranta parole che curano first appeared on AgenSIR .",
+      "title": "«Поэтический словарь человеческого»: Серджо Астори и сто сорок слов, которые исцеляют",
+      "summary": "Серджо Астори за шесть лет создал сборник из 140 слов от «Объятия» до «Паруса», начав писать в первый локдаун 2020 года. Эти «добрые слова» стали книгой «Поэтический словарь человеческого. 140 рассказов».",
       "category": "Мир",
       "source": "Agenzia SIR",
       "url": "https://www.agensir.it/italia/2026/11/06/dizionario-poetico-dellumano-sergio-astori-e-le-centoquaranta-parole-che-curano/",
-      "publishedAt": "2026-11-06T13:21:37.000Z"
+      "publishedAt": "2026-11-06T13:21:37.000Z",
+      "importance": 4,
+      "aiProcessed": true
     },
     {
       "id": "https://www.agensir.it/italia/2026/11/06/poesia-come-rivelazione-dassoluto/",
-      "title": "Poesia come rivelazione d’assoluto",
-      "summary": "La poesia entra sempre meno nei programmi di grandi e piccoli editori, ed invece è uno dei sentieri che porterebbero -se la cultura dominante non ce lo nascondesse- al senso del viaggio, perché, come spiega l’etimo stesso della parola, è un fare reale, un operare, uno scrivere, un dire e un comunicare qualcosa che solo […] The post Poesia come rivelazione d’assoluto first appeared on AgenSIR .",
+      "title": "Поэзия как откровение абсолютного",
+      "summary": "Поэзия всё меньше присутствует в программах издательств, хотя она могла бы помочь понять смысл путешествия и общения, раскрывая глубинные смыслы через творчество и слово.",
       "category": "Мир",
       "source": "Agenzia SIR",
       "url": "https://www.agensir.it/italia/2026/11/06/poesia-come-rivelazione-dassoluto/",
-      "publishedAt": "2026-11-06T13:21:34.000Z"
+      "publishedAt": "2026-11-06T13:21:34.000Z",
+      "importance": 4,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/africa/news/2026-11/catholic-students-leaders-addis-ababa-pax-romana.html",
-      "title": "Catholic Student Leaders Gathered in Addis Ababa commit to work together to Reimagine Youth Leadership and Synodality in Africa",
-      "summary": "Catholic Students undertake to use their moral formation to promote good governance and to champion peace across the African continent. Read all",
+      "title": "Католические студенты в Аддис-Абебе обязались совместно работать над обновлением молодежного лидерства и синодальности в Африке",
+      "summary": "Католические студенты взяли на себя обязательство использовать моральное воспитание для продвижения хорошего управления и мира на африканском континенте.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/africa/news/2026-11/catholic-students-leaders-addis-ababa-pax-romana.html",
-      "publishedAt": "2026-11-06T13:21:00.000Z"
+      "publishedAt": "2026-11-06T13:21:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/middle-east/st-catherine-s-monastery-nears-settlement-to-end-dispute-with-egyptian-government",
-      "title": "St. Catherine’s Monastery nears settlement to end dispute with Egyptian government",
-      "summary": "The settlement is expected to bring greater stability to the monastery while allowing the Egyptian government to proceed with its Great Transfiguration project.",
+      "title": "Монастырь Святой Екатерины близок к урегулированию спора с египетским правительством",
+      "summary": "Ожидается, что соглашение обеспечит большую стабильность монастырю и позволит правительству Египта продолжить проект Великого Преображения.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/middle-east/st-catherine-s-monastery-nears-settlement-to-end-dispute-with-egyptian-government",
-      "publishedAt": "2026-11-06T13:00:00.000Z"
+      "publishedAt": "2026-11-06T13:00:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://aleteia.org/2026/11/06/this-couples-love-story-has-a-very-catholic-plot-twist/",
@@ -2667,6 +2707,15 @@
       "publishedAt": "2026-10-23T18:29:00.000Z"
     },
     {
+      "id": "https://e-church.ru/news/7145/",
+      "title": "Передаём социальные функции приложению Католик ПРО",
+      "summary": "Возвращаемся к истокам! The post Передаём социальные функции приложению Католик ПРО first appeared on Электронная Церковь .",
+      "category": "Россия",
+      "source": "Электронная Церковь",
+      "url": "https://e-church.ru/news/7145/",
+      "publishedAt": "2026-10-23T17:57:03.000Z"
+    },
+    {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-increases-lay-appointments-to-international-theology-commission",
       "title": "Pope Leo XIV increases lay appointments to International Theology Commission",
       "summary": "The number of women on the commission has increased from five to eight, including five laywomen, raising the total number of lay representatives to eight — double that of the previous term.",
@@ -2964,6 +3013,15 @@
       "publishedAt": "2026-10-21T20:53:00.000Z"
     },
     {
+      "id": "https://e-church.ru/news/7132/",
+      "title": "Апостольский нунций посетил нижегородский приход Успения Пресвятой Девы Марии",
+      "summary": "18–19 октября Апостольский нунций в РФ Архиепископ Джованни Д’Аниелло посетил католическую общину Нижнего Новгорода. The post Апостольский нунций посетил нижегородский приход Успения Пресвятой Девы Марии first appeared on Электронная Церковь .",
+      "category": "Россия",
+      "source": "Электронная Церковь",
+      "url": "https://e-church.ru/news/7132/",
+      "publishedAt": "2026-10-20T12:18:35.000Z"
+    },
+    {
       "id": "https://dscs.ru/archives/14656",
       "title": "Кафедральный собор в Саратове отметил 26-летие освящения в день Всемирного миссионерского воскресенья",
       "summary": "18 октября в Кафедральном соборе святых апостолов Петра и Павла в Саратове состоялось литургическое празднование 26-летия его освящения. Годовщина совпала со 100-летием Всемирного миссионерского воскресенья. Фото: Елена Бережнова Перед Литургией приход молился Розарием в намерении мисиий на 5 континентах нашей планеты. Перед каждой тайной была процессия со свечой соответствующего континенту цвета. В этот день мы […]",
@@ -3009,6 +3067,15 @@
       "publishedAt": "2026-10-15T08:13:40.000Z"
     },
     {
+      "id": "https://e-church.ru/news/7121/",
+      "title": "Папе Льву предстоит операция",
+      "summary": "11 октября Папа обратился с воззванием об Украине и в конце сообщил новость, которая побуждает всех нас усилить молитвы о здравии Святейшего Отца. The post Папе Льву предстоит операция first appeared on Электронная Церковь .",
+      "category": "Россия",
+      "source": "Электронная Церковь",
+      "url": "https://e-church.ru/news/7121/",
+      "publishedAt": "2026-10-12T13:32:54.000Z"
+    },
+    {
       "id": "https://dscs.ru/archives/14633",
       "title": "Прихожанка из Оренбурга Янина Никитина отметила 100-летний юбилей",
       "summary": "9 октября прихожанка из Оренбурга Янина Петровна Никитина отметила столетие. Её жизнь вместила тяжёлые испытания военных лет, долгие годы труда и верность вере. В 1943 году, будучи ещё подростком, Янина Петровна оказалась в нацистском концентрационном лагере. Позже её вместе с другими пленными перевезли на территорию Украины, где она была вынуждена работать на сахарной фабрике. Несмотря […]",
@@ -3034,6 +3101,69 @@
       "source": "Епархия Святого Климента в Саратове",
       "url": "https://dscs.ru/archives/14625",
       "publishedAt": "2026-10-09T10:02:59.000Z"
+    },
+    {
+      "id": "https://e-church.ru/my-faith/7118/",
+      "title": "Лента и душа: как соцсети меняют нашу жизнь",
+      "summary": "Что происходит с душой человека, который каждый день проводит часы в бесконечной прокрутке чужих жизней? The post Лента и душа: как соцсети меняют нашу жизнь first appeared on Электронная Церковь .",
+      "category": "Россия",
+      "source": "Электронная Церковь",
+      "url": "https://e-church.ru/my-faith/7118/",
+      "publishedAt": "2026-10-05T12:20:20.000Z"
+    },
+    {
+      "id": "https://e-church.ru/my-faith/7111/",
+      "title": "Успение Пресвятой Девы Марии: праздник надежды и радости",
+      "summary": "15 августа для католиков всего мира — особенный день. The post Успение Пресвятой Девы Марии: праздник надежды и радости first appeared on Электронная Церковь .",
+      "category": "Россия",
+      "source": "Электронная Церковь",
+      "url": "https://e-church.ru/my-faith/7111/",
+      "publishedAt": "2026-08-28T06:40:13.000Z"
+    },
+    {
+      "id": "https://e-church.ru/my-faith/7064/",
+      "title": "Как жить верой среди дел и забот",
+      "summary": "Научиться видеть Бога в гуще этих самых дел. The post Как жить верой среди дел и забот first appeared on Электронная Церковь .",
+      "category": "Россия",
+      "source": "Электронная Церковь",
+      "url": "https://e-church.ru/my-faith/7064/",
+      "publishedAt": "2026-08-17T10:18:14.000Z"
+    },
+    {
+      "id": "https://e-church.ru/my-faith/7045/",
+      "title": "Современные вызовы для семьи",
+      "summary": "Сегодня этот древний институт переживает, пожалуй, самый непростой период своей истории. The post Современные вызовы для семьи first appeared on Электронная Церковь .",
+      "category": "Россия",
+      "source": "Электронная Церковь",
+      "url": "https://e-church.ru/my-faith/7045/",
+      "publishedAt": "2026-07-28T08:05:45.000Z"
+    },
+    {
+      "id": "https://e-church.ru/my-faith/7014/",
+      "title": "Несвятые святые: от грешников к величайшим праведникам",
+      "summary": "Многие из почитаемых святых начинали свой путь весьма далеко от идеала. The post Несвятые святые: от грешников к величайшим праведникам first appeared on Электронная Церковь .",
+      "category": "Россия",
+      "source": "Электронная Церковь",
+      "url": "https://e-church.ru/my-faith/7014/",
+      "publishedAt": "2026-07-20T08:37:36.000Z"
+    },
+    {
+      "id": "https://e-church.ru/news/7012/",
+      "title": "Встречайте КАТОЛИК.ПРО!",
+      "summary": "Новое приложение для католиков России. The post Встречайте КАТОЛИК.ПРО! first appeared on Электронная Церковь .",
+      "category": "Россия",
+      "source": "Электронная Церковь",
+      "url": "https://e-church.ru/news/7012/",
+      "publishedAt": "2026-07-15T13:54:15.000Z"
+    },
+    {
+      "id": "https://e-church.ru/my-faith/6965/",
+      "title": "Как чтение Библии укрепляет веру",
+      "summary": "Представьте, что Бог обращается не к огромной толпе, а именно к вам. The post Как чтение Библии укрепляет веру first appeared on Электронная Церковь .",
+      "category": "Россия",
+      "source": "Электронная Церковь",
+      "url": "https://e-church.ru/my-faith/6965/",
+      "publishedAt": "2026-06-17T07:53:43.000Z"
     }
   ]
 }

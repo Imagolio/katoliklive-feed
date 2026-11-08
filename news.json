@@ -1,6 +1,127 @@
 {
-  "updatedAt": "2026-11-08T17:56:54.648Z",
+  "updatedAt": "2026-11-08T22:05:54.893Z",
   "news": [
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-visits-san-martin-monument-argentina.html",
+      "title": "Папа Лев XIV посетил памятник Сан-Мартину в Буэнос-Айресе",
+      "summary": "По прибытии в Аргентину Папа Лев XIV остановился у памятника генералу Сан-Мартину в Буэнос-Айресе.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-visits-san-martin-monument-argentina.html",
+      "publishedAt": "2026-11-08T20:27:46.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/08/261108c.html",
+      "title": "Апостольское путешествие Папы Льва XIV в Уругвай, Аргентину и Перу (6–17 ноября 2026) – церемония прощания в Уругвае и визит в Буэнос-Айрес",
+      "summary": "После прощальной церемонии в Уругвае Папа Лев XIV отбыл из Монтевидео, направляясь в Буэнос-Айрес, где его официально встретили в аэропорту и он посетил памятник генералу Сан-Мартину и армиям независимости на площади Сан-Мартин.",
+      "category": "Ватикан",
+      "source": "Пресс-служба Святого Престола",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/08/261108c.html",
+      "publishedAt": "2026-11-08T20:18:02.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/church/news/2026-11/pope-leo-xiv-argentina-preview-apostolic-visit.html",
+      "title": "Аргентина приветствует Папу Льва XIV",
+      "summary": "Корреспондент из Аргентины, отец Пол Самасумо, описывает радушный приём жителей Буэнос-Айреса Папе Льву XIV во время его Апостольского путешествия.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/church/news/2026-11/pope-leo-xiv-argentina-preview-apostolic-visit.html",
+      "publishedAt": "2026-11-08T20:08:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-arrival-argentina-welcome-ceremony-airport.html",
+      "title": "Папа Лев XIV прибыл в Аргентину для второго этапа Апостольского путешествия",
+      "summary": "Папу Льва XIV в международном аэропорту Буэнос-Айреса встретил президент Хавьер Милей после визита в Уругвай.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-arrival-argentina-welcome-ceremony-airport.html",
+      "publishedAt": "2026-11-08T19:58:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/asia-pacific/built-to-flex-made-to-last-inside-new-zealand-s-first-new-cathedral-in-a-century",
+      "title": "Новая католическая кафедральная церковь в Новой Зеландии: построена на века",
+      "summary": "Архитекторы утверждают, что новая кафедральная церковь Пресвятого Таинства в Крайстчерче, первая за более чем 120 лет, рассчитана на службу в течение следующих 200 лет.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/built-to-flex-made-to-last-inside-new-zealand-s-first-new-cathedral-in-a-century",
+      "publishedAt": "2026-11-08T19:00:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-leaves-uruguay-with-a-call-to-keep-sowing-faith.html",
+      "title": "Папа покидает Уругвай с призывом продолжать сеять веру",
+      "summary": "Папа Лев XIV завершил Апостольское путешествие в Уругвай, призвав семьи и все поколения продолжать сеять веру.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-leaves-uruguay-with-a-call-to-keep-sowing-faith.html",
+      "publishedAt": "2026-11-08T18:53:25.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://cruxnow.com/news-analysis/2026/11/democrats-get-a-religious-win-will-they-grab-hold-of-it/",
+      "title": "Демократы одержали религиозную победу. Смогут ли они её удержать?",
+      "summary": "Многие победители выборов во вторник — демократы с сильными христианскими взглядами. Вопрос в том, сможет ли партия развить этот успех.",
+      "category": "Мир",
+      "source": "Crux",
+      "url": "https://cruxnow.com/news-analysis/2026/11/democrats-get-a-religious-win-will-they-grab-hold-of-it/",
+      "publishedAt": "2026-11-08T16:07:32.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/08/261108b.html",
+      "title": "Апостольское путешествие Папы Льва XIV в Уругвай, Аргентину и Перу (6–17 ноября 2026) — Святую Мессу в Флориде",
+      "summary": "Папа Лев XIV после прощания с Апостольской нунциатурой отправился в Кафедральный собор Флориды, где возглавил Евхаристическую литургию и посетил приход Санта Терезита, помолившись и встретившись с около двумя тысячами верующих.",
+      "category": "Ватикан",
+      "source": "Пресс-служба Святого Престола",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/08/261108b.html",
+      "publishedAt": "2026-11-08T15:44:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-mourns-lives-lost-in-terrorist-attack-in-krakow-poland.html",
+      "title": "Папа Лев XIV скорбит о жертвах стрельбы в Кракове, Польша",
+      "summary": "После стрельбы на Главной рыночной площади Кракова, в результате которой погибли шесть человек и пятнадцать получили ранения, Папа выражает соболезнования, молитвы и призывает к усилиям ради мира и согласия.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-mourns-lives-lost-in-terrorist-attack-in-krakow-poland.html",
+      "publishedAt": "2026-11-08T15:16:08.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/08/261108a.html",
+      "title": "Телеграмма Святейшего Отца жертвам нападения в Кракове, Польша",
+      "summary": "Кардинал Государственный секретарь Пьетро Паролин направил от имени Папы Льва XIV телеграмму кардиналу Гжегожу Рысь, выразив глубокое сожаление о жертвах и раненых в результате стрельбы в Кракове.",
+      "category": "Ватикан",
+      "source": "Пресс-служба Святого Престола",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/08/261108a.html",
+      "publishedAt": "2026-11-08T15:15:32.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-reconsecrates-uruguay-to-mary-on-feast-of-country-patroness.html",
+      "title": "Папа вновь посвятил Уругвай Деве Марии в день её праздника",
+      "summary": "Папа Лев XIV во время мессы в Национальном святыне Девы Марии Тридцати Трёх призвал уругвайцев следовать примеру веры Марии и подчеркнул, что с основания страны Уругвай тесно связан с Матерью.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-reconsecrates-uruguay-to-mary-on-feast-of-country-patroness.html",
+      "publishedAt": "2026-11-08T14:59:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
     {
       "id": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-s-appeal-to-mothers-never-tire-of-passing-on-the-faith",
       "title": "Папа Лев XIV призывает матерей: «Никогда не уставайте передавать веру!»",
@@ -10,6 +131,61 @@
       "url": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-s-appeal-to-mothers-never-tire-of-passing-on-the-faith",
       "publishedAt": "2026-11-08T14:58:23.000Z",
       "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.agensir.it/chiesa/2026/11/08/papa-in-uruguay-bisogna-mettersi-in-cammino-verso-chi-si-e-allontanato/",
+      "title": "Папа в Уругвае: нужно «выйти навстречу» тем, кто отошёл",
+      "summary": "Шестое международное апостольское путешествие Папы Льва XIV, самое длительное за его понтификат, началось с тёплого приёма в Уругвае. В течение 12 дней он посетит также Аргентину и Перу, призывая идти навстречу тем, кто отдалился от Церкви.",
+      "category": "Ватикан",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/chiesa/2026/11/08/papa-in-uruguay-bisogna-mettersi-in-cammino-verso-chi-si-e-allontanato/",
+      "publishedAt": "2026-11-08T14:21:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-wraps-up-uruguay-visit-and-heads-to-most-fraught-stop-of-his-tour-in-mileis-argentina/",
+      "title": "Папа завершил визит в Уругвай и направился в Аргентину, где ситуация сложнее",
+      "summary": "Тысячи людей собрались на главной площади Флориды перед мессой под ясным небом, некоторые шли несколько километров, чтобы принять участие в мероприятии перед отъездом Папы в Аргентину — самый напряжённый этап его турне.",
+      "category": "Ватикан",
+      "source": "Crux",
+      "url": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-wraps-up-uruguay-visit-and-heads-to-most-fraught-stop-of-his-tour-in-mileis-argentina/",
+      "publishedAt": "2026-11-08T13:55:40.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/08/krakow-cardinal-our-weakness-calls-upon-gods-power/",
+      "title": "Кардинал Кракова: Наша слабость призывает к силе Божьей",
+      "summary": "Польша переживает двухдневный национальный траур после массовой стрельбы в Кракове, где погибли шесть человек. Кардинал Гжегож Войчех Рысь призвал верующих объединиться и посетить мессу в память о погибших.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/08/krakow-cardinal-our-weakness-calls-upon-gods-power/",
+      "publishedAt": "2026-11-08T13:07:07.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-the-love-of-god-is-always-with-us.html",
+      "title": "Папа в приходе Святой Терезы: «Любовь Божья всегда с нами»",
+      "summary": "Во время остановки в приходе Святой Терезы в Хуанико, Монтевидео, Папа Лев XIV призвал верующих осознать, что благодать и любовь Бога всегда с нами, напомнив о глубокой преданности своей семьи Святой Терезе.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-the-love-of-god-is-always-with-us.html",
+      "publishedAt": "2026-11-08T13:05:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/08/faith-cant-be-confined-to-private-life-pope/",
+      "title": "Вера не должна ограничиваться частной жизнью: Папа Римский",
+      "summary": "7 ноября 2026 года в легендарном стадионе «Сентенарио» в Монтевидео Папа Лев XIV выразил радость, что уругвайские католики сохраняют веру несмотря на растущую секуляризацию. Он выступил против идеи, что вера должна быть лишь личным делом.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/08/faith-cant-be-confined-to-private-life-pope/",
+      "publishedAt": "2026-11-08T12:36:37.000Z",
+      "importance": 8,
       "aiProcessed": true
     },
     {
@@ -24,6 +200,50 @@
       "aiProcessed": true
     },
     {
+      "id": "https://aleteia.org/2026/11/08/planning-for-success-some-tips-for-turning-into-an-optimist/",
+      "title": "Планирование успеха: советы по становлению оптимистом",
+      "summary": "Автор размышляет о том, как важно смотреть в будущее с надеждой, несмотря на трудности и негативные мысли о семье, политике и церкви. Жизнь быстро меняется, и оптимизм помогает справляться с вызовами.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/08/planning-for-success-some-tips-for-turning-into-an-optimist/",
+      "publishedAt": "2026-11-08T11:57:08.000Z",
+      "importance": 4,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/08/remember-the-art-nun-sister-wendy-rediscover-her-work/",
+      "title": "Помните «монахиню-художницу» сестру Венди? Вновь откройте её творчество",
+      "summary": "Британская католическая монахиня сестра Венди стала звездой 1990-х благодаря документальным фильмам BBC об истории искусства. Новый биографический труд рассказывает о её духовной жизни и знакомит новое поколение с её наследием.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/08/remember-the-art-nun-sister-wendy-rediscover-her-work/",
+      "publishedAt": "2026-11-08T11:40:36.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/08/bob-dylan-songs-about-god-that-are-easy-on-the-ear/",
+      "title": "Песни Боба Дилана о Боге, приятные для слуха",
+      "summary": "Боб Дилан встретился с Папой Львом XIV в Ватикане, как и почти 30 лет назад со святым Иоанном Павлом II. Его творчество наполнено библейскими аллюзиями и христианскими темами. Автор признаётся, что слушает Дилана, несмотря на неприязнь жены к его голосу.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/08/bob-dylan-songs-about-god-that-are-easy-on-the-ear/",
+      "publishedAt": "2026-11-08T11:37:13.000Z",
+      "importance": 4,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/08/what-st-elizabeth-of-the-trinity-can-teach-our-disordered-world/",
+      "title": "Чему святой Елизавете Троицкой может научить наш беспорядочный мир",
+      "summary": "Мир полон войн и конфликтов, а сердца людей часто далеки от Бога. Святой Елизавете Троицкой, родившейся в XIX веке, можно доверить напоминание о жизни, сосредоточенной на Боге и открытой Его святой воле.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/08/what-st-elizabeth-of-the-trinity-can-teach-our-disordered-world/",
+      "publishedAt": "2026-11-08T11:30:31.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
       "id": "https://www.ewtnnews.com/world/africa/bless-those-who-wrong-you-kenyan-bishop-urges-christians",
       "title": "Кенийский епископ призывает христиан благословлять обидчиков",
       "summary": "Епископ Марк Кадима Вамукойя напомнил верующим следовать примеру Христа и молиться за всех, даже за тех, кто причиняет боль и предаёт.",
@@ -33,6 +253,24 @@
       "publishedAt": "2026-11-08T11:00:00.000Z",
       "importance": 5,
       "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/secularisation-and-the-reflected-light-of-little-bethlehem.html",
+      "title": "Secularization and the reflected light of little Bethlehem",
+      "summary": "Our Editorial Director, Andrea Tornielli, reflects on Pope Leo XIV's address to young people in Uruguay, in which the Pope sets out the task facing Christians in every corner of the world. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/secularisation-and-the-reflected-light-of-little-bethlehem.html",
+      "publishedAt": "2026-11-08T10:07:00.000Z"
+    },
+    {
+      "id": "https://www.agensir.it/chiesa/2026/11/08/chiesa-italiana-374-progetti-8xmille-73-paesi/",
+      "title": "Chiesa italiana: 374 progetti 8xmille in 73 Paesi, dalla Colombia al Libano al Congo",
+      "summary": "“I poveri dei nostri giorni sono i dimenticati e gli emarginati: derubati di una parola e di un volto, oltre che del pane” sottolinea Papa Leone XIV nel Messaggio per la decima Giornata mondiale dei poveri del 15 novembre, esprimendo la speranza che questa “possa costituire una tappa significativa per riscoprire il volto di tanti […] The post Chiesa italiana: 374 progetti 8xmille in 73 Paesi, dalla Colombia al Libano al Congo first appeared on AgenSIR .",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/chiesa/2026/11/08/chiesa-italiana-374-progetti-8xmille-73-paesi/",
+      "publishedAt": "2026-11-08T08:22:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/polish-bishops-call-for-prayer-after-gunman-kills-6-in-krakow-s-historic-square",
@@ -49,7 +287,7 @@
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-encourages-uruguays-s-catholic-minority-to-keep-and-spread-the-faith",
       "title": "Папа Лев XIV призывает католиков Уругвая сохранять и распространять веру",
       "summary": "Понтифик возглавил вечернюю молитву в последнюю ночь пребывания в стране, поддерживая католическое меньшинство Уругвая.",
-      "category": "Мир",
+      "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-encourages-uruguays-s-catholic-minority-to-keep-and-spread-the-faith",
       "publishedAt": "2026-11-08T02:13:58.000Z",
@@ -60,7 +298,7 @@
       "id": "https://www.ewtnnews.com/vatican/photos-pope-leo-xiv-in-uruguay",
       "title": "Папа Лев XIV в Уругвае",
       "summary": "Папа провёл мессу и встретился с несколькими общинами в Уругвае в первый полный день своего путешествия по Южной Америке.",
-      "category": "Мир",
+      "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/photos-pope-leo-xiv-in-uruguay",
       "publishedAt": "2026-11-08T01:11:44.000Z",
@@ -71,7 +309,7 @@
       "id": "https://www.ewtnnews.com/vatican/in-uruguay-pope-leo-xiv-deplores-the-social-costs-of-violent-crime",
       "title": "Папа Лев XIV осуждает социальные последствия насилия в Уругвае",
       "summary": "Понтифик посетил район с низким уровнем дохода, где католическая приходская община помогает нуждающимся.",
-      "category": "Мир",
+      "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/in-uruguay-pope-leo-xiv-deplores-the-social-costs-of-violent-crime",
       "publishedAt": "2026-11-07T23:28:48.000Z",
@@ -79,15 +317,240 @@
       "aiProcessed": true
     },
     {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-at-uruguay-prayer-vigil-07-november-2026.html",
+      "title": "Pope in Uruguay: Never settle for mediocrity, find joy and fulfillment in Christ",
+      "summary": "During a prayer vigil in Uruguay, Pope Leo XIV urges the faithful not to settle for a merely decent life or habitual faith, but to give themselves completely to the Lord, finding in Him their true joy and fulfillment. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-at-uruguay-prayer-vigil-07-november-2026.html",
+      "publishedAt": "2026-11-07T23:28:00.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-education-community-uruguay-montevideo.html",
+      "title": "Pope in Uruguay: ‘Other people are a blessing, not a threat’",
+      "summary": "Pope Leo XIV visits the Catholic University of Uruguay in Montevideo, and urges everyone involved in education to reject the temptation to belittle others but to listen with respect. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-education-community-uruguay-montevideo.html",
+      "publishedAt": "2026-11-07T22:03:21.000Z"
+    },
+    {
+      "id": "https://aleteia.org/2026/11/07/pope-teases-nuncio-urges-youth-to-stay-up-late/",
+      "title": "Pope teases nuncio, urges youth to stay up late",
+      "summary": "“Where are the young people? Where are the Pope’s young people?” Pope Leo asked to the sound of wild cheers and shouts, as he ended his first night in Uruguay, standing outside the residence of the papal representative in the country, Archbishop Gianfranco Gallone. The Pope’s body clock was undoubtedly reminding him it was way past his bedtime, as Rome is four hours ahead of Uruguay and he’d just completed a 13-hour flight and already given two speeches. But he seemed delighted to joke with the ",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/07/pope-teases-nuncio-urges-youth-to-stay-up-late/",
+      "publishedAt": "2026-11-07T21:51:49.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-meets-with-casavalle-community-in-uruguay.html",
+      "title": "Pope in Uruguay: 'We cannot turn a blind eye in the face of injustice'",
+      "summary": "Meeting with the disadvantaged Casavalle Community in Uruguay, Pope Leo XIV says Christians cannot turn a blind eye or silence our consciences in the face of injustice, and calls for the Church and civil society to work together to promote the common good. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-meets-with-casavalle-community-in-uruguay.html",
+      "publishedAt": "2026-11-07T21:01:09.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-in-uruguay-smallness-does-not-mean-insignificance.html",
+      "title": "Pope in Uruguay: Smallness does not mean insignificance",
+      "summary": "From a child lifted up for a blessing at the Estadio Centenario to neighbours offering words of encouragement in Casavalle, Pope Leo’s second day in Uruguay brings moments of faith, solidarity and celebration. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-in-uruguay-smallness-does-not-mean-insignificance.html",
+      "publishedAt": "2026-11-07T19:10:00.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/franciscan-martyr-ramirez-monasterio-beatified-guatemala.html",
+      "title": "Franciscan martyr Augusto Ramírez Monasterio beatified in Guatemala",
+      "summary": "At his Beatification Mass in Antigua, Cardinal Francisco Robles Ortega recalls Franciscan Fr. Augusto Rafael Ramírez Monasterio's defense of the seal of confession, and prays that his example will inspire Guatemalan families to live in humility and solidarity. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/franciscan-martyr-ramirez-monasterio-beatified-guatemala.html",
+      "publishedAt": "2026-11-07T18:44:00.000Z"
+    },
+    {
+      "id": "https://www.agensir.it/mondo/2026/11/07/striscia-di-gaza-70mila-tende-allagate-dalla-pioggia-parroco-romanelli-una-catastrofe-la-gente-ha-perso-tutto/",
+      "title": "Striscia di Gaza: 70mila tende allagate dalla pioggia. Parroco Romanelli: “Una catastrofe, la gente ha perso tutto”",
+      "summary": "“La situazione è davvero catastrofica. Conosciamo molte delle persone colpite, gran parte della popolazione vive nelle tende. Sono persone che hanno perso tutto. Le loro cose sono completamente bagnate. Alcune famiglie avevano trovato riparo in rifugi di fortuna, fatti con qualche lamiera e una tenda, ma hanno perso tutto”. A parlare al Sir è il […] The post Striscia di Gaza: 70mila tende allagate dalla pioggia. Parroco Romanelli: “Una catastrofe, la gente ha perso tutto” first appeared on AgenS",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/mondo/2026/11/07/striscia-di-gaza-70mila-tende-allagate-dalla-pioggia-parroco-romanelli-una-catastrofe-la-gente-ha-perso-tutto/",
+      "publishedAt": "2026-11-07T18:14:00.000Z"
+    },
+    {
+      "id": "https://www.agensir.it/mondo/2026/11/07/leone-xiv-in-argentina-dominguez-fundacion-fiorire-lamore-ha-la-capacita-di-trasformare-una-crisi-in-unopportunita/",
+      "title": "Leone XIV in Argentina. Domínguez (Fundación Fiorire): “L’amore ha la capacità di trasformare una crisi in un’opportunità”",
+      "summary": "Alla vigilia della storica visita di Papa Leone XIV, abbiamo raccolto la testimonianza di Karina Domínguez, direttrice generale e anima della Fundación Fiorire, ispirata dal cammino con sua figlia Chiara. Una realtà che accoglie i bambini con disabilità neuromotorie: “Nelle loro fragilità, la bellezza che cura”. L’attesa per l’arrivo di Papa Leone XIV. Dottoressa Domínguez, […] The post Leone XIV in Argentina. Domínguez (Fundación Fiorire): “L’amore ha la capacità di trasformare una crisi in un’",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/mondo/2026/11/07/leone-xiv-in-argentina-dominguez-fundacion-fiorire-lamore-ha-la-capacita-di-trasformare-una-crisi-in-unopportunita/",
+      "publishedAt": "2026-11-07T15:55:41.000Z"
+    },
+    {
+      "id": "https://www.agensir.it/mondo/2026/11/07/leone-xiv-in-argentina-case-scuole-lavoro-e-inclusione-per-ricostruire-il-tessuto-sociale/",
+      "title": "Leone XIV in Argentina. Case, scuole, lavoro e inclusione per ricostruire il tessuto sociale",
+      "summary": "“Benvenuti tutti, andate e annunciate”. È il motto scelto per la visita di Papa Leone XIV in Argentina, un invito che, come ha spiegato il presidente della Conferenza episcopale argentina, mons. Marcelo Colombo, richiama la necessità di “costruire insieme una nuova umanità” e trova attuazione nell’impegno quotidiano accanto ai più fragili. Casa, inclusione educativa, dipendenze, […] The post Leone XIV in Argentina. Case, scuole, lavoro e inclusione per ricostruire il tessuto sociale first appear",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/mondo/2026/11/07/leone-xiv-in-argentina-case-scuole-lavoro-e-inclusione-per-ricostruire-il-tessuto-sociale/",
+      "publishedAt": "2026-11-07T15:50:40.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/africa/news/2026-11/lesotho-catholic-bishops-recommit-to-renewing-the-country-s-pas0.html",
+      "title": "Lesotho: Catholic Bishops recommit to renewing the country’s pastoral ministry to family",
+      "summary": "Lesotho’s Bishop of Qacha’s Nek Diocese and President of the Lesotho Catholic Bishops’ Conference, Bishop Joseph Mopeli Sephamola, has shared with Vatican News plans to renew and reinvigorate Lesotho’s pastoral ministry to family life, especially given the country’s changing realities. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/africa/news/2026-11/lesotho-catholic-bishops-recommit-to-renewing-the-country-s-pas0.html",
+      "publishedAt": "2026-11-07T15:48:00.000Z"
+    },
+    {
       "id": "https://www.ewtnnews.com/vatican/papal-mass-in-paysandu",
       "title": "Папа Лев XIV призывает Уругвай стать «сообществом молитвы»",
       "summary": "На открытой мессe вдали от столицы понтифик отметил католическое наследие одной из самых светских стран Южной Америки.",
-      "category": "Мир",
+      "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/papal-mass-in-paysandu",
       "publishedAt": "2026-11-07T15:39:38.000Z",
       "importance": 7,
       "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-prays-our-lady-rosary-paysandu-uruguay.html",
+      "title": "Pope Leo invites Uruguayan faithful to build bridges for peace",
+      "summary": "In Uruguay, Pope Leo XIV concludes his brief visit to Paysandu with a visit the Cathedral of Our Lady of the Rosary, and encourages Catholics in Uruguay to sow peace in their lives and the world. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-prays-our-lady-rosary-paysandu-uruguay.html",
+      "publishedAt": "2026-11-07T15:27:00.000Z"
+    },
+    {
+      "id": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-south-latin-america/",
+      "title": "Pope urges faithful in Uruguay to build bridges of fraternity and faith",
+      "summary": "Pope Leo XIV urged an estimated 40,000 people in Uruguay on Saturday to build bridges of fraternity and faith, as he used his first Mass in South America to deliver an ode to the region's beloved mate tea and raise the profile of the Catholic Church in its most secular country. The post Pope urges faithful in Uruguay to build bridges of fraternity and faith appeared first on Crux .",
+      "category": "Мир",
+      "source": "Crux",
+      "url": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-south-latin-america/",
+      "publishedAt": "2026-11-07T15:22:44.000Z"
+    },
+    {
+      "id": "https://cruxnow.com/church-in-the-usa/2026/11/democratic-candidates-with-a-christian-message-help-flip-congress/",
+      "title": "Democratic candidates with a Christian message help flip Congress",
+      "summary": "Clergy members and other Democratic candidates with an unapologetically Christian message to “love your neighbor” helped their party flip control of Congress. The post Democratic candidates with a Christian message help flip Congress appeared first on Crux .",
+      "category": "Мир",
+      "source": "Crux",
+      "url": "https://cruxnow.com/church-in-the-usa/2026/11/democratic-candidates-with-a-christian-message-help-flip-congress/",
+      "publishedAt": "2026-11-07T15:12:58.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/house-for-pilgrims-inaugurated-in-nicaea-turkey.html",
+      "title": "House for Pilgrims inaugurated in Nicaea, Turkey",
+      "summary": "Archbishop Rino Fisichella, Pro-Prefect of the Dicastery for Evangelization, presided over the ceremony and also consecrated the chapel to which Pope Leo donated a chalice. A marble plaque was installed in the building blessed in November 2025 by Pope Leo XIV during his apostolic journey marking the 1,700th anniversary of the First Ecumenical Council. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/house-for-pilgrims-inaugurated-in-nicaea-turkey.html",
+      "publishedAt": "2026-11-07T15:12:00.000Z"
+    },
+    {
+      "id": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-leos-south-american-tour-raises-hopes-across-uruguay-argentina-and-peru-2/",
+      "title": "Pope ‘proud to be an American’ after US elections, and credits God and doctors with cancer rebound",
+      "summary": "ABOARD THE PAPAL PLANE — Pope Leo XIV said Friday that he was “proud to be an American and to exercise the right” to vote in U.S. midterm elections that gave control of Congress to the Democrats in a repudiation of U.S. President Donald Trump and his policies. Meeting with journalists en route to Latin […] The post Pope ‘proud to be an American’ after US elections, and credits God and doctors with cancer rebound appeared first on Crux .",
+      "category": "Мир",
+      "source": "Crux",
+      "url": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-leos-south-american-tour-raises-hopes-across-uruguay-argentina-and-peru-2/",
+      "publishedAt": "2026-11-07T14:54:36.000Z"
+    },
+    {
+      "id": "https://aleteia.org/2026/11/07/pope-i-am-proud-to-be-an-american/",
+      "title": "Pope: I am proud to be an American",
+      "summary": "Pope Leo XIV spent some 13 hours on a flight to Uruguay on November 6, spending some of the time with the 80 journalists who accompanied him. In greeting them, he introduced Maria Montserrat “Montse” Alvarado, the new Prefect of the Dicastery for Communication. Noting “that many of you already know” her, he praised her “wonderful experience,” “creativity,” “life and liveliness,” saying she would accompany them on the visit and help the Vatican and the Pope “in the very important dimension of com",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/07/pope-i-am-proud-to-be-an-american/",
+      "publishedAt": "2026-11-07T14:17:09.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/beatification-santander-spain-martyrs-cardinal-semeraro.html",
+      "title": "Cardinal Semeraro: Blessed Santander martyrs show our vocation to holiness",
+      "summary": "Cardinal Marcello Semeraro, Prefect of the Dicastery for the Causes of Saints, presides at the Beatification Mass of the Servants of God Francisco González de Córdova and 79 companions in Santander, Spain, saying holiness is the “common vocation” of every baptized person. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/beatification-santander-spain-martyrs-cardinal-semeraro.html",
+      "publishedAt": "2026-11-07T14:06:00.000Z"
+    },
+    {
+      "id": "https://aleteia.org/2026/11/07/st-dominics-immortal-orange-tree-in-rome/",
+      "title": "St. Dominic’s “immortal” orange tree in Rome",
+      "summary": "It’s a tree surrounded by legends, one that some even consider miraculous. It certainly makes an impression on tourists and pilgrims visiting the Basilica of Santa Sabina on Rome’s Aventine Hill. Only the Dominicans living in the adjoining friary can approach it, but anyone can catch a glimpse through a narrow opening in a wall. There stands an orange tree that seems to defy time. At the beginning of winter, its foliage is thick, and a few still-green oranges promise a bountiful harvest in the c",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/07/st-dominics-immortal-orange-tree-in-rome/",
+      "publishedAt": "2026-11-07T14:04:08.000Z"
+    },
+    {
+      "id": "https://aleteia.org/2026/11/07/unborn-belong-to-human-family-pope-starts-off-s-america-trip-defending-life/",
+      "title": "Unborn belong to human family: Pope starts off S. America trip defending life",
+      "summary": "After a flight of more than 13 hours, Pope Leo XIV kicked off his 12-day tour of South America with a busy evening schedule, even as Rome readied for bed. His first address was to Uruguayan authorities and the diplomatic corps, and while the Pope praised the country’s efficiency in moving to clean energy, he was firm in his denunciation of human rights abuses. The Holy Father framed his speech around a piece of art that stands in the capital of Montevideo; it is a monument to Artigas and the his",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/07/unborn-belong-to-human-family-pope-starts-off-s-america-trip-defending-life/",
+      "publishedAt": "2026-11-07T14:03:20.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-in-uruguay-carry-forward-the-mission-of-evangelization.html",
+      "title": "Pope at Mass in Uruguay: ‘Carry forward evangelizing mission with enthusiasm’",
+      "summary": "Celebrating Mass in Paysandu, Pope Leo XIV recalls the many people of faith who came to the Rio de la Plata region, and encourages Uruguayans to \"continue the legacy left to us by these sowers of the Gospel.\" Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-in-uruguay-carry-forward-the-mission-of-evangelization.html",
+      "publishedAt": "2026-11-07T14:00:00.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/church/news/2026-11/oman-golden-jubilee-saints-peter-paul-catholic-church.html",
+      "title": "Golden Jubilee opens at Oman’s first Catholic church",
+      "summary": "As St. Peter and Paul Church in Muscat, Oman, marks 50 years since its consecration, Bishop Paolo Martinelli, Apostolic Vicar of Southern Arabia, calls on Catholics to deepen their faith and share it with others. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/church/news/2026-11/oman-golden-jubilee-saints-peter-paul-catholic-church.html",
+      "publishedAt": "2026-11-07T13:35:00.000Z"
+    },
+    {
+      "id": "https://aleteia.org/2026/11/07/a-beautiful-way-to-teach-kids-about-jesus-night-light/",
+      "title": "A beautiful way to teach kids about Jesus’ “night light”",
+      "summary": "When we attend Mass on Sundays or visit a Catholic Church, we might see the burning sanctuary lamp and not even take conscious notice. It’s a feature of every Catholic Church that is simply standard, and the more we get used to it, the less we attention we pay to it. Yet, for a child, the sanctuary lamp is a curious thing — a red lamp that is always burning. For many children it is a mystery, which can provide the perfect opportunity to teach them more deeply about Jesus’ presence in the Blessed",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/07/a-beautiful-way-to-teach-kids-about-jesus-night-light/",
+      "publishedAt": "2026-11-07T13:31:50.000Z"
+    },
+    {
+      "id": "https://aleteia.org/2026/11/07/leo-xiv-gives-his-1st-address-to-church-in-china/",
+      "title": "Leo XIV gives his 1st address to Church in China",
+      "summary": "Pope Leo XIV called for a Church in China that is fully rooted in its culture while remaining united with Rome, in a video message shown on November 5, 2026, at a conference in Rome marking the centenary of the ordination of the first Chinese bishops of the modern era. It was the first address the Pope has devoted specifically to the Catholic Church in China since his election. The conference, opened by Cardinal Secretary of State Pietro Parolin — the Vatican’s second-highest-ranking official — ",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/07/leo-xiv-gives-his-1st-address-to-church-in-china/",
+      "publishedAt": "2026-11-07T13:30:32.000Z"
+    },
+    {
+      "id": "https://aleteia.org/2026/11/07/healing-from-trauma-a-catholic-approach/",
+      "title": "Healing from trauma: A Catholic approach",
+      "summary": "Our broken world needs the healing only Christ can give. A new book is a valuable resource to understand how to heal from trauma, from a Catholic perspective. Restoring Your Wounded Heart: A Catholic Approach to Healing Trauma is the latest book from Brya Hanan. Through her writing, workshops, and formation work, Hanan seeks to help individuals encounter God in wounded places and rediscover their God-given wholeness. Hanan is a Catholic licensed marriage and family therapist, a certified family ",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/07/healing-from-trauma-a-catholic-approach/",
+      "publishedAt": "2026-11-07T13:26:46.000Z"
+    },
+    {
+      "id": "https://cruxnow.com/2026_pope_in_south_america/2026/11/thousands-pour-into-a-park-in-uruguay-for-pope-leos-first-mass-in-south-america/",
+      "title": "Thousands pour into a park in Uruguay for Pope Leo’s first Mass in South America",
+      "summary": "More than 30,000 people — many from Uruguay but also from neighboring Argentina and Brazil — had registered to attend the Mass in the Parque París Londres, a sprawling green space on the southern edge of Paysandú — a city that no pope has ever visited before. The post Thousands pour into a park in Uruguay for Pope Leo’s first Mass in South America appeared first on Crux .",
+      "category": "Мир",
+      "source": "Crux",
+      "url": "https://cruxnow.com/2026_pope_in_south_america/2026/11/thousands-pour-into-a-park-in-uruguay-for-pope-leos-first-mass-in-south-america/",
+      "publishedAt": "2026-11-07T13:20:30.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/whatever-happened-to-dating-new-film-tackles-america-s-relationship-crisis",
@@ -123,6 +586,78 @@
       "aiProcessed": true
     },
     {
+      "id": "https://www.agensir.it/italia/2026/11/07/carceri-ginotta-una-notte-in-cella-per-custodire-volti-e-raccontarli-con-rispetto/",
+      "title": "Carceri. Ginotta: “Una notte in cella per custodire volti e raccontarli con rispetto”",
+      "summary": "Come vive un detenuto? Quali sono i sentimenti che prova? Quanto manca tutto quello di cui si è privati. Alessandro Ginotta, responsabile dell’Ufficio di Comunicazione della Federazione nazionale italiana Società di San Vincenzo De Paoli Odv, caporedattore della rivista “Le Conferenze di Ozanam” e presidente dell’Ucsi Piemonte, ha voluto vivere l’esperienza di dormire in un […] The post Carceri. Ginotta: “Una notte in cella per custodire volti e raccontarli con rispetto” first appeared on AgenSI",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/italia/2026/11/07/carceri-ginotta-una-notte-in-cella-per-custodire-volti-e-raccontarli-con-rispetto/",
+      "publishedAt": "2026-11-07T09:10:25.000Z"
+    },
+    {
+      "id": "https://www.agensir.it/italia/2026/11/07/tutela-della-vita-casini-la-cultura-della-vita-e-in-se-stessa-una-cultura-di-pace/",
+      "title": "Tutela della vita. Casini: “La cultura della vita è in sé stessa una cultura di pace”",
+      "summary": "Chiuso in un sacchetto di plastica e lasciato vicino all’altare di una chiesa nel quartiere Magliana di Roma. È solo l’ultimo dei casi riportati dalla cronaca di un bambino abbandonato poche ore dopo la nascita. È per evitare casi come questi che il Movimento per la vita si batte ogni giorno da ormai più di […] The post Tutela della vita. Casini: “La cultura della vita è in sé stessa una cultura di pace” first appeared on AgenSIR .",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/italia/2026/11/07/tutela-della-vita-casini-la-cultura-della-vita-e-in-se-stessa-una-cultura-di-pace/",
+      "publishedAt": "2026-11-07T09:05:25.000Z"
+    },
+    {
+      "id": "https://www.agensir.it/europa/2026/11/07/lagarde-bce-cambia-ruolo-e-potra-dire-di-piu/",
+      "title": "Lagarde (Bce) cambia ruolo e potrà dire di più",
+      "summary": "La Bce (Banca centrale europea) ha come primo obiettivo la difesa del valore del denaro. Protegge il potere d’acquisto dell’euro, studia l’evoluzione delle economie e vigila sulla stabilità dei principali istituti bancari del Continente. Non si rivolge direttamente ai piccoli risparmiatori e anche la gestione della presidente uscente, Christine Lagarde, non si è discostata da […] The post Lagarde (Bce) cambia ruolo e potrà dire di più first appeared on AgenSIR .",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/europa/2026/11/07/lagarde-bce-cambia-ruolo-e-potra-dire-di-piu/",
+      "publishedAt": "2026-11-07T09:00:30.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/church/news/2026-11/gospel-reflection-thirty-second-sunday-ordinary-time.html",
+      "title": "Lord's Day Reflection: Keep your lamps burning!",
+      "summary": "As the Church celebrates the Thirty-Second Sunday in Ordinary Time, Fr. Luke Gregory, OFM, reflects on the theme: \"Keep your lamps burning!\" Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/church/news/2026-11/gospel-reflection-thirty-second-sunday-ordinary-time.html",
+      "publishedAt": "2026-11-07T09:00:00.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-uruguay-greetings-apostolic-nunciature.html",
+      "title": "Pope Leo calls Uruguay “a country of young people who have faith”",
+      "summary": "Speaking from the balcony of the Apostolic Nunciature in Montevideo, Pope Leo XIV thanks Uruguayans for their welcome on the first day of his Apostolic Journey and greets the young people gathered to greet him. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-uruguay-greetings-apostolic-nunciature.html",
+      "publishedAt": "2026-11-07T01:53:00.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-appeals-prayer-fasting-vocations.html",
+      "title": "Pope Leo urges Catholics to pray and fast for vocations",
+      "summary": "As he meets with Uruguay's Bishops, clergy, and religious, Pope Leo XIV urges Catholics in dioceses around the world to pray and fast for vocations to the priesthood and religious life. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-appeals-prayer-fasting-vocations.html",
+      "publishedAt": "2026-11-07T01:01:00.000Z"
+    },
+    {
+      "id": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-leo-xiv-arrives-in-uruguay-at-start-of-south-american-tour-less-than-a-month-after-lung-surgery/",
+      "title": "Pope Leo XIV arrives in Uruguay at start of South American tour less than a month after lung surgery",
+      "summary": "The 71-year-old pope arrived in Montevideo, Uruguay, Latin America’s most secular country, after a 13 1/2-hour flight from Rome during which he acknowledged “some people” had doubted whether he could make the grueling, 12-day trip at all. The post Pope Leo XIV arrives in Uruguay at start of South American tour less than a month after lung surgery appeared first on Crux .",
+      "category": "Мир",
+      "source": "Crux",
+      "url": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-leo-xiv-arrives-in-uruguay-at-start-of-south-american-tour-less-than-a-month-after-lung-surgery/",
+      "publishedAt": "2026-11-07T00:44:51.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/church/news/2026-11/saints-blesseds-recalled-pope-leo-xiv-uruguay.html",
+      "title": "Treasure of Latin American Church: Saints, blesseds recalled by Pope in Uruguay",
+      "summary": "During his Apostolic Journey to Uruguay, Pope Leo XIV recalls the Saints and Blesseds who helped shape the country’s spiritual heritage, as their holiness was lived in tireless service to those most in need. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/church/news/2026-11/saints-blesseds-recalled-pope-leo-xiv-uruguay.html",
+      "publishedAt": "2026-11-07T00:00:00.000Z"
+    },
+    {
       "id": "https://www.ewtnnews.com/world/americas/priest-refuses-to-remove-his-clerical-attire-after-being-told-he-must-to-renew-passport-in",
       "title": "Священник отказался снять рясу для продления паспорта в Мексике",
       "summary": "Отец Альберто Медель сообщил, что ему потребовали снять церковную одежду для обновления паспорта, несмотря на судебные решения, защищающие ношение религиозной одежды.",
@@ -134,6 +669,15 @@
       "aiProcessed": true
     },
     {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-vespers-montevideo-uruguay-clergy-religious.html",
+      "title": "Pope in Uruguay: 'We are called to return again and again to the Lord'",
+      "summary": "At Vespers in Montevideo, Pope Leo XIV invites Uruguay's Bishops, clergy, and religious to return constantly to Jesus Christ, launching an appeal for the universal Church to pray and fast for vocations. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-vespers-montevideo-uruguay-clergy-religious.html",
+      "publishedAt": "2026-11-06T23:43:00.000Z"
+    },
+    {
       "id": "https://www.ewtnnews.com/world/us/nationwide-tax-funded-abortion-is-top-priority-for-democrats-in-next-session",
       "title": "Финансируемый налогами аборт — главный приоритет демократов в следующей сессии",
       "summary": "Демократы планируют рассмотреть два законопроекта: о легализации абортов по всей стране и об использовании федеральных налоговых средств для финансирования абортов.",
@@ -143,6 +687,15 @@
       "publishedAt": "2026-11-06T23:17:00.000Z",
       "importance": 8,
       "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/africa/news/2026-11/imbisa-theologians-study-challenges-of-inculturation-in-africa.html",
+      "title": "IMBISA theologians study challenges of inculturation in Africa",
+      "summary": "The pastoral challenges of accompanying those in polygamous situations and the wider question of inculturation in the African Church were at the centre of a gathering of theologians representing the six episcopal conferences that make up the Inter-Regional Meeting of the Bishops of Southern Africa (IMBISA): Angola and São Tomé and Príncipe (CEAST), Lesotho (LCBC), Mozambique (CEM), Namibia (NCBC), South Africa, Botswana, and Eswatini (SACBC), and Zimbabwe (ZCBC). Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/africa/news/2026-11/imbisa-theologians-study-challenges-of-inculturation-in-africa.html",
+      "publishedAt": "2026-11-06T23:12:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/new-film-jimmy-explores-the-untold-story-of-jimmy-stewart-s-wwii-service-and-enduring-faith",
@@ -165,6 +718,15 @@
       "publishedAt": "2026-11-06T21:47:51.000Z",
       "importance": 7,
       "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-in-uruguay-the-church-offers-jesus-christ.html",
+      "title": "Pope in Uruguay: Church offers Jesus Christ and hope proclaimed by Gospel",
+      "summary": "Pope Leo XIV begins his Apostolic Journey to South America with a discourse on the common good, reflecting on democracy, our duties toward future generations, care for human dignity and for those most in need, and peaceful coexistence. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-in-uruguay-the-church-offers-jesus-christ.html",
+      "publishedAt": "2026-11-06T21:45:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/exit-polling-shows-catholics-evenly-split-between-democrats-republicans-in-2026-midterms",
@@ -211,15 +773,51 @@
       "aiProcessed": true
     },
     {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-departs-for-apostolic-journey-to-latin-america.html",
+      "title": "Pope Leo begins Apostolic Journey to Uruguay",
+      "summary": "Pope Leo XIV lands in Montevideo, Uruguay, as he begins his 12-day Apostolic Journey to Latin America, marking his sixth international journey since the start of the papacy. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-departs-for-apostolic-journey-to-latin-america.html",
+      "publishedAt": "2026-11-06T19:25:00.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-telegrams-flight-rome-montevideo-uruguay.html",
+      "title": "Pope sends prayers for peace to nations on flight to Uruguay",
+      "summary": "During his flight from Rome to Montevideo, Pope Leo XIV sends greetings to the leaders and peoples of Italy, France, Algeria, Mauritania, Senegal, and Brazil as the papal plane flies over their territories. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-telegrams-flight-rome-montevideo-uruguay.html",
+      "publishedAt": "2026-11-06T19:25:00.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-was-confident-south-america-trip-would-go-ahead.html",
+      "title": "Pope Leo XIV was ‘confident South America trip would go ahead’",
+      "summary": "Aboard the flight to Uruguay, Pope Leo XIV expresses his happiness at making the visit, introduces the new Prefect of the Dicastery for Communication, Montserrat Alvarado, and says he is “proud to be American and to exercise the right to vote.” Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-was-confident-south-america-trip-would-go-ahead.html",
+      "publishedAt": "2026-11-06T19:20:00.000Z"
+    },
+    {
       "id": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-arrives-in-south-america",
       "title": "Папа Лев XIV прибыл в Южную Америку",
       "summary": "В ходе 11-дневного визита понтифик посетит Уругвай, Аргентину и Перу, страну своего усыновления.",
-      "category": "Ватикан",
+      "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-arrives-in-south-america",
       "publishedAt": "2026-11-06T19:18:38.000Z",
       "importance": 7,
       "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/malta-court-awards-vatican-bank-millions-investment-case.html",
+      "title": "Maltese court awards IOR €24.1 million in investment case",
+      "summary": "A court in Malta orders four companies to pay the Institute for the Works of Religion (IOR) €24.1 million plus interest for breaching their fiduciary duties in the Kappa Fund case, rejecting their claims against the Institute in a first-instance judgment. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/malta-court-awards-vatican-bank-millions-investment-case.html",
+      "publishedAt": "2026-11-06T18:57:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/asia-pacific/south-korea-unveils-world-youth-day-2027-venues-expects-1-million-at-closing-mass",
@@ -231,6 +829,24 @@
       "publishedAt": "2026-11-06T18:28:00.000Z"
     },
     {
+      "id": "https://cruxnow.com/vatican/2026/11/pope-introduces-new-communications-chief-who-shows-a-more-informal-approach/",
+      "title": "Pope introduces new communications chief who shows a more informal approach",
+      "summary": "Alvarado is the first woman to lead the office, one of the largest and costliest parts of the Holy See bureaucracy. The post Pope introduces new communications chief who shows a more informal approach appeared first on Crux .",
+      "category": "Ватикан",
+      "source": "Crux",
+      "url": "https://cruxnow.com/vatican/2026/11/pope-introduces-new-communications-chief-who-shows-a-more-informal-approach/",
+      "publishedAt": "2026-11-06T18:16:00.000Z"
+    },
+    {
+      "id": "https://cruxnow.com/ap/2026/11/pope-proud-to-be-an-american-after-us-elections-and-credits-god-and-doctors-with-cancer-rebound/",
+      "title": "Pope ‘proud to be an American’ after US elections, and credits God and doctors with cancer rebound",
+      "summary": "Pope Leo XIV said Friday that he was “proud to be an American and to exercise the right” to vote in U.S. midterm elections that gave control of Congress to the Democrats in a repudiation of U.S. President Donald Trump and his policies. The post Pope ‘proud to be an American’ after US elections, and credits God and doctors with cancer rebound appeared first on Crux .",
+      "category": "Мир",
+      "source": "Crux",
+      "url": "https://cruxnow.com/ap/2026/11/pope-proud-to-be-an-american-after-us-elections-and-credits-god-and-doctors-with-cancer-rebound/",
+      "publishedAt": "2026-11-06T18:00:00.000Z"
+    },
+    {
       "id": "https://www.ewtnnews.com/world/europe/polish-bishops-call-for-day-of-fasting-and-penance-amid-political-crisis",
       "title": "Polish bishops call for day of fasting and penance amid political crisis",
       "summary": "After an emergency meeting in Warsaw, Poland’s Permanent Council asks the faithful to fast Tuesday and pray for social peace before Independence Day.",
@@ -238,6 +854,15 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/polish-bishops-call-for-day-of-fasting-and-penance-amid-political-crisis",
       "publishedAt": "2026-11-06T17:48:00.000Z"
+    },
+    {
+      "id": "https://aleteia.org/2026/11/06/already-living-laudato-si-put-yourself-on-the-map/",
+      "title": "Already living Laudato si’? Put yourself on the map!",
+      "summary": "Five years after the Vatican launched it, the Laudato Si’ Action Platform presented a progress report on November 4, 2026. The online platform allows Catholic organizations around the world to create and track their own environmental projects. The initiative brings together tens of thousands of people involved in efforts ranging from composting to reforestation. At the Holy See Press Office, the organizers of the platform, sponsored by the Dicastery for Promoting Integral Human Development — the",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/06/already-living-laudato-si-put-yourself-on-the-map/",
+      "publishedAt": "2026-11-06T17:10:26.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/the-3-marian-shrines-that-pope-leo-xiv-will-visit-during-his-first-trip-to-south-america",
@@ -249,6 +874,15 @@
       "publishedAt": "2026-11-06T17:08:00.000Z"
     },
     {
+      "id": "https://aleteia.org/2026/11/06/pierre-you-can-take-away-some-apps-but-not-aleteia/",
+      "title": "Pierre: “You can take away some apps, but not Aleteia!”",
+      "summary": "“What does Aleteia do for you?” That was the first question the editors asked Pierre, an 81-year-old reader from France. His name had been suggested by an acquaintance, who described him somewhat mysteriously as “one of your most loyal readers.” And Pierre certainly had an answer ready! “It’s practically the first thing I read in the morning! After visiting my prayer website, I open Aleteia’s email and look through all the featured articles. Then I open the ones that interest me (usually most of",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/06/pierre-you-can-take-away-some-apps-but-not-aleteia/",
+      "publishedAt": "2026-11-06T16:53:18.000Z"
+    },
+    {
       "id": "https://www.ewtnnews.com/vatican/cardinal-parolin-on-us-midterm-elections-let-s-hope-that-reason-and-common-sense-prevail",
       "title": "Cardinal Parolin on U.S. midterm elections: ‘Let’s hope that reason and common sense prevail’",
       "summary": "The Vatican secretary of state responded to questions from journalists this week about the elections.",
@@ -256,6 +890,24 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/cardinal-parolin-on-us-midterm-elections-let-s-hope-that-reason-and-common-sense-prevail",
       "publishedAt": "2026-11-06T16:28:00.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/flags-and-painted-faces-welcome-pope-leo-to-montevideo.html",
+      "title": "Flags and painted faces welcome Pope Leo to Montevideo",
+      "summary": "Pope Leo concludes his first day in Uruguay with vespers in Montevideo's Metropolitan Cathedral. Before that he addresses the country's civil authorities following a welcome ceremony at Montevideo's Carrasco airport. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/flags-and-painted-faces-welcome-pope-leo-to-montevideo.html",
+      "publishedAt": "2026-11-06T16:28:00.000Z"
+    },
+    {
+      "id": "https://aleteia.org/2026/11/06/meet-hobi-and-cobi-wyd-seoul-introduces-mascots-shares-plans/",
+      "title": "Meet Hobi and Cobi: WYD Seoul introduces mascots, shares plans",
+      "summary": "Planning a pilgrimage to World Youth Day in Seoul next year? You won’t be alone. WYD 2027 mascots were introduced this week, and they’re two charming companions for the journey. Hobi and Cobi were introduced at a November 5 press conference from the World Youth Day Seoul 2027 Local Organizing Committee. Hobi is a Korean tiger ready to guide you through Seoul. Cobi is a lion who represents the universal Church, ready to guide you on your journey of faith. This is their story: In the East lives Ho",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/06/meet-hobi-and-cobi-wyd-seoul-introduces-mascots-shares-plans/",
+      "publishedAt": "2026-11-06T16:20:42.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/vatican/new-book-recounts-stories-of-papal-flights-from-john-paul-ii-to-leo-xiv",
@@ -276,6 +928,15 @@
       "publishedAt": "2026-11-06T15:08:13.000Z"
     },
     {
+      "id": "https://www.vaticannews.va/en/church/news/2026-11/pope-leo-to-bless-homes-for-families-in-montevideo-s-casavalle.html",
+      "title": "Church in Casavalle prepares to welcome Pope Leo to Montevideo neighbourhood",
+      "summary": "Ahead of Pope Leo XIV’s visit to Casavalle, we visit the twelve the Pope will bless and a local priests and a social ministry worker describe how the Church helps families build homes and gives teenagers and adults a chance to finish school. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/church/news/2026-11/pope-leo-to-bless-homes-for-families-in-montevideo-s-casavalle.html",
+      "publishedAt": "2026-11-06T14:37:00.000Z"
+    },
+    {
       "id": "https://www.ewtnnews.com/world/africa/nigerian-government-lacks-political-will-to-end-attacks-in-benue-state-catholic-bishop-says",
       "title": "Nigerian government lacks political will to end attacks in Benue state, Catholic bishop says",
       "summary": "Bishop Wilfred Chikpa Anagbe alleged that repeated warnings before the deadly attack on the Yelwata community went unheeded.",
@@ -285,6 +946,33 @@
       "publishedAt": "2026-11-06T14:00:00.000Z"
     },
     {
+      "id": "https://www.agensir.it/italia/2026/11/06/dizionario-poetico-dellumano-sergio-astori-e-le-centoquaranta-parole-che-curano/",
+      "title": "“Dizionario poetico dell’umano”: Sergio Astori e le centoquaranta parole che curano",
+      "summary": "Centoquaranta parole, da “Abbraccio” a “Vela”. Sei anni di scrittura, cominciati il 21 marzo 2020 nel tempo sospeso del primo lockdown, quando le “Parole buone” di Sergio Astori presero a circolare gratuitamente in rete come “pillole di resilienza per superare la crisi”. Oggi quel lessico diventa un libro: “Dizionario poetico dell’umano. 140 racconti” (Castelvecchi), con […] The post “Dizionario poetico dell’umano”: Sergio Astori e le centoquaranta parole che curano first appeared on AgenSIR .",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/italia/2026/11/06/dizionario-poetico-dellumano-sergio-astori-e-le-centoquaranta-parole-che-curano/",
+      "publishedAt": "2026-11-06T13:21:37.000Z"
+    },
+    {
+      "id": "https://www.agensir.it/italia/2026/11/06/poesia-come-rivelazione-dassoluto/",
+      "title": "Poesia come rivelazione d’assoluto",
+      "summary": "La poesia entra sempre meno nei programmi di grandi e piccoli editori, ed invece è uno dei sentieri che porterebbero -se la cultura dominante non ce lo nascondesse- al senso del viaggio, perché, come spiega l’etimo stesso della parola, è un fare reale, un operare, uno scrivere, un dire e un comunicare qualcosa che solo […] The post Poesia come rivelazione d’assoluto first appeared on AgenSIR .",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/italia/2026/11/06/poesia-come-rivelazione-dassoluto/",
+      "publishedAt": "2026-11-06T13:21:34.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/africa/news/2026-11/catholic-students-leaders-addis-ababa-pax-romana.html",
+      "title": "Catholic Student Leaders Gathered in Addis Ababa commit to work together to Reimagine Youth Leadership and Synodality in Africa",
+      "summary": "Catholic Students undertake to use their moral formation to promote good governance and to champion peace across the African continent. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/africa/news/2026-11/catholic-students-leaders-addis-ababa-pax-romana.html",
+      "publishedAt": "2026-11-06T13:21:00.000Z"
+    },
+    {
       "id": "https://www.ewtnnews.com/world/middle-east/st-catherine-s-monastery-nears-settlement-to-end-dispute-with-egyptian-government",
       "title": "St. Catherine’s Monastery nears settlement to end dispute with Egyptian government",
       "summary": "The settlement is expected to bring greater stability to the monastery while allowing the Egyptian government to proceed with its Great Transfiguration project.",
@@ -292,6 +980,42 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/middle-east/st-catherine-s-monastery-nears-settlement-to-end-dispute-with-egyptian-government",
       "publishedAt": "2026-11-06T13:00:00.000Z"
+    },
+    {
+      "id": "https://aleteia.org/2026/11/06/this-couples-love-story-has-a-very-catholic-plot-twist/",
+      "title": "This couple’s love story has a very Catholic plot twist",
+      "summary": "If there’s one thing romantic comedies have taught us, it’s that love can make fools of even the most rational people. And if Hallmark movies are anything to go by, the chances of finding your soulmate increase dramatically when there’s snow on the ground, Christmas lights twinkling, and a suspiciously handsome stranger, who’s often the black sheep of the family, lurking in the local coffee shop. But occasionally, real life delivers a romantic plot twist that even Hollywood might consider a litt",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/06/this-couples-love-story-has-a-very-catholic-plot-twist/",
+      "publishedAt": "2026-11-06T12:13:59.000Z"
+    },
+    {
+      "id": "https://aleteia.org/2026/11/06/before-bob-met-leo-there-was-patti/",
+      "title": "Before Bob met Leo, there was Patti",
+      "summary": "When Pope Leo quoted Bob Dylan in a Vatican document this year — the singer’s rarely heard 1963 anti-nuclear poem “Go Away You Bomb” — the gesture made headlines around the world. Some even hailed it as a first: a pope reaching across the cultural divide to embrace the voice of the counterculture. But the bridge between rock and Rome had already been under construction for years, quietly and persistently. Among those building that bridge is another American artist who had known Dylan since the b",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/06/before-bob-met-leo-there-was-patti/",
+      "publishedAt": "2026-11-06T12:08:43.000Z"
+    },
+    {
+      "id": "https://aleteia.org/2026/11/06/jonathan-roumie-shares-the-lasting-toll-of-playing-jesus/",
+      "title": "Jonathan Roumie shares the lasting toll of playing Jesus",
+      "summary": "Jonathan Roumie has spent nearly a decade portraying Jesus in The Chosen, but filming the crucifixion for the show’s sixth season proved more difficult than anything he had experienced before. And the emotional impact didn’t end when the cameras stopped rolling. In a new interview with CCM Magazine, the Catholic actor revealed that the experience had changed the way he reacted to something he had seen countless times before: a crucifix. “I’d be in church and I’d look at a crucifix and I just sta",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/06/jonathan-roumie-shares-the-lasting-toll-of-playing-jesus/",
+      "publishedAt": "2026-11-06T12:03:15.000Z"
+    },
+    {
+      "id": "https://aleteia.org/2026/11/06/safe-travels-holy-father/",
+      "title": "Safe travels, Holy Father!",
+      "summary": "Pope Leo XIV’s plane took off at 7:05 a.m. on November 6, 2026, from Rome’s Fiumicino Airport, bound for Montevideo-Carrasco International Airport in Uruguay. Uruguay will be the inaugural leg of his sixth apostolic journey as pontiff, a 12-day tour that will also see him visit Argentina and spend an extended time in his adopted country of Peru. In total, 83 journalists from newspapers, television, radio, and news agencies representing numerous international media outlets are accompanying the Po",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/06/safe-travels-holy-father/",
+      "publishedAt": "2026-11-06T12:01:08.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/vatican/theologian-highlights-contribution-of-laypeople-to-international-theological-commission",
@@ -310,6 +1034,15 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/first-ever-catholic-military-conference-will-focus-on-living-and-serving-justly",
       "publishedAt": "2026-11-06T11:00:00.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/world/news/2026-11/california-governor-commutes-all-of-us-state-s-548-death-sentenc.html",
+      "title": "California Governor commutes all of US state’s 548 death sentences",
+      "summary": "The Governor of the US state of California, Gavin Newsom, announces plans to commute all of the state’s 548 death sentences, saying the convicted inmates will serve life without parole. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/world/news/2026-11/california-governor-commutes-all-of-us-state-s-548-death-sentenc.html",
+      "publishedAt": "2026-11-06T09:58:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-group-praises-california-for-largest-commutation-in-history-as-hundreds-spared",
@@ -357,6 +1090,15 @@
       "publishedAt": "2026-11-05T16:03:00.000Z"
     },
     {
+      "id": "https://www.vaticannews.va/en/world/news/2026-11/europe-bomb-threats-flights-fighter-jets-hoax.html",
+      "title": "Fighter jets scrambled as bomb threats target flights across Europe",
+      "summary": "A wave of bomb threats targeting at least 16 passenger flights across Europe prompt military fighter jet escorts, emergency diversions and airport security alerts on Thursday, raising concerns about aviation security amid growing fears of hybrid warfare. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/world/news/2026-11/europe-bomb-threats-flights-fighter-jets-hoax.html",
+      "publishedAt": "2026-11-05T16:03:00.000Z"
+    },
+    {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-appoints-2-undersecretaries-to-promoting-integral-human-development-dicastery",
       "title": "Pope appoints 2 undersecretaries to integral human development dicastery",
       "summary": "The pontiff on Nov. 5 named Father Avelino Chicoma Bundo Chico, SJ, and Claudia Leal Luna, to serve under the dicastery’s prefect, pro-prefect, and secretary.",
@@ -375,6 +1117,15 @@
       "publishedAt": "2026-11-05T14:43:00.000Z"
     },
     {
+      "id": "https://www.vaticannews.va/en/world/news/2026-11/israel-herzog-coalition-talks-after-election.html",
+      "title": "Herzog begins coalition talks after inconclusive Israeli election",
+      "summary": "Israeli President Isaac Herzog on Thursday begins consultations with political parties to determine who should be given the mandate to form the country's next government, after a general election produced no clear winner. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/world/news/2026-11/israel-herzog-coalition-talks-after-election.html",
+      "publishedAt": "2026-11-05T14:12:00.000Z"
+    },
+    {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-chooses-community-as-theme-for-world-day-of-the-sick-2027",
       "title": "Pope Leo XIV chooses community as theme for World Day of the Sick 2027",
       "summary": "In 2027, the Church will mark the 35th anniversary of the commemoration.",
@@ -382,6 +1133,24 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-chooses-community-as-theme-for-world-day-of-the-sick-2027",
       "publishedAt": "2026-11-05T14:03:30.000Z"
+    },
+    {
+      "id": "https://cruxnow.com/church-in-the-middle-east/2026/11/taybeh-parish-priest-warns-of-violent-attacks-on-christians-during-uk-visit/",
+      "title": "Taybeh parish priest warns of ‘violent attacks’ on Christians during UK visit",
+      "summary": "During a visit to the UK, the parish priest of the last remaining Christian village in the West Bank warned about the \"violent attacks\" on his community by settlers. The post Taybeh parish priest warns of ‘violent attacks’ on Christians during UK visit appeared first on Crux .",
+      "category": "Мир",
+      "source": "Crux",
+      "url": "https://cruxnow.com/church-in-the-middle-east/2026/11/taybeh-parish-priest-warns-of-violent-attacks-on-christians-during-uk-visit/",
+      "publishedAt": "2026-11-05T14:00:24.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-apostolic-journey-peru-argentina-uruguay-editorial.html",
+      "title": "Pope Leo returns to continent full of contradictions but rich in hope",
+      "summary": "Our Editorial Director reflects on the upcoming 12-day Apostolic Journey to Latin American of Pope Leo XIV, who served for many years as a missionary in Peru. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-apostolic-journey-peru-argentina-uruguay-editorial.html",
+      "publishedAt": "2026-11-05T13:00:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/humility-according-to-merry-del-val-vatican-secretary-of-state-who-slept-on-a-straw-mattress",
@@ -393,6 +1162,42 @@
       "publishedAt": "2026-11-05T12:00:00.000Z"
     },
     {
+      "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-pope-leo-xiv-interview-latin-america-visit.html",
+      "title": "Cardinal Parolin: Pope’s Latin America visit is ‘witness to unity, reconciliation’",
+      "summary": "As Uruguay, Argentina, and Peru await Pope Leo XIV for his 6th Apostolic Journey, Cardinal Secretary of State Pietro Parolin says the encounter with local communities “will be filled with memories, affection, and gratitude.” Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-pope-leo-xiv-interview-latin-america-visit.html",
+      "publishedAt": "2026-11-05T12:00:00.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-theme-world-day-sick-2027-caring-for-every-person.html",
+      "title": "Pope chooses theme for 2027 World Day of the Sick",
+      "summary": "Pope Leo XIV announces the theme for the 2027 World Day of the Sick, highlighting the role of Christian communities and civil society in caring for the sick, the elderly, and those who suffer. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-theme-world-day-sick-2027-caring-for-every-person.html",
+      "publishedAt": "2026-11-05T11:40:00.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-us-midterm-elections-china-holy-see-agreement.html",
+      "title": "Cardinal Parolin expresses hopes for cooperation after US midterm elections",
+      "summary": "Cardinal Secretary of State Pietro Parolin speaks to journalists on the sidelines of an event at the Pontifical Urbaniana University and comments on the US midterm elections and the China-Holy See Agreement. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-us-midterm-elections-china-holy-see-agreement.html",
+      "publishedAt": "2026-11-05T11:28:00.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/pope-appoints-undersecretaries-dicastery-integral-development.html",
+      "title": "Pope appoints two Undersecretaries to Dicastery for Integral Development",
+      "summary": "Pope Leo XIV appoints Jesuit Fr. Avelino Chicoma Bundo Chico and Professor Claudia Leal Luna as Undersecretaries of the Dicastery for Promoting Integral Human Development Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/pope-appoints-undersecretaries-dicastery-integral-development.html",
+      "publishedAt": "2026-11-05T11:27:00.000Z"
+    },
+    {
       "id": "https://www.ewtnnews.com/vatican/a-world-war-ii-mystery-who-dropped-bombs-on-the-vatican-on-nov-5-1943",
       "title": "A World War II mystery: Who dropped bombs on the Vatican?",
       "summary": "On Nov. 5, 1943, an unidentified plane dropped bombs on the Vatican — one narrowly missing St. Peter’s Basilica. But who did it and why has it been shrouded in mystery ever since?",
@@ -400,6 +1205,24 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/a-world-war-ii-mystery-who-dropped-bombs-on-the-vatican-on-nov-5-1943",
       "publishedAt": "2026-11-05T11:00:00.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-conference-church-china-unity-diversity.html",
+      "title": "Pope: Safeguard Church's treasure of communion, a source of peace for all",
+      "summary": "Pope Leo XIV sends a video message to a conference in Rome exploring the face of the universal Church in China, and encourages Catholics to preserve unity in diversity, not uniformity. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-conference-church-china-unity-diversity.html",
+      "publishedAt": "2026-11-05T09:40:00.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-recalls-how-in-christ-life-has-been-redeemed.html",
+      "title": "Pope Leo: In Christ, life has been redeemed",
+      "summary": "Pope Leo XIV celebrates Mass in memory of the Cardinals and Bishops who died over the past year, and invites the faithful to reflect on the mystery of death “without fear,” because praying for the deceased “is to celebrate life.” Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-recalls-how-in-christ-life-has-been-redeemed.html",
+      "publishedAt": "2026-11-05T09:26:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/as-texas-democrats-sweep-statewide-offices-pro-life-and-parents-rights-advocates-voice-concerns",
@@ -458,6 +1281,15 @@
       "publishedAt": "2026-11-04T18:03:36.000Z"
     },
     {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-receives-bob-dylan-at-the-vatican.html",
+      "title": "Pope Leo receives Bob Dylan at the Vatican",
+      "summary": "The renowned American singer-songwriter and poet—a Nobel laureate in literature, currently touring Italy with a stop in Rome—was received this afternoon at the Apostolic Palace by Leo XIV. The Pontiff had previously quoted his lyrics in the preface to a book on disarmament. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-receives-bob-dylan-at-the-vatican.html",
+      "publishedAt": "2026-11-04T16:38:00.000Z"
+    },
+    {
       "id": "https://www.ewtnnews.com/world/us/catholic-fire-chaplain-hails-selfless-sacrificial-cleveland-fireman-who-died-in-line-of-duty",
       "title": "Catholic fire chaplain hails ‘selfless, sacrificial’ Cleveland fireman who died in line of duty",
       "summary": "The North Royalton Fire Department announced on Nov. 3 that one of its firefighters, Ryan Milligan, had died after fighting a fire in Broadview Heights the day before.",
@@ -485,6 +1317,24 @@
       "publishedAt": "2026-11-04T14:20:32.000Z"
     },
     {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-receives-president-of-chile-at-the-vatican.html",
+      "title": "Pope Leo receives President of Chile at the Vatican",
+      "summary": "Pope Leo XIV holds an audience with Chilean President José Antonio Kast Rist, who meets afterwards with Archbishop Paul Richard Gallagher to discuss “several matters of common interest at the regional and international levels.” Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-receives-president-of-chile-at-the-vatican.html",
+      "publishedAt": "2026-11-04T12:48:00.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/laudato-si-platform-5-year-report-digital-atlas-press-conference.html",
+      "title": "Laudato Si’ Platform launches Digital Atlas to map Catholic ecological action",
+      "summary": "The Laudato Sì Platform’s fifth annual report highlights growing participation, initiatives led by religious congregations and Catholic communities worldwide, and new tools to strengthen the Church’s commitment to integral ecology. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/laudato-si-platform-5-year-report-digital-atlas-press-conference.html",
+      "publishedAt": "2026-11-04T12:23:00.000Z"
+    },
+    {
       "id": "https://www.ewtnnews.com/world/us/abortion-wins-in-3-states-amid-major-democratic-victories-across-u-s",
       "title": "Abortion wins in 3 states amid major Democratic victories in U.S. midterms",
       "summary": "Voters in Idaho preserved the state’s ban on abortion, but elsewhere abortion was expanded as Democrats retook the U.S. House and Senate.",
@@ -501,6 +1351,42 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/digital-missionary-warns-of-dangers-of-hate-filled-comments-on-social-media",
       "publishedAt": "2026-11-04T11:00:00.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/church/news/2026-11/pope-leo-s-visit-brings-questions-of-faith-and-ai-to-ucu.html",
+      "title": "Pope Leo’s visit to bring questions of faith and AI to Uruguay's Catholic University",
+      "summary": "At the Catholic University of Uruguay, students and staff are preparing to welcome Pope Leo XIV, as artificial intelligence poses serious risks to the future of education. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/church/news/2026-11/pope-leo-s-visit-brings-questions-of-faith-and-ai-to-ucu.html",
+      "publishedAt": "2026-11-04T10:09:00.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-invites-pray-for-apostolic-journey-to-latin-america.html",
+      "title": "Pope Leo XIV invites the faithful to pray for Apostolic Journey to Latin America",
+      "summary": "During his Wednesday General Audience, Pope Leo asks for prayers for his imminent Apostolic Journey to Uruguay, Argentina, and Peru, and recalls two upcoming beatification celebrations as well as the liturgical memorial of St. Charles Borromeo, a saint who he said teaches us how to be led by Christ in our daily lives. Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-invites-pray-for-apostolic-journey-to-latin-america.html",
+      "publishedAt": "2026-11-04T09:38:00.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-general-audience-social-economic-life-social-doctrine.html",
+      "title": "Pope at Audience: Politics that tends wounds and fights injustice gives hope",
+      "summary": "During the Wednesday General Audience, Pope Leo XIV focuses on how Christians can engage in economic and political life in order to build peace, as he continues his reflection on the 1965 Pastoral Constitution 'Gaudium et Spes.' Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-general-audience-social-economic-life-social-doctrine.html",
+      "publishedAt": "2026-11-04T09:30:00.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-oeuvre-orient-eastern-christians-audience.html",
+      "title": "Pope: Eastern Christians foster dialogue in search of just peace",
+      "summary": "Meeting with Church foundations that assist Eastern Christians, Pope Leo XIV calls for dialogue between culture and history in search for an “unarmed and disarming peace.” Read all",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-oeuvre-orient-eastern-christians-audience.html",
+      "publishedAt": "2026-11-04T09:13:00.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/2026-election-results-abortion-referendums",

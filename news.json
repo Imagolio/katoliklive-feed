@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T22:05:54.893Z",
+  "updatedAt": "2026-11-08T22:08:20.847Z",
   "news": [
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-visits-san-martin-monument-argentina.html",
@@ -256,21 +256,25 @@
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/secularisation-and-the-reflected-light-of-little-bethlehem.html",
-      "title": "Secularization and the reflected light of little Bethlehem",
-      "summary": "Our Editorial Director, Andrea Tornielli, reflects on Pope Leo XIV's address to young people in Uruguay, in which the Pope sets out the task facing Christians in every corner of the world. Read all",
+      "title": "Секуляризация и отражённый свет маленького Вифлеема",
+      "summary": "Редактор Андреа Торниелли размышляет о послании Папы Льва XIV молодёжи Уругвая, где Папа обозначает задачу для христиан по всему миру.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/secularisation-and-the-reflected-light-of-little-bethlehem.html",
-      "publishedAt": "2026-11-08T10:07:00.000Z"
+      "publishedAt": "2026-11-08T10:07:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.agensir.it/chiesa/2026/11/08/chiesa-italiana-374-progetti-8xmille-73-paesi/",
-      "title": "Chiesa italiana: 374 progetti 8xmille in 73 Paesi, dalla Colombia al Libano al Congo",
-      "summary": "“I poveri dei nostri giorni sono i dimenticati e gli emarginati: derubati di una parola e di un volto, oltre che del pane” sottolinea Papa Leone XIV nel Messaggio per la decima Giornata mondiale dei poveri del 15 novembre, esprimendo la speranza che questa “possa costituire una tappa significativa per riscoprire il volto di tanti […] The post Chiesa italiana: 374 progetti 8xmille in 73 Paesi, dalla Colombia al Libano al Congo first appeared on AgenSIR .",
-      "category": "Мир",
+      "title": "Итальянская церковь: 374 проекта 8xmille в 73 странах от Колумбии до Ливана и Конго",
+      "summary": "Папа Лев XIV в послании к Дню бедных 15 ноября подчёркивает, что современные бедные — забытые и маргинализованные, лишённые слова, лица и хлеба, и надеется на переосмысление их образа.",
+      "category": "Ватикан",
       "source": "Agenzia SIR",
       "url": "https://www.agensir.it/chiesa/2026/11/08/chiesa-italiana-374-progetti-8xmille-73-paesi/",
-      "publishedAt": "2026-11-08T08:22:00.000Z"
+      "publishedAt": "2026-11-08T08:22:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/polish-bishops-call-for-prayer-after-gunman-kills-6-in-krakow-s-historic-square",
@@ -318,93 +322,113 @@
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-at-uruguay-prayer-vigil-07-november-2026.html",
-      "title": "Pope in Uruguay: Never settle for mediocrity, find joy and fulfillment in Christ",
-      "summary": "During a prayer vigil in Uruguay, Pope Leo XIV urges the faithful not to settle for a merely decent life or habitual faith, but to give themselves completely to the Lord, finding in Him their true joy and fulfillment. Read all",
+      "title": "Папа в Уругвае: не соглашайтесь на посредственность, находите радость и полноту в Христе",
+      "summary": "Во время молитвенного бдения Папа Лев XIV призывает верующих не довольствоваться обычной жизнью и верой, а полностью отдаться Господу, обретая в Нём истинную радость и полноту.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-at-uruguay-prayer-vigil-07-november-2026.html",
-      "publishedAt": "2026-11-07T23:28:00.000Z"
+      "publishedAt": "2026-11-07T23:28:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-education-community-uruguay-montevideo.html",
-      "title": "Pope in Uruguay: ‘Other people are a blessing, not a threat’",
-      "summary": "Pope Leo XIV visits the Catholic University of Uruguay in Montevideo, and urges everyone involved in education to reject the temptation to belittle others but to listen with respect. Read all",
+      "title": "Папа в Уругвае: «Другие люди — благословение, а не угроза»",
+      "summary": "Папа Лев XIV посетил Католический университет Уругвая в Монтевидео и призвал всех в сфере образования отвергать соблазн принижать других и слушать с уважением.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-education-community-uruguay-montevideo.html",
-      "publishedAt": "2026-11-07T22:03:21.000Z"
+      "publishedAt": "2026-11-07T22:03:21.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://aleteia.org/2026/11/07/pope-teases-nuncio-urges-youth-to-stay-up-late/",
-      "title": "Pope teases nuncio, urges youth to stay up late",
-      "summary": "“Where are the young people? Where are the Pope’s young people?” Pope Leo asked to the sound of wild cheers and shouts, as he ended his first night in Uruguay, standing outside the residence of the papal representative in the country, Archbishop Gianfranco Gallone. The Pope’s body clock was undoubtedly reminding him it was way past his bedtime, as Rome is four hours ahead of Uruguay and he’d just completed a 13-hour flight and already given two speeches. But he seemed delighted to joke with the ",
-      "category": "Мир",
+      "title": "Папа подшучивает над нунцием и призывает молодёжь не ложиться рано спать",
+      "summary": "Завершая первую ночь в Уругвае, Папа Лев XIV с юмором спросил, где молодёжь, и несмотря на усталость после долгого перелёта и выступлений, радостно общался с присутствующими.",
+      "category": "Ватикан",
       "source": "Aleteia",
       "url": "https://aleteia.org/2026/11/07/pope-teases-nuncio-urges-youth-to-stay-up-late/",
-      "publishedAt": "2026-11-07T21:51:49.000Z"
+      "publishedAt": "2026-11-07T21:51:49.000Z",
+      "importance": 4,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-meets-with-casavalle-community-in-uruguay.html",
-      "title": "Pope in Uruguay: 'We cannot turn a blind eye in the face of injustice'",
-      "summary": "Meeting with the disadvantaged Casavalle Community in Uruguay, Pope Leo XIV says Christians cannot turn a blind eye or silence our consciences in the face of injustice, and calls for the Church and civil society to work together to promote the common good. Read all",
+      "title": "Папа в Уругвае: «Мы не можем закрывать глаза на несправедливость»",
+      "summary": "Во время встречи с обездоленными в сообществе Касавалье в Уругвае Папа Лев XIV заявил, что христиане не могут игнорировать несправедливость и призвал Церковь и гражданское общество совместно работать на общее благо.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-meets-with-casavalle-community-in-uruguay.html",
-      "publishedAt": "2026-11-07T21:01:09.000Z"
+      "publishedAt": "2026-11-07T21:01:09.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-in-uruguay-smallness-does-not-mean-insignificance.html",
-      "title": "Pope in Uruguay: Smallness does not mean insignificance",
-      "summary": "From a child lifted up for a blessing at the Estadio Centenario to neighbours offering words of encouragement in Casavalle, Pope Leo’s second day in Uruguay brings moments of faith, solidarity and celebration. Read all",
+      "title": "Папа в Уругвае: Малость не означает незначительность",
+      "summary": "Во второй день визита в Уругвай Папа Лев XIV пережил моменты веры и солидарности — от благословения ребенка на стадионе Эстадио Сентенарио до поддержки соседей в Касавалье.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-in-uruguay-smallness-does-not-mean-insignificance.html",
-      "publishedAt": "2026-11-07T19:10:00.000Z"
+      "publishedAt": "2026-11-07T19:10:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/franciscan-martyr-ramirez-monasterio-beatified-guatemala.html",
-      "title": "Franciscan martyr Augusto Ramírez Monasterio beatified in Guatemala",
-      "summary": "At his Beatification Mass in Antigua, Cardinal Francisco Robles Ortega recalls Franciscan Fr. Augusto Rafael Ramírez Monasterio's defense of the seal of confession, and prays that his example will inspire Guatemalan families to live in humility and solidarity. Read all",
+      "title": "Францисканский мученик Аугусто Рамирес Монастерио беатифицирован в Гватемале",
+      "summary": "На мессе беатификации в Антигуа кардинал Франциско Роблес Ортега вспомнил защиту таинства исповеди отцом Аугусто Рамиресом Монастерио и призвал гватемальские семьи черпать вдохновение в его примере смирения и солидарности.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/franciscan-martyr-ramirez-monasterio-beatified-guatemala.html",
-      "publishedAt": "2026-11-07T18:44:00.000Z"
+      "publishedAt": "2026-11-07T18:44:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.agensir.it/mondo/2026/11/07/striscia-di-gaza-70mila-tende-allagate-dalla-pioggia-parroco-romanelli-una-catastrofe-la-gente-ha-perso-tutto/",
-      "title": "Striscia di Gaza: 70mila tende allagate dalla pioggia. Parroco Romanelli: “Una catastrofe, la gente ha perso tutto”",
-      "summary": "“La situazione è davvero catastrofica. Conosciamo molte delle persone colpite, gran parte della popolazione vive nelle tende. Sono persone che hanno perso tutto. Le loro cose sono completamente bagnate. Alcune famiglie avevano trovato riparo in rifugi di fortuna, fatti con qualche lamiera e una tenda, ma hanno perso tutto”. A parlare al Sir è il […] The post Striscia di Gaza: 70mila tende allagate dalla pioggia. Parroco Romanelli: “Una catastrofe, la gente ha perso tutto” first appeared on AgenS",
+      "title": "Сектор Газа: 70 тысяч палаток затоплены дождём. Настоятель Романелли: «Катастрофа, люди потеряли всё»",
+      "summary": "Настоятель Романелли сообщил, что из-за сильных дождей в секторе Газа затоплены 70 тысяч палаток, многие люди потеряли все свои вещи, а некоторые семьи лишились даже временного укрытия из листового металла и палаток.",
       "category": "Мир",
       "source": "Agenzia SIR",
       "url": "https://www.agensir.it/mondo/2026/11/07/striscia-di-gaza-70mila-tende-allagate-dalla-pioggia-parroco-romanelli-una-catastrofe-la-gente-ha-perso-tutto/",
-      "publishedAt": "2026-11-07T18:14:00.000Z"
+      "publishedAt": "2026-11-07T18:14:00.000Z",
+      "importance": 8,
+      "aiProcessed": true
     },
     {
       "id": "https://www.agensir.it/mondo/2026/11/07/leone-xiv-in-argentina-dominguez-fundacion-fiorire-lamore-ha-la-capacita-di-trasformare-una-crisi-in-unopportunita/",
-      "title": "Leone XIV in Argentina. Domínguez (Fundación Fiorire): “L’amore ha la capacità di trasformare una crisi in un’opportunità”",
-      "summary": "Alla vigilia della storica visita di Papa Leone XIV, abbiamo raccolto la testimonianza di Karina Domínguez, direttrice generale e anima della Fundación Fiorire, ispirata dal cammino con sua figlia Chiara. Una realtà che accoglie i bambini con disabilità neuromotorie: “Nelle loro fragilità, la bellezza che cura”. L’attesa per l’arrivo di Papa Leone XIV. Dottoressa Domínguez, […] The post Leone XIV in Argentina. Domínguez (Fundación Fiorire): “L’amore ha la capacità di trasformare una crisi in un’",
-      "category": "Мир",
+      "title": "Лев XIV в Аргентине. Домингес (Фонд Fiorire): «Любовь способна превратить кризис в возможность»",
+      "summary": "Перед историческим визитом Папы Льва XIV Карина Домингес, руководитель фонда Fiorire, рассказала о работе с детьми с невромоторными нарушениями и о том, как любовь помогает преодолевать трудности и находить красоту в уязвимости.",
+      "category": "Ватикан",
       "source": "Agenzia SIR",
       "url": "https://www.agensir.it/mondo/2026/11/07/leone-xiv-in-argentina-dominguez-fundacion-fiorire-lamore-ha-la-capacita-di-trasformare-una-crisi-in-unopportunita/",
-      "publishedAt": "2026-11-07T15:55:41.000Z"
+      "publishedAt": "2026-11-07T15:55:41.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.agensir.it/mondo/2026/11/07/leone-xiv-in-argentina-case-scuole-lavoro-e-inclusione-per-ricostruire-il-tessuto-sociale/",
-      "title": "Leone XIV in Argentina. Case, scuole, lavoro e inclusione per ricostruire il tessuto sociale",
-      "summary": "“Benvenuti tutti, andate e annunciate”. È il motto scelto per la visita di Papa Leone XIV in Argentina, un invito che, come ha spiegato il presidente della Conferenza episcopale argentina, mons. Marcelo Colombo, richiama la necessità di “costruire insieme una nuova umanità” e trova attuazione nell’impegno quotidiano accanto ai più fragili. Casa, inclusione educativa, dipendenze, […] The post Leone XIV in Argentina. Case, scuole, lavoro e inclusione per ricostruire il tessuto sociale first appear",
+      "title": "Папа Лев XIV в Аргентине: дома, школы, работа и инклюзия для восстановления социальной ткани",
+      "summary": "Папа Лев XIV посетил Аргентину с девизом «Добро пожаловать всем, идите и проповедуйте», призывая к совместному строительству нового человечества через поддержку уязвимых, образование и социальную инклюзию.",
       "category": "Мир",
       "source": "Agenzia SIR",
       "url": "https://www.agensir.it/mondo/2026/11/07/leone-xiv-in-argentina-case-scuole-lavoro-e-inclusione-per-ricostruire-il-tessuto-sociale/",
-      "publishedAt": "2026-11-07T15:50:40.000Z"
+      "publishedAt": "2026-11-07T15:50:40.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/africa/news/2026-11/lesotho-catholic-bishops-recommit-to-renewing-the-country-s-pas0.html",
-      "title": "Lesotho: Catholic Bishops recommit to renewing the country’s pastoral ministry to family",
-      "summary": "Lesotho’s Bishop of Qacha’s Nek Diocese and President of the Lesotho Catholic Bishops’ Conference, Bishop Joseph Mopeli Sephamola, has shared with Vatican News plans to renew and reinvigorate Lesotho’s pastoral ministry to family life, especially given the country’s changing realities. Read all",
-      "category": "Ватикан",
+      "title": "Католические епископы Лесото обновляют пастырское служение семье",
+      "summary": "Епископ Йозеф Мопели Сефамола объявил о планах обновить пастырское служение семье в Лесото, учитывая меняющиеся реалии страны и необходимость укрепления семейных ценностей.",
+      "category": "Мир",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/africa/news/2026-11/lesotho-catholic-bishops-recommit-to-renewing-the-country-s-pas0.html",
-      "publishedAt": "2026-11-07T15:48:00.000Z"
+      "publishedAt": "2026-11-07T15:48:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/papal-mass-in-paysandu",
@@ -419,75 +443,91 @@
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-prays-our-lady-rosary-paysandu-uruguay.html",
-      "title": "Pope Leo invites Uruguayan faithful to build bridges for peace",
-      "summary": "In Uruguay, Pope Leo XIV concludes his brief visit to Paysandu with a visit the Cathedral of Our Lady of the Rosary, and encourages Catholics in Uruguay to sow peace in their lives and the world. Read all",
-      "category": "Ватикан",
+      "title": "Папа Лев призывает верующих Уругвая строить мосты мира",
+      "summary": "В Уругвае Папа Лев XIV завершил визит в Пайсанду посещением собора Девы Марии Розария и призвал католиков сеять мир в своей жизни и в мире вокруг.",
+      "category": "Мир",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-prays-our-lady-rosary-paysandu-uruguay.html",
-      "publishedAt": "2026-11-07T15:27:00.000Z"
+      "publishedAt": "2026-11-07T15:27:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-south-latin-america/",
-      "title": "Pope urges faithful in Uruguay to build bridges of fraternity and faith",
-      "summary": "Pope Leo XIV urged an estimated 40,000 people in Uruguay on Saturday to build bridges of fraternity and faith, as he used his first Mass in South America to deliver an ode to the region's beloved mate tea and raise the profile of the Catholic Church in its most secular country. The post Pope urges faithful in Uruguay to build bridges of fraternity and faith appeared first on Crux .",
+      "title": "Папа призывает верующих Уругвая строить мосты братства и веры",
+      "summary": "Папа Лев XIV обратился к 40 тысячам верующих в Уругвае с призывом строить мосты братства и веры, отметив важность региона и роль католической церкви в самой светской стране Южной Америки.",
       "category": "Мир",
       "source": "Crux",
       "url": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-south-latin-america/",
-      "publishedAt": "2026-11-07T15:22:44.000Z"
+      "publishedAt": "2026-11-07T15:22:44.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://cruxnow.com/church-in-the-usa/2026/11/democratic-candidates-with-a-christian-message-help-flip-congress/",
-      "title": "Democratic candidates with a Christian message help flip Congress",
-      "summary": "Clergy members and other Democratic candidates with an unapologetically Christian message to “love your neighbor” helped their party flip control of Congress. The post Democratic candidates with a Christian message help flip Congress appeared first on Crux .",
+      "title": "Демократические кандидаты с христианским посланием помогают изменить состав Конгресса",
+      "summary": "Священнослужители и демократические кандидаты с открытым христианским посланием «люби ближнего» способствовали смене контроля над Конгрессом США в пользу своей партии.",
       "category": "Мир",
       "source": "Crux",
       "url": "https://cruxnow.com/church-in-the-usa/2026/11/democratic-candidates-with-a-christian-message-help-flip-congress/",
-      "publishedAt": "2026-11-07T15:12:58.000Z"
+      "publishedAt": "2026-11-07T15:12:58.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/house-for-pilgrims-inaugurated-in-nicaea-turkey.html",
-      "title": "House for Pilgrims inaugurated in Nicaea, Turkey",
-      "summary": "Archbishop Rino Fisichella, Pro-Prefect of the Dicastery for Evangelization, presided over the ceremony and also consecrated the chapel to which Pope Leo donated a chalice. A marble plaque was installed in the building blessed in November 2025 by Pope Leo XIV during his apostolic journey marking the 1,700th anniversary of the First Ecumenical Council. Read all",
+      "title": "В Турции открыт Дом для паломников в Никеа",
+      "summary": "Архиепископ Рино Фисикелла возглавил церемонию открытия и освятил часовню, в которую Папа Лев XIV пожертвовал чашу. В здании установлена мраморная плита, освящённая Папой в ноябре 2025 года в честь 1700-летия Первого Вселенского Собора.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/house-for-pilgrims-inaugurated-in-nicaea-turkey.html",
-      "publishedAt": "2026-11-07T15:12:00.000Z"
+      "publishedAt": "2026-11-07T15:12:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-leos-south-american-tour-raises-hopes-across-uruguay-argentina-and-peru-2/",
-      "title": "Pope ‘proud to be an American’ after US elections, and credits God and doctors with cancer rebound",
-      "summary": "ABOARD THE PAPAL PLANE — Pope Leo XIV said Friday that he was “proud to be an American and to exercise the right” to vote in U.S. midterm elections that gave control of Congress to the Democrats in a repudiation of U.S. President Donald Trump and his policies. Meeting with journalists en route to Latin […] The post Pope ‘proud to be an American’ after US elections, and credits God and doctors with cancer rebound appeared first on Crux .",
+      "title": "Папа: горжусь быть американцем после выборов в США, благодарю Бога и врачей за выздоровление от рака",
+      "summary": "Папа Лев XIV заявил, что гордится быть американцем и пользоваться правом голоса на промежуточных выборах в США, которые привели к контролю демократов над Конгрессом. Он также поблагодарил Бога и врачей за своё выздоровление от рака.",
       "category": "Мир",
       "source": "Crux",
       "url": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-leos-south-american-tour-raises-hopes-across-uruguay-argentina-and-peru-2/",
-      "publishedAt": "2026-11-07T14:54:36.000Z"
+      "publishedAt": "2026-11-07T14:54:36.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://aleteia.org/2026/11/07/pope-i-am-proud-to-be-an-american/",
-      "title": "Pope: I am proud to be an American",
-      "summary": "Pope Leo XIV spent some 13 hours on a flight to Uruguay on November 6, spending some of the time with the 80 journalists who accompanied him. In greeting them, he introduced Maria Montserrat “Montse” Alvarado, the new Prefect of the Dicastery for Communication. Noting “that many of you already know” her, he praised her “wonderful experience,” “creativity,” “life and liveliness,” saying she would accompany them on the visit and help the Vatican and the Pope “in the very important dimension of com",
-      "category": "Мир",
+      "title": "Папа: я горжусь быть американцем",
+      "summary": "Папа Лев XIV во время перелёта в Уругвай познакомил журналистов с Марией Монсеррат Альварадо, новой префектом Дикастерии по коммуникациям, отметив её опыт и креативность. Она будет сопровождать их и помогать в важной сфере коммуникации Ватикана и Папы.",
+      "category": "Ватикан",
       "source": "Aleteia",
       "url": "https://aleteia.org/2026/11/07/pope-i-am-proud-to-be-an-american/",
-      "publishedAt": "2026-11-07T14:17:09.000Z"
+      "publishedAt": "2026-11-07T14:17:09.000Z",
+      "importance": 5,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/beatification-santander-spain-martyrs-cardinal-semeraro.html",
-      "title": "Cardinal Semeraro: Blessed Santander martyrs show our vocation to holiness",
-      "summary": "Cardinal Marcello Semeraro, Prefect of the Dicastery for the Causes of Saints, presides at the Beatification Mass of the Servants of God Francisco González de Córdova and 79 companions in Santander, Spain, saying holiness is the “common vocation” of every baptized person. Read all",
+      "title": "Кардинал Семераро: блаженные мученики из Сантандера показывают наше призвание к святости",
+      "summary": "Кардинал Марчелло Семераро возглавил мессу беатификации слуг Божьих Франсиско Гонсалеса де Кордовы и 79 спутников в Сантандере, Испания, подчеркнув, что святость — общее призвание каждого крещёного.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/beatification-santander-spain-martyrs-cardinal-semeraro.html",
-      "publishedAt": "2026-11-07T14:06:00.000Z"
+      "publishedAt": "2026-11-07T14:06:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://aleteia.org/2026/11/07/st-dominics-immortal-orange-tree-in-rome/",
-      "title": "St. Dominic’s “immortal” orange tree in Rome",
-      "summary": "It’s a tree surrounded by legends, one that some even consider miraculous. It certainly makes an impression on tourists and pilgrims visiting the Basilica of Santa Sabina on Rome’s Aventine Hill. Only the Dominicans living in the adjoining friary can approach it, but anyone can catch a glimpse through a narrow opening in a wall. There stands an orange tree that seems to defy time. At the beginning of winter, its foliage is thick, and a few still-green oranges promise a bountiful harvest in the c",
-      "category": "Мир",
+      "title": "«Бессмертное» апельсиновое дерево святого Доминика в Риме",
+      "summary": "В базилике Санта Сабина на Авентинском холме растёт апельсиновое дерево, окружённое легендами и считающееся чудесным. К нему имеют доступ только доминиканцы, но туристы могут увидеть его через узкое отверстие в стене. Дерево сохраняет листву и плоды даже в начале зимы.",
+      "category": "Ватикан",
       "source": "Aleteia",
       "url": "https://aleteia.org/2026/11/07/st-dominics-immortal-orange-tree-in-rome/",
-      "publishedAt": "2026-11-07T14:04:08.000Z"
+      "publishedAt": "2026-11-07T14:04:08.000Z",
+      "importance": 4,
+      "aiProcessed": true
     },
     {
       "id": "https://aleteia.org/2026/11/07/unborn-belong-to-human-family-pope-starts-off-s-america-trip-defending-life/",

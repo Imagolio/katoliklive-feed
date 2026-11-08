@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T22:08:20.847Z",
+  "updatedAt": "2026-11-08T22:24:50.880Z",
   "news": [
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-visits-san-martin-monument-argentina.html",
@@ -531,66 +531,80 @@
     },
     {
       "id": "https://aleteia.org/2026/11/07/unborn-belong-to-human-family-pope-starts-off-s-america-trip-defending-life/",
-      "title": "Unborn belong to human family: Pope starts off S. America trip defending life",
-      "summary": "After a flight of more than 13 hours, Pope Leo XIV kicked off his 12-day tour of South America with a busy evening schedule, even as Rome readied for bed. His first address was to Uruguayan authorities and the diplomatic corps, and while the Pope praised the country’s efficiency in moving to clean energy, he was firm in his denunciation of human rights abuses. The Holy Father framed his speech around a piece of art that stands in the capital of Montevideo; it is a monument to Artigas and the his",
+      "title": "Нерожденные принадлежат человеческой семье: Папа начал поездку по Южной Америке защитой жизни",
+      "summary": "Папа Лев XIV после более чем 13-часового перелета начал 12-дневное турне по Южной Америке с обращения к властям Уругвая и дипломатам. Он похвалил страну за переход на чистую энергию и резко осудил нарушения прав человека, опираясь на памятник Артигасу в Монтевидео.",
       "category": "Мир",
       "source": "Aleteia",
       "url": "https://aleteia.org/2026/11/07/unborn-belong-to-human-family-pope-starts-off-s-america-trip-defending-life/",
-      "publishedAt": "2026-11-07T14:03:20.000Z"
+      "publishedAt": "2026-11-07T14:03:20.000Z",
+      "importance": 8,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-in-uruguay-carry-forward-the-mission-of-evangelization.html",
-      "title": "Pope at Mass in Uruguay: ‘Carry forward evangelizing mission with enthusiasm’",
-      "summary": "Celebrating Mass in Paysandu, Pope Leo XIV recalls the many people of faith who came to the Rio de la Plata region, and encourages Uruguayans to \"continue the legacy left to us by these sowers of the Gospel.\" Read all",
-      "category": "Ватикан",
+      "title": "Папа на мессе в Уругвае: «Несите с энтузиазмом миссию евангелизации»",
+      "summary": "Во время мессы в Пайсанду Папа Лев XIV вспомнил верующих, пришедших в регион Рио-де-ла-Плата, и призвал уругвайцев продолжать наследие посланников Евангелия с энтузиазмом.",
+      "category": "Мир",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-in-uruguay-carry-forward-the-mission-of-evangelization.html",
-      "publishedAt": "2026-11-07T14:00:00.000Z"
+      "publishedAt": "2026-11-07T14:00:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/church/news/2026-11/oman-golden-jubilee-saints-peter-paul-catholic-church.html",
-      "title": "Golden Jubilee opens at Oman’s first Catholic church",
-      "summary": "As St. Peter and Paul Church in Muscat, Oman, marks 50 years since its consecration, Bishop Paolo Martinelli, Apostolic Vicar of Southern Arabia, calls on Catholics to deepen their faith and share it with others. Read all",
-      "category": "Ватикан",
+      "title": "Золотой юбилей первой католической церкви Омана",
+      "summary": "Церковь Святых Петра и Павла в Маскате отмечает 50-летие освящения. Апостольский викарий Южной Аравии епископ Паоло Мартинелли призвал католиков укреплять веру и делиться ею с другими.",
+      "category": "Мир",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/church/news/2026-11/oman-golden-jubilee-saints-peter-paul-catholic-church.html",
-      "publishedAt": "2026-11-07T13:35:00.000Z"
+      "publishedAt": "2026-11-07T13:35:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
     },
     {
       "id": "https://aleteia.org/2026/11/07/a-beautiful-way-to-teach-kids-about-jesus-night-light/",
-      "title": "A beautiful way to teach kids about Jesus’ “night light”",
-      "summary": "When we attend Mass on Sundays or visit a Catholic Church, we might see the burning sanctuary lamp and not even take conscious notice. It’s a feature of every Catholic Church that is simply standard, and the more we get used to it, the less we attention we pay to it. Yet, for a child, the sanctuary lamp is a curious thing — a red lamp that is always burning. For many children it is a mystery, which can provide the perfect opportunity to teach them more deeply about Jesus’ presence in the Blessed",
+      "title": "Красивый способ научить детей о «ночном свете» Иисуса",
+      "summary": "Красная лампада, горящая в каждом католическом храме, часто остается незамеченной взрослыми, но для детей она — загадка. Это отличный повод объяснить им присутствие Иисуса в Пресвятых Дарах и углубить их веру.",
       "category": "Мир",
       "source": "Aleteia",
       "url": "https://aleteia.org/2026/11/07/a-beautiful-way-to-teach-kids-about-jesus-night-light/",
-      "publishedAt": "2026-11-07T13:31:50.000Z"
+      "publishedAt": "2026-11-07T13:31:50.000Z",
+      "importance": 3,
+      "aiProcessed": true
     },
     {
       "id": "https://aleteia.org/2026/11/07/leo-xiv-gives-his-1st-address-to-church-in-china/",
-      "title": "Leo XIV gives his 1st address to Church in China",
-      "summary": "Pope Leo XIV called for a Church in China that is fully rooted in its culture while remaining united with Rome, in a video message shown on November 5, 2026, at a conference in Rome marking the centenary of the ordination of the first Chinese bishops of the modern era. It was the first address the Pope has devoted specifically to the Catholic Church in China since his election. The conference, opened by Cardinal Secretary of State Pietro Parolin — the Vatican’s second-highest-ranking official — ",
-      "category": "Мир",
+      "title": "Лев XIV выступил с первым обращением к Церкви в Китае",
+      "summary": "Папа Лев XIV в видеообращении на конференции в Риме призвал китайскую Церковь укореняться в своей культуре и сохранять единство с Римом. Это первое его специальное послание католикам Китая с момента избрания.",
+      "category": "Ватикан",
       "source": "Aleteia",
       "url": "https://aleteia.org/2026/11/07/leo-xiv-gives-his-1st-address-to-church-in-china/",
-      "publishedAt": "2026-11-07T13:30:32.000Z"
+      "publishedAt": "2026-11-07T13:30:32.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://aleteia.org/2026/11/07/healing-from-trauma-a-catholic-approach/",
-      "title": "Healing from trauma: A Catholic approach",
-      "summary": "Our broken world needs the healing only Christ can give. A new book is a valuable resource to understand how to heal from trauma, from a Catholic perspective. Restoring Your Wounded Heart: A Catholic Approach to Healing Trauma is the latest book from Brya Hanan. Through her writing, workshops, and formation work, Hanan seeks to help individuals encounter God in wounded places and rediscover their God-given wholeness. Hanan is a Catholic licensed marriage and family therapist, a certified family ",
+      "title": "Исцеление от травмы: католический подход",
+      "summary": "Мир нуждается в исцелении, которое может дать только Христос. Новая книга Брайи Ханан «Восстановление раненого сердца» помогает понять, как исцелиться от травмы с католической точки зрения, встречая Бога в ранах и обретая целостность.",
       "category": "Мир",
       "source": "Aleteia",
       "url": "https://aleteia.org/2026/11/07/healing-from-trauma-a-catholic-approach/",
-      "publishedAt": "2026-11-07T13:26:46.000Z"
+      "publishedAt": "2026-11-07T13:26:46.000Z",
+      "importance": 5,
+      "aiProcessed": true
     },
     {
       "id": "https://cruxnow.com/2026_pope_in_south_america/2026/11/thousands-pour-into-a-park-in-uruguay-for-pope-leos-first-mass-in-south-america/",
-      "title": "Thousands pour into a park in Uruguay for Pope Leo’s first Mass in South America",
-      "summary": "More than 30,000 people — many from Uruguay but also from neighboring Argentina and Brazil — had registered to attend the Mass in the Parque París Londres, a sprawling green space on the southern edge of Paysandú — a city that no pope has ever visited before. The post Thousands pour into a park in Uruguay for Pope Leo’s first Mass in South America appeared first on Crux .",
+      "title": "Тысячи людей собрались в парке в Уругвае на первую мессу Папы Льва в Южной Америке",
+      "summary": "Более 30 000 человек из Уругвая, Аргентины и Бразилии зарегистрировались на мессу в парке Париж-Лондон в городе Пайсанду, который ранее не посещал ни один папа. Это первая месса Папы Льва в Южной Америке.",
       "category": "Мир",
       "source": "Crux",
       "url": "https://cruxnow.com/2026_pope_in_south_america/2026/11/thousands-pour-into-a-park-in-uruguay-for-pope-leos-first-mass-in-south-america/",
-      "publishedAt": "2026-11-07T13:20:30.000Z"
+      "publishedAt": "2026-11-07T13:20:30.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/whatever-happened-to-dating-new-film-tackles-america-s-relationship-crisis",
@@ -627,75 +641,91 @@
     },
     {
       "id": "https://www.agensir.it/italia/2026/11/07/carceri-ginotta-una-notte-in-cella-per-custodire-volti-e-raccontarli-con-rispetto/",
-      "title": "Carceri. Ginotta: “Una notte in cella per custodire volti e raccontarli con rispetto”",
-      "summary": "Come vive un detenuto? Quali sono i sentimenti che prova? Quanto manca tutto quello di cui si è privati. Alessandro Ginotta, responsabile dell’Ufficio di Comunicazione della Federazione nazionale italiana Società di San Vincenzo De Paoli Odv, caporedattore della rivista “Le Conferenze di Ozanam” e presidente dell’Ucsi Piemonte, ha voluto vivere l’esperienza di dormire in un […] The post Carceri. Ginotta: “Una notte in cella per custodire volti e raccontarli con rispetto” first appeared on AgenSI",
+      "title": "Тюрьмы. Джинотта: «Ночь в камере, чтобы сохранить лица и рассказать о них с уважением»",
+      "summary": "Алессандро Джинотта, глава коммуникационного отдела Федерации общества Святого Винсента де Поля, провёл ночь в тюрьме, чтобы понять чувства заключённых и с уважением рассказать их истории.",
       "category": "Мир",
       "source": "Agenzia SIR",
       "url": "https://www.agensir.it/italia/2026/11/07/carceri-ginotta-una-notte-in-cella-per-custodire-volti-e-raccontarli-con-rispetto/",
-      "publishedAt": "2026-11-07T09:10:25.000Z"
+      "publishedAt": "2026-11-07T09:10:25.000Z",
+      "importance": 5,
+      "aiProcessed": true
     },
     {
       "id": "https://www.agensir.it/italia/2026/11/07/tutela-della-vita-casini-la-cultura-della-vita-e-in-se-stessa-una-cultura-di-pace/",
-      "title": "Tutela della vita. Casini: “La cultura della vita è in sé stessa una cultura di pace”",
-      "summary": "Chiuso in un sacchetto di plastica e lasciato vicino all’altare di una chiesa nel quartiere Magliana di Roma. È solo l’ultimo dei casi riportati dalla cronaca di un bambino abbandonato poche ore dopo la nascita. È per evitare casi come questi che il Movimento per la vita si batte ogni giorno da ormai più di […] The post Tutela della vita. Casini: “La cultura della vita è in sé stessa una cultura di pace” first appeared on AgenSIR .",
-      "category": "Мир",
+      "title": "Защита жизни. Казини: «Культура жизни — это культура мира»",
+      "summary": "В Риме в районе Мальяна ребёнок был найден в пластиковом пакете у алтаря церкви. Движение за жизнь борется с такими случаями, продвигая культуру жизни как основу мира.",
+      "category": "Ватикан",
       "source": "Agenzia SIR",
       "url": "https://www.agensir.it/italia/2026/11/07/tutela-della-vita-casini-la-cultura-della-vita-e-in-se-stessa-una-cultura-di-pace/",
-      "publishedAt": "2026-11-07T09:05:25.000Z"
+      "publishedAt": "2026-11-07T09:05:25.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.agensir.it/europa/2026/11/07/lagarde-bce-cambia-ruolo-e-potra-dire-di-piu/",
-      "title": "Lagarde (Bce) cambia ruolo e potrà dire di più",
-      "summary": "La Bce (Banca centrale europea) ha come primo obiettivo la difesa del valore del denaro. Protegge il potere d’acquisto dell’euro, studia l’evoluzione delle economie e vigila sulla stabilità dei principali istituti bancari del Continente. Non si rivolge direttamente ai piccoli risparmiatori e anche la gestione della presidente uscente, Christine Lagarde, non si è discostata da […] The post Lagarde (Bce) cambia ruolo e potrà dire di più first appeared on AgenSIR .",
+      "title": "Лагард (ЕЦБ) меняет роль и сможет говорить больше",
+      "summary": "Европейский центральный банк защищает стоимость евро и следит за стабильностью банков. Президент ЕЦБ Кристин Лагард меняет роль, что позволит ей активнее высказываться по экономическим вопросам.",
       "category": "Мир",
       "source": "Agenzia SIR",
       "url": "https://www.agensir.it/europa/2026/11/07/lagarde-bce-cambia-ruolo-e-potra-dire-di-piu/",
-      "publishedAt": "2026-11-07T09:00:30.000Z"
+      "publishedAt": "2026-11-07T09:00:30.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/church/news/2026-11/gospel-reflection-thirty-second-sunday-ordinary-time.html",
-      "title": "Lord's Day Reflection: Keep your lamps burning!",
-      "summary": "As the Church celebrates the Thirty-Second Sunday in Ordinary Time, Fr. Luke Gregory, OFM, reflects on the theme: \"Keep your lamps burning!\" Read all",
+      "title": "Размышление о Господнем дне: Держите светильники горящими!",
+      "summary": "В 32-ю неделю по обыденному времени отец Люк Грегори, OFM, размышляет на тему «Держите светильники горящими!» в честь празднования Церковью этого воскресенья.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/church/news/2026-11/gospel-reflection-thirty-second-sunday-ordinary-time.html",
-      "publishedAt": "2026-11-07T09:00:00.000Z"
+      "publishedAt": "2026-11-07T09:00:00.000Z",
+      "importance": 4,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-uruguay-greetings-apostolic-nunciature.html",
-      "title": "Pope Leo calls Uruguay “a country of young people who have faith”",
-      "summary": "Speaking from the balcony of the Apostolic Nunciature in Montevideo, Pope Leo XIV thanks Uruguayans for their welcome on the first day of his Apostolic Journey and greets the young people gathered to greet him. Read all",
+      "title": "Папа Лев называет Уругвай «страной молодых верующих»",
+      "summary": "С балкона Апостольской нунциатуры в Монтевидео Папа Лев XIV благодарит уругвайцев за тёплый приём и приветствует собравшуюся молодёжь в первый день своего Апостольского путешествия.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-uruguay-greetings-apostolic-nunciature.html",
-      "publishedAt": "2026-11-07T01:53:00.000Z"
+      "publishedAt": "2026-11-07T01:53:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-appeals-prayer-fasting-vocations.html",
-      "title": "Pope Leo urges Catholics to pray and fast for vocations",
-      "summary": "As he meets with Uruguay's Bishops, clergy, and religious, Pope Leo XIV urges Catholics in dioceses around the world to pray and fast for vocations to the priesthood and religious life. Read all",
+      "title": "Папа Лев призывает католиков молиться и поститься за призвания",
+      "summary": "Встречаясь с уругвайскими епископами, священниками и монахами, Папа Лев XIV призывает католиков по всему миру молиться и поститься за новые призвания к священству и монашеской жизни.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-appeals-prayer-fasting-vocations.html",
-      "publishedAt": "2026-11-07T01:01:00.000Z"
+      "publishedAt": "2026-11-07T01:01:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-leo-xiv-arrives-in-uruguay-at-start-of-south-american-tour-less-than-a-month-after-lung-surgery/",
-      "title": "Pope Leo XIV arrives in Uruguay at start of South American tour less than a month after lung surgery",
-      "summary": "The 71-year-old pope arrived in Montevideo, Uruguay, Latin America’s most secular country, after a 13 1/2-hour flight from Rome during which he acknowledged “some people” had doubted whether he could make the grueling, 12-day trip at all. The post Pope Leo XIV arrives in Uruguay at start of South American tour less than a month after lung surgery appeared first on Crux .",
-      "category": "Мир",
+      "title": "Папа Лев XIV прибыл в Уругвай в начале турне по Южной Америке менее чем через месяц после операции на лёгких",
+      "summary": "71-летний Папа прибыл в Монтевидео после 13,5-часового перелёта из Рима, отметив, что некоторые сомневались в его способности совершить это изнурительное 12-дневное путешествие.",
+      "category": "Ватикан",
       "source": "Crux",
       "url": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-leo-xiv-arrives-in-uruguay-at-start-of-south-american-tour-less-than-a-month-after-lung-surgery/",
-      "publishedAt": "2026-11-07T00:44:51.000Z"
+      "publishedAt": "2026-11-07T00:44:51.000Z",
+      "importance": 8,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/church/news/2026-11/saints-blesseds-recalled-pope-leo-xiv-uruguay.html",
-      "title": "Treasure of Latin American Church: Saints, blesseds recalled by Pope in Uruguay",
-      "summary": "During his Apostolic Journey to Uruguay, Pope Leo XIV recalls the Saints and Blesseds who helped shape the country’s spiritual heritage, as their holiness was lived in tireless service to those most in need. Read all",
+      "title": "Сокровище Латиноамериканской Церкви: святые и блаженные, упомянутые Папой в Уругвае",
+      "summary": "Во время Апостольского путешествия в Уругвай Папа Лев XIV вспоминает святых и блаженных, которые формировали духовное наследие страны, проявляя святость в служении нуждающимся.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/church/news/2026-11/saints-blesseds-recalled-pope-leo-xiv-uruguay.html",
-      "publishedAt": "2026-11-07T00:00:00.000Z"
+      "publishedAt": "2026-11-07T00:00:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/priest-refuses-to-remove-his-clerical-attire-after-being-told-he-must-to-renew-passport-in",
@@ -710,12 +740,14 @@
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-vespers-montevideo-uruguay-clergy-religious.html",
-      "title": "Pope in Uruguay: 'We are called to return again and again to the Lord'",
-      "summary": "At Vespers in Montevideo, Pope Leo XIV invites Uruguay's Bishops, clergy, and religious to return constantly to Jesus Christ, launching an appeal for the universal Church to pray and fast for vocations. Read all",
+      "title": "Папа в Уругвае: «Мы призваны возвращаться к Господу снова и снова»",
+      "summary": "Во время вечерни в Монтевидео Папа Лев XIV призвал епископов, духовенство и религиозных Уругвая постоянно возвращаться к Иисусу Христу и обратился ко всей Церкви с призывом молиться и поститься за новые призвания.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-vespers-montevideo-uruguay-clergy-religious.html",
-      "publishedAt": "2026-11-06T23:43:00.000Z"
+      "publishedAt": "2026-11-06T23:43:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/nationwide-tax-funded-abortion-is-top-priority-for-democrats-in-next-session",
@@ -730,12 +762,14 @@
     },
     {
       "id": "https://www.vaticannews.va/en/africa/news/2026-11/imbisa-theologians-study-challenges-of-inculturation-in-africa.html",
-      "title": "IMBISA theologians study challenges of inculturation in Africa",
-      "summary": "The pastoral challenges of accompanying those in polygamous situations and the wider question of inculturation in the African Church were at the centre of a gathering of theologians representing the six episcopal conferences that make up the Inter-Regional Meeting of the Bishops of Southern Africa (IMBISA): Angola and São Tomé and Príncipe (CEAST), Lesotho (LCBC), Mozambique (CEM), Namibia (NCBC), South Africa, Botswana, and Eswatini (SACBC), and Zimbabwe (ZCBC). Read all",
-      "category": "Ватикан",
+      "title": "Теологи IMBISA изучают вызовы инкультурации в Африке",
+      "summary": "Теологи из шести епископских конференций Южной Африки обсудили пастырские вызовы сопровождения людей в полиаморных отношениях и вопросы инкультурации в Африканской Церкви.",
+      "category": "Мир",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/africa/news/2026-11/imbisa-theologians-study-challenges-of-inculturation-in-africa.html",
-      "publishedAt": "2026-11-06T23:12:00.000Z"
+      "publishedAt": "2026-11-06T23:12:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/new-film-jimmy-explores-the-untold-story-of-jimmy-stewart-s-wwii-service-and-enduring-faith",
@@ -761,12 +795,14 @@
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-in-uruguay-the-church-offers-jesus-christ.html",
-      "title": "Pope in Uruguay: Church offers Jesus Christ and hope proclaimed by Gospel",
-      "summary": "Pope Leo XIV begins his Apostolic Journey to South America with a discourse on the common good, reflecting on democracy, our duties toward future generations, care for human dignity and for those most in need, and peaceful coexistence. Read all",
+      "title": "Папа в Уругвае: Церковь предлагает Иисуса Христа и надежду Евангелия",
+      "summary": "Папа Лев XIV начал Апостольское путешествие в Южную Америку с размышлений о общем благе, демократии, обязанностях перед будущими поколениями, заботе о человеческом достоинстве и мирном сосуществовании.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-in-uruguay-the-church-offers-jesus-christ.html",
-      "publishedAt": "2026-11-06T21:45:00.000Z"
+      "publishedAt": "2026-11-06T21:45:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/exit-polling-shows-catholics-evenly-split-between-democrats-republicans-in-2026-midterms",
@@ -814,21 +850,25 @@
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-departs-for-apostolic-journey-to-latin-america.html",
-      "title": "Pope Leo begins Apostolic Journey to Uruguay",
-      "summary": "Pope Leo XIV lands in Montevideo, Uruguay, as he begins his 12-day Apostolic Journey to Latin America, marking his sixth international journey since the start of the papacy. Read all",
+      "title": "Папа Лев начинает Апостольское путешествие в Уругвай",
+      "summary": "Папа Лев XIV прибыл в Монтевидео, Уругвай, начав 12-дневное Апостольское путешествие по Латинской Америке — шестое международное путешествие с начала понтификата.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-departs-for-apostolic-journey-to-latin-america.html",
-      "publishedAt": "2026-11-06T19:25:00.000Z"
+      "publishedAt": "2026-11-06T19:25:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-telegrams-flight-rome-montevideo-uruguay.html",
-      "title": "Pope sends prayers for peace to nations on flight to Uruguay",
-      "summary": "During his flight from Rome to Montevideo, Pope Leo XIV sends greetings to the leaders and peoples of Italy, France, Algeria, Mauritania, Senegal, and Brazil as the papal plane flies over their territories. Read all",
+      "title": "Папа посылает молитвы о мире странам во время полёта в Уругвай",
+      "summary": "Во время перелёта из Рима в Монтевидео Папа Лев XIV передал приветствия лидерам и народам Италии, Франции, Алжира, Мавритании, Сенегала и Бразилии, пролетая над их территориями.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-telegrams-flight-rome-montevideo-uruguay.html",
-      "publishedAt": "2026-11-06T19:25:00.000Z"
+      "publishedAt": "2026-11-06T19:25:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-was-confident-south-america-trip-would-go-ahead.html",
@@ -1085,6 +1125,42 @@
       "publishedAt": "2026-11-06T09:58:00.000Z"
     },
     {
+      "id": "https://sib-catholic.ru/v-noyabre-svyateyshiy-otets-molitsya-o-razumnom-rasporyazhenii-bogatstvom/",
+      "title": "В ноябре Святейший Отец молится о разумном распоряжении богатством",
+      "summary": "Всемирная сеть молитвы Святейшего Отца и Департамент коммуникации опубликовали видеоролик в рамках проекта «Молитесь вместе с Папой», в котором Лев XIV возносит прошения на ноябрь 2026 года: «О разумном распоряжении богатством». Епископ Рима возносит молитву: Во имя Отца, и Сына, и Святого Духа. Аминь. Господи жизни, всё, что мы имеем, – от Тебя: плодородная земля, […]",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/v-noyabre-svyateyshiy-otets-molitsya-o-razumnom-rasporyazhenii-bogatstvom/",
+      "publishedAt": "2026-11-06T08:52:43.000Z"
+    },
+    {
+      "id": "https://sib-catholic.ru/pastyirskoe-poslanie-smert-i-vechnaya-zhizn/",
+      "title": "«Смерть и вечная жизнь». Пастырское послание архиереев Преображенской епархии всем верным",
+      "summary": "Дорогие собратья в священническом служении, дорогие монашествующие, дорогие братья и сестры во Христе! Многие из вас видели, вживую или хотя бы на фотографиях или на видео, как выглядят в эти дни кладбища в Польше: везде свечи и светильники. Это показывает, что многие люди помнят о своих усопших и по-настоящему желают им того, что мы говорим […]",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/pastyirskoe-poslanie-smert-i-vechnaya-zhizn/",
+      "publishedAt": "2026-11-06T07:37:52.000Z"
+    },
+    {
+      "id": "https://sib-catholic.ru/apostolskiy-prefekt-ulan-batora-religii-ne-sopernitsyi-a-soyuznitsyi-v-dele-mira/",
+      "title": "Апостольский префект Улан-Батора: религии не соперницы, а союзницы в деле мира",
+      "summary": "«В Монголии небо кажется более реальным, чем земля», — отметил кардинал Джорджо Маренго, апостольский префект Улан-Батора, в интервью ватиканским СМИ. Размышляя о вкладе религий в дело мира, он подчеркнул значение диалога и братства, которые помогают католической общине и буддийскому большинству Монголии строить отношения взаимного уважения. Во время частной аудиенции 26 октября Лев XIV принял кардинала […]",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/apostolskiy-prefekt-ulan-batora-religii-ne-sopernitsyi-a-soyuznitsyi-v-dele-mira/",
+      "publishedAt": "2026-11-06T05:34:30.000Z"
+    },
+    {
+      "id": "https://sib-catholic.ru/diktaturyi-hh-veka-istoricheskiy-fenomen-ili-aktualnyiy-soblazn-simpozium-v-grigorianskom-universitete/",
+      "title": "Диктатуры ХХ века: исторический феномен или актуальный соблазн? Симпозиум в Григорианском университете",
+      "summary": "28 и 29 октября в Папском Григорианском университете проходил международный симпозиум «Святейший Престол перед лицом тоталитарных систем ХХ века. Новые взгляды и исследовательские перспективы». Эту тему подробно раскрыл в своей речи госсекретарь Ватикана кардинал Пьетро Паролин. Подробности сообщает русская служба Vatican News. Соблазн насаждения идеологий существует по сей день: кардинал Паролин пришел к этому заключению, […]",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/diktaturyi-hh-veka-istoricheskiy-fenomen-ili-aktualnyiy-soblazn-simpozium-v-grigorianskom-universitete/",
+      "publishedAt": "2026-11-06T05:22:21.000Z"
+    },
+    {
       "id": "https://www.ewtnnews.com/world/us/catholic-group-praises-california-for-largest-commutation-in-history-as-hundreds-spared",
       "title": "Catholic group praises California for ‘largest commutation in history’ as hundreds spared execution",
       "summary": "California Gov. Gavin Newsom commuted the death sentences of nearly 550 prisoners on the state’s death row on Nov. 5.",
@@ -1247,6 +1323,15 @@
       "publishedAt": "2026-11-05T11:00:00.000Z"
     },
     {
+      "id": "https://sib-catholic.ru/pesn-kotoroy-uzhe-vosemsot-let-k-800-letiyu-perehoda-svyatogo-frantsiska-assizskogo-iz-zemnoy-zhizni-v-vechnuyu/",
+      "title": "«Песнь, которой уже восемьсот лет» (к 800-летию перехода святого Франциска Ассизского из земной жизни в вечную)",
+      "summary": "Эту статью для «Сибирской католической газеты» подготовил в середине нынешнего лета настоятель прихода Непорочного Зачатия Пресвятой Девы Марии в Новосибирске о. Виталий Костюк. Однако из-за большого перерыва в работе нашего издания возможность опубликовать её появилась только теперь. Осенним вечером 1226 года недалеко от Ассизи произошло одно важное событие. В том месте жил с братьями один человек […]",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/pesn-kotoroy-uzhe-vosemsot-let-k-800-letiyu-perehoda-svyatogo-frantsiska-assizskogo-iz-zemnoy-zhizni-v-vechnuyu/",
+      "publishedAt": "2026-11-05T10:16:31.000Z"
+    },
+    {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-conference-church-china-unity-diversity.html",
       "title": "Pope: Safeguard Church's treasure of communion, a source of peace for all",
       "summary": "Pope Leo XIV sends a video message to a conference in Rome exploring the face of the universal Church in China, and encourages Catholics to preserve unity in diversity, not uniformity. Read all",
@@ -1254,6 +1339,15 @@
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-conference-church-china-unity-diversity.html",
       "publishedAt": "2026-11-05T09:40:00.000Z"
+    },
+    {
+      "id": "https://sib-catholic.ru/lyubov-ne-zakanchivaetsya-so-smertyu/",
+      "title": "ЛЮБОВЬ НЕ ЗАКАНЧИВАЕТСЯ СО СМЕРТЬЮ",
+      "summary": "Молитва за усопших принадлежит к многовековой традиции Католической Церкви. Она является выражением веры в вечную жизнь, воскресение мёртвых и общение святых — духовную связь, соединяющую тех, кто совершает земное паломничество, с теми, кто уже отошёл в вечность. Ноябрь — особое время, когда наши мысли и сердца обращаются к Небу — Дому Отца, куда приглашён каждый […]",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/lyubov-ne-zakanchivaetsya-so-smertyu/",
+      "publishedAt": "2026-11-05T09:34:39.000Z"
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-recalls-how-in-christ-life-has-been-redeemed.html",
@@ -1429,6 +1523,15 @@
       "publishedAt": "2026-11-04T09:13:00.000Z"
     },
     {
+      "id": "https://sib-catholic.ru/o-zasedanii-plenarnogo-sobraniya-konferentsii-katolicheskih-episkopov-rossii-vo-vladimire/",
+      "title": "О заседании Пленарного собрания Конференции католических епископов России во Владимире",
+      "summary": "С 21 по 22 октября 2026 года в Паломническом центре им. доктора Гааза во Владимире собралась Конференция католических епископов России в составе: вл. Клеменс Пиккель, правящий епископ Епархии св. Климента в Саратове, председатель; вл. Кирилл Климович, правящий епископ Епархии св. Иосифа в Иркутске, вице-председатель; вл. Иосиф Верт SJ, правящий епископ Преображенской Епархии в Новосибирске; вл. […]",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/o-zasedanii-plenarnogo-sobraniya-konferentsii-katolicheskih-episkopov-rossii-vo-vladimire/",
+      "publishedAt": "2026-11-04T08:04:23.000Z"
+    },
+    {
       "id": "https://www.ewtnnews.com/world/us/2026-election-results-abortion-referendums",
       "title": "Virginia approves pro-abortion referendum",
       "summary": "A referendum to establish a constitutional right to abortion in the Virginia Constitution was adopted.",
@@ -1436,6 +1539,15 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/2026-election-results-abortion-referendums",
       "publishedAt": "2026-11-04T04:32:22.000Z"
+    },
+    {
+      "id": "https://sib-catholic.ru/4-noyabrya-svyatoy-karl-borromeo-episkop-pamyat/",
+      "title": "4 ноября. Святой Карл Борромео, епископ. Память",
+      "summary": "Этот святой замечателен тем, что, с рождения принадлежа к «элите», к богатой итальянской аристократии в век всеобщего и крайнего падения нравов, и рано сделав церковную карьеру благодаря такому явлению, как «непотизм» (назначение Папами на высокие посты своих родственников), он, тем не менее, оказался человеком высочайшей нравственности и по-настоящему выдающимся пастырем, одним из тех, в ком […]",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/4-noyabrya-svyatoy-karl-borromeo-episkop-pamyat/",
+      "publishedAt": "2026-11-04T01:00:27.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/us/u-s-supreme-court-leans-toward-catholic-schools-in-clash-over-pre-k-funding",
@@ -1510,6 +1622,15 @@
       "publishedAt": "2026-11-03T15:16:52.000Z"
     },
     {
+      "id": "https://dscs.ru/archives/14726",
+      "title": "Встреча подростков и молодёжи Средне-Поволжского деканата",
+      "summary": "Маркс, 30 октября – 1 ноября 2026 года Таинство покаяния — путь к святости С 30 октября по 1 ноября в Марксе прошла встреча подростков и молодёжи Средне-Поволжского деканата на тему «Таинство покаяния – путь к святости». Это были дни, наполненные молитвой, радостью, новыми знакомствами и тёплым общением. Во время конференций отец Андрей OFMCap и […]",
+      "category": "Россия",
+      "source": "Епархия Святого Климента в Саратове",
+      "url": "https://dscs.ru/archives/14726",
+      "publishedAt": "2026-11-03T14:10:15.000Z"
+    },
+    {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-young-people-make-room-for-christ-whenever-you-feel-lonely",
       "title": "Pope Leo XIV to young people: Make room for Christ whenever you feel lonely",
       "summary": "The Vatican on Tuesday released the pontiff’s message for the 41st World Youth Day, to be held in Seoul, South Korea, in August 2027.",
@@ -1537,6 +1658,15 @@
       "publishedAt": "2026-11-03T11:00:00.000Z"
     },
     {
+      "id": "https://sib-catholic.ru/vladyika-iosif-prinyal-uchastie-vo-vstreche-religioznyih-liderov-regiona-s-gubernatorom-nso/",
+      "title": "Владыка Иосиф принял участие во встрече религиозных лидеров региона с Губернатором НСО",
+      "summary": "29 октября, в преддверии Дня народного единства, состоялась традиционная встреча Губернатора Новосибирской области Андрея Травникова с представителями основных конфессий региона. В мероприятии принял участие Ординарий Преображенской епархии в Новосибирске епископ Иосиф Верт. Центральной темой разговора стали духовно‑нравственные ценности — фундамент, на котором строится единство многонационального российского общества. Глава региона поблагодарил гостей встречи за их вклад […]",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/vladyika-iosif-prinyal-uchastie-vo-vstreche-religioznyih-liderov-regiona-s-gubernatorom-nso/",
+      "publishedAt": "2026-11-03T10:46:51.000Z"
+    },
+    {
       "id": "https://www.ewtnnews.com/world/us/catholic-conferences-midterms",
       "title": "State-level Catholic conferences prepare the faithful for ballot initiatives",
       "summary": "In some states, bishops’ conferences have taken a clear position on ballot initiatives, urging Catholics to either support or oppose the measures.",
@@ -1544,6 +1674,15 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/catholic-conferences-midterms",
       "publishedAt": "2026-11-02T23:27:52.000Z"
+    },
+    {
+      "id": "https://dscs.ru/archives/14762",
+      "title": "Поминовение всех усопших верных",
+      "summary": "Перед началом Святой Мессы в день Поминовения всех усопших верных Владыка Клеменс сказал: «Этот день характеризуется тишиной, потому что смерть — это тайна»… Боже, смертью Сына Твоего Единородного смерть поправший, упокой души усопших рабов Твоих и прости им всякое прегрешение, ибо Ты Свят, а милосердие Твоё пребывает вовек. Витраж из серии Дела милосердия для тела: […]",
+      "category": "Россия",
+      "source": "Епархия Святого Климента в Саратове",
+      "url": "https://dscs.ru/archives/14762",
+      "publishedAt": "2026-11-02T20:11:25.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-to-return-to-chiclayo-in-peru-and-the-places-that-shaped-his-ministry",
@@ -1600,6 +1739,15 @@
       "publishedAt": "2026-11-02T14:25:41.000Z"
     },
     {
+      "id": "https://dscs.ru/archives/14704",
+      "title": "Светлая память нашим усопшим пастырям",
+      "summary": "Об усопших священнослужителях и монашествующих, дабы они удостоились прощения своих прегрешений и участия в небесной Литургии, — Господу помолимся. 🕯️О. Яцек Фальковский SDB 23.02.1957 — 11.06.2019 (Саратов) 🕯️О. Кассиан Дезор OCD 21.12.1932 — 14.06.2013 (Таганрог) 🕯️О. Иосиф Валабек 16.07.1953 — 16.08.2005 (Саратов, Волгодонск, Анапа) 🕯️О. Томаш Виосна 09.07.1969 — 22.08.2019 (Новочеркасск, Краснодар) 🕯️О. Ежи Круляк […]",
+      "category": "Россия",
+      "source": "Епархия Святого Климента в Саратове",
+      "url": "https://dscs.ru/archives/14704",
+      "publishedAt": "2026-11-02T13:20:20.000Z"
+    },
+    {
       "id": "https://www.ewtnnews.com/world/us/theology-of-the-body-meets-psychology-catholics-seek-healing-through-jpii-s-personalism",
       "title": "Theology of the body meets psychology: Catholics seek healing through JPII’s personalism",
       "summary": "Catholics gathered to explore how St. John Paul II’s understanding of the person can integrate with psychological science to address anxiety and the search for lasting love and healing.",
@@ -1627,6 +1775,15 @@
       "publishedAt": "2026-11-01T22:48:52.000Z"
     },
     {
+      "id": "https://dscs.ru/archives/14682",
+      "title": "Торжество Всех святых",
+      "summary": "Торжество Всех святых — праздник всех, кто уже пребывает с Богом, и напоминание о всеобщем призвании к святости. Святость — это путь, открытый для каждого из нас. Делимся фотографиями из приходов с праздничных богослужений. Саратов. Владыка уделил Крещение Захару Волгоград Тамбов Ульяновск. Бал святых Казань, Торжество всех святых",
+      "category": "Россия",
+      "source": "Епархия Святого Климента в Саратове",
+      "url": "https://dscs.ru/archives/14682",
+      "publishedAt": "2026-11-01T20:09:08.000Z"
+    },
+    {
       "id": "https://cathmos.ru/v-moskve-predstavili-czifrovuyu-ekosistemu-ruskatolik/",
       "title": "В Москве представили цифровую экосистему «Рускатолик»",
       "summary": "В Москве состоялась презентация цифровой экосистемы «Рускатолик», направленной на объединение католической общины и развитие церковных инициатив в цифровом пространстве.",
@@ -1636,6 +1793,15 @@
       "publishedAt": "2026-11-01T17:56:10.000Z",
       "importance": 5,
       "aiProcessed": true
+    },
+    {
+      "id": "https://sib-catholic.ru/na-katolicheskom-kladbishhe-novosibirska-pomyanuli-vseh-usopshih-vernyih-foto-3/",
+      "title": "На католическом кладбище Новосибирска помянули всех усопших верных",
+      "summary": "«Вечный покой даруй им, Господи, и свет вечный да светит им…» 2 ноября, в День поминовения всех усопших верных, принято не только совершать Заупокойные Мессы в храмах, но и молиться в местах захоронений, на кладбищах. Согласно учению Католической Церкви, поминовение усопших предполагает прежде всего заботу о душах, находящихся в чистилище. Ежегодно в этот день духовенство […]",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/na-katolicheskom-kladbishhe-novosibirska-pomyanuli-vseh-usopshih-vernyih-foto-3/",
+      "publishedAt": "2026-11-01T17:38:26.000Z"
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-holiness-is-not-a-privilege-reserved-for-a-few",
@@ -2618,6 +2784,15 @@
       "publishedAt": "2026-10-23T08:05:16.000Z"
     },
     {
+      "id": "https://dscs.ru/archives/14675",
+      "title": "Информационное сообщение о заседании Пленарного собрания Конференции католических епископов России во Владимире (21-22 октября 2026 г.)",
+      "summary": "С 21 по 22 октября 2026 года в Паломническом центре им. доктора Гааза во Владимире собралась Конференция католических епископов России в составе: вл. Клеменс Пиккель, правящий епископ Епархии св. Климента в Саратове, председатель; вл. Кирилл Климович, правящий епископ Епархии св. Иосифа в Иркутске, вице-председатель; вл. Иосиф Верт SJ, правящий епископ Преображенской Епархии в Новосибирске; вл. […]",
+      "category": "Россия",
+      "source": "Епархия Святого Климента в Саратове",
+      "url": "https://dscs.ru/archives/14675",
+      "publishedAt": "2026-10-23T06:41:54.000Z"
+    },
+    {
       "id": "https://www.ewtnnews.com/world/us/vice-president-vance-to-ewtn-we-are-god-s-ambassadors-on-earth",
       "title": "Vice President Vance to EWTN: ‘We are God’s ambassadors on Earth’",
       "summary": "JD Vance spoke with EWTN News anchor Raymond Arroyo in a wide-ranging interview that included politics, immigration, economics, and faith.",
@@ -2778,6 +2953,87 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/5-ways-saint-john-paul-ii-changed-the-catholic-church-forever",
       "publishedAt": "2026-10-22T08:00:00.000Z"
+    },
+    {
+      "id": "https://dscs.ru/archives/14669",
+      "title": "Заседание Конференции католических епископов России во Владимире",
+      "summary": "21–22 октября во Владимире проходит 67-е пленарное заседание Конференции католических епископов России. Участники заседания разместились в паломническом центре, который сочетает традиционное гостеприимство с современными условиями. Первый день заседания, 21 октября, завершился около 17:00. После рабочей встречи семеро епископов отправились в приходской храм. Епископ Клеменс Пиккель возглавил вечернюю Святую Мессу.",
+      "category": "Россия",
+      "source": "Епархия Святого Климента в Саратове",
+      "url": "https://dscs.ru/archives/14669",
+      "publishedAt": "2026-10-21T20:53:00.000Z"
+    },
+    {
+      "id": "https://dscs.ru/archives/14656",
+      "title": "Кафедральный собор в Саратове отметил 26-летие освящения в день Всемирного миссионерского воскресенья",
+      "summary": "18 октября в Кафедральном соборе святых апостолов Петра и Павла в Саратове состоялось литургическое празднование 26-летия его освящения. Годовщина совпала со 100-летием Всемирного миссионерского воскресенья. Фото: Елена Бережнова Перед Литургией приход молился Розарием в намерении мисиий на 5 континентах нашей планеты. Перед каждой тайной была процессия со свечой соответствующего континенту цвета. В этот день мы […]",
+      "category": "Россия",
+      "source": "Епархия Святого Климента в Саратове",
+      "url": "https://dscs.ru/archives/14656",
+      "publishedAt": "2026-10-19T11:43:13.000Z"
+    },
+    {
+      "id": "https://dscs.ru/archives/14646",
+      "title": "В Тамбове отметили 100-летие Всемирного миссионерского дня",
+      "summary": "18 октября католики Тамбова присоединились к празднованию 100-летия Всемирного миссионерского дня. В этот день община особенно молилась о миссии Церкви на пяти континентах и о тех, кто несёт Евангелие людям в разных странах мира. Особым событием стал миссионерский Розарий за пять континентов. Ещё одним ярким моментом стала процессия с флагами стран, из которых родом католики, […]",
+      "category": "Россия",
+      "source": "Епархия Святого Климента в Саратове",
+      "url": "https://dscs.ru/archives/14646",
+      "publishedAt": "2026-10-19T11:32:07.000Z"
+    },
+    {
+      "id": "https://dscs.ru/archives/14641",
+      "title": "Участники межконфессионального молодёжного форума познакомились с католическим приходом в Волгограде",
+      "summary": "В рамках III Регионального межконфессионального молодёжного форума «За мир и согласие» молодые участники посетили католический приход в Волгограде и познакомились с жизнью местной общины. Встреча стала возможностью рассказать о жизни Католической Церкви, её традициях и участии в укреплении взаимопонимания между людьми разных национальностей и вероисповеданий. Знакомство с приходом помогло участникам форума ближе узнать религиозную жизнь […]",
+      "category": "Россия",
+      "source": "Епархия Святого Климента в Саратове",
+      "url": "https://dscs.ru/archives/14641",
+      "publishedAt": "2026-10-19T11:25:12.000Z"
+    },
+    {
+      "id": "https://dscs.ru/archives/14638",
+      "title": "«Едины во Христе, едины в миссии»",
+      "summary": "18 октября 2026 года Католическая Церковь отмечает 100-летие Всемирного миссионерского дня. В послании к юбилею Папа Лев XIV призывает верующих обновить миссионерское рвение, укреплять единство во Христе и вместе свидетельствовать о Божьей любви. Размышляя о словах Иисуса «Да будут все едино» (Ин 17, 21), Святейший Отец подчёркивает, что единство Церкви является источником и плодом миссии. […]",
+      "category": "Россия",
+      "source": "Епархия Святого Климента в Саратове",
+      "url": "https://dscs.ru/archives/14638",
+      "publishedAt": "2026-10-16T07:24:32.000Z"
+    },
+    {
+      "id": "https://dscs.ru/archives/14636",
+      "title": "15 октября 2000 года был освящён наш Кафедральный собор в Саратове",
+      "summary": "В нынешнем году литургическое празднование 26-й годовщины освящения Кафедрального собора в Саратове переносится на воскресенье 18 октября. Кафедральный собор Святых Апостолов Петра и Павла в Саратове — это не только главный храм епархии, но и настоящая книга веры, написанная в камне, стекле и образах. Каждый его элемент — от витражей и рельефов до статуй и […]",
+      "category": "Россия",
+      "source": "Епархия Святого Климента в Саратове",
+      "url": "https://dscs.ru/archives/14636",
+      "publishedAt": "2026-10-15T08:13:40.000Z"
+    },
+    {
+      "id": "https://dscs.ru/archives/14633",
+      "title": "Прихожанка из Оренбурга Янина Никитина отметила 100-летний юбилей",
+      "summary": "9 октября прихожанка из Оренбурга Янина Петровна Никитина отметила столетие. Её жизнь вместила тяжёлые испытания военных лет, долгие годы труда и верность вере. В 1943 году, будучи ещё подростком, Янина Петровна оказалась в нацистском концентрационном лагере. Позже её вместе с другими пленными перевезли на территорию Украины, где она была вынуждена работать на сахарной фабрике. Несмотря […]",
+      "category": "Россия",
+      "source": "Епархия Святого Климента в Саратове",
+      "url": "https://dscs.ru/archives/14633",
+      "publishedAt": "2026-10-10T06:48:46.000Z"
+    },
+    {
+      "id": "https://dscs.ru/archives/14629",
+      "title": "Священники и сёстры Краснодарского деканата встретились в Краснодаре",
+      "summary": "8–9 октября в Краснодаре прошла встреча священников и сестёр Краснодарского деканата. Участники вместе читали Розарий, молились перед Пресвятыми Дарами и совершали Святую Мессу. На конференции говорили об энциклике Папы Льва XIV Magnifica Humanitas, посвящённой достоинству человека в эпоху искусственного интеллекта. Помимо самой энциклики, участники обратились к материалу о. Альфредо Паласиоса, в котором автор прослеживает связь […]",
+      "category": "Россия",
+      "source": "Епархия Святого Климента в Саратове",
+      "url": "https://dscs.ru/archives/14629",
+      "publishedAt": "2026-10-09T10:52:19.000Z"
+    },
+    {
+      "id": "https://dscs.ru/archives/14625",
+      "title": "Епископ Клеменс Пиккель: «Любовь в семье — вопрос срочный»",
+      "summary": "7 октября в Риме началась встреча Папы Льва XIV с главами епископских конференций и Восточных Церквей по случаю 10-летия Послесинодального апостольского обращения Amoris laetitia о любви в семье. Папа пригласил иерархов со всего мира, чтобы, как он сказал в своем вступительном слове, собрать те плоды, которые этот важный документ церковного учительства принес местным Церквами, и […]",
+      "category": "Россия",
+      "source": "Епархия Святого Климента в Саратове",
+      "url": "https://dscs.ru/archives/14625",
+      "publishedAt": "2026-10-09T10:02:59.000Z"
     }
   ]
 }

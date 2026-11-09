@@ -1,6 +1,37 @@
 {
-  "updatedAt": "2026-11-08T22:41:28.585Z",
+  "updatedAt": "2026-11-09T06:36:00.635Z",
   "news": [
+    {
+      "id": "https://sib-catholic.ru/9-noyabrya-godovshhina-osvyashheniya-lateranskoy-baziliki-prazdnik/",
+      "title": "9 ноября — годовщина освящения Латеранской базилики",
+      "summary": "Латеранская базилика, освященная 9 ноября 324 года папой Сильвестром I, является одной из первых христианских церквей после гонений. Этот день стал праздником для всех христиан латинского обряда, выражая почтение к «Матери и Главе всех церквей».",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/9-noyabrya-godovshhina-osvyashheniya-lateranskoy-baziliki-prazdnik/",
+      "publishedAt": "2026-11-09T01:00:58.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/in-argentina-pope-leo-xiv-highlights-social-problems",
+      "title": "In Argentina, Pope Leo XIV highlights social problems",
+      "summary": "The pontiff met with President Javier Milei on his first day in the country.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/in-argentina-pope-leo-xiv-highlights-social-problems",
+      "publishedAt": "2026-11-08T22:57:30.000Z"
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-argentina-address-authorities-civil-society-diploma.html",
+      "title": "Папа призывает лидеров Аргентины ставить общее благо выше политических интересов",
+      "summary": "В обращении к властям Аргентины Папа призвал к служению власти, укреплению демократических институтов, диалогу между политическими силами и экономической политике, не оставляющей никого в стороне.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-argentina-address-authorities-civil-society-diploma.html",
+      "publishedAt": "2026-11-08T22:40:00.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-visits-san-martin-monument-argentina.html",
       "title": "Папа Лев XIV посетил памятник Сан-Мартину в Буэнос-Айресе",
@@ -329,6 +360,17 @@
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-at-uruguay-prayer-vigil-07-november-2026.html",
       "publishedAt": "2026-11-07T23:28:00.000Z",
       "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/08/261108d.html",
+      "title": "Апостольское путешествие Папы Льва XIV в Уругвай, Аргентину и Перу: церемония встречи и визит к президенту Аргентины",
+      "summary": "Папа Лев XIV прибыл в Аргентину, где состоялась официальная церемония встречи и визит к президенту Хавьеру Милей. В программе также встречи с властями, представителями гражданского общества и дипломатическим корпусом.",
+      "category": "Ватикан",
+      "source": "Пресс-служба Святого Престола",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/08/261108d.html",
+      "publishedAt": "2026-11-07T23:27:48.000Z",
+      "importance": 8,
       "aiProcessed": true
     },
     {
@@ -1347,48 +1389,58 @@
     },
     {
       "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-pope-leo-xiv-interview-latin-america-visit.html",
-      "title": "Cardinal Parolin: Pope’s Latin America visit is ‘witness to unity, reconciliation’",
-      "summary": "As Uruguay, Argentina, and Peru await Pope Leo XIV for his 6th Apostolic Journey, Cardinal Secretary of State Pietro Parolin says the encounter with local communities “will be filled with memories, affection, and gratitude.” Read all",
+      "title": "Кардинал Паролин: визит Папы в Латинскую Америку — свидетельство единства и примирения",
+      "summary": "Кардинал Пьетро Паролин отметил, что предстоящая апостольская поездка Папы Льва XIV в Уругвай, Аргентину и Перу станет временем памяти, теплоты и благодарности в общении с местными общинами.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-pope-leo-xiv-interview-latin-america-visit.html",
-      "publishedAt": "2026-11-05T12:00:00.000Z"
+      "publishedAt": "2026-11-05T12:00:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-theme-world-day-sick-2027-caring-for-every-person.html",
-      "title": "Pope chooses theme for 2027 World Day of the Sick",
-      "summary": "Pope Leo XIV announces the theme for the 2027 World Day of the Sick, highlighting the role of Christian communities and civil society in caring for the sick, the elderly, and those who suffer. Read all",
+      "title": "Папа выбрал тему Всемирного дня больного 2027 года",
+      "summary": "Папа Лев XIV объявил тему Всемирного дня больного 2027 года, подчеркнув важность роли христианских общин и гражданского общества в заботе о больных, пожилых и страдающих.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-theme-world-day-sick-2027-caring-for-every-person.html",
-      "publishedAt": "2026-11-05T11:40:00.000Z"
+      "publishedAt": "2026-11-05T11:40:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-us-midterm-elections-china-holy-see-agreement.html",
-      "title": "Cardinal Parolin expresses hopes for cooperation after US midterm elections",
-      "summary": "Cardinal Secretary of State Pietro Parolin speaks to journalists on the sidelines of an event at the Pontifical Urbaniana University and comments on the US midterm elections and the China-Holy See Agreement. Read all",
+      "title": "Кардинал Паролин выразил надежду на сотрудничество после промежуточных выборов в США",
+      "summary": "Кардинал Государственный секретарь Пьетро Паролин в беседе с журналистами на мероприятии в Папском Урбанском университете прокомментировал промежуточные выборы в США и Соглашение между Китаем и Святым Престолом.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-us-midterm-elections-china-holy-see-agreement.html",
-      "publishedAt": "2026-11-05T11:28:00.000Z"
+      "publishedAt": "2026-11-05T11:28:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/pope-appoints-undersecretaries-dicastery-integral-development.html",
-      "title": "Pope appoints two Undersecretaries to Dicastery for Integral Development",
-      "summary": "Pope Leo XIV appoints Jesuit Fr. Avelino Chicoma Bundo Chico and Professor Claudia Leal Luna as Undersecretaries of the Dicastery for Promoting Integral Human Development Read all",
+      "title": "Папа назначил двух заместителей секретарей в Дикастерии по содействию целостному развитию человека",
+      "summary": "Папа Лев XIV назначил иезуита о. Авелино Чикому Бундо Чико и профессора Клаудию Леаль Луну заместителями секретарей Дикастерии по содействию целостному развитию человека.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/pope-appoints-undersecretaries-dicastery-integral-development.html",
-      "publishedAt": "2026-11-05T11:27:00.000Z"
+      "publishedAt": "2026-11-05T11:27:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/a-world-war-ii-mystery-who-dropped-bombs-on-the-vatican-on-nov-5-1943",
-      "title": "A World War II mystery: Who dropped bombs on the Vatican?",
-      "summary": "On Nov. 5, 1943, an unidentified plane dropped bombs on the Vatican — one narrowly missing St. Peter’s Basilica. But who did it and why has it been shrouded in mystery ever since?",
+      "title": "Загадка Второй мировой: кто сбросил бомбы на Ватикан?",
+      "summary": "5 ноября 1943 года неизвестный самолет сбросил бомбы на Ватикан, одна из которых едва не попала в базилику Святого Петра. Причины и исполнители этого события остаются невыясненными до сих пор.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/a-world-war-ii-mystery-who-dropped-bombs-on-the-vatican-on-nov-5-1943",
-      "publishedAt": "2026-11-05T11:00:00.000Z"
+      "publishedAt": "2026-11-05T11:00:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://sib-catholic.ru/pesn-kotoroy-uzhe-vosemsot-let-k-800-letiyu-perehoda-svyatogo-frantsiska-assizskogo-iz-zemnoy-zhizni-v-vechnuyu/",
@@ -1403,12 +1455,14 @@
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-conference-church-china-unity-diversity.html",
-      "title": "Pope: Safeguard Church's treasure of communion, a source of peace for all",
-      "summary": "Pope Leo XIV sends a video message to a conference in Rome exploring the face of the universal Church in China, and encourages Catholics to preserve unity in diversity, not uniformity. Read all",
+      "title": "Папа: Сохраняйте сокровище церковного общения — источник мира для всех",
+      "summary": "Папа Лев XIV в видеообращении к конференции в Риме о лице универсальной Церкви в Китае призвал католиков беречь единство в многообразии, а не стремиться к однородности.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-conference-church-china-unity-diversity.html",
-      "publishedAt": "2026-11-05T09:40:00.000Z"
+      "publishedAt": "2026-11-05T09:40:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://sib-catholic.ru/lyubov-ne-zakanchivaetsya-so-smertyu/",
@@ -1423,12 +1477,14 @@
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-recalls-how-in-christ-life-has-been-redeemed.html",
-      "title": "Pope Leo: In Christ, life has been redeemed",
-      "summary": "Pope Leo XIV celebrates Mass in memory of the Cardinals and Bishops who died over the past year, and invites the faithful to reflect on the mystery of death “without fear,” because praying for the deceased “is to celebrate life.” Read all",
+      "title": "Папа Лев: Во Христе жизнь обретает искупление",
+      "summary": "Папа Лев XIV отслужил Мессу в память кардиналов и епископов, умерших за последний год, и призвал верующих размышлять о тайне смерти без страха, отмечая, что молитва за усопших — это празднование жизни.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-recalls-how-in-christ-life-has-been-redeemed.html",
-      "publishedAt": "2026-11-05T09:26:00.000Z"
+      "publishedAt": "2026-11-05T09:26:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/as-texas-democrats-sweep-statewide-offices-pro-life-and-parents-rights-advocates-voice-concerns",
@@ -1452,12 +1508,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-meets-with-renowned-singer-bob-dylan",
-      "title": "Pope Leo meets with renowned singer Bob Dylan",
-      "summary": "During the meeting, the Holy Father presented Dylan with a rosary.",
+      "title": "Папа Лев встретился с известным певцом Бобом Диланом",
+      "summary": "Во время встречи Святейший Отец подарил Бобу Дилану розарий.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-meets-with-renowned-singer-bob-dylan",
-      "publishedAt": "2026-11-04T20:54:00.000Z"
+      "publishedAt": "2026-11-04T20:54:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/pro-life-groups-bishops-weigh-in-on-election-results",
@@ -1470,12 +1528,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/vatican-publishes-digital-atlas-honoring-pope-francis-ecological-vision",
-      "title": "Vatican publishes digital atlas honoring Pope Francis’ ecological vision",
-      "summary": "The Laudato Si’ Platform launched the map during a press conference at the Holy See Press Office on Wednesday.",
+      "title": "Ватикан опубликовал цифровой атлас, посвященный экологическому видению Папы Франциска",
+      "summary": "Платформа Laudato Si’ представила карту на пресс-конференции в Пресс-службе Святого Престола в среду.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/vatican-publishes-digital-atlas-honoring-pope-francis-ecological-vision",
-      "publishedAt": "2026-11-04T18:48:00.000Z"
+      "publishedAt": "2026-11-04T18:48:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/pope-leo-xiv-appoints-the-youngest-bishop-in-france-at-age-48",
@@ -1488,12 +1548,14 @@
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-receives-bob-dylan-at-the-vatican.html",
-      "title": "Pope Leo receives Bob Dylan at the Vatican",
-      "summary": "The renowned American singer-songwriter and poet—a Nobel laureate in literature, currently touring Italy with a stop in Rome—was received this afternoon at the Apostolic Palace by Leo XIV. The Pontiff had previously quoted his lyrics in the preface to a book on disarmament. Read all",
+      "title": "Папа Лев XIV принял Боба Дилана в Ватикане",
+      "summary": "Известный американский певец, поэт и лауреат Нобелевской премии по литературе, находящийся в туре по Италии, был принят в Апостольском дворце. Папа ранее цитировал его стихи в предисловии к книге о разоружении.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-receives-bob-dylan-at-the-vatican.html",
-      "publishedAt": "2026-11-04T16:38:00.000Z"
+      "publishedAt": "2026-11-04T16:38:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-fire-chaplain-hails-selfless-sacrificial-cleveland-fireman-who-died-in-line-of-duty",
@@ -1506,39 +1568,47 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-encourages-middle-eastern-christians-to-become-servants-of-peace",
-      "title": "Pope Leo XIV encourages Middle Eastern Christians to become ‘servants of peace’",
-      "summary": "The pontiff held a private audience on Wednesday with a delegation from L’Oeuvre d’Orient, which has supported Eastern Christians since 1856.",
+      "title": "Папа Лев XIV призвал христиан Ближнего Востока стать «слугами мира»",
+      "summary": "Понтифик провел частную аудиенцию с делегацией организации L’Oeuvre d’Orient, поддерживающей восточных христиан с 1856 года.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-encourages-middle-eastern-christians-to-become-servants-of-peace",
-      "publishedAt": "2026-11-04T15:05:00.000Z"
+      "publishedAt": "2026-11-04T15:05:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-warns-of-the-dangers-an-unjust-economy-poses-to-world-peace",
-      "title": "Pope Leo XIV warns of the dangers an unjust economy poses to world peace",
-      "summary": "The pontiff highlighted the continuing relevance of the Church’s calls to “commit to eliminating discrimination against the most vulnerable social groups and migrants.”",
+      "title": "Папа Лев XIV предупредил о рисках несправедливой экономики для мирового мира",
+      "summary": "Понтифик подчеркнул актуальность призывов Церкви к устранению дискриминации в отношении уязвимых социальных групп и мигрантов.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-warns-of-the-dangers-an-unjust-economy-poses-to-world-peace",
-      "publishedAt": "2026-11-04T14:20:32.000Z"
+      "publishedAt": "2026-11-04T14:20:32.000Z",
+      "importance": 8,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-receives-president-of-chile-at-the-vatican.html",
-      "title": "Pope Leo receives President of Chile at the Vatican",
-      "summary": "Pope Leo XIV holds an audience with Chilean President José Antonio Kast Rist, who meets afterwards with Archbishop Paul Richard Gallagher to discuss “several matters of common interest at the regional and international levels.” Read all",
+      "title": "Папа Лев XIV принял президента Чили в Ватикане",
+      "summary": "Папа Лев XIV провел аудиенцию с президентом Чили Хосе Антонио Кастом Ристом, который затем встретился с архиепископом Полом Ричардом Галлахером для обсуждения региональных и международных вопросов.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-receives-president-of-chile-at-the-vatican.html",
-      "publishedAt": "2026-11-04T12:48:00.000Z"
+      "publishedAt": "2026-11-04T12:48:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/laudato-si-platform-5-year-report-digital-atlas-press-conference.html",
-      "title": "Laudato Si’ Platform launches Digital Atlas to map Catholic ecological action",
-      "summary": "The Laudato Sì Platform’s fifth annual report highlights growing participation, initiatives led by religious congregations and Catholic communities worldwide, and new tools to strengthen the Church’s commitment to integral ecology. Read all",
+      "title": "Платформа Laudato Si’ запустила цифровой атлас католических экологических инициатив",
+      "summary": "Пятый ежегодный отчет платформы Laudato Si’ отмечает рост участия религиозных конгрегаций и католических общин в экологических проектах и представляет новые инструменты для укрепления приверженности Церкви интегральной экологии.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/laudato-si-platform-5-year-report-digital-atlas-press-conference.html",
-      "publishedAt": "2026-11-04T12:23:00.000Z"
+      "publishedAt": "2026-11-04T12:23:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/abortion-wins-in-3-states-amid-major-democratic-victories-across-u-s",
@@ -1560,39 +1630,47 @@
     },
     {
       "id": "https://www.vaticannews.va/en/church/news/2026-11/pope-leo-s-visit-brings-questions-of-faith-and-ai-to-ucu.html",
-      "title": "Pope Leo’s visit to bring questions of faith and AI to Uruguay's Catholic University",
-      "summary": "At the Catholic University of Uruguay, students and staff are preparing to welcome Pope Leo XIV, as artificial intelligence poses serious risks to the future of education. Read all",
+      "title": "Визит Папы Льва XIV в Уругвай поднимет вопросы веры и искусственного интеллекта",
+      "summary": "В Католическом университете Уругвая готовятся к приему Папы Льва XIV, который обсудит риски, связанные с искусственным интеллектом, и их влияние на будущее образования.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/church/news/2026-11/pope-leo-s-visit-brings-questions-of-faith-and-ai-to-ucu.html",
-      "publishedAt": "2026-11-04T10:09:00.000Z"
+      "publishedAt": "2026-11-04T10:09:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-invites-pray-for-apostolic-journey-to-latin-america.html",
-      "title": "Pope Leo XIV invites the faithful to pray for Apostolic Journey to Latin America",
-      "summary": "During his Wednesday General Audience, Pope Leo asks for prayers for his imminent Apostolic Journey to Uruguay, Argentina, and Peru, and recalls two upcoming beatification celebrations as well as the liturgical memorial of St. Charles Borromeo, a saint who he said teaches us how to be led by Christ in our daily lives. Read all",
+      "title": "Папа Лев XIV призывает молиться за Апостольское путешествие в Латинскую Америку",
+      "summary": "Во время общей аудиенции Папа Лев XIV попросил верующих молиться за его предстоящее Апостольское путешествие в Уругвай, Аргентину и Перу, а также напомнил о предстоящих беатификациях и литургической памяти святого Карла Борромео.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-invites-pray-for-apostolic-journey-to-latin-america.html",
-      "publishedAt": "2026-11-04T09:38:00.000Z"
+      "publishedAt": "2026-11-04T09:38:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-general-audience-social-economic-life-social-doctrine.html",
-      "title": "Pope at Audience: Politics that tends wounds and fights injustice gives hope",
-      "summary": "During the Wednesday General Audience, Pope Leo XIV focuses on how Christians can engage in economic and political life in order to build peace, as he continues his reflection on the 1965 Pastoral Constitution 'Gaudium et Spes.' Read all",
+      "title": "Папа на аудиенции: политика, которая лечит раны и борется с несправедливостью, вселяет надежду",
+      "summary": "Во время общей аудиенции Папа Лев XIV говорил о роли христиан в экономической и политической жизни для построения мира, продолжая размышления над Пастырской конституцией 'Gaudium et Spes' 1965 года.",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-general-audience-social-economic-life-social-doctrine.html",
-      "publishedAt": "2026-11-04T09:30:00.000Z"
+      "publishedAt": "2026-11-04T09:30:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-oeuvre-orient-eastern-christians-audience.html",
-      "title": "Pope: Eastern Christians foster dialogue in search of just peace",
-      "summary": "Meeting with Church foundations that assist Eastern Christians, Pope Leo XIV calls for dialogue between culture and history in search for an “unarmed and disarming peace.” Read all",
+      "title": "Папа: Восточные христиане способствуют диалогу в поисках справедливого мира",
+      "summary": "Папа Лев XIV встретился с церковными фондами, помогающими восточным христианам, и призвал к диалогу между культурой и историей в поисках «невооруженного и разоружающего мира».",
       "category": "Ватикан",
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-oeuvre-orient-eastern-christians-audience.html",
-      "publishedAt": "2026-11-04T09:13:00.000Z"
+      "publishedAt": "2026-11-04T09:13:00.000Z",
+      "importance": 8,
+      "aiProcessed": true
     },
     {
       "id": "https://sib-catholic.ru/o-zasedanii-plenarnogo-sobraniya-konferentsii-katolicheskih-episkopov-rossii-vo-vladimire/",
@@ -1672,12 +1750,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/this-is-pope-leo-xiv-s-prayer-intention-for-the-month-of-november-2026",
-      "title": "This is Pope Leo XIV’s prayer intention for the month of November",
-      "summary": "Pope Leo XIV’s prayer intention for the month of November is for the proper use of wealth.",
+      "title": "Молитвенное намерение Папы Льва XIV на ноябрь — правильное использование богатств",
+      "summary": "Папа Лев XIV в молитвенном намерении на ноябрь призывает к ответственному и справедливому использованию материальных благ.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/this-is-pope-leo-xiv-s-prayer-intention-for-the-month-of-november-2026",
-      "publishedAt": "2026-11-03T19:14:43.000Z"
+      "publishedAt": "2026-11-03T19:14:43.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/7-fascinating-facts-about-st-martin-de-porres-the-first-black-saint-of-the-americas",
@@ -1710,12 +1790,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-young-people-make-room-for-christ-whenever-you-feel-lonely",
-      "title": "Pope Leo XIV to young people: Make room for Christ whenever you feel lonely",
-      "summary": "The Vatican on Tuesday released the pontiff’s message for the 41st World Youth Day, to be held in Seoul, South Korea, in August 2027.",
+      "title": "Папа Лев XIV молодежи: Делайте место для Христа в моменты одиночества",
+      "summary": "Ватикан опубликовал послание Папы Льва XIV к 41-му Всемирному дню молодежи, который пройдет в августе 2027 года в Сеуле, Южная Корея.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-young-people-make-room-for-christ-whenever-you-feel-lonely",
-      "publishedAt": "2026-11-03T13:46:08.000Z"
+      "publishedAt": "2026-11-03T13:46:08.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/pennsylvania-teen-s-witness-of-faith-and-hope-inspires-calls-for-her-canonization",
@@ -1728,12 +1810,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/the-mission-pope-leo-xiv-in-south-america",
-      "title": "The mission: Pope Leo XIV in South America",
-      "summary": "A pontiff returns to the continent that shaped his vocation.",
+      "title": "Миссия: Папа Лев XIV в Южной Америке",
+      "summary": "Папа возвращается на континент, который сформировал его духовное призвание.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/the-mission-pope-leo-xiv-in-south-america",
-      "publishedAt": "2026-11-03T11:00:00.000Z"
+      "publishedAt": "2026-11-03T11:00:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://sib-catholic.ru/vladyika-iosif-prinyal-uchastie-vo-vstreche-religioznyih-liderov-regiona-s-gubernatorom-nso/",
@@ -1777,12 +1861,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-faith-assures-us-that-our-bond-with-the-faithful-departed-has-not-been-broken",
-      "title": "Leo XIV: Faith assures us that ‘our bond with the faithful departed has not been broken’",
-      "summary": "Continuing a tradition begun by St. John Paul II in the late 1970s, Pope Leo XIV visited Rome’s Verano Cemetery on Nov. 2.",
+      "title": "Лев XIV: Вера подтверждает, что связь с усопшими не прервана",
+      "summary": "Продолжая традицию, начатую Иоанном Павлом II, Папа Лев XIV посетил Римское кладбище Верано 2 ноября.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-faith-assures-us-that-our-bond-with-the-faithful-departed-has-not-been-broken",
-      "publishedAt": "2026-11-02T18:47:14.000Z"
+      "publishedAt": "2026-11-02T18:47:14.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/savannah-gives-thanks-for-newly-beatified-georgia-martyrs",
@@ -1813,12 +1899,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/notre-dame-bests-villanova-in-eternal-city-tip-off-basketball-games",
-      "title": "Notre Dame bests Villanova in Eternal City Tip-Off basketball games",
-      "summary": "The Notre Dame men’s and women’s teams emerged victorious in the historic season opener in Rome.",
+      "title": "Команды Нотр-Дама одержали победу в баскетбольных матчах Eternal City Tip-Off в Риме",
+      "summary": "Мужская и женская команды Нотр-Дама выиграли историческое открытие сезона в Риме, обыграв команды Виллановы.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/notre-dame-bests-villanova-in-eternal-city-tip-off-basketball-games",
-      "publishedAt": "2026-11-02T14:25:41.000Z"
+      "publishedAt": "2026-11-02T14:25:41.000Z",
+      "importance": 4,
+      "aiProcessed": true
     },
     {
       "id": "https://dscs.ru/archives/14704",
@@ -1893,12 +1981,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-holiness-is-not-a-privilege-reserved-for-a-few",
-      "title": "Pope Leo XIV: ‘Holiness is not a privilege reserved for a few’",
-      "summary": "The pontiff said the solemnity of All Saints offers a “hope-filled message”: God sees goodness hidden from us and calls every person to holiness.",
+      "title": "Папа Лев XIV: «Святость — не привилегия немногих»",
+      "summary": "Понтифик отметил, что торжество Всех Святых несет обнадеживающее послание: Бог видит скрытое от нас добро и призывает каждого к святости.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-holiness-is-not-a-privilege-reserved-for-a-few",
-      "publishedAt": "2026-11-01T12:41:07.000Z"
+      "publishedAt": "2026-11-01T12:41:07.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/africa/africa-surpasses-europe-in-catholic-population-church-leaders-highlight-missionary-role",
@@ -1949,12 +2039,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-welcomes-thousands-from-notre-dame-villanova-to-vatican",
-      "title": "Pope Leo XIV welcomes thousands from Notre Dame, Villanova to Vatican ahead of historic game",
-      "summary": "The pope met with basketball teams, students, and fans from both universities ahead of Sunday’s Eternal City Tip-Off.",
+      "title": "Папа Лев XIV встретился с участниками баскетбольного матча Нотр-Дам — Вилланова в Ватикане",
+      "summary": "Понтифик принял команды, студентов и болельщиков двух университетов перед воскресным матчем Eternal City Tip-Off в Риме.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-welcomes-thousands-from-notre-dame-villanova-to-vatican",
-      "publishedAt": "2026-10-31T16:00:00.000Z"
+      "publishedAt": "2026-10-31T16:00:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/cardinal-simoni-says-faith-sustained-him-through-death-sentence-for-mass-honoring-president",
@@ -2075,30 +2167,36 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-ai-can-never-be-a-person-its-future-depends-on-our-choices",
-      "title": "Pope Leo XIV: AI can never be a person; its future depends on our choices",
-      "summary": "The pontiff met on Friday with participants in a Vatican AI conference organized by the Pontifical Academy for Life.",
+      "title": "Папа Лев XIV: Искусственный интеллект не может быть личностью; его будущее зависит от наших решений",
+      "summary": "Понтифик встретился с участниками ватиканской конференции по ИИ, организованной Папской академией жизни, и подчеркнул ответственность человека в развитии технологий.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-ai-can-never-be-a-person-its-future-depends-on-our-choices",
-      "publishedAt": "2026-10-30T15:58:00.000Z"
+      "publishedAt": "2026-10-30T15:58:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-modifies-disciplinary-sanctions-for-employees-of-the-roman-curia",
-      "title": "Pope modifies disciplinary sanctions for employees of the Roman Curia",
-      "summary": "The changes were approved by the pontiff on Oct. 19 through a Rescriptum ex Audientia Sanctissimi (“Rescript from the Audience of the Most Holy Father”).",
+      "title": "Папа изменил дисциплинарные санкции для сотрудников Римской курии",
+      "summary": "19 октября понтифик утвердил изменения через Rescriptum ex Audientia Sanctissimi, касающиеся дисциплинарных мер в курии.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-modifies-disciplinary-sanctions-for-employees-of-the-roman-curia",
-      "publishedAt": "2026-10-30T15:18:00.000Z"
+      "publishedAt": "2026-10-30T15:18:00.000Z",
+      "importance": 8,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-appoints-2-new-undersecretaries-to-synod-office",
-      "title": "Pope Leo XIV appoints 2 new undersecretaries to Synod office",
-      "summary": "Jesuit Father Giacomo Costa and Salesian Sister Elena Massimi take on leadership roles following the departure of Sister Nathalie Becquart, who had served as undersecretary since February 2021.",
+      "title": "Папа Лев XIV назначил двух новых заместителей секретаря Синодального офиса",
+      "summary": "Иезуит отец Джакомо Коста и салезианка сестра Елена Массимми заняли руководящие должности после ухода сестры Натали Беккар, которая была заместителем секретаря с февраля 2021 года.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-appoints-2-new-undersecretaries-to-synod-office",
-      "publishedAt": "2026-10-30T14:38:00.000Z"
+      "publishedAt": "2026-10-30T14:38:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/polish-court-convicts-tarnow-bishop-of-failing-to-promptly-report-abuse",
@@ -2194,12 +2292,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/rome-conference-asks-whether-the-church-did-enough-to-resist-totalitarian-regimes",
-      "title": "Rome conference asks whether the Church did enough to resist totalitarian regimes",
-      "summary": "During the conference, Vatican Secretary of State Cardinal Pietro Parolin also warned nations against the temptation to “be like God.”",
+      "title": "В римской конференции обсудили, достаточно ли Церковь сопротивлялась тоталитарным режимам",
+      "summary": "Во время конференции кардинал Пьетро Паролин предупредил страны о соблазне «быть как Бог», призывая к осторожности в отношениях с властью.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/rome-conference-asks-whether-the-church-did-enough-to-resist-totalitarian-regimes",
-      "publishedAt": "2026-10-29T16:08:06.000Z"
+      "publishedAt": "2026-10-29T16:08:06.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/eyewitness-to-train-accident-aftermath-recounts-dying-man-s-final-words-god-is-good",
@@ -2286,21 +2386,25 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/china-vatican-deal-has-imperfections-vatican-s-foreign-minister-says",
-      "title": "China-Vatican deal has imperfections, Vatican’s foreign minister says",
-      "summary": "Archbishop Paul Gallagher acknowledged the agreement’s challenges in a meeting with journalists in Rome.",
+      "title": "Глава Ватиканской дипломатии признал недостатки соглашения с Китаем",
+      "summary": "Архиепископ Пол Галлахер отметил сложности в реализации соглашения с Китаем на встрече с журналистами в Риме.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/china-vatican-deal-has-imperfections-vatican-s-foreign-minister-says",
-      "publishedAt": "2026-10-28T17:50:00.000Z"
+      "publishedAt": "2026-10-28T17:50:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/mercedes-benz-marks-long-history-of-making-cars-for-the-pope",
-      "title": "Mercedes-Benz marks long history of making cars for the pope",
-      "summary": "Pope Leo XIV also met with the executives of the German auto company on Wednesday.",
+      "title": "Mercedes-Benz отметила долгую историю производства автомобилей для Папы",
+      "summary": "Папа Лев XIV также встретился с руководителями немецкой автомобильной компании в среду.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/mercedes-benz-marks-long-history-of-making-cars-for-the-pope",
-      "publishedAt": "2026-10-28T17:10:00.000Z"
+      "publishedAt": "2026-10-28T17:10:00.000Z",
+      "importance": 4,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/kansas-city-priest-pleads-guilty-to-usd160-000-theft-from-parish",
@@ -2313,12 +2417,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/vatican-publishes-pope-leo-s-mass-schedule-from-all-souls-day-to-dec-20",
-      "title": "Vatican publishes Pope Leo’s Mass schedule from All Souls’ Day to Dec. 20",
-      "summary": "The Vatican has not yet confirmed details regarding the liturgical celebrations planned for Christmas.",
+      "title": "Ватикан опубликовал расписание мессы Папы Льва с Дня всех усопших до 20 декабря",
+      "summary": "Ватикан пока не подтвердил детали литургических торжеств, запланированных на Рождество.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/vatican-publishes-pope-leo-s-mass-schedule-from-all-souls-day-to-dec-20",
-      "publishedAt": "2026-10-28T15:45:00.000Z"
+      "publishedAt": "2026-10-28T15:45:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/nordic-bishops-countries-must-weigh-how-many-migrants-they-can-integrate",
@@ -2331,21 +2437,25 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/a-century-after-pius-xi-ordained-6-chinese-bishops-who-chooses-china-s-bishops",
-      "title": "A century after Pius XI ordained 6 Chinese bishops, who chooses China's bishops?",
-      "summary": "Cardinal Stephen Chow welcomed more papal-approved ordinations under the Vatican-China deal; a missionary, scholars, and rights advocates ask how much freedom it has brought.",
+      "title": "Кто выбирает китайских епископов спустя век после рукоположения шести китайских епископов Пием XI?",
+      "summary": "Кардинал Стивен Чоу приветствовал новые рукоположения с одобрением Ватикана в рамках соглашения с Китаем, тогда как миссионеры, ученые и правозащитники обсуждают, насколько это увеличило свободу Церкви в Китае.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/a-century-after-pius-xi-ordained-6-chinese-bishops-who-chooses-china-s-bishops",
-      "publishedAt": "2026-10-28T14:00:00.000Z"
+      "publishedAt": "2026-10-28T14:00:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-live-the-faith-without-hostility-towards-the-world",
-      "title": "Pope Leo XIV: Live the faith without ‘hostility towards the world’",
-      "summary": "The pontiff emphasized that a responsible synthesis between faith and culture is “an essential requirement for bearing witness to the faith.”",
+      "title": "Папа Лев XIV: Живите верой без враждебности к миру",
+      "summary": "Понтифик подчеркнул, что ответственное сочетание веры и культуры является необходимым условием для свидетельства о вере.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-live-the-faith-without-hostility-towards-the-world",
-      "publishedAt": "2026-10-28T13:00:00.000Z"
+      "publishedAt": "2026-10-28T13:00:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/asia-pacific/pro-life-professor-in-australia-takes-adelaide-university-to-federal-court",
@@ -2358,12 +2468,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/under-the-eyes-of-social-media-swiss-guards-learn-to-handle-threats-with-discretion",
-      "title": "Under the eyes of social media, Swiss Guards learn to handle threats with discretion",
-      "summary": "Recruits to the Vatican force go through rigorous physical and mental training in order to protect the pope.",
+      "title": "Под пристальным вниманием соцсетей: швейцарские гвардейцы учатся действовать сдержанно при угрозах",
+      "summary": "Новобранцы Ватиканской гвардии проходят строгую физическую и психологическую подготовку для защиты Папы Римского.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/under-the-eyes-of-social-media-swiss-guards-learn-to-handle-threats-with-discretion",
-      "publishedAt": "2026-10-28T10:00:00.000Z"
+      "publishedAt": "2026-10-28T10:00:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/christian-persecution-worsened-in-55-of-countries-assessed-report-finds",
@@ -2432,12 +2544,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-meet-with-abuse-victims-during-his-trip-to-latin-america",
-      "title": "Pope Leo XIV to meet with abuse victims during his trip to Latin America",
-      "summary": "The pontiff will continue his custom of meeting abuse victims on papal trips during his apostolic journey to Uruguay, Argentina, and Peru.",
+      "title": "Папа Лев XIV встретится с жертвами насилия во время поездки в Латинскую Америку",
+      "summary": "Понтифик продолжит традицию встреч с жертвами насилия во время апостольского путешествия по Уругваю, Аргентине и Перу.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-meet-with-abuse-victims-during-his-trip-to-latin-america",
-      "publishedAt": "2026-10-27T17:05:00.000Z"
+      "publishedAt": "2026-10-27T17:05:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-campus-ministries-eligible-for-lilly-grant-of-up-to-7-5-million",
@@ -2461,12 +2575,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/there-is-no-such-thing-as-a-holy-war-pope-leo-marks-40-years-of-assisi-peace-meeting",
-      "title": "‘There is no such thing as a holy war’: Pope Leo marks 40 years of Assisi peace meeting",
-      "summary": "The pontiff, who canceled his trip to Assisi on medical advice, sent a video message to the meeting on Tuesday.",
+      "title": "Папа Лев XIV: Святой войны не существует — 40 лет Ассизской мирной встрече",
+      "summary": "Понтифик, отменивший поездку в Ассизи по медицинским показаниям, направил видеообращение к участникам встречи.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/there-is-no-such-thing-as-a-holy-war-pope-leo-marks-40-years-of-assisi-peace-meeting",
-      "publishedAt": "2026-10-27T15:29:53.000Z"
+      "publishedAt": "2026-10-27T15:29:53.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/diocese-in-guatemala-investigates-alleged-eucharistic-miracle-involving-host-with-reddish-stains",
@@ -2506,12 +2622,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/for-first-time-in-500-years-pope-and-king-of-england-bestow-religious-titles-on-each-other",
-      "title": "For first time in 500 years, pope and British king bestow religious titles on each other",
-      "summary": "King Charles III was given the title royal confrater and Pope Leo XIV was given the title papal confrater.",
+      "title": "Впервые за 500 лет папа и британский король обменялись религиозными титулами",
+      "summary": "Королю Карлу III присвоили титул королевского брата по религии, а папе Льву XIV — титул папского брата по религии.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/for-first-time-in-500-years-pope-and-king-of-england-bestow-religious-titles-on-each-other",
-      "publishedAt": "2026-10-26T19:34:00.000Z"
+      "publishedAt": "2026-10-26T19:34:00.000Z",
+      "importance": 8,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/archdiocese-of-new-york-will-pay-out-usd800-million-in-sexual-abuse-settlement",
@@ -2524,30 +2642,36 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/leo-xiv-confirms-his-trip-to-uruguay-argentina-peru",
-      "title": "‘It fills me with joy’: Pope Leo XIV confirms his trip to Uruguay, Argentina and Peru",
-      "summary": "The Holy See Press Office confirmed that the Nov. 6-17, 2026 apostolic journey will proceed according to the previously published program.",
+      "title": "Папа Лев XIV подтвердил поездку в Уругвай, Аргентину и Перу",
+      "summary": "Пресс-служба Святого Престола подтвердила, что апостольское путешествие с 6 по 17 ноября 2026 года состоится согласно ранее опубликованной программе.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/leo-xiv-confirms-his-trip-to-uruguay-argentina-peru",
-      "publishedAt": "2026-10-26T17:20:16.000Z"
+      "publishedAt": "2026-10-26T17:20:16.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/vatican-sends-new-humanitarian-mission-to-ukraine-ahead-of-very-harsh-winter",
-      "title": "Vatican sends new humanitarian mission to Ukraine ahead of ‘very harsh winter’",
-      "summary": "Apostolic almoner Archbishop Luis Marín will travel to Kyiv, Zaporizhzhia, Dnipro, and Fastiv, Ukraine, from Oct. 27–30.",
+      "title": "Ватикан направляет новую гуманитарную миссию в Украину перед «очень суровой зимой»",
+      "summary": "Апостольский алмусенар архиепископ Луис Марин посетит Киев, Запорожье, Днепр и Фастов с 27 по 30 октября для оказания помощи.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/vatican-sends-new-humanitarian-mission-to-ukraine-ahead-of-very-harsh-winter",
-      "publishedAt": "2026-10-26T15:20:00.000Z"
+      "publishedAt": "2026-10-26T15:20:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-cultivate-charity-to-heal-our-divisions",
-      "title": "Pope Leo XIV: Cultivate charity to heal our divisions",
-      "summary": "The pontiff held a private audience on Monday with the Sisters of Charity of St. Jeanne-Antide Thouret.",
+      "title": "Папа Лев XIV призвал развивать милосердие для исцеления разделений",
+      "summary": "Понтифик провел частную аудиенцию с сестрами милосердия Святой Жанны-Антид Тюре, подчеркнув важность любви и единства.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-cultivate-charity-to-heal-our-divisions",
-      "publishedAt": "2026-10-26T14:20:00.000Z"
+      "publishedAt": "2026-10-26T14:20:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/polish-bishops-oppose-abortion-bills-name-historian-to-lead-abuse-commission",
@@ -2571,21 +2695,25 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-sends-condolences-on-the-death-of-longtime-church-diplomat-and-cardinal-from-sicily",
-      "title": "Pope Leo sends condolences on the death of longtime Church diplomat and cardinal from Sicily",
-      "summary": "Cardinal Paolo Romeo served in the diplomatic service of the Holy See for nearly four decades before being appointed archbishop of Palermo, Sicily.",
+      "title": "Папа Лев выразил соболезнования в связи с кончиной кардинала и дипломата из Сицилии",
+      "summary": "Кардинал Паоло Ромео почти четыре десятилетия служил в дипломатической службе Святого Престола, затем был назначен архиепископом Палермо.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-sends-condolences-on-the-death-of-longtime-church-diplomat-and-cardinal-from-sicily",
-      "publishedAt": "2026-10-26T12:40:00.000Z"
+      "publishedAt": "2026-10-26T12:40:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-send-message-to-interreligious-prayer-meeting-in-assisi",
-      "title": "Pope Leo XIV to send message to interreligious prayer meeting in Assisi",
-      "summary": "On the advice of his doctors, the pontiff’s participation during the final day of the Oct. 25–27 gathering was canceled.",
+      "title": "Папа Лев XIV направит послание на межрелигиозную молитвенную встречу в Ассизи",
+      "summary": "По совету врачей участие понтифика в заключительном дне встречи 25–27 октября отменено, но он направит послание участникам межрелигиозной молитвы в Ассизи.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-send-message-to-interreligious-prayer-meeting-in-assisi",
-      "publishedAt": "2026-10-26T11:42:21.000Z"
+      "publishedAt": "2026-10-26T11:42:21.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/milwaukee-archbishop-grob-issues-public-apology-over-white-house-meeting",
@@ -2609,12 +2737,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-love-for-neighbor-begins-with-a-personal-relationship-with-god",
-      "title": "Pope Leo XIV: Love for neighbor begins with a personal relationship with God",
-      "summary": "During his Sunday Angelus, the pope reflected on the greatest commandment and called for peace in Yemen and Jordan.",
+      "title": "Папа Лев XIV: Любовь к ближнему начинается с личных отношений с Богом",
+      "summary": "Во время воскресного Ангелуса Папа размышлял о великой заповеди и призвал к миру в Йемене и Иордании.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-love-for-neighbor-begins-with-a-personal-relationship-with-god",
-      "publishedAt": "2026-10-25T12:48:02.000Z"
+      "publishedAt": "2026-10-25T12:48:02.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/africa/rights-group-urges-immediate-release-of-6-christians-detained-over-tiktok-video-in-egypt",
@@ -2728,12 +2858,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/it-s-what-i-m-called-to-do-montse-alvarado-on-her-new-vatican-role",
-      "title": "‘It’s what I’m called to do’: Montse Alvarado on her new Vatican role",
-      "summary": "Montse Alvarado will make history Nov. 1 as the first laywoman to serve as prefect of a dicastery of the Holy See.",
+      "title": "Монсе Альварадо о новой роли в Ватикане: «Это то, к чему меня призвали»",
+      "summary": "1 ноября Монсе Альварадо станет первой мирянкой, возглавившей префектуру дикастерии Святого Престола, что станет историческим событием.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/it-s-what-i-m-called-to-do-montse-alvarado-on-her-new-vatican-role",
-      "publishedAt": "2026-10-24T01:00:00.000Z"
+      "publishedAt": "2026-10-24T01:00:00.000Z",
+      "importance": 8,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/ahead-of-religious-freedom-day-u-s-bishops-call-for-ethical-ai",
@@ -2775,12 +2907,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-increases-lay-appointments-to-international-theology-commission",
-      "title": "Pope Leo XIV increases lay appointments to International Theology Commission",
-      "summary": "The number of women on the commission has increased from five to eight, including five laywomen, raising the total number of lay representatives to eight — double that of the previous term.",
+      "title": "Папа Лев XIV увеличил количество мирян в Международной теологической комиссии",
+      "summary": "Число женщин в комиссии выросло с пяти до восьми, включая пять мирянок, что удвоило общее количество мирян по сравнению с предыдущим составом.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-increases-lay-appointments-to-international-theology-commission",
-      "publishedAt": "2026-10-23T17:49:00.000Z"
+      "publishedAt": "2026-10-23T17:49:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-campus-ministries-eligible-for-lilly-grant-of-up-to-usd7-5-million",
@@ -2793,12 +2927,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-true-justice-is-never-separated-from-truth-and-mercy",
-      "title": "Pope Leo XIV: True justice is never separated ‘from truth and mercy’",
-      "summary": "The pontiff holds a doctorate in canon law, a background that notably shapes his vision of Church governance.",
+      "title": "Папа Лев XIV: Истинная справедливость неотделима от правды и милосердия",
+      "summary": "Понтифик, имеющий докторскую степень по каноническому праву, подчеркивает важность правды и милосердия в управлении Церковью.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-true-justice-is-never-separated-from-truth-and-mercy",
-      "publishedAt": "2026-10-23T16:29:00.000Z"
+      "publishedAt": "2026-10-23T16:29:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-social-scientists-hold-conference-blending-disciplines-and-faith",

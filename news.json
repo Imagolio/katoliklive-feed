@@ -1,6 +1,358 @@
 {
-  "updatedAt": "2026-11-09T06:36:00.635Z",
+  "updatedAt": "2026-11-09T19:51:54.404Z",
   "news": [
+    {
+      "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/09/261109c.html",
+      "title": "Апостольское путешествие Папы Льва XIV в Уругвай, Аргентину и Перу (6–17 ноября 2026) – визит в центр «Pequeño Cottolengo Don Orione de Claypole»",
+      "summary": "Папа Лев XIV посетил сотрудников и жителей центра «Pequeño Cottolengo Don Orione de Claypole» в Аргентине, где его встречали около трех тысяч человек, а по пути следования — около ста тысяч верующих.",
+      "category": "Ватикан",
+      "source": "Пресс-служба Святого Престола",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/09/261109c.html",
+      "publishedAt": "2026-11-09T19:42:48.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/religious-sister-who-fostered-children-with-special-needs-receives-honor",
+      "title": "Религиозная сестра, воспитывающая детей с особыми потребностями, получила почетную награду",
+      "summary": "Сестра Мишель Бисбей из провинции Марии де ла Рош сестер Божественного Провидения в Пенсильвании была отмечена за свою работу в приемной семье.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/religious-sister-who-fostered-children-with-special-needs-receives-honor",
+      "publishedAt": "2026-11-09T17:52:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/09/6-gestures-that-can-help-families-pass-on-the-faith-pope-leo/",
+      "title": "Папа Лев о шести жестах, помогающих семьям передавать веру",
+      "summary": "Папа Лев во время мессы в Буэнос-Айресе, собравшей около 2,5 млн человек, отметил праздник посвящения собора Святого Иоанна Латеранского и его символическое значение для единства Церкви.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/09/6-gestures-that-can-help-families-pass-on-the-faith-pope-leo/",
+      "publishedAt": "2026-11-09T17:38:37.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://cruxnow.com/bioethics/2026/11/french-bishops-tell-catholic-healthcare-institutions-to-prepare-to-refuse-assisted-suicide/",
+      "title": "Французские епископы призывают католические медучреждения готовиться к отказу от участия в эвтаназии",
+      "summary": "Французские епископы направили письмо католическим медицинским учреждениям с призывом подготовиться к использованию права отказываться от участия в ассистированном суициде и эвтаназии на законных основаниях.",
+      "category": "Мир",
+      "source": "Crux",
+      "url": "https://cruxnow.com/bioethics/2026/11/french-bishops-tell-catholic-healthcare-institutions-to-prepare-to-refuse-assisted-suicide/",
+      "publishedAt": "2026-11-09T17:21:34.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-praises-the-christian-family-s-contributions-to-argentina",
+      "title": "Папа Лев XIV высоко оценил вклад христианских семей в Аргентине",
+      "summary": "Понтифик отслужил мессу для примерно 2,5 миллионов человек, подчеркнув важность роли христианских семей в жизни страны.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-praises-the-christian-family-s-contributions-to-argentina",
+      "publishedAt": "2026-11-09T17:12:39.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/vatican-s-highest-appeals-court-criticizes-publishing-lists-of-credibly-accused-clerics",
+      "title": "Высший апелляционный суд Ватикана критикует публикацию списков «достоверно обвиняемых» священников",
+      "summary": "Трибунал Римской Роты, аналог Верховного суда Церкви, в решении по делу о клевете выразил критику в адрес публикации списков священников, обвиненных в преступлениях.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/vatican-s-highest-appeals-court-criticizes-publishing-lists-of-credibly-accused-clerics",
+      "publishedAt": "2026-11-09T16:25:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/09/261109d.html",
+      "title": "Апостольское путешествие Папы Льва XIV в Уругвай, Аргентину и Перу (6–17 ноября 2026) – Святую Мессу на «Monumento de los Españoles»",
+      "summary": "Папа Лев XIV возглавил Святую Мессу на «Monumento de los Españoles» в Аргентине, в которой приняли участие около двух с половиной миллионов верующих, сопровождая литургию объездом среди народа на открытом автомобиле.",
+      "category": "Ватикан",
+      "source": "Пресс-служба Святого Престола",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/09/261109d.html",
+      "publishedAt": "2026-11-09T15:49:33.000Z",
+      "importance": 9,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/vatican-calls-church-to-recognize-the-human-dignity-faith-and-hardships-of-fishers",
+      "title": "Ватикан призывает Церковь признать человеческое достоинство, веру и трудности рыбаков",
+      "summary": "В послании к Всемирному дню рыболовства Ватикан связывает исторические испытания морских работников с вечными духовными истинами и призывает Церковь поддерживать рыбаков.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/vatican-calls-church-to-recognize-the-human-dignity-faith-and-hardships-of-fishers",
+      "publishedAt": "2026-11-09T15:45:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-at-mass-christian-family-remains-a-pillar-amid-insecurity.html",
+      "title": "Папа на мессе: христианская семья остается опорой в условиях нестабильности",
+      "summary": "На мессе в Буэнос-Айресе в праздник посвящения собора Святого Иоанна Латеранского Папа Лев XIV подчеркнул образ храма как знака единства и выделил христианскую семью как источник подлинного обновления.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-at-mass-christian-family-remains-a-pillar-amid-insecurity.html",
+      "publishedAt": "2026-11-09T15:20:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/restoration-to-begin-on-pauline-chapel-in-basilica-of-mary-major-in-rome",
+      "title": "Начнется реставрация важной часовни Марианской базилики в Риме",
+      "summary": "Работы в барочной часовне, где хранится древняя икона «Salus Populi Romani», начнутся 16 ноября. Это важный этап сохранения культурного и духовного наследия базилики.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/restoration-to-begin-on-pauline-chapel-in-basilica-of-mary-major-in-rome",
+      "publishedAt": "2026-11-09T15:05:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/09/world-series-winners-go-beyond-the-field-to-share-joy-faith/",
+      "title": "Победители Мировой серии делятся радостью и верой за пределами спорта",
+      "summary": "В Милуоки состоялась благодарственная месса по случаю победы в Мировой серии, которую возглавил епископ Джеффри Хейнс, собравшая множество болельщиков и подчеркнувшая единство через спорт и веру.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/09/world-series-winners-go-beyond-the-field-to-share-joy-faith/",
+      "publishedAt": "2026-11-09T13:15:25.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-visits-don-orione-cottolengo-in-argentina.html",
+      "title": "Папа в Аргентине: «Пусть любовь Христа победит индивидуализм и исключение»",
+      "summary": "Во время визита в центр помощи Дон Орионе Папа Лев призвал к торжеству любви Христа над индивидуализмом и исключением, напомнив, что «милосердие спасет мир», поскольку «Бог есть любовь».",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-visits-don-orione-cottolengo-in-argentina.html",
+      "publishedAt": "2026-11-09T13:06:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/09/australias-incredible-solution-to-catholic-school-renewal/",
+      "title": "Уникальное решение Австралии для обновления католических школ",
+      "summary": "В Австралии обсуждается проблема «католических школ по названию» и предлагаются пути их обновления, чтобы вернуть религиозное воспитание и укрепить веру в образовательных учреждениях.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/09/australias-incredible-solution-to-catholic-school-renewal/",
+      "publishedAt": "2026-11-09T12:49:54.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/09/a-hobbit-and-a-benedictine-monk-walk-into-a-half-marathon/",
+      "title": "Хоббит и бенедиктинский монах пробежали полумарафон",
+      "summary": "Автор размышляет о красоте монотонности в повседневной жизни — постоянстве, требующем ежедневного присутствия без необходимости доказывать что-либо. Недавно он завершил полумарафон Mitja Marató Costa Barcelona Maresme — 21 км вдоль побережья Каталонии.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/09/a-hobbit-and-a-benedictine-monk-walk-into-a-half-marathon/",
+      "publishedAt": "2026-11-09T12:37:26.000Z",
+      "importance": 3,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/09/philippines-12-hours-of-the-rosary-on-december-12/",
+      "title": "Филиппины: 12 часов молитвы Розария 12 декабря",
+      "summary": "С 13 июня 2026 года по 12 декабря в Маниле проходит шестимесячное паломничество копии образа Девы Гваделупской из Мексики. Оно приурочено к подготовке к 500-летию явления Девы Марии святому Хуану Диего в 2031 году.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/09/philippines-12-hours-of-the-rosary-on-december-12/",
+      "publishedAt": "2026-11-09T12:34:15.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/09/leo-in-francis-land-offers-reflection-on-personal-and-national-history/",
+      "title": "Папа Лев в Аргентине размышляет о личной и национальной истории",
+      "summary": "Во время визита в Аргентину Папа Лев в своей первой речи упомянул Папу Франциска и обратился к политическим властям и дипломатам, затрагивая важные вопросы, связанные с наследием своего предшественника и актуальными проблемами страны.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/09/leo-in-francis-land-offers-reflection-on-personal-and-national-history/",
+      "publishedAt": "2026-11-09T12:31:14.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/09/261109b.html",
+      "title": "Послание префекта Дикастерии по содействию целостному развитию человека к Всемирному дню рыболовства",
+      "summary": "Префект сестра Алессандра Смерилли в послании к Всемирному дню рыболовства размышляет о словах Петра и призывает к надежде и доверию, несмотря на испытания и пустые сети.",
+      "category": "Ватикан",
+      "source": "Пресс-служба Святого Престола",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/09/261109b.html",
+      "publishedAt": "2026-11-09T12:23:09.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/09/261109a.html",
+      "title": "Отставки и назначения: новый архиепископ Давао на Филиппинах",
+      "summary": "Папа принял отставку архиепископа Ромуло Валлеса и назначил новым митрополитом Давао епископа Абеля Кахилеса Апико, переведенного из епархии Мати. Краткая биография нового архиепископа прилагается.",
+      "category": "Ватикан",
+      "source": "Пресс-служба Святого Престола",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/09/261109a.html",
+      "publishedAt": "2026-11-09T12:12:28.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/09/if-your-child-has-left-the-faith-dont-miss-this-homily-from-pope-leo/",
+      "title": "Если ваш ребенок отошел от веры, не пропустите проповедь Папы Льва",
+      "summary": "Папа Лев завершил первый этап своего 12-дневного турне по Южной Америке, отслужив мессу в Уругвае в праздник покровительницы страны — Девы Тридцати Трех. В проповеди он говорил о вызовах для семейной жизни и роли женщин в передаче веры.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/09/if-your-child-has-left-the-faith-dont-miss-this-homily-from-pope-leo/",
+      "publishedAt": "2026-11-09T12:11:33.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://dscs.ru/archives/14790",
+      "title": "Владыка Клеменс посетил приходы Туапсе и Сочи",
+      "summary": "7-8 ноября Владыка Клеменс совершил пастырский визит в приходы Туапсе и Сочи, встретившись с прихожанами церквей Святых Апостолов Петра и Павла и Святых Апостолов Симона и Иуды Фаддея.",
+      "category": "Россия",
+      "source": "Епархия Святого Климента в Саратове",
+      "url": "https://dscs.ru/archives/14790",
+      "publishedAt": "2026-11-09T12:03:14.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-arrives-in-argentina-and-tells-milei-that-people-not-the-economy-should-come-first/",
+      "title": "Папа прибыл в Аргентину и заявил Милеи, что люди важнее экономики",
+      "summary": "Визит Папы Льва в Аргентину — самый политически сложный из трех стран его турне по Южной Америке. Он также столкнется с наследием Папы Франциска, который не возвращался на родину за 12 лет понтификата.",
+      "category": "Мир",
+      "source": "Crux",
+      "url": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-arrives-in-argentina-and-tells-milei-that-people-not-the-economy-should-come-first/",
+      "publishedAt": "2026-11-09T12:02:23.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/09/new-reveal-pope-leo-shares-that-his-family-loved-st-therese/",
+      "title": "Папа Лев рассказал о любви своей семьи к святой Терезе",
+      "summary": "Во время поездки в Южную Америку, завершая пребывание в Уругвае, Папа Лев спонтанно поделился подробностью о духовной жизни семьи Прево, посетив приход святой Терезы в Хуанико, первом приходе, посвященном этой святой в стране.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/09/new-reveal-pope-leo-shares-that-his-family-loved-st-therese/",
+      "publishedAt": "2026-11-09T11:54:50.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/09/the-hidden-spiritual-truth-behind-the-feast-of-st-john-lateran/",
+      "title": "Духовный смысл праздника посвящения собора Святого Иоанна Латеранского",
+      "summary": "Католическая Церковь ежегодно отмечает праздник посвящения собора Святого Иоанна Латеранского — кафедрального храма епископа Рима. Этот праздник раскрывает глубокую духовную истину, важную для верующих по всему миру.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/09/the-hidden-spiritual-truth-behind-the-feast-of-st-john-lateran/",
+      "publishedAt": "2026-11-09T11:31:05.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.agensir.it/chiesa/2026/11/09/don-giardina-cei-non-bisogna-abbassare-o-impoverire-la-liturgia-per-renderla-accattivante-e-comprensibile/",
+      "title": "Дон Джардина (CEI): «Не следует упрощать литургию ради ее привлекательности и понятности»",
+      "summary": "Директор национального литургического управления Итальянской епископской конференции Дон Джардина высказался о важности сохранения глубины литургии, обсуждая вопросы молодежи, отсутствия священника на службах, инвалидности и онлайн-трансляций.",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/chiesa/2026/11/09/don-giardina-cei-non-bisogna-abbassare-o-impoverire-la-liturgia-per-renderla-accattivante-e-comprensibile/",
+      "publishedAt": "2026-11-09T11:17:10.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.agensir.it/europa/2026/11/09/futuro-del-lavoro-nellue-la-comece-presenta-16-raccomandazioni-su-intelligenza-artificiale-salari-e-diritti-dei-lavoratori/",
+      "title": "Будущее труда в ЕС: Комиссия Епископских Конференций представила 16 рекомендаций по ИИ, зарплатам и правам работников",
+      "summary": "Епископы Европейского союза опубликовали документ с рекомендациями, направленными на создание справедливой и устойчивой экономики, которая ставит достоинство человека в центр, учитывая влияние искусственного интеллекта и защиту прав работников.",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/europa/2026/11/09/futuro-del-lavoro-nellue-la-comece-presenta-16-raccomandazioni-su-intelligenza-artificiale-salari-e-diritti-dei-lavoratori/",
+      "publishedAt": "2026-11-09T11:17:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/europe/a-tour-of-the-marian-and-eucharistic-soul-of-the-toledo-cathedral-as-it-turns-800",
+      "title": "800-летие Толедского собора: экскурсия по его марийскому и евхаристическому центру",
+      "summary": "Декан Толедского собора рассказал о духовном значении марийского и евхаристического центра собора, который отмечает юбилей 800-летия начала строительства.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/europe/a-tour-of-the-marian-and-eucharistic-soul-of-the-toledo-cathedral-as-it-turns-800",
+      "publishedAt": "2026-11-09T11:00:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.agensir.it/europa/2026/11/09/poland-in-mourning-after-the-krakow-shooting-leo-xiv-message-close-to-the-families-affected/",
+      "title": "Польша в трауре после стрельбы в Кракове. Послание Льва XIV: «Рядом с пострадавшими семьями»",
+      "summary": "Польша чтит память жертв массовой стрельбы в Кракове. Во второй день национального траура страна продолжает осмысливать трагедию, унесшую жизни шести человек и ранившую многих. Католическая Церковь выражает солидарность и поддержку семьям.",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/europa/2026/11/09/poland-in-mourning-after-the-krakow-shooting-leo-xiv-message-close-to-the-families-affected/",
+      "publishedAt": "2026-11-09T09:00:08.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.agensir.it/europa/2026/11/09/polonia-in-lutto-per-la-strage-di-cracovia-il-messaggio-di-leone-xiv-vicini-alle-famiglie-colpite/",
+      "title": "Польша в трауре после стрельбы в Кракове. Послание Льва XIV: «Рядом с пострадавшими семьями»",
+      "summary": "Польша остановилась, чтобы почтить память жертв стрельбы в Кракове. Во второй день национального траура страна продолжает переживать трагедию, унесшую шесть жизней и ранившую многих. Католическая Церковь выражает поддержку и близость к семьям пострадавших.",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/europa/2026/11/09/polonia-in-lutto-per-la-strage-di-cracovia-il-messaggio-di-leone-xiv-vicini-alle-famiglie-colpite/",
+      "publishedAt": "2026-11-09T09:00:08.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.agensir.it/chiesa/2026/11/09/leone-xiv-in-argentina-oggi-al-cottolengo-don-orione-di-claypole-p-silanes-una-visita-nel-segno-della-vicinanza-ai-piu-fragili/",
+      "title": "Лев XIV в Аргентине посетил центр Коттоленго Дон Орионе в Клейполе. Отец Силанес: «Визит как знак поддержки самых уязвимых»",
+      "summary": "Папа Лев XIV посетил исторический приют Коттоленго Дон Орионе в пригороде Буэнос-Айреса, основанный святым Луиджи Орионе. Директор центра отец Хорхе Давид Силанес отметил, что визит является важным знаком близости Церкви к нуждающимся.",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/chiesa/2026/11/09/leone-xiv-in-argentina-oggi-al-cottolengo-don-orione-di-claypole-p-silanes-una-visita-nel-segno-della-vicinanza-ai-piu-fragili/",
+      "publishedAt": "2026-11-09T08:35:29.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.agensir.it/mondo/2026/11/09/papa-argentina-colombo-invito-speranza-costruire-insieme/",
+      "title": "Лев XIV в Аргентине. Монсеньор Коломбо: «Призыв к надежде и совместному строительству общины»",
+      "summary": "Визит Папы Льва XIV в Аргентину с 8 по 11 ноября с нетерпением ждали верующие. Монсеньор Коломбо подчеркнул, что приезд Святейшего Отца — это приглашение к надежде и укреплению церковной общины в стране.",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/mondo/2026/11/09/papa-argentina-colombo-invito-speranza-costruire-insieme/",
+      "publishedAt": "2026-11-09T08:30:27.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.agensir.it/italia/2026/11/09/cyberattacchi-bertolotti-start-insight-non-e-terrorismo-e-guerra-ibrida-e-leuropa-e-impreparata/",
+      "title": "Кибератаки: Бертолотти (Start Insight): «Это не терроризм, а гибридная война. Европа не готова»",
+      "summary": "Кибератаки на стратегические объекты, ложные тревоги и саботаж — все это свидетельствует о гибридной войне, в которой смешиваются криминал, разведка и конфликт. По мнению Клаудио Бертолотти, Европа недостаточно подготовлена к таким угрозам.",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/italia/2026/11/09/cyberattacchi-bertolotti-start-insight-non-e-terrorismo-e-guerra-ibrida-e-leuropa-e-impreparata/",
+      "publishedAt": "2026-11-09T08:25:43.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/church/news/2026-11/argentina-claypole-don-orione-center-cottolengo.html",
+      "title": "Папа Лев XIV посетит центр Дон Орионе в Клейпуле",
+      "summary": "Перед визитом Папы Льва XIV в центр Дон Орионе в Аргентине менеджер по коммуникациям центра выразил радость от предстоящего приема понтифика в учреждении, помогающем людям с инвалидностью.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/church/news/2026-11/argentina-claypole-don-orione-center-cottolengo.html",
+      "publishedAt": "2026-11-09T06:06:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
     {
       "id": "https://sib-catholic.ru/9-noyabrya-godovshhina-osvyashheniya-lateranskoy-baziliki-prazdnik/",
       "title": "9 ноября — годовщина освящения Латеранской базилики",
@@ -14,12 +366,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/in-argentina-pope-leo-xiv-highlights-social-problems",
-      "title": "In Argentina, Pope Leo XIV highlights social problems",
-      "summary": "The pontiff met with President Javier Milei on his first day in the country.",
+      "title": "В Аргентине Папа Лев XIV подчеркнул социальные проблемы",
+      "summary": "Понтифик встретился с президентом Хавьером Милей в первый день своего пребывания в стране, обсудив актуальные социальные вопросы.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/in-argentina-pope-leo-xiv-highlights-social-problems",
-      "publishedAt": "2026-11-08T22:57:30.000Z"
+      "publishedAt": "2026-11-08T22:57:30.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-argentina-address-authorities-civil-society-diploma.html",
@@ -176,6 +530,17 @@
       "aiProcessed": true
     },
     {
+      "id": "https://www.agensir.it/chiesa/2026/11/08/pope-in-uruguay-we-must-set-out-on-the-journey-towards-those-who-have-strayed/",
+      "title": "Папа в Уругвае: необходимо «отправиться в путь» к заблудшим",
+      "summary": "Шестая международная апостольская поездка Папы Льва XIV началась с многотысячных собраний в Уругвае — первом из трех стран визита, включающего также Аргентину и Перу.",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/chiesa/2026/11/08/pope-in-uruguay-we-must-set-out-on-the-journey-towards-those-who-have-strayed/",
+      "publishedAt": "2026-11-08T14:21:00.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
       "id": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-wraps-up-uruguay-visit-and-heads-to-most-fraught-stop-of-his-tour-in-mileis-argentina/",
       "title": "Папа завершил визит в Уругвай и направился в Аргентину, где ситуация сложнее",
       "summary": "Тысячи людей собрались на главной площади Флориды перед мессой под ясным небом, некоторые шли несколько километров, чтобы принять участие в мероприятии перед отъездом Папы в Аргентину — самый напряжённый этап его турне.",
@@ -314,6 +679,17 @@
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/polish-bishops-call-for-prayer-after-gunman-kills-6-in-krakow-s-historic-square",
+      "publishedAt": "2026-11-08T07:32:52.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/europe/polish-bishops-call-for-prayer-after-gunman-kills-6-in-krakow-s-historic-square",
+      "title": "Польские епископы призвали к молитве после убийства шести человек в Кракове",
+      "summary": "Кардинал Гжегож Рысь пригласил жителей Кракова на Мессу в базилике Святой Марии в память о жертвах стрельбы на Главной рыночной площади города.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/europe/polish-bishops-call-for-prayer-after-gunman-kills-6-in-krakow-s-historic-square",
       "publishedAt": "2026-11-08T07:32:52.000Z",
       "importance": 7,
       "aiProcessed": true
@@ -1145,39 +1521,47 @@
     },
     {
       "id": "https://aleteia.org/2026/11/06/this-couples-love-story-has-a-very-catholic-plot-twist/",
-      "title": "This couple’s love story has a very Catholic plot twist",
-      "summary": "If there’s one thing romantic comedies have taught us, it’s that love can make fools of even the most rational people. And if Hallmark movies are anything to go by, the chances of finding your soulmate increase dramatically when there’s snow on the ground, Christmas lights twinkling, and a suspiciously handsome stranger, who’s often the black sheep of the family, lurking in the local coffee shop. But occasionally, real life delivers a romantic plot twist that even Hollywood might consider a litt",
+      "title": "История любви с католическим поворотом сюжета",
+      "summary": "Реальная история любви, которая могла бы стать сценарием романтической комедии с рождественской атмосферой и неожиданным католическим поворотом.",
       "category": "Мир",
       "source": "Aleteia",
       "url": "https://aleteia.org/2026/11/06/this-couples-love-story-has-a-very-catholic-plot-twist/",
-      "publishedAt": "2026-11-06T12:13:59.000Z"
+      "publishedAt": "2026-11-06T12:13:59.000Z",
+      "importance": 3,
+      "aiProcessed": true
     },
     {
       "id": "https://aleteia.org/2026/11/06/before-bob-met-leo-there-was-patti/",
-      "title": "Before Bob met Leo, there was Patti",
-      "summary": "When Pope Leo quoted Bob Dylan in a Vatican document this year — the singer’s rarely heard 1963 anti-nuclear poem “Go Away You Bomb” — the gesture made headlines around the world. Some even hailed it as a first: a pope reaching across the cultural divide to embrace the voice of the counterculture. But the bridge between rock and Rome had already been under construction for years, quietly and persistently. Among those building that bridge is another American artist who had known Dylan since the b",
+      "title": "Перед Бобом и Лео была Патти: мост между роком и Римом",
+      "summary": "Папа Лев XIV процитировал Боба Дилана, но связь между рок-культурой и Ватиканом строилась годами при участии других американских артистов, включая Патти, знакомую с Диланом.",
       "category": "Мир",
       "source": "Aleteia",
       "url": "https://aleteia.org/2026/11/06/before-bob-met-leo-there-was-patti/",
-      "publishedAt": "2026-11-06T12:08:43.000Z"
+      "publishedAt": "2026-11-06T12:08:43.000Z",
+      "importance": 5,
+      "aiProcessed": true
     },
     {
       "id": "https://aleteia.org/2026/11/06/jonathan-roumie-shares-the-lasting-toll-of-playing-jesus/",
-      "title": "Jonathan Roumie shares the lasting toll of playing Jesus",
-      "summary": "Jonathan Roumie has spent nearly a decade portraying Jesus in The Chosen, but filming the crucifixion for the show’s sixth season proved more difficult than anything he had experienced before. And the emotional impact didn’t end when the cameras stopped rolling. In a new interview with CCM Magazine, the Catholic actor revealed that the experience had changed the way he reacted to something he had seen countless times before: a crucifix. “I’d be in church and I’d look at a crucifix and I just sta",
+      "title": "Джонатан Руми рассказал о глубоком эмоциональном воздействии роли Иисуса",
+      "summary": "Актер Джонатан Руми, сыгравший Иисуса в сериале «Избранные» почти десять лет, признался, что съемки распятия в шестом сезоне стали самым трудным испытанием и изменили его восприятие креста.",
       "category": "Мир",
       "source": "Aleteia",
       "url": "https://aleteia.org/2026/11/06/jonathan-roumie-shares-the-lasting-toll-of-playing-jesus/",
-      "publishedAt": "2026-11-06T12:03:15.000Z"
+      "publishedAt": "2026-11-06T12:03:15.000Z",
+      "importance": 5,
+      "aiProcessed": true
     },
     {
       "id": "https://aleteia.org/2026/11/06/safe-travels-holy-father/",
-      "title": "Safe travels, Holy Father!",
-      "summary": "Pope Leo XIV’s plane took off at 7:05 a.m. on November 6, 2026, from Rome’s Fiumicino Airport, bound for Montevideo-Carrasco International Airport in Uruguay. Uruguay will be the inaugural leg of his sixth apostolic journey as pontiff, a 12-day tour that will also see him visit Argentina and spend an extended time in his adopted country of Peru. In total, 83 journalists from newspapers, television, radio, and news agencies representing numerous international media outlets are accompanying the Po",
-      "category": "Мир",
+      "title": "Папа Лев XIV отправился в шестую апостольскую поездку по Южной Америке",
+      "summary": "6 ноября 2026 года Папа Лев XIV вылетел из Рима в Уругвай, где начнется его 12-дневное путешествие с визитами в Аргентину и Перу. Поездку сопровождают 83 журналиста из разных стран.",
+      "category": "Ватикан",
       "source": "Aleteia",
       "url": "https://aleteia.org/2026/11/06/safe-travels-holy-father/",
-      "publishedAt": "2026-11-06T12:01:08.000Z"
+      "publishedAt": "2026-11-06T12:01:08.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/theologian-highlights-contribution-of-laypeople-to-international-theological-commission",
@@ -1192,12 +1576,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/first-ever-catholic-military-conference-will-focus-on-living-and-serving-justly",
-      "title": "First-ever Catholic Military Conference will focus on ‘Living and Serving Justly’",
-      "summary": "Archbishop Timothy Broglio said conference attendees will have the opportunity to learn and ask questions about the Church’s teachings on just war theory.",
+      "title": "Первая в истории Католическая военная конференция посвятит внимание теме справедливой войны",
+      "summary": "Архиепископ Тимоти Броллио сообщил, что участники конференции смогут узнать и обсудить учение Церкви о теории справедливой войны.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/first-ever-catholic-military-conference-will-focus-on-living-and-serving-justly",
-      "publishedAt": "2026-11-06T11:00:00.000Z"
+      "publishedAt": "2026-11-06T11:00:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.vaticannews.va/en/world/news/2026-11/california-governor-commutes-all-of-us-state-s-548-death-sentenc.html",
@@ -1256,21 +1642,25 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-group-praises-california-for-largest-commutation-in-history-as-hundreds-spared",
-      "title": "Catholic group praises California for ‘largest commutation in history’ as hundreds spared execution",
-      "summary": "California Gov. Gavin Newsom commuted the death sentences of nearly 550 prisoners on the state’s death row on Nov. 5.",
+      "title": "Католическая организация приветствует крупнейшее в истории помилование в Калифорнии",
+      "summary": "Губернатор Калифорнии Гэвин Ньюсом 5 ноября помиловал почти 550 заключенных с смертной казнью, что стало крупнейшим в истории штата актом помилования.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/catholic-group-praises-california-for-largest-commutation-in-history-as-hundreds-spared",
-      "publishedAt": "2026-11-05T22:22:00.000Z"
+      "publishedAt": "2026-11-05T22:22:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/texas-bishops-congratulate-democratic-winners-reaffirm-pro-life-and-family-agenda",
-      "title": "Texas bishops congratulate Democratic winners, reaffirm pro-life and family agenda",
-      "summary": "Texas’ Catholic bishops congratulated Democratic winners, who won every top office statewide, and prayed for their wisdom while reaffirming that Catholic principles remain unchanged.",
+      "title": "Епископы Техаса поздравили демократов с победой и подтвердили приверженность католическим ценностям",
+      "summary": "Католические епископы Техаса поздравили победителей от Демократической партии и подчеркнули неизменность принципов защиты жизни и семьи.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/texas-bishops-congratulate-democratic-winners-reaffirm-pro-life-and-family-agenda",
-      "publishedAt": "2026-11-05T21:52:41.000Z"
+      "publishedAt": "2026-11-05T21:52:41.000Z",
+      "importance": 5,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-praises-chinese-catholics-for-unity-100-years-after-consecration-of-their-first",
@@ -2967,12 +3357,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/vatican-backed-congress-offers-a-catholic-response-to-the-infertility-emergency",
-      "title": "Vatican-backed congress offers a Catholic response to the ‘infertility emergency’",
-      "summary": "Pope Leo XIV was himself set to address the first day of the Oct. 16–18 conference, but the audience had to be canceled due to the pontiff’s hospitalization.",
+      "title": "Конгресс при поддержке Ватикана предлагает католический ответ на «кризис бесплодия»",
+      "summary": "Папа Лев XIV должен был выступить на открытии конференции 16–18 октября, однако его участие отменили из-за госпитализации понтифика.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/vatican-backed-congress-offers-a-catholic-response-to-the-infertility-emergency",
-      "publishedAt": "2026-10-23T14:36:36.000Z"
+      "publishedAt": "2026-10-23T14:36:36.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://cathmos.ru/palomnichestvo-po-mestam-svv-francziska-assizskogo-i-karlo-akutisa/",
@@ -3014,21 +3406,25 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/conference-in-rome-addresses-welcoming-missionaries-amid-migration-tensions",
-      "title": "Conference in Rome addresses welcoming missionaries amid migration tensions",
-      "summary": "The “Church of the Sheaves” conference discussed integrating and supporting new missionaries in the Western world.",
+      "title": "В Риме обсудили поддержку миссионеров на фоне миграционных вызовов",
+      "summary": "На конференции «Церковь снопов» обсуждались вопросы интеграции и поддержки новых миссионеров в западных странах.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/conference-in-rome-addresses-welcoming-missionaries-amid-migration-tensions",
-      "publishedAt": "2026-10-23T11:00:00.000Z"
+      "publishedAt": "2026-10-23T11:00:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-cancels-assisi-visit-on-doctors-advice",
-      "title": "Pope Leo XIV cancels Assisi visit on doctors’ advice",
-      "summary": "Doctors say the pope is recovering exceptionally well from lung surgery but have advised against helicopter travel as a precaution.",
+      "title": "Папа Лев XIV отменил визит в Ассизи по совету врачей",
+      "summary": "Врачи отмечают хорошее восстановление понтифика после операции на легких, но рекомендуют воздержаться от полетов на вертолете в качестве меры предосторожности.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-cancels-assisi-visit-on-doctors-advice",
-      "publishedAt": "2026-10-23T08:05:16.000Z"
+      "publishedAt": "2026-10-23T08:05:16.000Z",
+      "importance": 8,
+      "aiProcessed": true
     },
     {
       "id": "https://dscs.ru/archives/14675",
@@ -3106,21 +3502,25 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-urges-educators-to-help-young-people-encounter-christ-amid-merciless-treatment-by-culture",
-      "title": "Pope urges educators to help young people encounter Christ amid ‘merciless’ treatment by culture",
-      "summary": "A gathering organized by the Vatican’s Dicastery for Culture and Education brought together 1,200 participants from 60 countries.",
+      "title": "Папа призвал педагогов помочь молодежи встретить Христа на фоне «жестокого» культурного давления",
+      "summary": "На мероприятии, организованном ватиканским Дикастерием по культуре и образованию, собрались 1200 участников из 60 стран.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-urges-educators-to-help-young-people-encounter-christ-amid-merciless-treatment-by-culture",
-      "publishedAt": "2026-10-22T17:01:00.000Z"
+      "publishedAt": "2026-10-22T17:01:00.000Z",
+      "importance": 8,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/new-vatican-document-on-transmission-of-faith-considers-the-difficulties-of-passing-on-the-faith-today",
-      "title": "New Vatican document considers the difficulties of passing on the faith today",
-      "summary": "The document is presented as a set of “considerations,” drawing on the input and contributions of several national bishops’ conferences.",
+      "title": "Новый документ Ватикана рассматривает трудности передачи веры сегодня",
+      "summary": "Документ представлен как набор «размышлений», основанных на мнениях и вкладах нескольких национальных епископских конференций.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/new-vatican-document-on-transmission-of-faith-considers-the-difficulties-of-passing-on-the-faith-today",
-      "publishedAt": "2026-10-22T16:21:00.000Z"
+      "publishedAt": "2026-10-22T16:21:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/cardinal-filoni-new-book-gods-relationship-with-saints",
@@ -3151,21 +3551,25 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-invites-young-catholics-to-seoul-as-registration-opens-for-world-youth-day-2027",
-      "title": "Pope invites young Catholics to Seoul as registration opens for World Youth Day 2027",
-      "summary": "The Vatican released the pontiff’s message on the feast of St. John Paul II, who established World Youth Day in 1985.",
+      "title": "Папа приглашает молодых католиков в Сеул на Всемирный день молодежи 2027",
+      "summary": "Ватикан опубликовал послание понтифика в праздник святого Иоанна Павла II, основавшего Всемирный день молодежи в 1985 году.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-invites-young-catholics-to-seoul-as-registration-opens-for-world-youth-day-2027",
-      "publishedAt": "2026-10-22T13:51:00.000Z"
+      "publishedAt": "2026-10-22T13:51:00.000Z",
+      "importance": 8,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-following-st-john-paul-ii-the-church-s-dialogue-with-jews-must-continue",
-      "title": "Pope Leo XIV: Following St. John Paul II, the Church’s dialogue with Jews must continue",
-      "summary": "The pontiff met with a delegation of the American Jewish Committee at the Vatican on Thursday.",
+      "title": "Папа Лев XIV: Следуя примеру Иоанна Павла II, Церковь должна продолжать диалог с иудеями",
+      "summary": "Понтифик встретился с делегацией Американского еврейского комитета в Ватикане в четверг.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-following-st-john-paul-ii-the-church-s-dialogue-with-jews-must-continue",
-      "publishedAt": "2026-10-22T13:11:36.000Z"
+      "publishedAt": "2026-10-22T13:11:36.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/accusations-of-corruption-fly-as-brazilians-to-head-to-the-polls-to-elect-president",
@@ -3196,12 +3600,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/vatican/5-ways-saint-john-paul-ii-changed-the-catholic-church-forever",
-      "title": "5 ways St. John Paul II changed the Catholic Church forever",
-      "summary": "St. John Paul II was the second-longest-serving pope in modern history with 27 years of pontificate and the first non-Italian pontiff to be elected since Pope Adrian VI in 1523.",
+      "title": "Пять способов, которыми святой Иоанн Павел II навсегда изменил Католическую Церковь",
+      "summary": "Иоанн Павел II был вторым по длительности понтификом в современной истории (27 лет) и первым неитальянским папой с 1523 года.",
       "category": "Ватикан",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/5-ways-saint-john-paul-ii-changed-the-catholic-church-forever",
-      "publishedAt": "2026-10-22T08:00:00.000Z"
+      "publishedAt": "2026-10-22T08:00:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://dscs.ru/archives/14669",

@@ -1,6 +1,138 @@
 {
-  "updatedAt": "2026-11-10T14:55:51.102Z",
+  "updatedAt": "2026-11-10T21:19:07.177Z",
   "news": [
+    {
+      "id": "https://www.ewtnnews.com/world/americas/pope-leo-moved-by-testimony-of-woman-abandoned-as-a-child-due-to-her-disability",
+      "title": "Папа Лев XIV тронут свидетельством женщины, оставленной в детстве из-за инвалидности",
+      "summary": "Папа Лев XIV был глубоко тронут внутренней силой женщины, которую он встретил во время визита в Pequeño Cottolengo в Клейполе, где она живет уже много лет.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/pope-leo-moved-by-testimony-of-woman-abandoned-as-a-child-due-to-her-disability",
+      "publishedAt": "2026-11-10T21:07:20.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/10/261110d.html",
+      "title": "Апостольское путешествие Папы Льва XIV в Уругвай, Аргентину и Перу (6–17 ноября 2026) – встреча с духовенством и религиозными в кафедральном соборе «Nuestra Señora de la Asunción», отъезд из Кордовы и прибытие в Буэнос-Айрес",
+      "summary": "Папа Лев XIV встретился с епископами, священниками, диаконами, монахами, семинаристами и пастырскими работниками в кафедральном соборе «Nuestra Señora de la Asunción» в Кордове, после чего отправился в Буэнос-Айрес.",
+      "category": "Ватикан",
+      "source": "Пресс-служба Святого Престола",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/10/261110d.html",
+      "publishedAt": "2026-11-10T20:21:56.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/in-interview-with-catholic-journalist-trump-chafes-at-forgiving-enemies",
+      "title": "В интервью католическому журналисту Трамп затрудняется простить врагов",
+      "summary": "Корреспондент «60 Minutes» Росс Даутхат, католик, в интервью с Трампом перевел разговор с политики на тему смертности и призыва Евангелия к прощению.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/in-interview-with-catholic-journalist-trump-chafes-at-forgiving-enemies",
+      "publishedAt": "2026-11-10T19:19:25.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-urges-argentines-to-follow-model-of-saints-during-mass-in-the-land-of-saints/",
+      "title": "Папа призывает аргентинцев брать пример со святых во время мессы в «земле святых»",
+      "summary": "Литургия прошла на месте завода, где в 1975 году Аргентина производила самолеты для ударов по левым партизанам. Папа призвал аргентинцев следовать примеру святых.",
+      "category": "Мир",
+      "source": "Crux",
+      "url": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-urges-argentines-to-follow-model-of-saints-during-mass-in-the-land-of-saints/",
+      "publishedAt": "2026-11-10T19:18:26.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-argentina-cordoba-meeting-clergy-pastoral-workers.html",
+      "title": "Папа призывает духовенство и религиозных Аргентины не сдаваться",
+      "summary": "Обращаясь к аргентинскому духовенству и пастырским работникам в Кордове, Папа призвал к обновленной верности призыву Христа, углубленной заботе о бедных и мужеству продолжать миссию, несмотря на страдания и личные ограничения.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-argentina-cordoba-meeting-clergy-pastoral-workers.html",
+      "publishedAt": "2026-11-10T19:15:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/epa-investigates-radiation-levels-at-new-york-catholic-school-near-wwii-nuclear-storage-facility",
+      "title": "EPA проверяет уровень радиации в католической школе Нью-Йорка рядом с хранилищем ядерных отходов Второй мировой",
+      "summary": "Правительство заявляет об отсутствии «признаков немедленной угрозы» для католической общины в Ниагара-Фолс, расположенной рядом с объектом хранения ядерных материалов.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/epa-investigates-radiation-levels-at-new-york-catholic-school-near-wwii-nuclear-storage-facility",
+      "publishedAt": "2026-11-10T18:21:39.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/massachusetts-bishops-issue-rebuke-after-governor-cites-catholic-faith-in-support-of-abortion",
+      "title": "Епископы Массачусетса осудили губернатора за оправдание закона об абортах ссылкой на католическую веру",
+      "summary": "Епископы штата назвали новый закон об абортах на всех сроках «утилитарным и безжалостным подходом» к человеческой жизни.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/massachusetts-bishops-issue-rebuke-after-governor-cites-catholic-faith-in-support-of-abortion",
+      "publishedAt": "2026-11-10T17:30:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/st-leo-the-great-the-pope-who-clarified-the-humanity-and-divinity-of-christ",
+      "title": "Святой Лев Великий: Папа, который разъяснил человечность и божественность Христа",
+      "summary": "Всемирная Церковь отмечает память святого Льва Великого, 45-го епископа Рима и одного из 38 докторов Церкви, 10 ноября.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/st-leo-the-great-the-pope-who-clarified-the-humanity-and-divinity-of-christ",
+      "publishedAt": "2026-11-10T16:50:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/10/a-kansas-artist-is-drawing-pope-leos-face-in-peruvian-soil/",
+      "title": "Художник из Канзаса рисует лицо Папы Льва XIV на перуанской земле",
+      "summary": "Стан Херд, создающий масштабные портреты из земли, готовит изображение Папы Льва XIV в Чиклайо, где Папа проведет мессу 13 ноября перед почти миллионом верующих.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/10/a-kansas-artist-is-drawing-pope-leos-face-in-peruvian-soil/",
+      "publishedAt": "2026-11-10T16:36:14.000Z",
+      "importance": 4,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-argentina-cordoba-greetings-unity.html",
+      "title": "Папа Лев XIV призывает аргентинцев сохранять единство в вере",
+      "summary": "Папа Лев XIV приветствовал верующих у резиденции архиепископа в Кордове и призвал всех аргентинцев к единству, чтобы вместе достигать любых целей.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-argentina-cordoba-greetings-unity.html",
+      "publishedAt": "2026-11-10T16:29:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/10/a-white-rose-for-leo-in-memory-of-francis/",
+      "title": "Белая роза для Лео в память о Франциске",
+      "summary": "Перед вечерней молитвой с аргентинскими епископами в Буэнос-Айресе Папа Лео XIV остановился у памятной доски, посвященной Хорхе Марио Бергольо, и помолился в тишине. Восьмеро родственников Франциска преподнесли ему белую розу — символ преданной Святой Терезы из Лизье.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/10/a-white-rose-for-leo-in-memory-of-francis/",
+      "publishedAt": "2026-11-10T16:25:11.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-lauds-an-argentine-city-as-a-home-of-saints",
+      "title": "Папа Лео XIV назвал аргентинский город «домом святых»",
+      "summary": "Понтифик отслужил мессу под открытым небом в центральном городе Кордова, подчеркнув духовное значение этого места.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-lauds-an-argentine-city-as-a-home-of-saints",
+      "publishedAt": "2026-11-10T16:10:13.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
     {
       "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/10/261110c.html",
       "title": "Папа Лев XIV покинул Буэнос-Айрес и прибыл в Кордобу, отслужив Мессу на территории Военной авиационной школы",
@@ -3294,7 +3426,7 @@
       "id": "https://www.ewtnnews.com/world/americas/5-god-incidences-will-mark-pope-leo-xiv-s-upcoming-trip-to-south-america",
       "title": "Пять «божественных совпадений» сопроводят поездку Папы Льва XIV в Южную Америку",
       "summary": "Во время ноябрьского визита Папы Льва XIV в Уругвай, Аргентину и Перу ожидается ряд провиденциальных совпадений, которые подчеркнут значимость поездки.",
-      "category": "Ватикан",
+      "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/5-god-incidences-will-mark-pope-leo-xiv-s-upcoming-trip-to-south-america",
       "publishedAt": "2026-10-29T10:00:00.000Z",
@@ -3336,12 +3468,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/middle-east/coptic-youths-freed-after-video-sparks-accusations-of-insulting-islam",
-      "title": "Coptic youths freed after video sparks accusations of insulting Islam",
-      "summary": "Coptic researcher urges caution as religious contempt cases persist in Egypt.",
+      "title": "Коптские молодые люди освобождены после обвинений в оскорблении ислама",
+      "summary": "Коптский исследователь призывает к осторожности на фоне продолжающихся дел о религиозном неуважении в Египте.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/middle-east/coptic-youths-freed-after-video-sparks-accusations-of-insulting-islam",
-      "publishedAt": "2026-10-28T18:30:00.000Z"
+      "publishedAt": "2026-10-28T18:30:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/china-vatican-deal-has-imperfections-vatican-s-foreign-minister-says",
@@ -3367,12 +3501,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/kansas-city-priest-pleads-guilty-to-usd160-000-theft-from-parish",
-      "title": "Kansas City priest pleads guilty to $160,000 theft from parish",
-      "summary": "Father Richard Storey was accused of the felony theft in May of this year.",
+      "title": "Священник из Канзас-Сити признал вину в краже 160 тысяч долларов из прихода",
+      "summary": "Отец Ричард Стори был обвинен в уголовном преступлении в мае этого года и признал вину.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/kansas-city-priest-pleads-guilty-to-usd160-000-theft-from-parish",
-      "publishedAt": "2026-10-28T16:30:00.000Z"
+      "publishedAt": "2026-10-28T16:30:00.000Z",
+      "importance": 4,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/vatican-publishes-pope-leo-s-mass-schedule-from-all-souls-day-to-dec-20",
@@ -3387,12 +3523,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/nordic-bishops-countries-must-weigh-how-many-migrants-they-can-integrate",
-      "title": "Nordic bishops: Countries must carefully integrate migrants",
-      "summary": "Six Catholic bishops from Sweden, Denmark, Norway, Finland, and Iceland stress migrants' duties to their new homelands and warn against expelling refugees and those already well integrated.",
+      "title": "Северные епископы: страны должны тщательно интегрировать мигрантов",
+      "summary": "Шесть католических епископов из Швеции, Дании, Норвегии, Финляндии и Исландии подчеркнули обязанности мигрантов перед новыми родинами и предостерегли от высылки беженцев и хорошо интегрированных.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/nordic-bishops-countries-must-weigh-how-many-migrants-they-can-integrate",
-      "publishedAt": "2026-10-28T15:00:00.000Z"
+      "publishedAt": "2026-10-28T15:00:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/a-century-after-pius-xi-ordained-6-chinese-bishops-who-chooses-china-s-bishops",
@@ -3418,12 +3556,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/asia-pacific/pro-life-professor-in-australia-takes-adelaide-university-to-federal-court",
-      "title": "Pro-life professor in Australia takes Adelaide University to federal court",
-      "summary": "A pro-life activist has announced legal action against her employer after being “inundated by an avalanche of investigations and complaints” about her views on abortion and gender ideology.",
+      "title": "Профессор из Австралии подала в федеральный суд на Университет Аделаиды из-за взглядов против абортов",
+      "summary": "Активистка за жизнь объявила о судебном иске к своему работодателю после множества расследований и жалоб, связанных с ее позициями по абортам и гендерной идеологии.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/pro-life-professor-in-australia-takes-adelaide-university-to-federal-court",
-      "publishedAt": "2026-10-28T11:00:00.000Z"
+      "publishedAt": "2026-10-28T11:00:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/under-the-eyes-of-social-media-swiss-guards-learn-to-handle-threats-with-discretion",
@@ -3438,12 +3578,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/christian-persecution-worsened-in-55-of-countries-assessed-report-finds",
-      "title": "Christian persecution worsened in 55% of countries assessed, report finds",
-      "summary": "Aid to the Church in Need’s new report ““Persecuted and Forgotten?” outlines how Christians were persecuted in 18 countries across the globe between August 2024 and June 2026.",
+      "title": "В 55% стран ситуация с преследованием христиан ухудшилась, говорится в докладе",
+      "summary": "Новый доклад Aid to the Church in Need «Преследуемые и забытые?» описывает гонения на христиан в 18 странах мира с августа 2024 по июнь 2026 года.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/christian-persecution-worsened-in-55-of-countries-assessed-report-finds",
-      "publishedAt": "2026-10-28T00:13:25.000Z"
+      "publishedAt": "2026-10-28T00:13:25.000Z",
+      "importance": 8,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/christian-persecution-worsened-in-55-of-countries-assessed-report-finds",
@@ -3458,48 +3600,58 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/survey-39-of-catholics-have-faced-racial-discrimination-10-within-parish-community",
-      "title": "Survey: 39% of Catholics have faced racial discrimination, 10% within parish community",
-      "summary": "The survey found that Indigenous and Black Catholics said they have faced racial discrimination at higher levels than other racial and ethnic groups.",
+      "title": "Опрос: 39% католиков сталкивались с расовой дискриминацией, 10% — в приходской общине",
+      "summary": "Исследование показало, что коренные и чернокожие католики чаще других подвергались расовой дискриминации, в том числе внутри своих приходов.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/survey-39-of-catholics-have-faced-racial-discrimination-10-within-parish-community",
-      "publishedAt": "2026-10-27T22:24:39.000Z"
+      "publishedAt": "2026-10-27T22:24:39.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/latino-world-series-stars-share-how-god-and-the-virgin-mary-sustain-their-careers",
-      "title": "World Series stars share how God and the Virgin Mary sustain their careers",
-      "summary": "Big leaguers from Milwaukee and Tampa Bay share how their faith in God and the Virgin Mary inspires them as they compete for their first World Series title.",
+      "title": "Звезды Мировой серии делятся, как вера в Бога и Деву Марию поддерживает их карьеру",
+      "summary": "Игроки из Милуоки и Тампы-Бэй рассказывают, как их вера в Бога и Деву Марию вдохновляет их в борьбе за первый титул Мировой серии.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/latino-world-series-stars-share-how-god-and-the-virgin-mary-sustain-their-careers",
-      "publishedAt": "2026-10-27T21:42:22.000Z"
+      "publishedAt": "2026-10-27T21:42:22.000Z",
+      "importance": 4,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/u-s-bishops-urge-census-bureau-to-withdraw-proposed-rule-changes",
-      "title": "U.S. bishops urge Census Bureau to withdraw proposed rule changes",
-      "summary": "The proposed rule changes, open to public comment until Nov. 2, would count only citizens and lawful permanent residents in the census and would remove some demographic questions.",
+      "title": "Епископы США призывают Бюро переписи отказаться от предложенных изменений правил",
+      "summary": "Предложенные изменения, обсуждение которых открыто до 2 ноября, предусматривают учет только граждан и законных резидентов в переписи и исключение некоторых демографических вопросов.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/u-s-bishops-urge-census-bureau-to-withdraw-proposed-rule-changes",
-      "publishedAt": "2026-10-27T19:15:48.000Z"
+      "publishedAt": "2026-10-27T19:15:48.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/archbishop-gomez-to-be-recognized-for-his-work-in-hispanic-and-latino-ministry-in-the-u-s",
-      "title": "Archbishop Gomez to be recognized for his work in U.S. Hispanic ministry",
-      "summary": "The archbishop of Los Angeles will receive the award at the fall meeting of the United States Conference of Catholic Bishops.",
+      "title": "Архиепископ Гомес будет отмечен за работу с латиноамериканской общиной в США",
+      "summary": "Архиепископ Лос-Анджелеса получит награду на осеннем собрании Конференции католических епископов США за вклад в служение испаноязычным католикам.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/archbishop-gomez-to-be-recognized-for-his-work-in-hispanic-and-latino-ministry-in-the-u-s",
-      "publishedAt": "2026-10-27T18:35:48.000Z"
+      "publishedAt": "2026-10-27T18:35:48.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/jd-vance-on-2028-presidential-run-i-ll-listen-to-what-god-tells-me-to-do",
-      "title": "JD Vance on 2028 presidential run: I’ll listen to what God tells me to do",
-      "summary": "“As soon as the midterms are over … I'm going to have to think seriously about it,” Vance told EWTN News anchor Raymond Arroyo.",
+      "title": "Джей Ди Вэнс о возможном участии в выборах 2028 года: «Прислушаюсь к воле Божьей»",
+      "summary": "Кандидат в президенты США заявил, что после промежуточных выборов будет серьезно обдумывать свое решение, ориентируясь на то, что подскажет ему Бог.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/jd-vance-on-2028-presidential-run-i-ll-listen-to-what-god-tells-me-to-do",
-      "publishedAt": "2026-10-27T17:45:00.000Z"
+      "publishedAt": "2026-10-27T17:45:00.000Z",
+      "importance": 4,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-meet-with-abuse-victims-during-his-trip-to-latin-america",
@@ -3525,12 +3677,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/africa/ethiopian-orthodox-church-condemns-killings-in-oromia-as-catholic-bishops-call-for",
-      "title": "Ethiopian Orthodox Church condemns killings in Oromia as Catholic bishops call for reconciliation",
-      "summary": "Catholic bishops in Ethiopia have joined leaders of the Ethiopian Orthodox Tewahedo Church in condemning deadly attacks on Christians in Oromia Regional State.",
+      "title": "Эфиопская православная церковь осуждает убийства в Оромии, католические епископы призывают к примирению",
+      "summary": "Католические епископы Эфиопии вместе с лидерами Эфиопской православной церкви осудили смертоносные нападения на христиан в регионе Оромия и призвали к миру.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/africa/ethiopian-orthodox-church-condemns-killings-in-oromia-as-catholic-bishops-call-for",
-      "publishedAt": "2026-10-27T16:25:11.000Z"
+      "publishedAt": "2026-10-27T16:25:11.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/there-is-no-such-thing-as-a-holy-war-pope-leo-marks-40-years-of-assisi-peace-meeting",
@@ -3545,39 +3699,47 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/diocese-in-guatemala-investigates-alleged-eucharistic-miracle-involving-host-with-reddish-stains",
-      "title": "Diocese in Guatemala investigates alleged Eucharistic miracle involving host with reddish stains",
-      "summary": "A multidisciplinary team is investigating an alleged Eucharistic miracle in the Diocese of St. Rose of Lima, Guatemala. Even if the findings are positive, only the Holy See can declare it a miracle.",
+      "title": "Епархия в Гватемале расследует предполагаемое евхаристическое чудо с красноватыми пятнами на гостии",
+      "summary": "Междисциплинарная комиссия изучает предполагаемое чудо в епархии Святой Розы Лимской. Даже при положительных результатах окончательное признание может дать только Святой Престол.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/diocese-in-guatemala-investigates-alleged-eucharistic-miracle-involving-host-with-reddish-stains",
-      "publishedAt": "2026-10-27T13:00:00.000Z"
+      "publishedAt": "2026-10-27T13:00:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/africa/seminarian-training-kicks-off-in-nigeria-to-combat-sexual-and-gender-based-violence",
-      "title": "Seminarian training kicks off in Nigeria to combat sexual and gender-based violence",
-      "summary": "The initiative aims to reach at least 1,000 seminarians to prepare them to recognize different forms of abuse, support survivors, and promote safer communities in their future pastoral ministry.",
+      "title": "В Нигерии началось обучение семинаристов борьбе с сексуальным и гендерным насилием",
+      "summary": "Инициатива направлена на подготовку не менее 1000 семинаристов, чтобы они могли распознавать различные формы насилия, поддерживать жертв и создавать безопасные общины в будущем пастырском служении.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/africa/seminarian-training-kicks-off-in-nigeria-to-combat-sexual-and-gender-based-violence",
-      "publishedAt": "2026-10-27T12:00:00.000Z"
+      "publishedAt": "2026-10-27T12:00:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/more-bishops-respond-after-trump-meeting-prayer",
-      "title": "Bishop Joensen says Trump meeting ‘exploited’ for politics, while others clarify backstory",
-      "summary": "Bishops who attended the meeting and the prayer have stated they were invited by the White House Faith Office to discuss issues of importance to Catholics.",
+      "title": "Епископ Йоэнсен заявил, что встречу с Трампом использовали в политических целях, другие уточнили детали",
+      "summary": "Епископы, присутствовавшие на встрече и молитве, сообщили, что были приглашены Белым домом для обсуждения важных для католиков вопросов.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/more-bishops-respond-after-trump-meeting-prayer",
-      "publishedAt": "2026-10-26T22:21:05.000Z"
+      "publishedAt": "2026-10-26T22:21:05.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/venezuelan-opposition-leader-returns-from-exile-and-attends-mass-at-popular-shrine",
-      "title": "Venezuelan opposition leader returns from exile and attends Mass at popular shrine",
-      "summary": "María Corina Machado made her first public return to Venezuelan soil at the Archdiocesan Shrine of the Divine Shepherdess in the city of Barquisimeto.",
+      "title": "Лидер венесуэльской оппозиции вернулась из изгнания и посетила мессу в известном святом месте",
+      "summary": "Мария Корина Мачадо впервые публично вернулась в Венесуэлу и посетила Архидиоцезальный храм Божьей Пастырницы в Баркисимето.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/venezuelan-opposition-leader-returns-from-exile-and-attends-mass-at-popular-shrine",
-      "publishedAt": "2026-10-26T20:24:26.000Z"
+      "publishedAt": "2026-10-26T20:24:26.000Z",
+      "importance": 5,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/for-first-time-in-500-years-pope-and-king-of-england-bestow-religious-titles-on-each-other",
@@ -3592,12 +3754,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/archdiocese-of-new-york-will-pay-out-usd800-million-in-sexual-abuse-settlement",
-      "title": "Archdiocese of New York will pay out $800 million in sexual abuse settlement",
-      "summary": "Archbishop Ronald Hicks said the settlement puts the archdiocese “on the verge of being able to … bring some measure of healing and reconciliation to all victim-survivors.”",
+      "title": "Архидиоцез Нью-Йорка выплатит 800 миллионов долларов по делу о сексуальных домогательствах",
+      "summary": "Архиепископ Рональд Хикс заявил, что урегулирование позволит архидиоцезу начать процесс исцеления и примирения с пострадавшими.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/archdiocese-of-new-york-will-pay-out-usd800-million-in-sexual-abuse-settlement",
-      "publishedAt": "2026-10-26T18:00:00.000Z"
+      "publishedAt": "2026-10-26T18:00:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/leo-xiv-confirms-his-trip-to-uruguay-argentina-peru",
@@ -3634,12 +3798,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/polish-bishops-oppose-abortion-bills-name-historian-to-lead-abuse-commission",
-      "title": "Polish bishops oppose abortion bills, name historian to lead abuse commission",
-      "summary": "The bishops oppose a policy that “does not build but destroys,” Archbishop Tadeusz Wojda said, as historian Piotr Franaszek takes the helm of the Church’s abuse commission.",
+      "title": "Польские епископы выступили против законопроектов об абортах и назначили историка главой комиссии по злоупотреблениям",
+      "summary": "Епископы осудили политику, которая разрушает, а не созидает, заявил архиепископ Тадеуш Войда; историк Петр Франашек возглавил церковную комиссию по злоупотреблениям.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/polish-bishops-oppose-abortion-bills-name-historian-to-lead-abuse-commission",
-      "publishedAt": "2026-10-26T13:30:00.000Z"
+      "publishedAt": "2026-10-26T13:30:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://cathmos.ru/v-moskve-predstavyat/",
@@ -3676,12 +3842,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/milwaukee-archbishop-grob-issues-public-apology-over-white-house-meeting",
-      "title": "Milwaukee Archbishop Grob issues ‘public apology’ over White House meeting",
-      "summary": "Archbishop Jeffrey Grob said his “intention was never to cause confusion, anger, or disappointment among the people entrusted to my care” and that the meeting was publicized without consent.",
+      "title": "Архиепископ Милуоки Гроб принес публичные извинения за встречу в Белом доме",
+      "summary": "Архиепископ Джеффри Гроб заявил, что не хотел вызывать недоразумений или разочарования, и что встреча была обнародована без его согласия.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/milwaukee-archbishop-grob-issues-public-apology-over-white-house-meeting",
-      "publishedAt": "2026-10-25T17:02:22.000Z"
+      "publishedAt": "2026-10-25T17:02:22.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://cathmos.ru/voskresnaya-propoved-episkopa-nikolaya-dubinina-v-sobore-uspeniya-presvyatoj-devy-marii-v-sankt-peterburge/",
@@ -3707,93 +3875,113 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/africa/rights-group-urges-immediate-release-of-6-christians-detained-over-tiktok-video-in-egypt",
-      "title": "Rights group urges immediate release of 6 Christians detained over TikTok video in Egypt",
-      "summary": "Alliance Defending Freedom has urged Egyptian authorities to free six young Christians after they posted a TikTok video that authorities considered offensive to Islam.",
+      "title": "Правозащитная организация требует немедленного освобождения шести христиан, задержанных в Египте из-за видео в TikTok",
+      "summary": "Организация Alliance Defending Freedom призвала египетские власти освободить шестерых молодых христиан, которых задержали после публикации видео в TikTok, признанного оскорбительным для ислама.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/africa/rights-group-urges-immediate-release-of-6-christians-detained-over-tiktok-video-in-egypt",
-      "publishedAt": "2026-10-25T12:00:00.000Z"
+      "publishedAt": "2026-10-25T12:00:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/africa/what-the-catholic-church-in-egypt-is-doing-to-keep-youths-attached-to-their-faith",
-      "title": "What the Catholic Church in Egypt is doing to keep youths attached to their faith",
-      "summary": "Speaking to Aid to the Church in Need, Bishop Emmanuel Bishay of Egypt’s Coptic Catholic Eparchy of Luxor said that relations between the Catholic and Orthodox churches are good.",
+      "title": "Католическая церковь в Египте работает над сохранением веры среди молодежи",
+      "summary": "Епископ Эммануэль Бишай из коптской католической епархии Луксора сообщил Aid to the Church in Need, что отношения между католической и православной церквями в Египте хорошие.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/africa/what-the-catholic-church-in-egypt-is-doing-to-keep-youths-attached-to-their-faith",
-      "publishedAt": "2026-10-25T11:00:00.000Z"
+      "publishedAt": "2026-10-25T11:00:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/virgin-of-guadalupe-takes-center-stage-at-u-s-hispanic-ministry-meeting",
-      "title": "Virgin of Guadalupe takes center stage at U.S. Hispanic ministry meeting",
-      "summary": "A conference brought together dozens of diocesan directors and leaders of Hispanic and Latino ministry from various parts of the United States.",
+      "title": "Дева Гваделупская стала центральной темой на встрече испаноязычного служения в США",
+      "summary": "Конференция собрала десятки диоцезальных директоров и лидеров испаноязычного и латиноамериканского служения из разных регионов США.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/virgin-of-guadalupe-takes-center-stage-at-u-s-hispanic-ministry-meeting",
-      "publishedAt": "2026-10-25T10:00:00.000Z"
+      "publishedAt": "2026-10-25T10:00:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/middle-east/jordan-church-attack-death-toll-rises-to-9-as-christian-leaders-call-for-unity",
-      "title": "Jordan church attack death toll rises to 9 as Christian leaders call for unity",
-      "summary": "The attack took place during a funeral Friday, and security authorities are continuing their investigation and search for the perpetrators.",
+      "title": "Число погибших при нападении на церковь в Иордании выросло до девяти, христианские лидеры призывают к единству",
+      "summary": "Нападение произошло во время похорон в пятницу, власти продолжают расследование и поиски виновных.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/middle-east/jordan-church-attack-death-toll-rises-to-9-as-christian-leaders-call-for-unity",
-      "publishedAt": "2026-10-24T19:03:01.000Z"
+      "publishedAt": "2026-10-24T19:03:01.000Z",
+      "importance": 8,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/denver-archbishop-responds-to-criticism-over-trump-prayer-meeting-i-was-being-a-catholic-priest",
-      "title": "Denver archbishop responds to criticism over Trump prayer meeting: ‘I was being a Catholic priest’",
-      "summary": "Archbishop James Golka led a prayer during an Oct. 22 meeting at the Oval Office between Trump and over half a dozen of his fellow U.S. bishops.",
+      "title": "Архиепископ Денвера ответил на критику за молитву на встрече с Трампом: «Я был католическим священником»",
+      "summary": "Архиепископ Джеймс Голка возглавил молитву 22 октября во время встречи в Овальном кабинете между Трампом и несколькими американскими епископами.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/denver-archbishop-responds-to-criticism-over-trump-prayer-meeting-i-was-being-a-catholic-priest",
-      "publishedAt": "2026-10-24T16:00:00.000Z"
+      "publishedAt": "2026-10-24T16:00:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/sfla-tpusa-feminists-lied-tour-pro-life-roundup",
-      "title": "Students for Life, Turning Point debate abortion in ‘Feminists Lied’ campus tour",
-      "summary": "Here is a roundup of recent pro-life and abortion-related news.",
+      "title": "Студенты за жизнь и Turning Point обсуждают аборты в кампании «Феминистки лгали»",
+      "summary": "Обзор последних новостей, связанных с движением за жизнь и вопросами абортов в рамках кампании «Феминистки лгали» на университетских площадках.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/sfla-tpusa-feminists-lied-tour-pro-life-roundup",
-      "publishedAt": "2026-10-24T15:00:00.000Z"
+      "publishedAt": "2026-10-24T15:00:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/how-can-you-say-god-is-my-great-friend-after-a-terrible-tragedy-a-venezuelan-mother-responds",
-      "title": "How to face tragedy and still affirm God is your friend? The answer of a Venezuelan mother",
-      "summary": "Maria Elena Rocha recounted how despite the tragedy of losing her husband and two sons in this past summer’s earthquake in Venezuela, her faith and trust in God still sustains her.",
+      "title": "Как пережить трагедию и сохранить веру в Бога? Ответ венесуэльской матери",
+      "summary": "Мария Елена Роча рассказала, как несмотря на потерю мужа и двух сыновей в землетрясении летом, ее вера и доверие к Богу продолжают поддерживать ее.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/how-can-you-say-god-is-my-great-friend-after-a-terrible-tragedy-a-venezuelan-mother-responds",
-      "publishedAt": "2026-10-24T14:00:00.000Z"
+      "publishedAt": "2026-10-24T14:00:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/he-died-doing-what-he-loved-remembering-ecuadorian-priest-who-died-at-the-altar",
-      "title": "‘He died doing what he loved’: Memories of the Ecuadorian priest who died at the altar",
-      "summary": "The late Father Patricio Sánchez Molinari was described as a man “with a pure heart and a ready smile … he was always so very calm, patient, and tolerant.” asFather Patricio Sánchez",
+      "title": "«Он умер, занимаясь любимым делом»: воспоминания о священнике из Эквадора, скончавшемся у алтаря",
+      "summary": "Отец Патрисио Санчес Молинари запомнился как человек с чистым сердцем и доброй улыбкой, всегда спокойный, терпеливый и снисходительный.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/he-died-doing-what-he-loved-remembering-ecuadorian-priest-who-died-at-the-altar",
-      "publishedAt": "2026-10-24T13:00:00.000Z"
+      "publishedAt": "2026-10-24T13:00:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/africa/suspect-arrested-after-fire-at-virgin-mary-church-in-egypt-s-giza",
-      "title": "Suspect arrested after fire at Virgin Mary Church in Egypt’s Giza",
-      "summary": "The Coptic Orthodox Diocese of Central Giza saidaid no one was hurt after a fire was set inside the Church of the Virgin Mary in Giza.",
+      "title": "Задержан подозреваемый после пожара в церкви Девы Марии в Гизе, Египет",
+      "summary": "Коптская православная епархия Центральной Гизы сообщила, что после поджога в церкви Девы Марии никто не пострадал.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/africa/suspect-arrested-after-fire-at-virgin-mary-church-in-egypt-s-giza",
-      "publishedAt": "2026-10-24T12:00:00.000Z"
+      "publishedAt": "2026-10-24T12:00:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/asia-pacific/franciscans-call-for-solidarity-as-haze-from-indonesian-fires-blankets-southeast-asia",
-      "title": "Franciscans call for solidarity as haze from Indonesian fires blankets Southeast Asia",
-      "summary": "Ongoing air pollution and its effects were discussed at the assembly of the Franciscan Network for Peace and Integral Ecology in Asia, held in Kota Kinabalu, Malaysia, earlier this month.",
+      "title": "Францисканцы призывают к солидарности из-за задымления от пожаров в Индонезии",
+      "summary": "На собрании Францисканской сети мира и интегральной экологии в Азии в Кота-Кинабалу обсуждались проблемы загрязнения воздуха и его последствия для региона.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/franciscans-call-for-solidarity-as-haze-from-indonesian-fires-blankets-southeast-asia",
-      "publishedAt": "2026-10-24T11:00:00.000Z"
+      "publishedAt": "2026-10-24T11:00:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/korean-bishops-elect-new-president-approve-guidelines-on-sexual-violence",
@@ -3808,12 +3996,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/asia-pacific/korean-bishops-elect-new-president-approve-guidelines-on-sexual-violence",
-      "title": "Korean bishops elect new president, approve guidelines on sexual violence",
-      "summary": "Korean bishops elect president, Church in Burundi supports over 80,000 refugees, Scotland Bishops’ Conference president steps back from duties, and more in this week’s Catholic world news roundup.",
+      "title": "Епископы Кореи избрали нового президента и утвердили рекомендации по сексуальному насилию",
+      "summary": "Епископы Кореи избрали нового президента, Церковь в Бурунди поддерживает более 80 000 беженцев, президент Епископской конференции Шотландии временно отстранился от обязанностей и другие новости католического мира.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/korean-bishops-elect-new-president-approve-guidelines-on-sexual-violence",
-      "publishedAt": "2026-10-24T10:00:00.000Z"
+      "publishedAt": "2026-10-24T10:00:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/it-s-what-i-m-called-to-do-montse-alvarado-on-her-new-vatican-role",
@@ -3828,30 +4018,36 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/ahead-of-religious-freedom-day-u-s-bishops-call-for-ethical-ai",
-      "title": "Ahead of Religious Freedom Day, U.S. bishops call for ethical AI",
-      "summary": "U.S. bishops said AI could expand surveillance and persecution of religious groups and urged that human dignity remain central to protecting religious freedom.",
+      "title": "Перед Днем религиозной свободы епископы США призвали к этичному использованию ИИ",
+      "summary": "Епископы США выразили обеспокоенность, что искусственный интеллект может усилить слежку и преследование религиозных групп, и подчеркнули важность защиты человеческого достоинства в вопросах религиозной свободы.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/ahead-of-religious-freedom-day-u-s-bishops-call-for-ethical-ai",
-      "publishedAt": "2026-10-23T20:41:37.000Z"
+      "publishedAt": "2026-10-23T20:41:37.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/bishop-barron-slams-clownish-irrelevance-of-german-catholic-academy-in-blistering-statement",
-      "title": "Bishop Barron slams ‘clownish irrelevance’ of German Catholic academy in blistering statement",
-      "summary": "Controversy over Bishop Robert Barron's acceptance of a 2025 award from a German Catholic institution resurfaced this week.",
+      "title": "Епископ Баррон резко раскритиковал «клоунское бессилие» немецкой католической академии",
+      "summary": "Вновь вспыхнул спор вокруг принятия епископом Робертом Барроном награды немецкой католической организации, которая должна быть вручена в 2025 году.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/bishop-barron-slams-clownish-irrelevance-of-german-catholic-academy-in-blistering-statement",
-      "publishedAt": "2026-10-23T19:43:30.000Z"
+      "publishedAt": "2026-10-23T19:43:30.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-ethicists-debate-morality-of-embryo-adoption",
-      "title": "Catholic ethicists debate morality of embryo adoption",
-      "summary": "The 2008 Vatican document Dignitas Personae affirmed the dignity and rights of frozen embryos and expressed reservations about proposals for prenatal adoption.",
+      "title": "Католические этики обсуждают моральные аспекты усыновления эмбрионов",
+      "summary": "Документ Ватикана 2008 года Dignitas Personae подтвердил достоинство и права замороженных эмбрионов и выразил сомнения по поводу предложений о пренатальном усыновлении.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/catholic-ethicists-debate-morality-of-embryo-adoption",
-      "publishedAt": "2026-10-23T18:29:00.000Z"
+      "publishedAt": "2026-10-23T18:29:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://e-church.ru/news/7145/",
@@ -3877,12 +4073,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-campus-ministries-eligible-for-lilly-grant-of-up-to-usd7-5-million",
-      "title": "Catholic campus ministries eligible for Lilly grant of up to $7.5 million",
-      "summary": "A Lilly Endowment grant is open to Catholic campus ministries, St. Carlo Acutis’ mother gifts Franciscan University with a relic of her son, and more in this week’s Catholic education new roundup.",
+      "title": "Католические студенческие служения могут получить грант Lilly до 7,5 млн долларов",
+      "summary": "Грант фонда Lilly Endowment открыт для католических студенческих служений, мать святого Карло Акутиса передала Университету Франциска реликвию сына, и другие новости католического образования.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/catholic-campus-ministries-eligible-for-lilly-grant-of-up-to-usd7-5-million",
-      "publishedAt": "2026-10-23T17:09:00.000Z"
+      "publishedAt": "2026-10-23T17:09:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-true-justice-is-never-separated-from-truth-and-mercy",
@@ -3897,12 +4095,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-social-scientists-hold-conference-blending-disciplines-and-faith",
-      "title": "Catholic social scientists hold conference blending disciplines and faith",
-      "summary": "Scholars will deliver talks on Catholic teaching in relation to American history, political science, and hot-button issues like artificial intelligence, immigration, and euthanasia.",
+      "title": "Католические социальные ученые проводят конференцию, объединяющую дисциплины и веру",
+      "summary": "Ученые выступят с докладами о католическом учении в контексте американской истории, политологии и актуальных тем, таких как искусственный интеллект, иммиграция и эвтаназия.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/catholic-social-scientists-hold-conference-blending-disciplines-and-faith",
-      "publishedAt": "2026-10-23T15:49:00.000Z"
+      "publishedAt": "2026-10-23T15:49:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://cathmos.ru/vladimir-plenarnoe-sobranie-kker/",
@@ -3917,12 +4117,14 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/middle-east/at-least-6-killed-dozens-wounded-in-jordan-as-gunmen-open-fire-in-church-during-funeral",
-      "title": "At least 6 killed, dozens wounded in Jordan as gunmen open fire in church during funeral",
-      "summary": "Jordan’s Public Security Directorate said unidentified gunmen opened fire inside a church in Karak province.",
+      "title": "Не менее 6 погибших и десятки раненых в Иордании после стрельбы в церкви во время похорон",
+      "summary": "По данным иорданской полиции, неизвестные открыли огонь внутри церкви в провинции Карак, в результате чего погибли и пострадали люди.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/middle-east/at-least-6-killed-dozens-wounded-in-jordan-as-gunmen-open-fire-in-church-during-funeral",
-      "publishedAt": "2026-10-23T15:09:29.000Z"
+      "publishedAt": "2026-10-23T15:09:29.000Z",
+      "importance": 8,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/vatican-backed-congress-offers-a-catholic-response-to-the-infertility-emergency",
@@ -3948,30 +4150,36 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/liechtenstein-s-prince-vetoes-bill-to-legalize-abortion-up-to-12-weeks",
-      "title": "Liechtenstein’s prince vetoes bill to legalize abortion up to 12 weeks",
-      "summary": "Parliament passed the bill by 13 to 12 votes on Sept. 2, but no law takes effect in the principality without the reigning prince’s approval.",
+      "title": "Принц Лихтенштейна наложил вето на закон о легализации абортов до 12 недель",
+      "summary": "Парламент принял закон 2 сентября, но в княжестве ни один закон не вступает в силу без одобрения правящего принца.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/liechtenstein-s-prince-vetoes-bill-to-legalize-abortion-up-to-12-weeks",
-      "publishedAt": "2026-10-23T13:41:48.000Z"
+      "publishedAt": "2026-10-23T13:41:48.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/canadian-nonprofit-creates-space-for-catholic-art-to-reach-secular-audiences",
-      "title": "Canadian nonprofit creates space for Catholic art to reach secular audiences",
-      "summary": "A Canadian nonprofit called Theopolis is supporting Catholic artists and bringing faith and secular audiences together through art, beauty, and culture.",
+      "title": "Канадская некоммерческая организация создает пространство для католического искусства в светской среде",
+      "summary": "Организация Theopolis поддерживает католических художников и объединяет верующих и светскую аудиторию через искусство, красоту и культуру.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/canadian-nonprofit-creates-space-for-catholic-art-to-reach-secular-audiences",
-      "publishedAt": "2026-10-23T13:00:00.000Z"
+      "publishedAt": "2026-10-23T13:00:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/more-than-100-churches-in-panama-affected-by-october-earthquake",
-      "title": "More than 100 churches in Panama affected by October earthquake",
-      "summary": "Two churches were “totally destroyed” by the Oct. 9 earthquake, the Panamanian Bishops’ Conference reported in its countrywide damage assessment.",
+      "title": "Более 100 церквей в Панаме пострадали от октябрьского землетрясения",
+      "summary": "Две церкви были полностью разрушены в результате землетрясения 9 октября, сообщает Епископская конференция Панамы.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/more-than-100-churches-in-panama-affected-by-october-earthquake",
-      "publishedAt": "2026-10-23T12:00:00.000Z"
+      "publishedAt": "2026-10-23T12:00:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/conference-in-rome-addresses-welcoming-missionaries-amid-migration-tensions",

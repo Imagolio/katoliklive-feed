@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-11-10T21:19:07.177Z",
+  "updatedAt": "2026-11-11T06:26:56.587Z",
   "news": [
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-highlights-wrap-up-third-day-argentina-cordoba-mass.html",
+      "title": "Третий день Папы Льва XIV в Аргентине",
+      "summary": "В третий день Апостольского путешествия по Южной Америке Папа Лев XIV посетил Кордобу, где отслужил Мессу, встретился с духовенством и провел молитвенную встречу с молодежью в Буэнос-Айресе.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-highlights-wrap-up-third-day-argentina-cordoba-mass.html",
+      "publishedAt": "2026-11-11T01:31:00.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-urges-youth-to-shun-the-idols-of-our-time-and-turn-to-christ",
+      "title": "Папа Лев XIV призывает молодежь отвергнуть «идолов нашего времени» и обратиться к Христу",
+      "summary": "Понтифик подтвердил слова Папы Франциска о том, что в Церкви приветствуют всех, но подчеркнул необходимость личного обращения и внутреннего покаяния каждого человека.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-urges-youth-to-shun-the-idols-of-our-time-and-turn-to-christ",
+      "publishedAt": "2026-11-11T01:16:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://sib-catholic.ru/stareyshemu-v-rossii-svyashhenniku-frantsiskantsu-o-korrado-trabukki-ispolnilos-79-let/",
+      "title": "Отец Коррадо Трабукки, старейший священник-францисканец России, отмечает 79-летие",
+      "summary": "Отец Коррадо Трабукки, самый пожилой по возрасту и стажу монах-францисканец в России и старейший священник Преображенской епархии в Новосибирске, празднует 79-й день рождения 11 ноября, в день святого Мартина Турского.",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/stareyshemu-v-rossii-svyashhenniku-frantsiskantsu-o-korrado-trabukki-ispolnilos-79-let/",
+      "publishedAt": "2026-11-11T01:15:08.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/photos-pope-leo-xiv-continues-papal-trip-in-argentina",
+      "title": "Фотогалерея: Папа Лев XIV в Аргентине во время поездки по Южной Америке",
+      "summary": "Папа Римский Лев XIV отслужил Мессы в нескольких городах Аргентины, встретился с католическими лидерами и посетил различные общины в ходе своего пастырского визита.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/photos-pope-leo-xiv-continues-papal-trip-in-argentina",
+      "publishedAt": "2026-11-11T01:09:34.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-prayer-vigil-argentina-young-people.html",
+      "title": "Папа Лев XIV призывает аргентинскую молодежь: «Кто сказал, что уже слишком поздно?»",
+      "summary": "Во время молитвенного бдения с участием около миллиона молодых людей в Буэнос-Айресе Папа Лев XIV призвал молодежь Аргентины вернуться к Христу в молитве, подчеркнув, что никогда не поздно откликнуться на Божий призыв к святости.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-prayer-vigil-argentina-young-people.html",
+      "publishedAt": "2026-11-11T01:05:00.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/theologians-retired-commander-reflect-on-just-war-at-catholic-military-conference",
+      "title": "Теологи и отставной командир обсуждают справедливую войну на Католической военной конференции",
+      "summary": "Конференция проходит на фоне дискуссий о моральной легитимности военных действий и ответственности политиков и военнослужащих соблюдать учение Церкви о войне и мире.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/theologians-retired-commander-reflect-on-just-war-at-catholic-military-conference",
+      "publishedAt": "2026-11-10T23:17:52.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://sib-catholic.ru/11-noyabrya-svyatoy-martin-turskiy-episkop-pamyat/",
+      "title": "11 ноября — память святого Мартина Турского, епископа",
+      "summary": "11 ноября Католическая Церковь чтит память святого Мартина Турского, одного из пяти небесных покровителей Франции, в честь которого освящены тысячи церквей и названы города в Европе и Америке.",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/11-noyabrya-svyatoy-martin-turskiy-episkop-pamyat/",
+      "publishedAt": "2026-11-10T23:00:23.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/no-more-holding-or-raising-hands-during-the-our-father-archdiocese-says",
+      "title": "Архиепархия Портленда просит не держаться за руки и не поднимать руки во время молитвы «Отче наш» на Мессе",
+      "summary": "Архиепархия обратилась к мирянам с просьбой воздержаться от поднятия и сцепления рук во время молитвы «Отче наш», ссылаясь на церковные документы о литургических нормах.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/no-more-holding-or-raising-hands-during-the-our-father-archdiocese-says",
+      "publishedAt": "2026-11-10T22:27:00.000Z",
+      "importance": 4,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/meet-the-argentine-saints-and-blesseds-pope-leo-mentioned-in-cordoba",
+      "title": "Папа Лев XIV вспомнил аргентинских святых и блаженных в Кордове",
+      "summary": "Во время мессы 10 ноября в Кордове Папа Лев XIV отметил аргентинских святых и блаженных как вечные примеры веры и христианского свидетельства.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/meet-the-argentine-saints-and-blesseds-pope-leo-mentioned-in-cordoba",
+      "publishedAt": "2026-11-10T21:47:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
     {
       "id": "https://www.ewtnnews.com/world/americas/pope-leo-moved-by-testimony-of-woman-abandoned-as-a-child-due-to-her-disability",
       "title": "Папа Лев XIV тронут свидетельством женщины, оставленной в детстве из-за инвалидности",
@@ -351,6 +450,17 @@
       "url": "https://www.agensir.it/mondo/2026/11/10/leone-xiv-in-peru-don-nava-missionario-a-pucallpa-la-chiesa-sia-piu-coraggiosa-nella-difesa-dellamazzonia-e-degli-indigeni/",
       "publishedAt": "2026-11-10T08:22:00.000Z",
       "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://dscs.ru/archives/14800",
+      "title": "Неделя милосердия в Епархии Святого Климента в Саратове",
+      "summary": "С 8 по 15 ноября в Епархии Святого Климента проходит Неделя милосердия — время благотворительных и просветительских инициатив «Каритас» Юга России, объединяющих приходы и добровольцев для помощи нуждающимся.",
+      "category": "Россия",
+      "source": "Епархия Святого Климента в Саратове",
+      "url": "https://dscs.ru/archives/14800",
+      "publishedAt": "2026-11-10T05:32:31.000Z",
+      "importance": 6,
       "aiProcessed": true
     },
     {
@@ -4216,66 +4326,80 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/vice-president-vance-to-ewtn-we-are-god-s-ambassadors-on-earth",
-      "title": "Vice President Vance to EWTN: ‘We are God’s ambassadors on Earth’",
-      "summary": "JD Vance spoke with EWTN News anchor Raymond Arroyo in a wide-ranging interview that included politics, immigration, economics, and faith.",
+      "title": "Вице-президент Вэнс в интервью EWTN: «Мы — послы Божьи на Земле»",
+      "summary": "Джей Ди Вэнс дал интервью ведущему EWTN Рэймонду Арройо, в котором обсудил политику, иммиграцию, экономику и веру.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/vice-president-vance-to-ewtn-we-are-god-s-ambassadors-on-earth",
-      "publishedAt": "2026-10-23T00:03:43.000Z"
+      "publishedAt": "2026-10-23T00:03:43.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/bishops-pray-with-trump-in-oval-office",
-      "title": "Catholic bishops pray with President Trump",
-      "summary": "In addition to praying with Trump, topics discussed during the meeting included religious freedom, school choice, religious visas, and life policy.",
+      "title": "Католические епископы молятся вместе с президентом Трампом",
+      "summary": "Во время встречи с Трампом епископы молились и обсудили вопросы религиозной свободы, выбора школ, религиозных виз и политики в защиту жизни.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/bishops-pray-with-trump-in-oval-office",
-      "publishedAt": "2026-10-22T22:52:35.000Z"
+      "publishedAt": "2026-10-22T22:52:35.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/chicago-artist-creates-marian-icon-for-pope-leo-xiv-who-will-keep-the-image-in-his-bedroom",
-      "title": "Chicago artist creates Marian icon for Pope Leo XIV, who will keep the image in his bedroom",
-      "summary": "A Chicago iconographer had just one week to create an icon of Our Lady of Good Counsel for Pope Leo XIV, forging a spiritual connection through art, prayer, and vocation.",
+      "title": "Художник из Чикаго создал марианскую икону для Папы Льва XIV",
+      "summary": "Чикагский иконописец за неделю написал икону Божией Матери Доброго Совета для Папы Льва XIV, установив духовную связь через искусство, молитву и призвание.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/chicago-artist-creates-marian-icon-for-pope-leo-xiv-who-will-keep-the-image-in-his-bedroom",
-      "publishedAt": "2026-10-22T20:21:00.000Z"
+      "publishedAt": "2026-10-22T20:21:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/u-s-bishops-urge-continued-protections-for-ukrainians-salvadorans",
-      "title": "U.S. bishops urge continued immigration protections for Ukrainians, Salvadorans",
-      "summary": "Ukrainian and El Salvadoran temporary protected status (TPS) beneficiaries will continue to retain immigration protections, pending an announcement “made at the appropriate time,” the government said.",
+      "title": "Епископы США призывают сохранить иммиграционные защиты для украинцев и сальвадорцев",
+      "summary": "Временный защищенный статус для граждан Украины и Сальвадора будет сохранен до официального объявления, сообщили власти.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/u-s-bishops-urge-continued-protections-for-ukrainians-salvadorans",
-      "publishedAt": "2026-10-22T19:41:00.000Z"
+      "publishedAt": "2026-10-22T19:41:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/archbishop-coakley-receives-award-for-anti-death-penalty-advocacy",
-      "title": "Archbishop Coakley receives award for anti-death penalty advocacy",
-      "summary": "Coakley said living in the U.S. has deepened his commitment to advocating for death row inmates and urging the Church and the nation to see the inhumanity of executions carried out in their name.",
+      "title": "Архиепископ Кокли получил награду за борьбу с смертной казнью",
+      "summary": "Кокли отметил, что жизнь в США укрепила его стремление защищать осужденных на смертную казнь и призывать Церковь и страну осознать бесчеловечность казней.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/archbishop-coakley-receives-award-for-anti-death-penalty-advocacy",
-      "publishedAt": "2026-10-22T19:01:00.000Z"
+      "publishedAt": "2026-10-22T19:01:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/supreme-court-order-leaves-federal-prison-transgender-services-in-place-for-now",
-      "title": "Supreme Court order leaves federal prison transgender services in place for now",
-      "summary": "Justices Clarence Thomas and Samuel Alito said they would have granted the government’s request to reverse the rulings.",
+      "title": "Верховный суд временно сохраняет услуги для трансгендерных заключенных в федеральных тюрьмах",
+      "summary": "Судьи Кларенс Томас и Самуэль Аліто заявили, что поддержали бы просьбу правительства отменить действующие решения, однако пока услуги остаются в силе.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/supreme-court-order-leaves-federal-prison-transgender-services-in-place-for-now",
-      "publishedAt": "2026-10-22T18:21:00.000Z"
+      "publishedAt": "2026-10-22T18:21:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/middle-east/jerusalem-patriarchs-and-church-leaders-condemn-settler-attacks-in-taybeh-call-for",
-      "title": "Jerusalem patriarchs and church leaders condemn settler attacks in Taybeh, call for accountability",
-      "summary": "Jerusalem church leaders have urged protection for Taybeh’s Christian community after a recent attack, saying residents have been subjected to “wide-scale terror” by settlers.",
+      "title": "Патриархи и церковные лидеры Иерусалима осуждают нападения поселенцев в Тайбе и требуют ответственности",
+      "summary": "Церковные руководители Иерусалима призвали защитить христианскую общину Тайбе после недавнего нападения, отметив, что жители подвергаются масштабному террору со стороны поселенцев.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/middle-east/jerusalem-patriarchs-and-church-leaders-condemn-settler-attacks-in-taybeh-call-for",
-      "publishedAt": "2026-10-22T17:41:00.000Z"
+      "publishedAt": "2026-10-22T17:41:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-urges-educators-to-help-young-people-encounter-christ-amid-merciless-treatment-by-culture",
@@ -4301,30 +4425,36 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/us/cardinal-filoni-new-book-gods-relationship-with-saints",
-      "title": "Cardinal Filoni delves into God’s relationships with biblical figures, saints in new book",
-      "summary": "Cardinal Fernando Filoni discusses his new book, “My Days Are in Your Hands: Men and Women in the Footsteps of Jesus” with EWTN.",
+      "title": "Кардинал Филони рассказывает о новых книгах о взаимоотношениях Бога с библейскими персонажами и святыми",
+      "summary": "Кардинал Фернандо Филони в интервью EWTN обсуждает свою книгу «Мои дни в Твоих руках: мужчины и женщины по следам Иисуса».",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/cardinal-filoni-new-book-gods-relationship-with-saints",
-      "publishedAt": "2026-10-22T15:51:00.000Z"
+      "publishedAt": "2026-10-22T15:51:00.000Z",
+      "importance": 4,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/polish-lawmakers-vote-to-ease-abortion-law-as-presidential-veto-looms",
-      "title": "Polish lawmakers vote to ease abortion law as presidential veto looms",
-      "summary": "One bishop called to defend the defenseless, while reports say the bills are “almost certain” to be vetoed by President Karol Nawrocki.",
+      "title": "Польские законодатели голосуют за смягчение закона об абортах на фоне угрозы вето президента",
+      "summary": "Один из епископов призвал защищать беззащитных, в то время как сообщается, что президент Кароль Навроцкий почти наверняка наложит вето на законопроекты.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/polish-lawmakers-vote-to-ease-abortion-law-as-presidential-veto-looms",
-      "publishedAt": "2026-10-22T15:11:00.000Z"
+      "publishedAt": "2026-10-22T15:11:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/europe/schoenstatt-asks-for-information-on-founder-as-allegations-remain-under-study",
-      "title": "Schoenstatt asks for information on founder as allegations remain under study",
-      "summary": "The movement says research into the allegations is far from complete and could take years, and that the evidence may confirm or fail to substantiate them.",
+      "title": "Движение Шенштат запрашивает информацию о основателе в связи с продолжающимся расследованием обвинений",
+      "summary": "Движение заявляет, что исследование обвинений далеко от завершения и может занять годы, а собранные доказательства могут подтвердить или опровергнуть их.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/schoenstatt-asks-for-information-on-founder-as-allegations-remain-under-study",
-      "publishedAt": "2026-10-22T14:31:00.000Z"
+      "publishedAt": "2026-10-22T14:31:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-invites-young-catholics-to-seoul-as-registration-opens-for-world-youth-day-2027",
@@ -4350,30 +4480,36 @@
     },
     {
       "id": "https://www.ewtnnews.com/world/americas/accusations-of-corruption-fly-as-brazilians-to-head-to-the-polls-to-elect-president",
-      "title": "Accusations of corruption fly as Brazilians head to polls to elect president",
-      "summary": "Lula da Silva and Flávio Bolsonaro face off in a contest marked by polarization and accusations of corruption.",
+      "title": "В Бразилии на выборах президента звучат обвинения в коррупции",
+      "summary": "Лула да Силва и Флавио Болсонару соперничают на выборах, сопровождающихся сильной поляризацией и взаимными обвинениями в коррупции.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/accusations-of-corruption-fly-as-brazilians-to-head-to-the-polls-to-elect-president",
-      "publishedAt": "2026-10-22T12:00:00.000Z"
+      "publishedAt": "2026-10-22T12:00:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/africa/confronting-workplace-injustice-part-of-christian-mission-nigerian-bishop-says",
-      "title": "Confronting workplace injustice part of Christian mission, Nigerian bishop says",
-      "summary": "Bishop Sylvester Luka Gopep spoke during a celebration marking the centenary of World Mission Day, organized by the Pontifical Mission Societies (PMS) in Nigeria.",
+      "title": "Нигерийский епископ: борьба с несправедливостью на работе — часть христианской миссии",
+      "summary": "Епископ Сильвестр Лука Гопеп выступил на праздновании столетия Всемирного дня миссии, организованного Папскими миссионерскими обществами в Нигерии.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/africa/confronting-workplace-injustice-part-of-christian-mission-nigerian-bishop-says",
-      "publishedAt": "2026-10-22T11:00:00.000Z"
+      "publishedAt": "2026-10-22T11:00:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/world/us/catholic-association-launches-online-courses-to-equip-faithful-for-mental-health-ministry",
-      "title": "Catholic association launches online courses to equip faithful for mental health ministry",
-      "summary": "The International Association of Catholic Mental Health Ministers launched two online courses to help the faithful recognize mental health struggles and learn how to support those who are suffering.",
+      "title": "Католическая ассоциация запустила онлайн-курсы по служению в области психического здоровья",
+      "summary": "Международная ассоциация католических служителей в области психического здоровья начала два онлайн-курса для помощи верующим в распознавании проблем и поддержке страдающих.",
       "category": "Мир",
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/us/catholic-association-launches-online-courses-to-equip-faithful-for-mental-health-ministry",
-      "publishedAt": "2026-10-22T10:00:00.000Z"
+      "publishedAt": "2026-10-22T10:00:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
     },
     {
       "id": "https://www.ewtnnews.com/vatican/5-ways-saint-john-paul-ii-changed-the-catholic-church-forever",

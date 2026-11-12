@@ -1,6 +1,171 @@
 {
-  "updatedAt": "2026-11-11T17:10:17.436Z",
+  "updatedAt": "2026-11-12T00:45:57.769Z",
   "news": [
+    {
+      "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/11/261111d.html",
+      "title": "Апостольское путешествие Папы Льва XIV в Уругвай, Аргентину и Перу (6–17 ноября 2026) – Церемония прощания в Аргентине и отъезд из Буэнос-Айреса",
+      "summary": "Папа Лев XIV завершил визит в Аргентину церемонией прощания и отъездом из Буэнос-Айреса. Во время перелета в Лиму были направлены телеграммы президенту Аргентины и главе Чили. Официальный прием состоялся на авиабазе в Кальяо.",
+      "category": "Ватикан",
+      "source": "Пресс-служба Святого Престола",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/11/261111d.html",
+      "publishedAt": "2026-11-11T22:52:14.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-leo-returns-to-what-is-expected-to-be-a-national-party-in-his-second-homeland-of-peru/",
+      "title": "Папа Лев возвращается в Перу, где его ожидает национальный праздник",
+      "summary": "Перу с населением 34 миллиона человек сталкивается с вызовами, включая приближение Эль-Ниньо, рост преступности и неравенство доходов.",
+      "category": "Мир",
+      "source": "Crux",
+      "url": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-leo-returns-to-what-is-expected-to-be-a-national-party-in-his-second-homeland-of-peru/",
+      "publishedAt": "2026-11-11T22:35:50.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/theologians-advance-walijewski-cause",
+      "title": "Ватиканские теологи продвигают дело о канонизации миссионерского священника из Висконсина",
+      "summary": "Слуга Божий Джозеф Валижевски, миссионер в Боливии и Перу, будет рассмотрен прелатами в Дикастерии по делам святых Ватикана.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/theologians-advance-walijewski-cause",
+      "publishedAt": "2026-11-11T21:49:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://cruxnow.com/2026_pope_in_south_america/2026/11/the-pope-ends-an-emotional-argentina-visit-with-a-plea-for-unity-and-reconciliation/",
+      "title": "Папа завершил эмоциональный визит в Аргентину призывом к единству и примирению",
+      "summary": "По оценкам Ватикана, около 2 миллионов человек приняли участие в мессе — самой массовой встрече с Папой за почти 40 лет в Аргентине.",
+      "category": "Мир",
+      "source": "Crux",
+      "url": "https://cruxnow.com/2026_pope_in_south_america/2026/11/the-pope-ends-an-emotional-argentina-visit-with-a-plea-for-unity-and-reconciliation/",
+      "publishedAt": "2026-11-11T21:48:36.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/peru-recognizes-st-turibius-of-mogrovejo-as-patron-of-human-rights",
+      "title": "Перу признало святого Турибио де Могровехо покровителем прав человека",
+      "summary": "Правительство Перу издало указ, признающий заслуги святого в защите уязвимых и поддерживающий инициативы по популяризации его жизни и дела.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/peru-recognizes-st-turibius-of-mogrovejo-as-patron-of-human-rights",
+      "publishedAt": "2026-11-11T21:09:21.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/11/pope-leo-entrusts-himself-to-argentinas-virgin-mary/",
+      "title": "Папа Лев доверяет себя Деве Марии Аргентины",
+      "summary": "Папа Лев, находясь в Аргентине, выразил глубокое духовное единение с местной Девой Марией. Его пребывание вызвало сильные эмоции у более 6 миллионов аргентинцев, а в завершение последней мессы он благословил эту землю.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/11/pope-leo-entrusts-himself-to-argentinas-virgin-mary/",
+      "publishedAt": "2026-11-11T20:57:36.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/u-s-bishops-urge-senate-to-protect-haitians-from-deportation",
+      "title": "Епископы США призывают Сенат защитить гаитян от депортации",
+      "summary": "Американские епископы поддержали законопроект S. 4814, который предусматривает временный защищенный статус для гаитян до 20 апреля 2029 года, чтобы предотвратить их депортацию.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/u-s-bishops-urge-senate-to-protect-haitians-from-deportation",
+      "publishedAt": "2026-11-11T20:26:25.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/a-45-foot-statue-of-pope-leo-xiv-is-unveiled-in-peru-in-time-for-his-arrival",
+      "title": "В Перу открыли 14-метровую статую Папы Льва XIV к его приезду",
+      "summary": "В городе Кальяо установили большую статую Папы Льва XIV, символизирующую благодарность и веру местных жителей за его значительный вклад в евангелизацию региона.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/a-45-foot-statue-of-pope-leo-xiv-is-unveiled-in-peru-in-time-for-his-arrival",
+      "publishedAt": "2026-11-11T19:25:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/europe/uk-bishops-warn-against-parliament-bill-that-would-criminalize-counseling-over-gender-identity",
+      "title": "Епископы Великобритании предупреждают о законопроекте, криминализирующем консультации по гендерной идентичности",
+      "summary": "Архиепископ Джон Шеррингтон заявил, что закон может ограничить способность Католической Церкви ясно и с уважением проповедовать понимание человеческой природы.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/europe/uk-bishops-warn-against-parliament-bill-that-would-criminalize-counseling-over-gender-identity",
+      "publishedAt": "2026-11-11T18:45:27.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/church/news/2026-11/argentine-bishops-take-up-pope-leo-xiv-challenge-pastoral-work.html",
+      "title": "Аргентинские епископы приняли вызовы Папы Льва XIV для пастырской работы",
+      "summary": "Архиепископ Буэнос-Айреса и президент Конференции католических епископов Аргентины положительно оценили визит Папы Льва XIV, подчеркнув значимость его послания и вызовы для пастырской деятельности в стране.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/church/news/2026-11/argentine-bishops-take-up-pope-leo-xiv-challenge-pastoral-work.html",
+      "publishedAt": "2026-11-11T17:48:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/students-for-life-leaders-sued-in-texas-over-undercover-abortion-pill-probe",
+      "title": "Руководители Students for Life в Техасе подали в суд по делу о тайном расследовании абортных таблеток",
+      "summary": "Ответчики считают иск необоснованным и утверждают, что истец не имеет права на предъявление иска в данном деле.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/students-for-life-leaders-sued-in-texas-over-undercover-abortion-pill-probe",
+      "publishedAt": "2026-11-11T17:45:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/11/2-emotional-testimonies-leo-xiv-carries-away-from-argentina/",
+      "title": "Папа Лев XIV поделился двумя трогательными свидетельствами из Аргентины",
+      "summary": "Во время четырехдневного визита в Аргентину Папа Лев XIV провел мессу для семи миллионов человек, выступил с речью о правах трудящихся и помолился у памятной доски Франциска. Особое внимание вызвали встречи с двумя людьми, которые рассказали свои личные истории.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/11/2-emotional-testimonies-leo-xiv-carries-away-from-argentina/",
+      "publishedAt": "2026-11-11T17:44:19.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/church/news/2026-11/argentina-conclusion-pope-leo-xiv-apostolic-journey.html",
+      "title": "Следующая задача Аргентины: претворить слова Папы Льва XIV в дела",
+      "summary": "После отъезда Папы Льва XIV из Аргентины корреспондент в Буэнос-Айресе отмечает акцент Папы на евангельских ценностях и указывает на необходимость воплощения его слов в конкретные действия.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/church/news/2026-11/argentina-conclusion-pope-leo-xiv-apostolic-journey.html",
+      "publishedAt": "2026-11-11T17:40:21.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-departs-from-argentina-for-peru.html",
+      "title": "Папа Лев XIV покидает Аргентину и направляется в Перу",
+      "summary": "Папа Лев XIV завершил апостольское путешествие по Аргентине и отправился в Перу, где продолжится заключительный этап его визита в Латинскую Америку.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-departs-from-argentina-for-peru.html",
+      "publishedAt": "2026-11-11T17:38:38.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/from-the-virtual-to-the-sacramental-hackathon-in-rome-reimagines-parish-life-in-age-of-ai",
+      "title": "От виртуального к таинственному: хакатон в Риме переосмысливает приходскую жизнь в эпоху ИИ",
+      "summary": "Католические лидеры в области искусственного интеллекта разработали технологические решения для церковных проектов в рамках инициативы, которая охватит четыре епархии США в начале 2027 года.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/from-the-virtual-to-the-sacramental-hackathon-in-rome-reimagines-parish-life-in-age-of-ai",
+      "publishedAt": "2026-11-11T17:05:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
     {
       "id": "https://cruxnow.com/church-in-europe/2026/11/the-spanish-speaking-worlds-reckoning-with-clerical-sex-abuse/",
       "title": "Испаноязычный мир и осмысление кризиса сексуальных злоупотреблений среди духовенства",
@@ -21,6 +186,17 @@
       "url": "https://www.ewtnnews.com/vatican/vatican-official-to-visit-holy-land-to-bring-closeness-of-pope-leo-xiv",
       "publishedAt": "2026-11-11T16:25:00.000Z",
       "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-arrives-in-peru-for-final-leg-of-apostolic-journey.html",
+      "title": "Папа Лев прибыл в Перу для заключительного этапа Апостольского путешествия",
+      "summary": "Папа Лев начал шестидневный визит в Перу с приземления на авиабазе Кальяо, где его тепло встретили жители страны.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-arrives-in-peru-for-final-leg-of-apostolic-journey.html",
+      "publishedAt": "2026-11-11T16:05:00.000Z",
+      "importance": 8,
       "aiProcessed": true
     },
     {
@@ -417,6 +593,17 @@
       "url": "https://www.vaticannews.va/en/church/news/2026-11/irish-sisters-bring-faith-and-compassion-to-the-margins-of-socie.html",
       "publishedAt": "2026-11-11T08:24:11.000Z",
       "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-leo-xiv-urges-youth-in-argentina-to-reject-idols-and-to-follow-the-model-of-saints/",
+      "title": "Папа Лев XIV призвал молодежь Аргентины отвергнуть «идолов» и следовать примеру святых",
+      "summary": "Папа Лев XIV возглавил масштабное молодежное бдение у Монумента испанцам в Буэнос-Айресе, призывая молодых людей отказаться от «идолов» и брать пример с жизни святых.",
+      "category": "Мир",
+      "source": "Crux",
+      "url": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-leo-xiv-urges-youth-in-argentina-to-reject-idols-and-to-follow-the-model-of-saints/",
+      "publishedAt": "2026-11-11T04:49:00.000Z",
+      "importance": 7,
       "aiProcessed": true
     },
     {

@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-11-12T19:56:16.716Z",
+  "updatedAt": "2026-11-13T01:50:57.102Z",
   "news": [
+    {
+      "id": "https://www.ewtnnews.com/vatican/photos-pope-leo-xiv-returns-to-peru-where-he-once-served-as-bishop",
+      "title": "Папа Лев XIV возвращается в Перу, где ранее служил епископом",
+      "summary": "Папа Римский совершил трогательное возвращение в страну, которую он считал своей второй родиной и где жил до избрания на папский престол.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/photos-pope-leo-xiv-returns-to-peru-where-he-once-served-as-bishop",
+      "publishedAt": "2026-11-13T01:18:15.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-young-people-prayer-vigil-12-november-2026.html",
+      "title": "Папа: Иисус «знает вашу историю и продолжает приглашать идти с Ним»",
+      "summary": "Во время молитвенного бдения в Лиме Папа Лев XIV напомнил молодым перуанцам, что Иисус понимает их жизненный путь и продолжает приглашать их следовать за Ним, несмотря на страхи и ошибки.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-young-people-prayer-vigil-12-november-2026.html",
+      "publishedAt": "2026-11-13T00:50:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/republicans-demand-more-progress-in-halting-christian-persecution-in-nigeria",
+      "title": "Республиканцы требуют ускорения борьбы с преследованием христиан в Нигерии",
+      "summary": "Законодатели обсудили статус Нигерии как страны с особой озабоченностью по религиозным преследованиям и выразили обеспокоенность медленным прогрессом в решении проблемы.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/republicans-demand-more-progress-in-halting-christian-persecution-in-nigeria",
+      "publishedAt": "2026-11-12T23:48:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-meets-with-abuse-victims-in-lima.html",
+      "title": "Папа Лев XIV встретился с жертвами насилия в Перу",
+      "summary": "Папа провел более часа в беседе с шестью выжившими после насилия, обсуждая важность слушания жертв, поиска истины, поддержки исцеления и создания безопасных условий, сообщает Пресс-служба Святого Престола.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-meets-with-abuse-victims-in-lima.html",
+      "publishedAt": "2026-11-12T23:24:00.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-urges-peru-to-embrace-catholic-social-teaching-for-a-better-society",
+      "title": "Папа Лев XIV призывает Перу принять католическое социальное учение ради лучшего общества",
+      "summary": "Понтифик обратился к мирянам после встречи с епископами в столице страны, подчеркнув важность католического социального учения для развития общества.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-urges-peru-to-embrace-catholic-social-teaching-for-a-better-society",
+      "publishedAt": "2026-11-12T23:08:52.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/priest-extols-the-value-of-confession-at-papal-youth-vigil",
+      "title": "Священник подчеркнул важность исповеди на папской молодежной встрече",
+      "summary": "Отец Родольфо рассказал, что для него исповедь придает смысл его служению и призывает молодых людей принимать этот таинственный обряд, где они испытывают лишь Божью любовь и прощение.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/priest-extols-the-value-of-confession-at-papal-youth-vigil",
+      "publishedAt": "2026-11-12T21:02:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/emotions-run-high-during-pope-s-prison-visit-in-argentina",
+      "title": "Эмоции зашкаливают во время визита Папы в тюрьму в Аргентине",
+      "summary": "Капеллан тюрьмы отец Матиас де Мартини отметил, что визит Понтифика напоминает о том, что Бог радуется о найденной овце и о сыне, вернувшемся домой.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/emotions-run-high-during-pope-s-prison-visit-in-argentina",
+      "publishedAt": "2026-11-12T20:22:37.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/12/pope-leo-xiv-calls-church-to-accountability-in-lima-homecoming/",
+      "title": "Папа Лев XIV призвал Церковь к ответственности в Лиме",
+      "summary": "Папа Лев XIV, вернувшись в Перу, где служил миссионером и епископом, призвал Церковь отвечать за случаи злоупотреблений, осудил «устойчивую мачистскую ментальность» и призвал перуанцев не сдаваться перед бедностью.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/12/pope-leo-xiv-calls-church-to-accountability-in-lima-homecoming/",
+      "publishedAt": "2026-11-12T19:49:11.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
     {
       "id": "https://cruxnow.com/2026_pope_in_south_america/2026/11/after-his-emotional-return-pope-denounces-machismo-in-peru-and-demands-women-be-protected/",
       "title": "Папа осуждает «мачизм» в Перу и требует защиты женщин после эмоционального возвращения",
@@ -626,6 +714,17 @@
       "url": "https://cruxnow.com/church-in-europe/2026/11/the-spanish-speaking-worlds-reckoning-with-clerical-sex-abuse/",
       "publishedAt": "2026-11-11T16:47:42.000Z",
       "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://cruxnow.com/news-analysis/2026/11/the-spanish-speaking-worlds-reckoning-with-clerical-sex-abuse/",
+      "title": "Испаноязычный мир осмысливает кризис сексуальных злоупотреблений в Церкви",
+      "summary": "В 2002 году расследование Boston Globe вскрыло кризис сексуальных злоупотреблений в Церкви, вызвав широкий общественный резонанс, особенно в англоязычном мире.",
+      "category": "Мир",
+      "source": "Crux",
+      "url": "https://cruxnow.com/news-analysis/2026/11/the-spanish-speaking-worlds-reckoning-with-clerical-sex-abuse/",
+      "publishedAt": "2026-11-11T16:47:42.000Z",
+      "importance": 6,
       "aiProcessed": true
     },
     {
@@ -5399,105 +5498,6 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-cancels-assisi-visit-on-doctors-advice",
       "publishedAt": "2026-10-23T08:05:16.000Z",
-      "importance": 8,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://dscs.ru/archives/14675",
-      "title": "Информационное сообщение о заседании Пленарного собрания Конференции католических епископов России во Владимире (21-22 октября 2026 г.)",
-      "summary": "21-22 октября 2026 года во Владимире прошло пленарное заседание Конференции католических епископов России с участием семи епископов, включая председателя и вице-председателя конференции.",
-      "category": "Россия",
-      "source": "Епархия Святого Климента в Саратове",
-      "url": "https://dscs.ru/archives/14675",
-      "publishedAt": "2026-10-23T06:41:54.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/vice-president-vance-to-ewtn-we-are-god-s-ambassadors-on-earth",
-      "title": "Вице-президент Вэнс в интервью EWTN: «Мы — послы Божьи на Земле»",
-      "summary": "Джей Ди Вэнс дал интервью ведущему EWTN Рэймонду Арройо, в котором обсудил политику, иммиграцию, экономику и веру.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/vice-president-vance-to-ewtn-we-are-god-s-ambassadors-on-earth",
-      "publishedAt": "2026-10-23T00:03:43.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/bishops-pray-with-trump-in-oval-office",
-      "title": "Католические епископы молятся вместе с президентом Трампом",
-      "summary": "Во время встречи с Трампом епископы молились и обсудили вопросы религиозной свободы, выбора школ, религиозных виз и политики в защиту жизни.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/bishops-pray-with-trump-in-oval-office",
-      "publishedAt": "2026-10-22T22:52:35.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/chicago-artist-creates-marian-icon-for-pope-leo-xiv-who-will-keep-the-image-in-his-bedroom",
-      "title": "Художник из Чикаго создал марианскую икону для Папы Льва XIV",
-      "summary": "Чикагский иконописец за неделю написал икону Божией Матери Доброго Совета для Папы Льва XIV, установив духовную связь через искусство, молитву и призвание.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/chicago-artist-creates-marian-icon-for-pope-leo-xiv-who-will-keep-the-image-in-his-bedroom",
-      "publishedAt": "2026-10-22T20:21:00.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/u-s-bishops-urge-continued-protections-for-ukrainians-salvadorans",
-      "title": "Епископы США призывают сохранить иммиграционные защиты для украинцев и сальвадорцев",
-      "summary": "Временный защищенный статус для граждан Украины и Сальвадора будет сохранен до официального объявления, сообщили власти.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/u-s-bishops-urge-continued-protections-for-ukrainians-salvadorans",
-      "publishedAt": "2026-10-22T19:41:00.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/archbishop-coakley-receives-award-for-anti-death-penalty-advocacy",
-      "title": "Архиепископ Кокли получил награду за борьбу с смертной казнью",
-      "summary": "Кокли отметил, что жизнь в США укрепила его стремление защищать осужденных на смертную казнь и призывать Церковь и страну осознать бесчеловечность казней.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/archbishop-coakley-receives-award-for-anti-death-penalty-advocacy",
-      "publishedAt": "2026-10-22T19:01:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/supreme-court-order-leaves-federal-prison-transgender-services-in-place-for-now",
-      "title": "Верховный суд временно сохраняет услуги для трансгендерных заключенных в федеральных тюрьмах",
-      "summary": "Судьи Кларенс Томас и Самуэль Аліто заявили, что поддержали бы просьбу правительства отменить действующие решения, однако пока услуги остаются в силе.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/supreme-court-order-leaves-federal-prison-transgender-services-in-place-for-now",
-      "publishedAt": "2026-10-22T18:21:00.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/middle-east/jerusalem-patriarchs-and-church-leaders-condemn-settler-attacks-in-taybeh-call-for",
-      "title": "Патриархи и церковные лидеры Иерусалима осуждают нападения поселенцев в Тайбе и требуют ответственности",
-      "summary": "Церковные руководители Иерусалима призвали защитить христианскую общину Тайбе после недавнего нападения, отметив, что жители подвергаются масштабному террору со стороны поселенцев.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/middle-east/jerusalem-patriarchs-and-church-leaders-condemn-settler-attacks-in-taybeh-call-for",
-      "publishedAt": "2026-10-22T17:41:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-urges-educators-to-help-young-people-encounter-christ-amid-merciless-treatment-by-culture",
-      "title": "Папа призвал педагогов помочь молодежи встретить Христа на фоне «жестокого» культурного давления",
-      "summary": "На мероприятии, организованном ватиканским Дикастерием по культуре и образованию, собрались 1200 участников из 60 стран.",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-urges-educators-to-help-young-people-encounter-christ-amid-merciless-treatment-by-culture",
-      "publishedAt": "2026-10-22T17:01:00.000Z",
       "importance": 8,
       "aiProcessed": true
     }

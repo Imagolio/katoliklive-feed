@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-11-14T18:05:54.108Z",
+  "updatedAt": "2026-11-14T22:27:08.467Z",
   "news": [
+    {
+      "id": "https://aleteia.org/2026/11/14/jesus-will-always-find-faith-here-pope-assures-in-remote-andes-village/",
+      "title": "Папа уверяет, что Иисус всегда найдет веру в отдаленной деревне Анд",
+      "summary": "Лев XIV посетил труднодоступные горные районы Санта-Крус-де-Суччабамба, поддержал андинские общины и призвал к справедливому распределению богатств.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/14/jesus-will-always-find-faith-here-pope-assures-in-remote-andes-village/",
+      "publishedAt": "2026-11-14T20:39:01.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/14/popes-touching-prayer-to-the-one-who-taught-him-to-be-a-shepherd/",
+      "title": "Трогательная молитва Папы, который учился быть Пастырем",
+      "summary": "На следующий день после прибытия в Чиклае Лев XIV возглавил коронацию статуи Девы Марии в кафедральном соборе, посвятив свое служение Пресвятой Деве.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/14/popes-touching-prayer-to-the-one-who-taught-him-to-be-a-shepherd/",
+      "publishedAt": "2026-11-14T20:06:23.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/papal-mass-santa-cruz-de-succhabamba",
+      "title": "Папа Лев XIV на мессе в Перу восхвалил евангелистов Анд",
+      "summary": "Папа призвал к молитве и мирным действиям в стремлении к социальной справедливости во время мессы в Андах.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/papal-mass-santa-cruz-de-succhabamba",
+      "publishedAt": "2026-11-14T18:53:50.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/14/261114c.html",
+      "title": "Апостольское путешествие Папы Льва XIV в Уругвай, Аргентину и Перу: вылет из Чиклае и прибытие в Санта-Крус-де-Суччабамба",
+      "summary": "Папа покинул кафедральный собор Святой Марии в Чиклае и на вертолете прибыл в Санта-Крус-де-Суччабамба, где возглавил святую мессу на эспланаде.",
+      "category": "Ватикан",
+      "source": "Пресс-служба Святого Престола",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/14/261114c.html",
+      "publishedAt": "2026-11-14T18:48:21.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
     {
       "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/14/261114b.html",
       "title": "Апостольское путешествие Папы Льва XIV в Уругвай, Аргентину и Перу (6–17 ноября 2026) – обряд коронации Непорочной Девы в соборе Святой Марии",
@@ -5455,50 +5499,6 @@
       "url": "https://www.ewtnnews.com/world/americas/attending-lord-of-the-miracles-procession-not-enough-says-auxiliary-bishop-of-lima",
       "publishedAt": "2026-10-29T18:10:56.000Z",
       "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/u-s-bishops-urge-catholic-voters-start-with-your-faith",
-      "title": "Американские епископы призывают католиков руководствоваться верой при выборе на выборах",
-      "summary": "Видеоролики появились за несколько дней до промежуточных выборов 2026 года в США, которые могут стать референдумом по второму сроку Дональда Трампа.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/u-s-bishops-urge-catholic-voters-start-with-your-faith",
-      "publishedAt": "2026-10-29T16:48:00.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/rome-conference-asks-whether-the-church-did-enough-to-resist-totalitarian-regimes",
-      "title": "В римской конференции обсудили, достаточно ли Церковь сопротивлялась тоталитарным режимам",
-      "summary": "Во время конференции кардинал Пьетро Паролин предупредил страны о соблазне «быть как Бог», призывая к осторожности в отношениях с властью.",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/rome-conference-asks-whether-the-church-did-enough-to-resist-totalitarian-regimes",
-      "publishedAt": "2026-10-29T16:08:06.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/europe/eyewitness-to-train-accident-aftermath-recounts-dying-man-s-final-words-god-is-good",
-      "title": "Очевидец последствий железнодорожной аварии рассказал последние слова умирающего: «Бог добр»",
-      "summary": "Антонио Гарсия Кондадо, 78-летний фармацевт, одним из первых увидел тела под обломками после смертельного столкновения поездов в Испании.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/europe/eyewitness-to-train-accident-aftermath-recounts-dying-man-s-final-words-god-is-good",
-      "publishedAt": "2026-10-29T14:50:00.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/americas/canada-tables-bill-to-halt-maid-expansion-for-mental-illness-decriminalize-advance-requests",
-      "title": "Канада предлагает законопроект о приостановке расширения эвтаназии для психических заболеваний и декриминализации предварительных запросов",
-      "summary": "Законопроект C-41 продолжит исключать доступ к эвтаназии для лиц с психическими заболеваниями и декриминализует предварительные запросы на эвтаназию.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/americas/canada-tables-bill-to-halt-maid-expansion-for-mental-illness-decriminalize-advance-requests",
-      "publishedAt": "2026-10-29T14:10:00.000Z",
-      "importance": 6,
       "aiProcessed": true
     }
   ]

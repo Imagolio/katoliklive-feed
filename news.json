@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-11-14T22:27:08.467Z",
+  "updatedAt": "2026-11-15T06:36:05.137Z",
   "news": [
+    {
+      "id": "https://www.ewtnnews.com/vatican/photos-pope-leo-xiv-revisits-his-former-cathedral-celebrates-mass-in-rural-peru",
+      "title": "Папа Лев XIV посетил свою бывшую кафедральную церковь и отслужил мессу в сельской местности Перу",
+      "summary": "Папа Римский побывал в резиденции своей бывшей епархии, отслужил мессу и встретился с местными католиками.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/photos-pope-leo-xiv-revisits-his-former-cathedral-celebrates-mass-in-rural-peru",
+      "publishedAt": "2026-11-15T01:17:44.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-deplores-the-great-suffering-and-humiliation-of-afro-peruvians",
+      "title": "Папа Лев XIV выразил сожаление по поводу страданий и унижений афро-перуанцев",
+      "summary": "В святилище, где умер святой Турибий, Папа выразил свою поддержку перуанцам африканского происхождения и осудил преступность и вымогательство в своей бывшей епархии.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-deplores-the-great-suffering-and-humiliation-of-afro-peruvians",
+      "publishedAt": "2026-11-15T00:40:33.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-in-zana-continue-passing-on-the-faith-to-your-children.html",
+      "title": "Папа Лев в Санье: продолжайте передавать веру своим детям",
+      "summary": "Во время встречи с местной общиной у святилища святого Турибия Могровехо Папа отметил, что пастыря узнают по расстояниям, которые он готов преодолевать, и рассказал, что встреча помогла ему глубже понять Евангелие.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-in-zana-continue-passing-on-the-faith-to-your-children.html",
+      "publishedAt": "2026-11-14T23:50:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
     {
       "id": "https://aleteia.org/2026/11/14/jesus-will-always-find-faith-here-pope-assures-in-remote-andes-village/",
       "title": "Папа уверяет, что Иисус всегда найдет веру в отдаленной деревне Анд",
@@ -54,6 +87,17 @@
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/14/261114b.html",
       "publishedAt": "2026-11-14T17:57:53.000Z",
       "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/a-look-at-cusco-and-its-devotions-as-pope-leo-travels.html",
+      "title": "Папа Лев XIV посещает Куско и его народные почитания",
+      "summary": "Спустя 41 год после визита Иоанна Павла II Папа Лев XIV встретится с представителями народных культов у Саксайуамана и помолится Ангел Господень на главной площади Куско, где веками сохраняются католические процессии.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/a-look-at-cusco-and-its-devotions-as-pope-leo-travels.html",
+      "publishedAt": "2026-11-14T17:36:00.000Z",
+      "importance": 7,
       "aiProcessed": true
     },
     {
@@ -427,6 +471,17 @@
       "source": "Vatican News (английский)",
       "url": "https://www.vaticannews.va/en/church/news/2026-11/peru-chiclayo-agustin-mother-maria-meets-pope-leo-xiv.html",
       "publishedAt": "2026-11-14T00:49:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/14/261114d.html",
+      "title": "Апостольское путешествие Папы Льва XIV в Уругвай, Аргентину и Перу (6–17 ноября 2026) – молитвенная встреча по случаю закрытия Юбилейного года святого Турибия Могровехо",
+      "summary": "Папа Лев XIV провел молитвенную встречу с католической общиной в святилище святого Турибия Могровехо по случаю закрытия Юбилейного года в его честь.",
+      "category": "Ватикан",
+      "source": "Пресс-служба Святого Престола",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/14/261114d.html",
+      "publishedAt": "2026-11-14T00:40:47.000Z",
       "importance": 7,
       "aiProcessed": true
     },
@@ -5444,61 +5499,6 @@
       "url": "https://www.ewtnnews.com/world/americas/highly-secularized-uruguay-prepares-to-welcome-pope-leo-xiv",
       "publishedAt": "2026-10-30T11:00:00.000Z",
       "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/all-saints-day-2026-what-catholics-should-know-about-this-holy-day-of-obligation",
-      "title": "День всех святых 2026: что католикам нужно знать об этом праздничном дне",
-      "summary": "В этом году торжество Всех святых заменит 31-й воскресный день обычного времени.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/all-saints-day-2026-what-catholics-should-know-about-this-holy-day-of-obligation",
-      "publishedAt": "2026-10-30T10:00:00.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://cathmos.ru/konstantin-leviczkij-prinyat-v-kandidaty-v-svyashhennyj-san/",
-      "title": "Константин Левицкий принят в кандидаты в священный сан в Москве",
-      "summary": "Архиепархия Божией Матери в Москве объявила о принятии Константина Левицкого в кандидаты на священническое рукоположение, что является важным этапом в его духовном служении.",
-      "category": "Россия",
-      "source": "Архиепархия Божией Матери в Москве",
-      "url": "https://cathmos.ru/konstantin-leviczkij-prinyat-v-kandidaty-v-svyashhennyj-san/",
-      "publishedAt": "2026-10-30T06:25:55.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/pro-life-group-protests-cardinal-cupich-s-award-to-philanthropist-planned-parenthood-donor",
-      "title": "Протест pro-life группы против награды кардиналу Купичу, врученной донору Planned Parenthood",
-      "summary": "Кардинал Блейз Купич заявил, что награда не означает одобрение всех взглядов лауреата, однако Illinois Right to Life обвинила его в «оскорблении верующих» на банкете 29 октября.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/pro-life-group-protests-cardinal-cupich-s-award-to-philanthropist-planned-parenthood-donor",
-      "publishedAt": "2026-10-29T20:11:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/scholars-criticize-u-s-bishops-for-comparing-proposed-census-rule-to-1700s-slave-compromise",
-      "title": "Ученые критикуют американских епископов за сравнение предложенного правила переписи с компромиссом по рабству XVIII века",
-      "summary": "Многие юристы и эксперты резко не согласились с утверждением епископов, что исключение неграждан из переписи означает, что они не считаются лицами.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/scholars-criticize-u-s-bishops-for-comparing-proposed-census-rule-to-1700s-slave-compromise",
-      "publishedAt": "2026-10-29T19:31:41.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/americas/attending-lord-of-the-miracles-procession-not-enough-says-auxiliary-bishop-of-lima",
-      "title": "Празднование Господа Чудес в Перу: епископ призывает к жизни верой, выходящей за пределы процессий",
-      "summary": "Епископ Гильермо Элиас призвал верующих проявлять веру через дела любви, а не ограничиваться участием в процессиях.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/americas/attending-lord-of-the-miracles-procession-not-enough-says-auxiliary-bishop-of-lima",
-      "publishedAt": "2026-10-29T18:10:56.000Z",
-      "importance": 5,
       "aiProcessed": true
     }
   ]

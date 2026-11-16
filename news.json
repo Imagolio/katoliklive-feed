@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-15T22:50:35.157Z",
+  "updatedAt": "2026-11-16T06:33:10.951Z",
   "news": [
+    {
+      "id": "https://sib-catholic.ru/podlinnaya-radost-tam-gde-vera-i-bratskoe-sluzhenie-propoved-papyi-lva-xiv-na-sv-messe-v-pukalpe-peru-15-noyabrya-2026-goda/",
+      "title": "Проповедь Папы Льва XIV на Мессе в Пукальпе: вера и братское служение приносят подлинную радость",
+      "summary": "15 ноября в Пукальпе (Перу) Папа Лев XIV на Мессе призвал использовать дары Божьи для общего блага, защиты человека и природы. В богослужении участвовали около 100 тысяч паломников. Святейший Отец подчеркнул неразрывную связь заботы о человеке и природе.",
+      "category": "Ватикан",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/podlinnaya-radost-tam-gde-vera-i-bratskoe-sluzhenie-propoved-papyi-lva-xiv-na-sv-messe-v-pukalpe-peru-15-noyabrya-2026-goda/",
+      "publishedAt": "2026-11-16T04:00:26.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-mass-pucallpa-environment-amazon-caring-life-creation-peru.html",
+      "title": "Папа: Все, что унижает достоинство жизни, разрушает красоту Земли",
+      "summary": "Во время Мессы в Пукальпе Папа Лев XIV отметил тесную связь между заботой о жизни и о Земле, осудил разрушение бассейна Амазонки и его влияние на местных жителей, подчеркнув, что Бог способен исцелить все раны.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-mass-pucallpa-environment-amazon-caring-life-creation-peru.html",
+      "publishedAt": "2026-11-15T22:50:00.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
     {
       "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/15/261115d.html",
       "title": "Папа Лев XIV покинул Куско и прибыл в Пукайльпу в рамках апостольского визита в Южную Америку",
@@ -24,6 +46,17 @@
       "aiProcessed": true
     },
     {
+      "id": "https://www.ewtnnews.com/world/americas/photos-pope-leo-xiv-heads-to-cusco-pucallpa",
+      "title": "Фотографии: Папа Лев XIV в Куско и Пукальпе",
+      "summary": "Папа Лев XIV помолился Ангел Господень в Кафедральном соборе Успения Девы Марии в Куско, после чего отправился в Пукальпу, где встретился с коренными народами Амазонки.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/photos-pope-leo-xiv-heads-to-cusco-pucallpa",
+      "publishedAt": "2026-11-15T22:17:33.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
       "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-in-heart-of-peruvian-amazon-decries-human-rights-abuses.html",
       "title": "Папа Лев XIV осудил нарушения прав человека и эксплуатацию в перуанской Амазонии",
       "summary": "В Пукайльпе, в сердце перуанской Амазонии, Папа Лев XIV встретился с миссионерами и представителями местных народов, осудил нарушения прав человека и безответственную эксплуатацию природных ресурсов, призвав поддержать местную Церковь.",
@@ -42,6 +75,17 @@
       "source": "Пресс-служба Святого Престола",
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/15/261115c.html",
       "publishedAt": "2026-11-15T20:25:11.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-s-penultimate-day-in-peru-from-cusco-s-devotions.html",
+      "title": "Предпоследний день Папы Льва XIV в Перу: от Куско до Амазонки",
+      "summary": "Папа Лев XIV почтил многовековые традиции Куско, помолился Ангел Господень на площади Пласа-де-Армас, затем отправился в Пукальпу, где встретился с представителями коренных народов и миссионерами.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-s-penultimate-day-in-peru-from-cusco-s-devotions.html",
+      "publishedAt": "2026-11-15T18:40:00.000Z",
       "importance": 7,
       "aiProcessed": true
     },
@@ -351,6 +395,17 @@
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-in-zana-continue-passing-on-the-faith-to-your-children.html",
       "publishedAt": "2026-11-14T23:50:00.000Z",
       "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/15/261115e.html",
+      "title": "Апостольское путешествие Папы Льва XIV: Месса в спортивном комплексе «Вилья Депортива Региональ Укаяли» в Пукальпе",
+      "summary": "15 ноября Папа Лев XIV возглавил Мессу в Пукальпе, в спортивном комплексе «Вилья Депортива Региональ Укаяли», где собралось около 100 тысяч верующих. Святейший Отец приветствовал паломников, проезжая среди них на открытом автомобиле.",
+      "category": "Ватикан",
+      "source": "Пресс-служба Святого Престола",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/15/261115e.html",
+      "publishedAt": "2026-11-14T23:25:21.000Z",
+      "importance": 8,
       "aiProcessed": true
     },
     {
@@ -5444,61 +5499,6 @@
       "url": "https://www.ewtnnews.com/vatican/notre-dame-bests-villanova-in-eternal-city-tip-off-basketball-games",
       "publishedAt": "2026-11-02T14:25:41.000Z",
       "importance": 4,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://dscs.ru/archives/14704",
-      "title": "Память усопших священнослужителей и монашествующих Саратовской епархии",
-      "summary": "В епархии Святого Климента помянули усопших священников и монахов, призывая Господа даровать им прощение и участие в небесной Литургии. Среди помянутых — о. Яцек Фальковский, о. Кассиан Дезор и другие.",
-      "category": "Россия",
-      "source": "Епархия Святого Климента в Саратове",
-      "url": "https://dscs.ru/archives/14704",
-      "publishedAt": "2026-11-02T13:20:20.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/theology-of-the-body-meets-psychology-catholics-seek-healing-through-jpii-s-personalism",
-      "title": "Теология тела и психология: католики ищут исцеления через персонализм Иоанна Павла II",
-      "summary": "Католики обсуждали, как учение святого Иоанна Павла II о человеке может сочетаться с психологией для преодоления тревоги и поиска любви и исцеления.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/theology-of-the-body-meets-psychology-catholics-seek-healing-through-jpii-s-personalism",
-      "publishedAt": "2026-11-02T12:00:00.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/ewtn-news-explains-what-s-the-difference-between-catholic-canon-law-and-islamic-sharia-law",
-      "title": "EWTN News объясняет: в чем разница между каноническим и шариатским правом?",
-      "summary": "В ходе недавней политической кампании каноническое право сравнивали с шариатским — в чем же их различия и можно ли их сопоставлять?",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/ewtn-news-explains-what-s-the-difference-between-catholic-canon-law-and-islamic-sharia-law",
-      "publishedAt": "2026-11-02T11:00:00.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/americas/peru-loses-second-bishop-in-two-days-as-pope-leo-s-visit-nears",
-      "title": "В Перу скончался второй епископ за два дня накануне визита Папы Льва",
-      "summary": "Епископ Хорхе Каррион Павлич, возглавлявший епархию Пуно более 24 лет, умер в возрасте 76 лет, спустя два дня после смерти архиепископа Ричарда Аларкона из Куско.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/americas/peru-loses-second-bishop-in-two-days-as-pope-leo-s-visit-nears",
-      "publishedAt": "2026-11-01T22:48:52.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://dscs.ru/archives/14682",
-      "title": "Торжество Всех святых в приходах Саратовской епархии",
-      "summary": "Праздник Всех святых отмечен богослужениями и крещением в разных городах епархии. Торжество напоминает о призвании каждого к святости и объединяет верующих в молитве и радости.",
-      "category": "Россия",
-      "source": "Епархия Святого Климента в Саратове",
-      "url": "https://dscs.ru/archives/14682",
-      "publishedAt": "2026-11-01T20:09:08.000Z",
-      "importance": 5,
       "aiProcessed": true
     }
   ]

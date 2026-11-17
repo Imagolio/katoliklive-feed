@@ -1,6 +1,127 @@
 {
-  "updatedAt": "2026-11-16T19:38:25.471Z",
+  "updatedAt": "2026-11-17T03:55:35.700Z",
   "news": [
+    {
+      "id": "https://sib-catholic.ru/17-noyabrya-svyataya-elizaveta-vengerskaya-pamyat/",
+      "title": "17 ноября. Память святой Елизаветы Венгерской",
+      "summary": "17 ноября Католическая Церковь чтит память святой Елизаветы Венгерской, покровительницы «Каритас» и Францисканского Ордена мирян. Она родилась в 1207 году, была дочерью венгерского короля Андрея II.",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/17-noyabrya-svyataya-elizaveta-vengerskaya-pamyat/",
+      "publishedAt": "2026-11-17T01:00:16.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/photos-pope-leo-xiv-concludes-apostolic-journey-to-south-america",
+      "title": "Папа Лев XIV завершил апостольское путешествие по Южной Америке",
+      "summary": "Папа Лев XIV завершил поездку по Южной Америке визитом в дом престарелых и мессой с участием 1,5 миллиона человек.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/photos-pope-leo-xiv-concludes-apostolic-journey-to-south-america",
+      "publishedAt": "2026-11-16T22:30:00.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/europe/it-s-a-pilgrimage-how-one-irish-athlete-finds-god-through-extreme-adventures",
+      "title": "Ирландский спортсмен о поисках Бога через экстремальные приключения",
+      "summary": "Ирландский путешественник Дара Морган, который переплыл и объехал на велосипеде весь ирландский берег, рассказывает, как его католическая вера вдохновляет его необычные путешествия, которые он воспринимает как паломничество.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/europe/it-s-a-pilgrimage-how-one-irish-athlete-finds-god-through-extreme-adventures",
+      "publishedAt": "2026-11-16T21:50:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/16/pope-says-he-leaves-peru-with-what-he-always-admired/",
+      "title": "Папа о прощании с Перу: Я уношу с собой свидетельство вашей веры",
+      "summary": "Папа Лев XIV попрощался с Перу после 12-дневного путешествия по Южной Америке, отметив, что уходит с воспоминаниями о вере и преданности, которые всегда восхищали его в перуанском народе.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/16/pope-says-he-leaves-peru-with-what-he-always-admired/",
+      "publishedAt": "2026-11-16T21:22:22.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/16/raiders-fans-incredible-way-to-support-new-qbs-family/",
+      "title": "Необычная поддержка семьи нового квотербека фанатами Raiders",
+      "summary": "Фанаты американского футбола команды Las Vegas Raiders проявили необычную сдержанность, сидя во время первого тачдауна квотербека Фернандо Мендозы, выражая таким образом поддержку его семье.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/16/raiders-fans-incredible-way-to-support-new-qbs-family/",
+      "publishedAt": "2026-11-16T21:12:11.000Z",
+      "importance": 2,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/africa/ghana-s-bishops-want-illegal-mining-declared-targeted-state-of-emergency",
+      "title": "Епископы Ганы требуют объявить незаконную добычу полезных ископаемых чрезвычайным положением",
+      "summary": "По итогам ежегодного пленарного заседания епископы Ганы выразили глубокую обеспокоенность незаконной добычей и другими важными проблемами, призывая объявить это состояние чрезвычайным положением.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/africa/ghana-s-bishops-want-illegal-mining-declared-targeted-state-of-emergency",
+      "publishedAt": "2026-11-16T21:10:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/thrown-rosary-bracelet-hits-pope-leo-xiv-in-the-face",
+      "title": "Брошенный браслет с розария попал Папе Льву XIV в лицо",
+      "summary": "Во время одного из мероприятий Папе Льву XIV в лицо попал браслет с розария, но, к счастью, он не причинил серьезного вреда и не задел глаз.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/thrown-rosary-bracelet-hits-pope-leo-xiv-in-the-face",
+      "publishedAt": "2026-11-16T20:30:00.000Z",
+      "importance": 4,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/16/261116d.html",
+      "title": "Апостольское путешествие Папы Льва XIV: прощальная церемония в Перу и отъезд из Лимы",
+      "summary": "Папа Лев XIV покинул Перу после прощальной церемонии в аэропорту, где его приветствовали высокие государственные лица. Он вылетел в Рим рейсом LATAM Airlines.",
+      "category": "Ватикан",
+      "source": "Пресс-служба Святого Престола",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/16/261116d.html",
+      "publishedAt": "2026-11-16T20:24:38.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-control-tower-planes-greetings-uruguay-argentina-peru.html",
+      "title": "Связь с Папой Львом XIV из диспетчерских вышек аэропортов Южной Америки",
+      "summary": "Во время апостольского путешествия по Уругваю, Аргентине и Перу с 6 по 16 ноября 2026 года Папа Лев XIV проходил через несколько аэропортов, где его приветствовали диспетчеры.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-control-tower-planes-greetings-uruguay-argentina-peru.html",
+      "publishedAt": "2026-11-16T20:19:00.000Z",
+      "importance": 4,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/delegation-of-u-s-bishops-meets-with-cuba-s-president",
+      "title": "Делегация епископов США встретилась с президентом Кубы",
+      "summary": "14 ноября в полдень в Конгресс-центре Гаваны состоялась встреча делегации американских епископов с президентом Кубы Мигелем Диас-Канелем, о чем сообщили официальные кубинские СМИ и аккаунт президента в X.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/delegation-of-u-s-bishops-meets-with-cuba-s-president",
+      "publishedAt": "2026-11-16T19:50:58.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/editorial-tornielli-messages-south-america-peru-gospel-pope-leo.html",
+      "title": "Папа в Латинской Америке: Живая вера вдохновляет заботу о самых уязвимых",
+      "summary": "Обзор Апостольского путешествия Папы Льва XIV по трем странам Южной Америки и его послания народам этих земель, подчеркивающие важность веры и поддержки нуждающихся.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/editorial-tornielli-messages-south-america-peru-gospel-pope-leo.html",
+      "publishedAt": "2026-11-16T19:40:00.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
     {
       "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/16/261116c.html",
       "title": "Апостольское путешествие Папы Льва XIV в Уругвай, Аргентину и Перу (6–17 ноября 2026) – Святая Месса на авиабазе «Las Palmas»",
@@ -5377,127 +5498,6 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/europe/humility-according-to-merry-del-val-vatican-secretary-of-state-who-slept-on-a-straw-mattress",
       "publishedAt": "2026-11-05T12:00:00.000Z",
-      "importance": 4,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-pope-leo-xiv-interview-latin-america-visit.html",
-      "title": "Кардинал Паролин: визит Папы в Латинскую Америку — свидетельство единства и примирения",
-      "summary": "Кардинал Пьетро Паролин отметил, что предстоящая апостольская поездка Папы Льва XIV в Уругвай, Аргентину и Перу станет временем памяти, теплоты и благодарности в общении с местными общинами.",
-      "category": "Ватикан",
-      "source": "Vatican News (английский)",
-      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-pope-leo-xiv-interview-latin-america-visit.html",
-      "publishedAt": "2026-11-05T12:00:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-theme-world-day-sick-2027-caring-for-every-person.html",
-      "title": "Папа выбрал тему Всемирного дня больного 2027 года",
-      "summary": "Папа Лев XIV объявил тему Всемирного дня больного 2027 года, подчеркнув важность роли христианских общин и гражданского общества в заботе о больных, пожилых и страдающих.",
-      "category": "Ватикан",
-      "source": "Vatican News (английский)",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-theme-world-day-sick-2027-caring-for-every-person.html",
-      "publishedAt": "2026-11-05T11:40:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-us-midterm-elections-china-holy-see-agreement.html",
-      "title": "Кардинал Паролин выразил надежду на сотрудничество после промежуточных выборов в США",
-      "summary": "Кардинал Государственный секретарь Пьетро Паролин в беседе с журналистами на мероприятии в Папском Урбанском университете прокомментировал промежуточные выборы в США и Соглашение между Китаем и Святым Престолом.",
-      "category": "Ватикан",
-      "source": "Vatican News (английский)",
-      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-us-midterm-elections-china-holy-see-agreement.html",
-      "publishedAt": "2026-11-05T11:28:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/pope-appoints-undersecretaries-dicastery-integral-development.html",
-      "title": "Папа назначил двух заместителей секретарей в Дикастерии по содействию целостному развитию человека",
-      "summary": "Папа Лев XIV назначил иезуита о. Авелино Чикому Бундо Чико и профессора Клаудию Леаль Луну заместителями секретарей Дикастерии по содействию целостному развитию человека.",
-      "category": "Ватикан",
-      "source": "Vatican News (английский)",
-      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/pope-appoints-undersecretaries-dicastery-integral-development.html",
-      "publishedAt": "2026-11-05T11:27:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/a-world-war-ii-mystery-who-dropped-bombs-on-the-vatican-on-nov-5-1943",
-      "title": "Загадка Второй мировой: кто сбросил бомбы на Ватикан?",
-      "summary": "5 ноября 1943 года неизвестный самолет сбросил бомбы на Ватикан, одна из которых едва не попала в базилику Святого Петра. Причины и исполнители этого события остаются невыясненными до сих пор.",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/a-world-war-ii-mystery-who-dropped-bombs-on-the-vatican-on-nov-5-1943",
-      "publishedAt": "2026-11-05T11:00:00.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://sib-catholic.ru/pesn-kotoroy-uzhe-vosemsot-let-k-800-letiyu-perehoda-svyatogo-frantsiska-assizskogo-iz-zemnoy-zhizni-v-vechnuyu/",
-      "title": "К 800-летию перехода святого Франциска Ассизского: статья настоятеля новосибирского прихода",
-      "summary": "Отец Виталий Костюк подготовил статью, посвященную 800-летию смерти святого Франциска Ассизского, рассказывающую о важном событии осенью 1226 года недалеко от Ассизи.",
-      "category": "Россия",
-      "source": "Сибирская католическая газета",
-      "url": "https://sib-catholic.ru/pesn-kotoroy-uzhe-vosemsot-let-k-800-letiyu-perehoda-svyatogo-frantsiska-assizskogo-iz-zemnoy-zhizni-v-vechnuyu/",
-      "publishedAt": "2026-11-05T10:16:31.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-conference-church-china-unity-diversity.html",
-      "title": "Папа: Сохраняйте сокровище церковного общения — источник мира для всех",
-      "summary": "Папа Лев XIV в видеообращении к конференции в Риме о лице универсальной Церкви в Китае призвал католиков беречь единство в многообразии, а не стремиться к однородности.",
-      "category": "Ватикан",
-      "source": "Vatican News (английский)",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-conference-church-china-unity-diversity.html",
-      "publishedAt": "2026-11-05T09:40:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://sib-catholic.ru/lyubov-ne-zakanchivaetsya-so-smertyu/",
-      "title": "Молитва за усопших как выражение веры в вечную жизнь в католической традиции",
-      "summary": "Молитва за усопших — древняя традиция Католической Церкви, отражающая веру в воскресение и духовную связь между живыми и умершими. Ноябрь — особое время для молитв и воспоминаний о тех, кто отошел в вечность.",
-      "category": "Россия",
-      "source": "Сибирская католическая газета",
-      "url": "https://sib-catholic.ru/lyubov-ne-zakanchivaetsya-so-smertyu/",
-      "publishedAt": "2026-11-05T09:34:39.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-recalls-how-in-christ-life-has-been-redeemed.html",
-      "title": "Папа Лев: Во Христе жизнь обретает искупление",
-      "summary": "Папа Лев XIV отслужил Мессу в память кардиналов и епископов, умерших за последний год, и призвал верующих размышлять о тайне смерти без страха, отмечая, что молитва за усопших — это празднование жизни.",
-      "category": "Ватикан",
-      "source": "Vatican News (английский)",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-recalls-how-in-christ-life-has-been-redeemed.html",
-      "publishedAt": "2026-11-05T09:26:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/as-texas-democrats-sweep-statewide-offices-pro-life-and-parents-rights-advocates-voice-concerns",
-      "title": "Демократы Техаса одержали победу на выборах; католики и защитники жизни реагируют",
-      "summary": "Активисты движения за жизнь отмечают, что республиканцы, многие из которых выступают за защиту жизни, сохранили контроль над сенатом штата, что поможет предотвратить регресс в законодательстве.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/as-texas-democrats-sweep-statewide-offices-pro-life-and-parents-rights-advocates-voice-concerns",
-      "publishedAt": "2026-11-04T22:32:06.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/pope-leo-meets-with-renowned-singer-bob-dylan",
-      "title": "Папа Лев встречается с известным певцом Бобом Диланом",
-      "summary": "Во время встречи Святейший Отец подарил Дилану розарий.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/pope-leo-meets-with-renowned-singer-bob-dylan",
-      "publishedAt": "2026-11-04T20:54:00.000Z",
       "importance": 4,
       "aiProcessed": true
     }

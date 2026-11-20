@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-11-19T20:40:09.234Z",
+  "updatedAt": "2026-11-20T02:21:10.448Z",
   "news": [
+    {
+      "id": "https://sib-catholic.ru/20-noyabrya-svyashhennik-rafail-kalinovskiy-ieromonah-pamyat/",
+      "title": "20 ноября. Святой Рафаил Калиновский, иеромонах. Память",
+      "summary": "Святой Рафаил Калиновский, духовно связанный с сибирской землей, известен своим молитвенным трудом за единство Восточной и Западной Церквей и примирение России со Святым Престолом.",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/20-noyabrya-svyashhennik-rafail-kalinovskiy-ieromonah-pamyat/",
+      "publishedAt": "2026-11-20T01:00:05.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://cruxnow.com/church-in-the-middle-east/2026/11/taybehs-catholic-pastor-decries-systematic-israeli-settler-violence/",
+      "title": "Католический пастор из Тейбе осуждает систематическое насилие израильских поселенцев",
+      "summary": "Отец Башар Фавадлех заявил, что действия поселенцев на Западном берегу — не спонтанные, а систематические и спланированные.",
+      "category": "Мир",
+      "source": "Crux",
+      "url": "https://cruxnow.com/church-in-the-middle-east/2026/11/taybehs-catholic-pastor-decries-systematic-israeli-settler-violence/",
+      "publishedAt": "2026-11-20T00:29:53.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/christians-are-world-s-most-persecuted-religious-community-expert-says-at-congressional-hearing",
+      "title": "Христиане — самая преследуемая религиозная община в мире, заявили эксперты на слушаниях в Конгрессе США",
+      "summary": "Эксперты и законодатели обсудили на слушаниях в Вашингтоне растущие угрозы религиозной свободе христиан по всему миру.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/christians-are-world-s-most-persecuted-religious-community-expert-says-at-congressional-hearing",
+      "publishedAt": "2026-11-19T23:17:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/u-s-catholic-bishops-approve-national-day-of-prayer-for-racial-justice",
+      "title": "Епископы США утвердили национальный день молитвы за расовую справедливость",
+      "summary": "Епископы проголосовали за учреждение дня молитвы с результатом 180 голосов «за», 15 — «против» и 7 воздержавшихся.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/u-s-catholic-bishops-approve-national-day-of-prayer-for-racial-justice",
+      "publishedAt": "2026-11-19T22:37:03.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/u-s-bishops-hear-update-on-church-s-efforts-to-address-ai",
+      "title": "Епископы США получили обновленную информацию о работе Церкви с искусственным интеллектом",
+      "summary": "Епископ Оскар Канту рассказал о деятельности рабочей группы USCCB по ИИ, включая диалог с технологическими компаниями и планы по католическому образованию и общественной политике.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/u-s-bishops-hear-update-on-church-s-efforts-to-address-ai",
+      "publishedAt": "2026-11-19T20:53:01.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/19/philip-rivers-why-victory-isnt-the-same-as-winning/",
+      "title": "Филип Риверс: почему победа — не то же самое, что выигрыш",
+      "summary": "Филип Риверс, бывший квотербек НФЛ, преданный католик и отец десятерых детей, стал главным тренером футбольной команды Университета штата Северная Каролина, где начинал свою карьеру. На пресс-конференции он проявил не только соревновательный дух, но и искренние эмоции.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/19/philip-rivers-why-victory-isnt-the-same-as-winning/",
+      "publishedAt": "2026-11-19T20:42:39.000Z",
+      "importance": 4,
+      "aiProcessed": true
+    },
     {
       "id": "https://www.ewtnnews.com/world/us/miami-archdiocese-will-assume-oversight-of-catholics-in-cayman-islands",
       "title": "Архиепархия Майами возьмет под опеку католиков на Каймановых островах",
@@ -5433,72 +5499,6 @@
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/09/261109d.html",
       "publishedAt": "2026-11-09T15:49:33.000Z",
       "importance": 9,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/vatican-calls-church-to-recognize-the-human-dignity-faith-and-hardships-of-fishers",
-      "title": "Ватикан призывает Церковь признать человеческое достоинство, веру и трудности рыбаков",
-      "summary": "В послании к Всемирному дню рыболовства Ватикан связывает исторические испытания морских работников с вечными духовными истинами и призывает Церковь поддерживать рыбаков.",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/vatican-calls-church-to-recognize-the-human-dignity-faith-and-hardships-of-fishers",
-      "publishedAt": "2026-11-09T15:45:00.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-at-mass-christian-family-remains-a-pillar-amid-insecurity.html",
-      "title": "Папа на мессе: христианская семья остается опорой в условиях нестабильности",
-      "summary": "На мессе в Буэнос-Айресе в праздник посвящения собора Святого Иоанна Латеранского Папа Лев XIV подчеркнул образ храма как знака единства и выделил христианскую семью как источник подлинного обновления.",
-      "category": "Ватикан",
-      "source": "Vatican News (английский)",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-at-mass-christian-family-remains-a-pillar-amid-insecurity.html",
-      "publishedAt": "2026-11-09T15:20:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/restoration-to-begin-on-pauline-chapel-in-basilica-of-mary-major-in-rome",
-      "title": "Начнется реставрация важной часовни Марианской базилики в Риме",
-      "summary": "Работы в барочной часовне, где хранится древняя икона «Salus Populi Romani», начнутся 16 ноября. Это важный этап сохранения культурного и духовного наследия базилики.",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/restoration-to-begin-on-pauline-chapel-in-basilica-of-mary-major-in-rome",
-      "publishedAt": "2026-11-09T15:05:00.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://aleteia.org/2026/11/09/world-series-winners-go-beyond-the-field-to-share-joy-faith/",
-      "title": "Победители Мировой серии делятся радостью и верой за пределами спорта",
-      "summary": "В Милуоки состоялась благодарственная месса по случаю победы в Мировой серии, которую возглавил епископ Джеффри Хейнс, собравшая множество болельщиков и подчеркнувшая единство через спорт и веру.",
-      "category": "Мир",
-      "source": "Aleteia",
-      "url": "https://aleteia.org/2026/11/09/world-series-winners-go-beyond-the-field-to-share-joy-faith/",
-      "publishedAt": "2026-11-09T13:15:25.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-visits-don-orione-cottolengo-in-argentina.html",
-      "title": "Папа в Аргентине: «Пусть любовь Христа победит индивидуализм и исключение»",
-      "summary": "Во время визита в центр помощи Дон Орионе Папа Лев призвал к торжеству любви Христа над индивидуализмом и исключением, напомнив, что «милосердие спасет мир», поскольку «Бог есть любовь».",
-      "category": "Ватикан",
-      "source": "Vatican News (английский)",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-visits-don-orione-cottolengo-in-argentina.html",
-      "publishedAt": "2026-11-09T13:06:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://aleteia.org/2026/11/09/australias-incredible-solution-to-catholic-school-renewal/",
-      "title": "Уникальное решение Австралии для обновления католических школ",
-      "summary": "В Австралии обсуждается проблема «католических школ по названию» и предлагаются пути их обновления, чтобы вернуть религиозное воспитание и укрепить веру в образовательных учреждениях.",
-      "category": "Мир",
-      "source": "Aleteia",
-      "url": "https://aleteia.org/2026/11/09/australias-incredible-solution-to-catholic-school-renewal/",
-      "publishedAt": "2026-11-09T12:49:54.000Z",
-      "importance": 5,
       "aiProcessed": true
     }
   ]

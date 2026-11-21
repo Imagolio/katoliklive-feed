@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-11-20T20:24:40.510Z",
+  "updatedAt": "2026-11-21T02:18:32.207Z",
   "news": [
+    {
+      "id": "https://sib-catholic.ru/21-noyabrya-vvedenie-vo-hram-presvyatoy-bogoroditsyi-pamyat/",
+      "title": "21 ноября. Введение во Храм Пресвятой Богородицы. Память",
+      "summary": "Праздник Введения во Храм Пресвятой Богородицы отмечает событие, когда родители Девы Марии, святые Иоаким и Анна, по обету привели трехлетнюю Марию в Иерусалимский храм, где Она оставалась до обручения с праведным Иосифом.",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/21-noyabrya-vvedenie-vo-hram-presvyatoy-bogoroditsyi-pamyat/",
+      "publishedAt": "2026-11-21T01:00:40.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/europe/english-soccer-team-sanctioned-following-anti-catholic-chants",
+      "title": "Английская футбольная команда оштрафована за антикатолические выкрики",
+      "summary": "Команда получила штраф в размере 15 000 евро после того, как во время матча с Испанией 15 ноября прозвучали антикатолические выкрики.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/europe/english-soccer-team-sanctioned-following-anti-catholic-chants",
+      "publishedAt": "2026-11-20T22:43:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/ministry-leaders-to-the-homeless-bring-message-of-healing-to-the-vatican-amid-american",
+      "title": "Американские католики, служащие бездомным, встретились с Папой Львом XIV в Ватикане",
+      "summary": "Группа католиков из США, посвятивших себя помощи бездомным, встретилась с Папой Львом XIV, чтобы поделиться посланием исцеления в условиях американского индивидуализма.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/ministry-leaders-to-the-homeless-bring-message-of-healing-to-the-vatican-amid-american",
+      "publishedAt": "2026-11-20T22:03:22.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/europe/spanish-bishops-approve-minimal-statement-on-the-elections-and-refer-voters-to-leo-xiv-s-address",
+      "title": "Испанские епископы одобрили заявление по выборам и призвали верующих учитывать обращение Папы Льва XIV",
+      "summary": "Епископы Испании напомнили о долге голосовать согласно совести и рекомендовали ознакомиться с обращением Папы Льва XIV к национальному парламенту для духовного руководства.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/europe/spanish-bishops-approve-minimal-statement-on-the-elections-and-refer-voters-to-leo-xiv-s-address",
+      "publishedAt": "2026-11-20T21:01:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/federal-judge-rules-against-agricultural-secretary-who-sent-christian-emails-to-workers",
+      "title": "Федеральный судья вынес решение против министра сельского хозяйства за религиозные письма сотрудникам",
+      "summary": "Министр сельского хозяйства Брук Роллинс включала религиозные послания в электронные письма сотрудникам, что стало предметом иска от федеральных работников и профсоюза.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/federal-judge-rules-against-agricultural-secretary-who-sent-christian-emails-to-workers",
+      "publishedAt": "2026-11-20T20:21:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/20/in-a-way-world-youth-day-in-seoul-begins-this-sunday/",
+      "title": "В некотором смысле Всемирный день молодежи в Сеуле начинается в это воскресенье",
+      "summary": "22 ноября, в праздник Христа Царя, по всему миру отмечают Всемирный день молодежи, как и каждый год без международного сбора. В этот день Папа Франциск примет 6000 молодых людей из Лацио в Ватикане, открывая 41-й Всемирный день молодежи. Следующий международный праздник пройдет в августе 2027 года в",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/20/in-a-way-world-youth-day-in-seoul-begins-this-sunday/",
+      "publishedAt": "2026-11-20T20:02:07.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
     {
       "id": "https://www.ewtnnews.com/world/us/i-was-horrified-investigative-report-uncovers-diy-abortions",
       "title": "Расследование выявило тенденцию к самостоятельным абортам с использованием лекарств",
@@ -5432,72 +5498,6 @@
       "source": "Электронная Церковь",
       "url": "https://e-church.ru/my-faith/7200/",
       "publishedAt": "2026-11-10T14:35:20.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/europe/french-bishops-urge-catholic-hospitals-to-prepare-to-refuse-euthanasia",
-      "title": "Французские епископы призывают католические больницы подготовиться к отказу от эвтаназии",
-      "summary": "В Бельгии католические больницы лишились права отказываться от эвтаназии. Французские епископы выступают за сохранение этого права до вступления в силу нового закона.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/europe/french-bishops-urge-catholic-hospitals-to-prepare-to-refuse-euthanasia",
-      "publishedAt": "2026-11-10T14:26:04.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.agensir.it/diocesi/2026/11/10/vita-trentina-compie-100-anni-il-direttore-andreatta-carta-e-nuovi-media-insieme-il-valore-aggiunto-e-lapprofondimento/",
-      "title": "Еженедельник Vita Trentina отмечает 100-летие: директор Андреатта о сочетании печатных и новых медиа",
-      "summary": "Диоцезальный еженедельник Тренто Vita Trentina празднует столетие и проводит фестиваль «La Centenaria» с 12 по 15 ноября, посвященный истории и современным вызовам информационной сферы.",
-      "category": "Мир",
-      "source": "Agenzia SIR",
-      "url": "https://www.agensir.it/diocesi/2026/11/10/vita-trentina-compie-100-anni-il-direttore-andreatta-carta-e-nuovi-media-insieme-il-valore-aggiunto-e-lapprofondimento/",
-      "publishedAt": "2026-11-10T14:16:00.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-at-mass-in-argentina-mission-is-a-joyful-duty.html",
-      "title": "Папа на Мессе в Аргентине: миссия — это «радостный долг»",
-      "summary": "Папа Лев XIV на Мессе за святость аргентинского народа подчеркнул, что выполнение миссии — радостный долг, который лучше всего исполняется примером жизни.",
-      "category": "Ватикан",
-      "source": "Vatican News (английский)",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-at-mass-in-argentina-mission-is-a-joyful-duty.html",
-      "publishedAt": "2026-11-10T13:58:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://e-church.ru/news/7190/",
-      "title": "Скончался священник Никита Кушнарев, служивший во Владивостоке",
-      "summary": "В Риме на 44-м году жизни умер священник Никита Кушнарев, который служил в католической общине Владивостока.",
-      "category": "Россия",
-      "source": "Электронная Церковь",
-      "url": "https://e-church.ru/news/7190/",
-      "publishedAt": "2026-11-10T13:57:18.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://aleteia.org/2026/11/10/pope-leo-in-every-rejected-migrant-it-is-christ-who-knocks/",
-      "title": "Папа Лев: «В каждом отвергнутом мигранте стучится Христос»",
-      "summary": "В видеообращении к Международной католической миграционной комиссии Папа Лев XIV подчеркнул, что в каждом отвергнутом мигранте — Христос, призывая к милосердию и поддержке мигрантов.",
-      "category": "Мир",
-      "source": "Aleteia",
-      "url": "https://aleteia.org/2026/11/10/pope-leo-in-every-rejected-migrant-it-is-christ-who-knocks/",
-      "publishedAt": "2026-11-10T13:07:47.000Z",
-      "importance": 8,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://aleteia.org/2026/11/10/pope-leo-scores-a-first-on-sports-illustrated/",
-      "title": "Папа Лев впервые на обложке Sports Illustrated",
-      "summary": "Папа Лев стал героем цифровой обложки Sports Illustrated, посвященной баскетбольному турниру в Риме с участием команд католических университетов Вилланова и Нотр-Дам.",
-      "category": "Мир",
-      "source": "Aleteia",
-      "url": "https://aleteia.org/2026/11/10/pope-leo-scores-a-first-on-sports-illustrated/",
-      "publishedAt": "2026-11-10T12:12:03.000Z",
       "importance": 5,
       "aiProcessed": true
     }

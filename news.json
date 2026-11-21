@@ -1,6 +1,138 @@
 {
-  "updatedAt": "2026-11-21T02:18:32.207Z",
+  "updatedAt": "2026-11-21T11:06:28.262Z",
   "news": [
+    {
+      "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/lunch-with-the-pope-spreads-beyond-the-vatican.html",
+      "title": "Обед с Папой выходит за пределы Ватикана",
+      "summary": "22 ноября Папа Лев XIV проведет обед с 1300 бедными в зале Павла VI в честь десятого Всемирного дня бедных. В это время римские столовые предложат еду «в общении» со Святым Отцом. Пожертвования поступили из Испании и Польши.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/lunch-with-the-pope-spreads-beyond-the-vatican.html",
+      "publishedAt": "2026-11-21T10:44:00.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.agensir.it/mondo/2026/11/21/21-novembre-essere-contemplative-oggi/",
+      "title": "Быть созерцательными сегодня",
+      "summary": "Для христиан открытие созерцательной жизни — это верное проживание крещения и воплощение Евангелия в повседневности, осознавая постоянное присутствие Бога, даже когда мы забываем об этом.",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/mondo/2026/11/21/21-novembre-essere-contemplative-oggi/",
+      "publishedAt": "2026-11-21T09:00:42.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/church/news/2026-11/gospel-reflection-christ-the-king-sunday.html",
+      "title": "Размышление в День Господень: когда любовь забывает себя",
+      "summary": "В праздник Христова Царства отец Марион Нгуен OSB делится размышлениями о литургических чтениях под темой «Когда любовь забывает себя».",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/church/news/2026-11/gospel-reflection-christ-the-king-sunday.html",
+      "publishedAt": "2026-11-21T09:00:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.agensir.it/italia/2026/11/21/cottolengo-investiti-oltre-205-milioni-di-euro-padre-arice-la-vita-dei-nostri-ospiti-e-preziosa/",
+      "title": "Коттоленго: инвестировано более 20,5 млн евро. Отец Арице: «Жизнь наших подопечных бесценна»",
+      "summary": "Малый дом Божественного Провидения уже почти 200 лет помогает больным и нуждающимся, подтверждая, что жизнь ценнее всего. Вложено свыше 20,5 млн евро для поддержки подопечных.",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/italia/2026/11/21/cottolengo-investiti-oltre-205-milioni-di-euro-padre-arice-la-vita-dei-nostri-ospiti-e-preziosa/",
+      "publishedAt": "2026-11-21T08:53:38.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.agensir.it/diocesi/2026/11/21/mattarella-inaugura-la-casa-del-dopo-di-noi-di-don-luigi-derrico-dodici-adulti-verso-una-vita-autonoma/",
+      "title": "Маттарелла откроет дом «После нас» дона Луиджи Д’Эррико для 12 взрослых с автономной жизнью",
+      "summary": "23 ноября президент Италии Серджо Маттарелла откроет обновленный дом «После нас», созданный доном Луиджи Д’Эррико. В церемонии примут участие кардинал Балдо Рейна и вспомогательный епископ Андреа.",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/diocesi/2026/11/21/mattarella-inaugura-la-casa-del-dopo-di-noi-di-don-luigi-derrico-dodici-adulti-verso-una-vita-autonoma/",
+      "publishedAt": "2026-11-21T08:53:04.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.agensir.it/mondo/2026/11/21/dopo-shenzhen-buonomo-lateranense-ha-vinto-la-diplomazia-ma-il-mondo-non-puo-essere-deciso-da-tre-soli-attori/",
+      "title": "После Шэньчжэня: Буономо (Латеранский университет) — «Победила дипломатия, но мир не может решаться тремя игроками»",
+      "summary": "Вскоре после саммита в Шэньчжэне, где впервые за одним столом встретились лидеры Китая, США и России, продолжается обсуждение политического значения встречи и роли дипломатии в современном мире.",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/mondo/2026/11/21/dopo-shenzhen-buonomo-lateranense-ha-vinto-la-diplomazia-ma-il-mondo-non-puo-essere-deciso-da-tre-soli-attori/",
+      "publishedAt": "2026-11-21T08:49:08.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/21/early-christian-fresco-of-jesus-found-near-ancient-nicaea/",
+      "title": "Раннехристианская фреска с изображением Иисуса найдена рядом с древней Никеей",
+      "summary": "Археологи в Турции обнаружили хорошо сохранившуюся фреску III века с изображением Иисуса как Доброго Пастыря в подземной гробнице, что стало важной находкой для раннехристианской археологии региона.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/21/early-christian-fresco-of-jesus-found-near-ancient-nicaea/",
+      "publishedAt": "2026-11-21T08:46:44.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/21/ukrainian-bishop-finding-joy-and-hope-amid-war/",
+      "title": "Украинский епископ: находить радость и надежду в условиях войны",
+      "summary": "Вспомогательный епископ Каменец-Подольской епархии Радаслав Змитрович посетил Польшу, где проповедовал и собирал средства для католической школы в Украине, рассказывая о вере и надежде в военное время.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/21/ukrainian-bishop-finding-joy-and-hope-amid-war/",
+      "publishedAt": "2026-11-21T08:44:27.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/21/how-a-painting-of-mary-became-our-lady-of-la-salette/",
+      "title": "Как картина Девы Марии стала образом Нашей Госпожи Ла Салетт",
+      "summary": "Французская художница Луиза Гру делится своим ярким творчеством, в одном из последних полотен на ее глазах проявился образ Девы Марии Ла Салетт, отражающий внутренние переживания и поиски автора.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/21/how-a-painting-of-mary-became-our-lady-of-la-salette/",
+      "publishedAt": "2026-11-21T08:37:51.000Z",
+      "importance": 4,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/21/new-observance-for-catholics-on-last-sunday-in-october/",
+      "title": "Новый день молитвы за расовую справедливость у католиков США — в последний воскресный день октября",
+      "summary": "Епископская конференция США учредила ежегодный День молитвы за расовую справедливость и примирение, который будет отмечаться в последнее воскресенье октября, чтобы объединить верующих в борьбе за равенство.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/21/new-observance-for-catholics-on-last-sunday-in-october/",
+      "publishedAt": "2026-11-21T08:34:06.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/21/is-the-presentation-of-mary-found-in-the-bible/",
+      "title": "Находится ли Праздник Введения Марии во Храм в Библии?",
+      "summary": "Католическая Церковь отмечает как библейские события, так и праздники святых, уделяя особое внимание ключевым моментам истории спасения. Некоторые праздники, включая Введение Марии во Храм, основаны на традиции и не упоминаются прямо в Писании.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/21/is-the-presentation-of-mary-found-in-the-bible/",
+      "publishedAt": "2026-11-21T08:31:08.000Z",
+      "importance": 4,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/21/catholic-co-founder-of-pizza-hut-dies-at-95/",
+      "title": "Скончался католик и сооснователь Pizza Hut Дэн Карни в возрасте 95 лет",
+      "summary": "Дэн Карни, католик и сооснователь Pizza Hut, умер на этой неделе в Канзасе в возрасте 95 лет. Его жизнь была примером трудолюбия, веры и служения общине и Церкви после достижения успеха.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/21/catholic-co-founder-of-pizza-hut-dies-at-95/",
+      "publishedAt": "2026-11-21T08:12:07.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
     {
       "id": "https://sib-catholic.ru/21-noyabrya-vvedenie-vo-hram-presvyatoy-bogoroditsyi-pamyat/",
       "title": "21 ноября. Введение во Храм Пресвятой Богородицы. Память",
@@ -5367,138 +5499,6 @@
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/10/261110d.html",
       "publishedAt": "2026-11-10T20:21:56.000Z",
       "importance": 8,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/in-interview-with-catholic-journalist-trump-chafes-at-forgiving-enemies",
-      "title": "В интервью католическому журналисту Трамп затрудняется простить врагов",
-      "summary": "Корреспондент «60 Minutes» Росс Даутхат, католик, в интервью с Трампом перевел разговор с политики на тему смертности и призыва Евангелия к прощению.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/in-interview-with-catholic-journalist-trump-chafes-at-forgiving-enemies",
-      "publishedAt": "2026-11-10T19:19:25.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-urges-argentines-to-follow-model-of-saints-during-mass-in-the-land-of-saints/",
-      "title": "Папа призывает аргентинцев брать пример со святых во время мессы в «земле святых»",
-      "summary": "Литургия прошла на месте завода, где в 1975 году Аргентина производила самолеты для ударов по левым партизанам. Папа призвал аргентинцев следовать примеру святых.",
-      "category": "Мир",
-      "source": "Crux",
-      "url": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-urges-argentines-to-follow-model-of-saints-during-mass-in-the-land-of-saints/",
-      "publishedAt": "2026-11-10T19:18:26.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-argentina-cordoba-meeting-clergy-pastoral-workers.html",
-      "title": "Папа призывает духовенство и религиозных Аргентины не сдаваться",
-      "summary": "Обращаясь к аргентинскому духовенству и пастырским работникам в Кордове, Папа призвал к обновленной верности призыву Христа, углубленной заботе о бедных и мужеству продолжать миссию, несмотря на страдания и личные ограничения.",
-      "category": "Ватикан",
-      "source": "Vatican News (английский)",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-argentina-cordoba-meeting-clergy-pastoral-workers.html",
-      "publishedAt": "2026-11-10T19:15:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/epa-investigates-radiation-levels-at-new-york-catholic-school-near-wwii-nuclear-storage-facility",
-      "title": "EPA проверяет уровень радиации в католической школе Нью-Йорка рядом с хранилищем ядерных отходов Второй мировой",
-      "summary": "Правительство заявляет об отсутствии «признаков немедленной угрозы» для католической общины в Ниагара-Фолс, расположенной рядом с объектом хранения ядерных материалов.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/epa-investigates-radiation-levels-at-new-york-catholic-school-near-wwii-nuclear-storage-facility",
-      "publishedAt": "2026-11-10T18:21:39.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/massachusetts-bishops-issue-rebuke-after-governor-cites-catholic-faith-in-support-of-abortion",
-      "title": "Епископы Массачусетса осудили губернатора за оправдание закона об абортах ссылкой на католическую веру",
-      "summary": "Епископы штата назвали новый закон об абортах на всех сроках «утилитарным и безжалостным подходом» к человеческой жизни.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/massachusetts-bishops-issue-rebuke-after-governor-cites-catholic-faith-in-support-of-abortion",
-      "publishedAt": "2026-11-10T17:30:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/st-leo-the-great-the-pope-who-clarified-the-humanity-and-divinity-of-christ",
-      "title": "Святой Лев Великий: Папа, который разъяснил человечность и божественность Христа",
-      "summary": "Всемирная Церковь отмечает память святого Льва Великого, 45-го епископа Рима и одного из 38 докторов Церкви, 10 ноября.",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/st-leo-the-great-the-pope-who-clarified-the-humanity-and-divinity-of-christ",
-      "publishedAt": "2026-11-10T16:50:00.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://aleteia.org/2026/11/10/a-kansas-artist-is-drawing-pope-leos-face-in-peruvian-soil/",
-      "title": "Художник из Канзаса рисует лицо Папы Льва XIV на перуанской земле",
-      "summary": "Стан Херд, создающий масштабные портреты из земли, готовит изображение Папы Льва XIV в Чиклайо, где Папа проведет мессу 13 ноября перед почти миллионом верующих.",
-      "category": "Мир",
-      "source": "Aleteia",
-      "url": "https://aleteia.org/2026/11/10/a-kansas-artist-is-drawing-pope-leos-face-in-peruvian-soil/",
-      "publishedAt": "2026-11-10T16:36:14.000Z",
-      "importance": 4,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-argentina-cordoba-greetings-unity.html",
-      "title": "Папа Лев XIV призывает аргентинцев сохранять единство в вере",
-      "summary": "Папа Лев XIV приветствовал верующих у резиденции архиепископа в Кордове и призвал всех аргентинцев к единству, чтобы вместе достигать любых целей.",
-      "category": "Ватикан",
-      "source": "Vatican News (английский)",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-argentina-cordoba-greetings-unity.html",
-      "publishedAt": "2026-11-10T16:29:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://aleteia.org/2026/11/10/a-white-rose-for-leo-in-memory-of-francis/",
-      "title": "Белая роза для Лео в память о Франциске",
-      "summary": "Перед вечерней молитвой с аргентинскими епископами в Буэнос-Айресе Папа Лео XIV остановился у памятной доски, посвященной Хорхе Марио Бергольо, и помолился в тишине. Восьмеро родственников Франциска преподнесли ему белую розу — символ преданной Святой Терезы из Лизье.",
-      "category": "Мир",
-      "source": "Aleteia",
-      "url": "https://aleteia.org/2026/11/10/a-white-rose-for-leo-in-memory-of-francis/",
-      "publishedAt": "2026-11-10T16:25:11.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-lauds-an-argentine-city-as-a-home-of-saints",
-      "title": "Папа Лео XIV назвал аргентинский город «домом святых»",
-      "summary": "Понтифик отслужил мессу под открытым небом в центральном городе Кордова, подчеркнув духовное значение этого места.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-lauds-an-argentine-city-as-a-home-of-saints",
-      "publishedAt": "2026-11-10T16:10:13.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/10/261110c.html",
-      "title": "Папа Лев XIV покинул Буэнос-Айрес и прибыл в Кордобу, отслужив Мессу на территории Военной авиационной школы",
-      "summary": "Папа Лев XIV вылетел из Буэнос-Айреса и прибыл в Кордобу, где возглавил Святую Мессу на территории Военной авиационной школы.",
-      "category": "Ватикан",
-      "source": "Пресс-служба Святого Престола",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/10/261110c.html",
-      "publishedAt": "2026-11-10T14:53:42.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://e-church.ru/my-faith/7200/",
-      "title": "Зачем ходить в церковь, если веришь в душе?",
-      "summary": "Статья рассматривает глубинный смысл посещения церкви и объясняет, почему вера в душе требует также участия в церковной жизни.",
-      "category": "Россия",
-      "source": "Электронная Церковь",
-      "url": "https://e-church.ru/my-faith/7200/",
-      "publishedAt": "2026-11-10T14:35:20.000Z",
-      "importance": 5,
       "aiProcessed": true
     }
   ]

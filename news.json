@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-11-22T01:21:32.150Z",
+  "updatedAt": "2026-11-22T11:28:26.446Z",
   "news": [
+    {
+      "id": "https://www.ewtnnews.com/world/americas/this-is-the-pope-pope-leo-s-phone-call-that-moved-a-94-year-old-priest-to-tears",
+      "title": "94-летний перуанский священник вспоминает важный телефонный звонок от Папы в 2025 году",
+      "summary": "Монсеньор Эстебан Пуйг с трепетом вспоминает звонок от тогдашнего новоизбранного Папы Льва XIV, который ранее был его епископом.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/this-is-the-pope-pope-leo-s-phone-call-that-moved-a-94-year-old-priest-to-tears",
+      "publishedAt": "2026-11-22T11:00:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/22/the-four-abortion-guys-i-met-in-jail/",
+      "title": "Воспоминания о четырех «абортивщиках», с которыми я встретился в тюрьме",
+      "summary": "В 1989 году меня арестовали за защиту жизни. Через год я получил двухнедельный срок в тюрьме Сан-Франциско, где принял таинство миропомазания, получив духовную силу для свидетельства веры.",
+      "category": "Мир",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/22/the-four-abortion-guys-i-met-in-jail/",
+      "publishedAt": "2026-11-22T09:54:51.000Z",
+      "importance": 4,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://cruxnow.com/news-analysis/2026/11/will-leo-xiv-visit-the-us-next-year/",
+      "title": "Посетит ли Папа Лев XIV США в следующем году?",
+      "summary": "Во время пресс-конференции на борту самолета из Перу в Рим Папа Лев XIV дал понять, что возможен визит в его родную страну в ближайшем будущем.",
+      "category": "Мир",
+      "source": "Crux",
+      "url": "https://cruxnow.com/news-analysis/2026/11/will-leo-xiv-visit-the-us-next-year/",
+      "publishedAt": "2026-11-22T02:43:34.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
     {
       "id": "https://sib-catholic.ru/22-noyabrya-34-e-ryadovoe-voskresene-gospod-nash-iisus-hristos-tsar-vselennoy-torzhestvo/",
       "title": "22 ноября — Торжество Господа нашего Иисуса Христа, Царя Вселенной",
@@ -5466,39 +5499,6 @@
       "url": "https://www.ewtnnews.com/world/americas/ottawa-s-mass-of-the-fallen-honors-those-who-paid-the-ultimate-price-for-freedom",
       "publishedAt": "2026-11-11T11:00:00.000Z",
       "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.vaticannews.va/en/church/news/2026-11/guam-archdiocese-agana-sisters-mercy-80th-anniversary.html",
-      "title": "Гуам: Сестры Милосердия отмечают 80-летие служения Мессой благодарения",
-      "summary": "Сестры Милосердия на Гуаме отметили 80 лет служения благодарственной Мессой, которую возглавил архиепископ Райан Хименес. Он отметил их вклад в образование и заботу о нуждающихся.",
-      "category": "Ватикан",
-      "source": "Vatican News (английский)",
-      "url": "https://www.vaticannews.va/en/church/news/2026-11/guam-archdiocese-agana-sisters-mercy-80th-anniversary.html",
-      "publishedAt": "2026-11-11T10:54:00.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://cruxnow.com/church-in-uk-and-ireland/2026/11/british-archbishop-decries-new-bill-banning-conversion-practices/",
-      "title": "Британский архиепископ выразил обеспокоенность новым законопроектом о запрете «практик обращения»",
-      "summary": "Архиепископ Великобритании заявил о «серьезной обеспокоенности» проектом закона, запрещающим «практики обращения», который сейчас проходит предварительное рассмотрение перед обсуждением в парламенте.",
-      "category": "Мир",
-      "source": "Crux",
-      "url": "https://cruxnow.com/church-in-uk-and-ireland/2026/11/british-archbishop-decries-new-bill-banning-conversion-practices/",
-      "publishedAt": "2026-11-11T10:27:19.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.agensir.it/chiesa/2026/11/11/magnifica-humanitas-leo-xivs-encyclical-read-by-eli-pariser-disarm-the-economic-incentives-behind-ai/",
-      "title": "«Magnifica humanitas»: энциклика Льва XIV в чтении Эли Паризера — «Дезактивировать экономические стимулы ИИ»",
-      "summary": "Автор книги «Фильтр пузырь» Эли Паризер читает энциклику Льва XIV «Magnifica humanitas», призывающую согласовать экономические стимулы создателей искусственного интеллекта с общим благом.",
-      "category": "Мир",
-      "source": "Agenzia SIR",
-      "url": "https://www.agensir.it/chiesa/2026/11/11/magnifica-humanitas-leo-xivs-encyclical-read-by-eli-pariser-disarm-the-economic-incentives-behind-ai/",
-      "publishedAt": "2026-11-11T09:22:47.000Z",
-      "importance": 5,
       "aiProcessed": true
     }
   ]

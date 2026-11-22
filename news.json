@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-21T19:18:21.247Z",
+  "updatedAt": "2026-11-22T01:21:32.150Z",
   "news": [
+    {
+      "id": "https://sib-catholic.ru/22-noyabrya-34-e-ryadovoe-voskresene-gospod-nash-iisus-hristos-tsar-vselennoy-torzhestvo/",
+      "title": "22 ноября — Торжество Господа нашего Иисуса Христа, Царя Вселенной",
+      "summary": "Праздник Христа-Царя, установленный Папой Пием XI в 1925 году, отражает ответ Католической Церкви на секуляризм и атеизм того времени. С 1970 года он отмечается в последнее, 34-е воскресенье Литургического года.",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/22-noyabrya-34-e-ryadovoe-voskresene-gospod-nash-iisus-hristos-tsar-vselennoy-torzhestvo/",
+      "publishedAt": "2026-11-22T01:00:17.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
     {
       "id": "https://sib-catholic.ru/svyateyshiy-otets-deyatelyam-iskusstva-muzyika-pomogaet-lyudyam-obresti-garmoniyu/",
       "title": "Папа Лев XIV: музыка помогает людям обрести гармонию",
@@ -5486,17 +5497,6 @@
       "category": "Мир",
       "source": "Agenzia SIR",
       "url": "https://www.agensir.it/chiesa/2026/11/11/magnifica-humanitas-leo-xivs-encyclical-read-by-eli-pariser-disarm-the-economic-incentives-behind-ai/",
-      "publishedAt": "2026-11-11T09:22:47.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.agensir.it/chiesa/2026/11/11/magnifica-humanitas-lenciclica-di-leone-xiv-letta-da-eli-pariser-disarmare-gli-incentivi-economici-dellia/",
-      "title": "«Magnifica humanitas», энциклика Льва XIV в исполнении Эли Паризера: «Дезактивировать экономические стимулы ИИ»",
-      "summary": "Эли Паризер, автор книги «Фильтр пузырь», читает энциклику Льва XIV «Magnifica humanitas», призывающую направить стимулы разработчиков искусственного интеллекта на благо общества.",
-      "category": "Мир",
-      "source": "Agenzia SIR",
-      "url": "https://www.agensir.it/chiesa/2026/11/11/magnifica-humanitas-lenciclica-di-leone-xiv-letta-da-eli-pariser-disarmare-gli-incentivi-economici-dellia/",
       "publishedAt": "2026-11-11T09:22:47.000Z",
       "importance": 5,
       "aiProcessed": true

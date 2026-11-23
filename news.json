@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-22T19:43:09.628Z",
+  "updatedAt": "2026-11-23T01:45:37.259Z",
   "news": [
+    {
+      "id": "https://www.ewtnnews.com/world/europe/carbon-monoxide-leak-injures-56-at-sunday-mass-in-bavarian-chapel-police-say",
+      "title": "Утечка угарного газа на воскресной мессе в Баварии травмировала 56 человек",
+      "summary": "Из-за отказа автоматического отключения обогревателя 56 человек пострадали во время мессы в Баварии, 16 из них госпитализированы, сообщили полиция и Красный Крест.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/europe/carbon-monoxide-leak-injures-56-at-sunday-mass-in-bavarian-chapel-police-say",
+      "publishedAt": "2026-11-23T01:29:18.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
     {
       "id": "https://cruxnow.com/vatican/2026/11/pope-appeals-for-peace-on-christ-the-king-dines-with-romes-poor/",
       "title": "Папа призвал к миру в праздник Христа Царя и пообедал с бедными семьями Рима",
@@ -5488,17 +5499,6 @@
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-final-greeting-at-conclusion-of-mass-lujan.html",
       "publishedAt": "2026-11-11T14:50:00.000Z",
       "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://aleteia.org/2026/11/11/the-must-have-book-this-year-for-fans-of-pope-leo-xiv/",
-      "title": "Обязательная книга для поклонников Папы Льва XIV в этом году",
-      "summary": "Вышла биография Папы Льва XIV — первого американского понтифика из Чикаго, избранного в 2025 году. Книга рассказывает о его пути от юга Чикаго до Ватикана.",
-      "category": "Мир",
-      "source": "Aleteia",
-      "url": "https://aleteia.org/2026/11/11/the-must-have-book-this-year-for-fans-of-pope-leo-xiv/",
-      "publishedAt": "2026-11-11T14:42:29.000Z",
-      "importance": 5,
       "aiProcessed": true
     }
   ]

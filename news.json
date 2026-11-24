@@ -1,6 +1,237 @@
 {
-  "updatedAt": "2026-11-23T12:48:46.904Z",
+  "updatedAt": "2026-11-24T02:14:50.264Z",
   "news": [
+    {
+      "id": "https://www.ewtnnews.com/world/asia-pacific/sydney-shows-the-world-it-s-ready-for-eucharistic-congress-as-record-30-000-walk-with-christ",
+      "title": "В Сиднее рекордные 30 000 человек приняли участие в процессии «Идем с Христом» перед Евхаристическим конгрессом",
+      "summary": "В праздник Христа Царя более 30 000 католиков прошли по улицам Сиднея в ежегодной Евхаристической процессии — рекордное число участников накануне Евхаристического конгресса Eucharist28.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/sydney-shows-the-world-it-s-ready-for-eucharistic-congress-as-record-30-000-walk-with-christ",
+      "publishedAt": "2026-11-24T12:00:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://cruxnow.com/news-analysis/2026/11/u-s-bishops-look-at-ai-2/",
+      "title": "Папа Лев указывает на необходимость взвешенного отношения к искусственному интеллекту",
+      "summary": "Папа Лев призывает избегать как наивного энтузиазма, так и необоснованного страха в отношении искусственного интеллекта, особенно когда ИИ пытается влиять на наше мышление.",
+      "category": "Мир",
+      "source": "Crux",
+      "url": "https://cruxnow.com/news-analysis/2026/11/u-s-bishops-look-at-ai-2/",
+      "publishedAt": "2026-11-24T01:04:24.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://sib-catholic.ru/24-noyabrya-svyatyie-andrey-zung-lak-svyashhennik-i-ego-spodvizhniki-mucheniki-pamyat/",
+      "title": "24 ноября. Память святых Андрея Зунга Лака и его сподвижников, мучеников",
+      "summary": "Андрей Зунг Лак — первый католический священник вьетнамского происхождения, один из множества мучеников, пострадавших за веру в XVI–XIX веках на территории современного Вьетнама, где христианство начало распространяться с XVI века.",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/24-noyabrya-svyatyie-andrey-zung-lak-svyashhennik-i-ego-spodvizhniki-mucheniki-pamyat/",
+      "publishedAt": "2026-11-24T01:00:06.000Z",
+      "importance": 4,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/new-york-archdiocese-mortgages-church-properties-to-fund-usd800-million-sex-abuse-settlement",
+      "title": "Архиепархия Нью-Йорка заложила церковные здания для финансирования урегулирования по делу о сексуальных домогательствах на 800 млн долларов",
+      "summary": "Архиепархия взяла в долг более 160 миллионов долларов под залог некоторых зданий в Манхэттене, при этом активные церкви не были заложены, чтобы покрыть расходы по делу о сексуальных домогательствах.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/new-york-archdiocese-mortgages-church-properties-to-fund-usd800-million-sex-abuse-settlement",
+      "publishedAt": "2026-11-23T21:01:26.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/mexico-s-bishops-call-for-honoring-cristero-war-martyrs-by-building-peace",
+      "title": "Епископы Мексики призывают чтить мучеников Кристеро войной через строительство мира",
+      "summary": "Мексиканские епископы призвали почтить память мучеников Кристеро войны, сосредоточившись на деле построения мира в стране.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/mexico-s-bishops-call-for-honoring-cristero-war-martyrs-by-building-peace",
+      "publishedAt": "2026-11-23T19:42:16.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/africa/kenyan-priest-calls-for-greater-recognition-of-young-catholics-role",
+      "title": "Кенийский священник призывает признать важную роль молодых католиков",
+      "summary": "Отец Чарльз Мутхи Киньюа из архиепархии Ньери выступил на Пан-Африканской международной конференции, подчеркнув значимость участия молодежи в жизни Церкви.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/africa/kenyan-priest-calls-for-greater-recognition-of-young-catholics-role",
+      "publishedAt": "2026-11-23T18:28:59.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://cathmos.ru/v-peterburge-prostilis-so-svyashh-alekseem-shahovym/",
+      "title": "В Петербурге простились со священником Алексеем Шаховым",
+      "summary": "В Санкт-Петербурге состоялась церемония прощания со священником Алексеем Шаховым. Подробности не сообщаются.",
+      "category": "Россия",
+      "source": "Архиепархия Божией Матери в Москве",
+      "url": "https://cathmos.ru/v-peterburge-prostilis-so-svyashh-alekseem-shahovym/",
+      "publishedAt": "2026-11-23T18:07:42.000Z",
+      "importance": 4,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.agensir.it/chiesa/2026/11/23/card-zuppi-in-una-societa-polarizzata-chiesa-sia-casa-aperta-attenzione-a-poveri-e-giovani-verita-su-questione-abusi/",
+      "title": "Кардинал Зуппи: «В поляризованном обществе Церковь должна быть открытым домом». Внимание к бедным и молодежи. Правда о проблеме злоупотреблений",
+      "summary": "Кардинал Маттео Зуппи, архиепископ Болоньи и президент Итальянской епископской конференции, призвал Церковь стать открытым домом и местом ответственности в условиях поляризованного общества, уделяя особое внимание бедным и молодежи, а также честно говорить о проблеме злоупотреблений.",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/chiesa/2026/11/23/card-zuppi-in-una-societa-polarizzata-chiesa-sia-casa-aperta-attenzione-a-poveri-e-giovani-verita-su-questione-abusi/",
+      "publishedAt": "2026-11-23T17:16:06.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/united-on-two-wheels-on-bike-there-is-no-difference-youre-one.html",
+      "title": "Объединенные на двух колесах: «На велосипеде нет различий. Мы равны»",
+      "summary": "Ватикан принял бывших и действующих чемпионов по велоспорту, которые встретились с Папой Львом и приняли участие в церемонии передачи велосипедов молодежи из уязвимых групп, символизируя преодоление социальных барьеров.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/united-on-two-wheels-on-bike-there-is-no-difference-youre-one.html",
+      "publishedAt": "2026-11-23T16:32:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-meets-international-cycling-champions-at-the-vatican",
+      "title": "Папа Лев встретился с международными чемпионами по велоспорту в Ватикане",
+      "summary": "Во время аудиенции Папа напомнил о Деве Марии из Гисалло, покровительнице велосипедистов, подчеркнув важность духовной поддержки спортсменов.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-meets-international-cycling-champions-at-the-vatican",
+      "publishedAt": "2026-11-23T16:16:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/world/news/2026-11/cop31-un-climate-summit-antalya-catholic-organizations.html",
+      "title": "Католические наблюдатели на COP31: молчание о ископаемом топливе недопустимо",
+      "summary": "Саммит COP31 по климату завершился без соглашения из-за отсутствия прогресса в отказе от ископаемого топлива. Католические наблюдатели выразили обеспокоенность таким положением дел.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/world/news/2026-11/cop31-un-climate-summit-antalya-catholic-organizations.html",
+      "publishedAt": "2026-11-23T15:48:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/vatican-pope-leo-xiv-jubilee-photo-book-hope-2025-evangelization.html",
+      "title": "Первый экземпляр фотокниги Юбилея 2025 года передан Папе Льву XIV",
+      "summary": "Архиепископ Рино Фисикелла, префект Дикастерии по евангелизации, вручил Папе первый экземпляр фотокниги Юбилея 2025 года, которая будет доступна в интернете и книжных магазинах с 27 ноября.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/vatican-pope-leo-xiv-jubilee-photo-book-hope-2025-evangelization.html",
+      "publishedAt": "2026-11-23T15:40:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/middle-east/peace-is-essential-to-keeping-christians-in-the-holy-land-cardinal-gugerotti-says",
+      "title": "Кардинал Гугеротти: Мир необходим для сохранения христиан на Святой Земле",
+      "summary": "Префект ватиканского Дикастерия по делам Восточных Церквей завершил шестидневный пастырский визит на Святую Землю с посланием близости и солидарности от Папы Льва XIV.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/middle-east/peace-is-essential-to-keeping-christians-in-the-holy-land-cardinal-gugerotti-says",
+      "publishedAt": "2026-11-23T15:36:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://sib-catholic.ru/rossiya-i-vatikan-zablokirovali-upominaniya-gendera-na-sammite-oon/",
+      "title": "Россия и Ватикан выступили против упоминания гендера на саммите ООН по климату",
+      "summary": "Россия и Ватикан вместе с Аргентиной и Парагваем добиваются исключения термина «гендер» из итоговых документов климатического саммита COP31 в Турции, что вызвало критику со стороны Евросоюза, сообщает Politico.",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/rossiya-i-vatikan-zablokirovali-upominaniya-gendera-na-sammite-oon/",
+      "publishedAt": "2026-11-23T15:20:46.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-appoints-new-theologian-of-the-papal-household",
+      "title": "Папа Лев XIV назначил нового теолога Папского двора",
+      "summary": "Ватикан 21 ноября объявил о назначении французского доминиканского теолога и ученого отца Серж-Томаса Бонино новым теологом Папского двора по решению Папы Льва XIV.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-appoints-new-theologian-of-the-papal-household",
+      "publishedAt": "2026-11-23T14:56:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://sib-catholic.ru/vatikan-otsifrovyivaet-istoriyu-hudozhestvennogo-naslediya/",
+      "title": "Ватикан оцифровывает историю художественного наследия базилики Святого Петра",
+      "summary": "В Ватикане представили трехтомное издание о художниках и мозаичистах XVI–XVII веков, работавших над базиликой Святого Петра. Документы легли в основу цифрового архива Living Archive с поиском по авторам и произведениям с помощью искусственного интеллекта.",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/vatikan-otsifrovyivaet-istoriyu-hudozhestvennogo-naslediya/",
+      "publishedAt": "2026-11-23T14:45:47.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://sib-catholic.ru/lev-xiv-na-obede-s-bednyimi-segodnya-myi-vse-odna-semya/",
+      "title": "Папа Лев XIV пообедал с нуждающимися в Ватикане",
+      "summary": "22 ноября Папа Лев XIV встретился с 1300 бедными, которым помогают римские благотворительные организации. Традиция таких обедов была начата Папой Франциском в 2017 году по случаю Всемирного дня бедных.",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/lev-xiv-na-obede-s-bednyimi-segodnya-myi-vse-odna-semya/",
+      "publishedAt": "2026-11-23T14:38:38.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-clears-way-for-canonization-of-slovak-nun-jailed-by-communists",
+      "title": "Папа Лев XIV открыл путь к канонизации словацкой монахини, заключенной коммунистами",
+      "summary": "Чудо — исцеление неизлечимо больного американского протестанта в Денвере. Архиепископ Станислав Зволенский сообщил, что канонизация может состояться в конце 2027 года.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-clears-way-for-canonization-of-slovak-nun-jailed-by-communists",
+      "publishedAt": "2026-11-23T14:16:16.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/church/news/2026-11/caritas-ukraine-interview-oleshky-evacuation-pope-audience-war.html",
+      "title": "Каритас Украина: Прием эвакуированных из Олешек — глубокий человеческий опыт",
+      "summary": "Президент Каритас Украина рассказала о своих чувствах и надеждах, наблюдая эвакуацию сотен людей из оккупированного Россией города Олешки, а также о подготовке к новым чрезвычайным ситуациям в связи с зимними атаками на энергосистему.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/church/news/2026-11/caritas-ukraine-interview-oleshky-evacuation-pope-audience-war.html",
+      "publishedAt": "2026-11-23T13:41:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.agensir.it/italia/2026/11/23/mattarella-inaugura-dopo-di-noi-falcognana-roma-casa-12-persone-disabilita/",
+      "title": "Маттарелла открыл в Риме дом для 12 человек с инвалидностью «После нас»",
+      "summary": "Президент Италии Серджо Маттарелла открыл в Риме дом для 12 человек с физическими и интеллектуальными нарушениями в возрасте от 19 до 60 лет. Дом расположен рядом с санктуарией Божественной Любви и создан на месте заброшенного здания.",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/italia/2026/11/23/mattarella-inaugura-dopo-di-noi-falcognana-roma-casa-12-persone-disabilita/",
+      "publishedAt": "2026-11-23T13:37:56.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://aleteia.org/2026/11/23/popes-lunch-with-people-experiencing-poverty-goes-global/",
+      "title": "Папа Франциск провел обед с бедными в рамках Всемирного дня бедных",
+      "summary": "В 10-й Всемирный день бедных Папа Франциск провел традиционный обед с нуждающимися. В этом году событие приобрело глобальный характер: римские столовые для бедных организовали совместные трапезы, а доноры из Европы поддержали инициативу.",
+      "category": "Ватикан",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/11/23/popes-lunch-with-people-experiencing-poverty-goes-global/",
+      "publishedAt": "2026-11-23T12:35:44.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
     {
       "id": "https://aleteia.org/2026/11/23/a-vast-medieval-church-emerges-from-the-sudanese-desert/",
       "title": "В Судане обнаружена огромная средневековая церковь",
@@ -200,6 +431,17 @@
       "aiProcessed": true
     },
     {
+      "id": "https://www.vaticannews.va/en/church/news/2026-11/launch-of-the-2026-2027-ecological-sunday-sustainable-change.html",
+      "title": "В Риме прошел первый «Экологический воскресный» день сезона 2026-2027 годов",
+      "summary": "15 ноября в Риме состоялся первый «Экологический воскресный» день, направленный на повышение осведомленности о снижении загрязнения окружающей среды и вовлечение сообщества через культурные и социальные мероприятия.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/church/news/2026-11/launch-of-the-2026-2027-ecological-sunday-sustainable-change.html",
+      "publishedAt": "2026-11-23T09:08:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
       "id": "https://www.ewtnnews.com/world/europe/carbon-monoxide-leak-injures-56-at-sunday-mass-in-bavarian-chapel-police-say",
       "title": "Утечка угарного газа на воскресной мессе в Баварии травмировала 56 человек",
       "summary": "Из-за отказа автоматического отключения обогревателя 56 человек пострадали во время мессы в Баварии, 16 из них госпитализированы, сообщили полиция и Красный Крест.",
@@ -211,6 +453,17 @@
       "aiProcessed": true
     },
     {
+      "id": "https://sib-catholic.ru/23-noyabrya-svyatoy-kliment-i-papa-i-muchenik-pamyat/",
+      "title": "23 ноября. Святой Климент I, Папа и мученик. Память",
+      "summary": "Святой Климент I, четвертый Папа Римский, возглавлял римскую церковь с 88 по 97 год. Он был современником апостолов и, возможно, упоминается апостолом Павлом в Послании к Филиппийцам.",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/23-noyabrya-svyatoy-kliment-i-papa-i-muchenik-pamyat/",
+      "publishedAt": "2026-11-23T01:00:42.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
       "id": "https://www.agensir.it/italia/2026/11/23/che-non-resti-soltanto-il-rumore-della-piazza/",
       "title": "Протесты молодежи в Италии и Европе: чтобы шум на площадях не остался без последствий",
       "summary": "Массовые молодежные протесты в Италии схожи с движениями в других европейских странах. Они выражают недовольство войной, ростом цен и качеством образования, требуя реальных изменений, а не только шума на улицах.",
@@ -218,6 +471,17 @@
       "source": "Agenzia SIR",
       "url": "https://www.agensir.it/italia/2026/11/23/che-non-resti-soltanto-il-rumore-della-piazza/",
       "publishedAt": "2026-11-22T23:56:32.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.agensir.it/diocesi/2026/11/23/la-cooperazione-e-connaturale/",
+      "title": "Кооперация — естественная форма социальной экономики",
+      "summary": "В Форли прошел первый фестиваль социальной экономики, посвященный ценности кооперации, волонтерства и некоммерческих организаций. Обсуждалась идея общности и открытости, которая оживляет сотрудничество и служит основой для социальной деятельности.",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/diocesi/2026/11/23/la-cooperazione-e-connaturale/",
+      "publishedAt": "2026-11-22T23:37:12.000Z",
       "importance": 5,
       "aiProcessed": true
     },
@@ -1902,6 +2166,17 @@
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-marks-400-years-of-st-peter-s-basilica-the-work-of-the-church",
       "publishedAt": "2026-11-18T19:00:00.000Z",
       "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://cathmos.ru/on-umel-byt-vsem-dlya-vseh-pamyati-otcza-alekseya-shahova/",
+      "title": "Памяти отца Алексея Шахова: «Он умел быть всем для всех»",
+      "summary": "18 ноября скончался священник Алексей Шахов, рукоположенный в 2008 году в Санкт-Петербурге. Он служил викарием прихода Непорочного Зачатия Пресвятой Девы Марии и был известен своей всеотдающей службой.",
+      "category": "Россия",
+      "source": "Архиепархия Божией Матери в Москве",
+      "url": "https://cathmos.ru/on-umel-byt-vsem-dlya-vseh-pamyati-otcza-alekseya-shahova/",
+      "publishedAt": "2026-11-18T18:40:00.000Z",
+      "importance": 6,
       "aiProcessed": true
     },
     {
@@ -5224,281 +5499,6 @@
       "url": "https://aleteia.org/2026/11/12/uruguays-only-canonized-saint-was-friend-of-john-bosco/",
       "publishedAt": "2026-11-12T11:54:43.000Z",
       "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://aleteia.org/2026/11/12/serve-like-jesus-25000-volunteers-welcomed-leo-xiv/",
-      "title": "«Служите, как Иисус»: 25 000 волонтеров приняли Папу Льва XIV",
-      "summary": "Отец Максимо Юрвинович сообщил, что более 25 тысяч волонтеров помогали во время визита Папы Льва XIV в Аргентине. Их подготовка и служение были важны для успешного проведения всех мероприятий.",
-      "category": "Мир",
-      "source": "Aleteia",
-      "url": "https://aleteia.org/2026/11/12/serve-like-jesus-25000-volunteers-welcomed-leo-xiv/",
-      "publishedAt": "2026-11-12T11:44:20.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://aleteia.org/2026/11/12/invite-the-pope-to-visit-say-members-of-congress/",
-      "title": "Члены Конгресса призывают официально пригласить Папу Льва XIV в США",
-      "summary": "91 член Конгресса США направил письмо лидерам обеих партий с просьбой официально пригласить Папу Льва XIV посетить страну и выступить в Конгрессе. Это предложение поддерживается на фоне событий в Перу, где Папа имеет особое значение.",
-      "category": "Мир",
-      "source": "Aleteia",
-      "url": "https://aleteia.org/2026/11/12/invite-the-pope-to-visit-say-members-of-congress/",
-      "publishedAt": "2026-11-12T11:39:40.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://aleteia.org/2026/11/12/catholic-qb-mendoza-to-make-first-nfl-start-this-sunday/",
-      "title": "Католический квотербек Мендоза впервые выйдет в стартовом составе НФЛ в это воскресенье",
-      "summary": "Американский футболист Фернандо Мендоза, известный своей историей успеха и победой в трофее Хейсмана, впервые сыграет в стартовом составе команды «Лас-Вегас Рейдерс» в матче НФЛ против «Сиэтл Сихокс» 15 ноября.",
-      "category": "Мир",
-      "source": "Aleteia",
-      "url": "https://aleteia.org/2026/11/12/catholic-qb-mendoza-to-make-first-nfl-start-this-sunday/",
-      "publishedAt": "2026-11-12T11:37:25.000Z",
-      "importance": 4,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/god-first-and-country-first-neal-mcdonough-hopes-film-inspires-new-generation-to-serve",
-      "title": "Нил МакДауг надеется, что фильм вдохновит новое поколение служить Богу и стране",
-      "summary": "Актер Нил МакДауг выразил надежду, что новый фильм о Джимми Стюарте поможет американцам заново открыть важность веры, жертвы и служения.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/god-first-and-country-first-neal-mcdonough-hopes-film-inspires-new-generation-to-serve",
-      "publishedAt": "2026-11-12T11:00:00.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.agensir.it/italia/2026/11/12/poverta-caritas-crescono-disagio-sanitario-e-bisogno-alimentare-la-solidarieta-non-puo-sostituire-il-welfare/",
-      "title": "Бедность: Caritas отмечает рост проблем со здоровьем и потребности в продовольственной помощи в Италии",
-      "summary": "В Италии резко увеличилась бедность в сфере здравоохранения, а число нуждающихся в продовольственной помощи остается высоким. Caritas подчеркивает, что солидарность не может заменить социальное обеспечение.",
-      "category": "Мир",
-      "source": "Agenzia SIR",
-      "url": "https://www.agensir.it/italia/2026/11/12/poverta-caritas-crescono-disagio-sanitario-e-bisogno-alimentare-la-solidarieta-non-puo-sostituire-il-welfare/",
-      "publishedAt": "2026-11-12T10:26:09.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.agensir.it/italia/2026/11/12/italiani-nel-mondo-licata-migrantes-un-paese-che-cambia-oltre-i-confini/",
-      "title": "Итальянцы в мире: Ликата (Migrantes) — страна, меняющаяся за пределами границ",
-      "summary": "Отчет «Итальянцы в мире 2026» фонда Migrantes подтверждает устойчивую тенденцию: Италия теряет жителей, а число соотечественников за рубежом растет. Молодые люди, семьи и работники ищут лучшие возможности и качество жизни вне страны.",
-      "category": "Мир",
-      "source": "Agenzia SIR",
-      "url": "https://www.agensir.it/italia/2026/11/12/italiani-nel-mondo-licata-migrantes-un-paese-che-cambia-oltre-i-confini/",
-      "publishedAt": "2026-11-12T10:25:09.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.agensir.it/italia/2026/11/12/italiani-nel-mondo-migrantes-oltre-66-milioni-allestero-crescono-mobilita-competenze-e-reti-globali/",
-      "title": "Итальянцы в мире: Migrantes — более 6,6 миллиона за рубежом, растут мобильность, компетенции и глобальные сети",
-      "summary": "По состоянию на 1 января 2026 года число итальянцев, зарегистрированных в Aire, превысило 6,6 миллиона, что на 3,4% больше, чем годом ранее, и более чем вдвое за 20 лет. Отчет фонда Migrantes отмечает рост мобильности и глобальных связей.",
-      "category": "Мир",
-      "source": "Agenzia SIR",
-      "url": "https://www.agensir.it/italia/2026/11/12/italiani-nel-mondo-migrantes-oltre-66-milioni-allestero-crescono-mobilita-competenze-e-reti-globali/",
-      "publishedAt": "2026-11-12T10:24:09.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/12/261112e.html",
-      "title": "Апостольское путешествие Папы Льва XIV в Уругвай, Аргентину и Перу: молитвенное бдение с молодежью в Национальном стадионе Лимы",
-      "summary": "Папа Лев XIV провел молитвенное бдение с молодыми людьми и студентами в Национальном стадионе Лимы, где собралось около 60 тысяч участников, а также еще 300 тысяч человек в окрестностях.",
-      "category": "Ватикан",
-      "source": "Пресс-служба Святого Престола",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/12/261112e.html",
-      "publishedAt": "2026-11-12T10:13:34.000Z",
-      "importance": 8,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.agensir.it/mondo/2026/11/12/ferrara-diplomatico-la-pace-con-gli-occhi-aperti-le-religioni-siano-la-coscienza-critica-dellumanita/",
-      "title": "Феррара (дипломат): «Мир с открытыми глазами — религии должны стать критическим сознанием человечества»",
-      "summary": "В эпоху «немира» с гибридными войнами и геополитическими напряжениями религии могут стать критическим сознанием человечества, призывая политику к защите достоинства личности и международного права, не заменяя ее, а направляя.",
-      "category": "Мир",
-      "source": "Agenzia SIR",
-      "url": "https://www.agensir.it/mondo/2026/11/12/ferrara-diplomatico-la-pace-con-gli-occhi-aperti-le-religioni-siano-la-coscienza-critica-dellumanita/",
-      "publishedAt": "2026-11-12T09:16:49.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.agensir.it/mondo/2026/11/12/da-castel-gandolfo-lappello-dei-leader-religiosi-il-nostro-incontro-diventi-impegno-comune-insieme-possiamo-salvare-vite-umane/",
-      "title": "Из Кастель-Гандольфо призыв религиозных лидеров: «Пусть наша встреча станет общим обязательством — вместе мы можем спасти жизни»",
-      "summary": "В условиях геополитической фрагментации и сокращения помощи религии могут играть важную роль в построении мира, требуя решительных и совместных действий, а не формальных встреч, чтобы отвечать на вызовы современности.",
-      "category": "Мир",
-      "source": "Agenzia SIR",
-      "url": "https://www.agensir.it/mondo/2026/11/12/da-castel-gandolfo-lappello-dei-leader-religiosi-il-nostro-incontro-diventi-impegno-comune-insieme-possiamo-salvare-vite-umane/",
-      "publishedAt": "2026-11-12T09:15:49.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.agensir.it/chiesa/2026/11/12/presbiteri-fraternita-dono-genera-futuro/",
-      "title": "Священники в братстве: дар, порождающий будущее",
-      "summary": "Папа Лев XIV в апостольском послании, посвященном 60-летию документов Второго Ватиканского собора о формировании священников, выражает благодарность за их свидетельство и преданность служению, подчеркивая важность братства среди пресвитеров.",
-      "category": "Мир",
-      "source": "Agenzia SIR",
-      "url": "https://www.agensir.it/chiesa/2026/11/12/presbiteri-fraternita-dono-genera-futuro/",
-      "publishedAt": "2026-11-12T09:06:12.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://sib-catholic.ru/afrika-vpervyie-oboshla-evropu-po-kolichestvu-katolikov/",
-      "title": "Впервые в истории Африка обогнала Европу по числу католиков",
-      "summary": "По данным «Церковной книги статистики» на октябрь 2023 года, в Африке проживает 288,3 млн католиков, что впервые превышает число католиков в Европе — 287,2 млн. Наибольшее католическое население сосредоточено в Северной и Южной Америках.",
-      "category": "Россия",
-      "source": "Сибирская католическая газета",
-      "url": "https://sib-catholic.ru/afrika-vpervyie-oboshla-evropu-po-kolichestvu-katolikov/",
-      "publishedAt": "2026-11-12T09:04:10.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://sib-catholic.ru/blazhennyiy-perehod-sv-frantsiska/",
-      "title": "Францисканская семья отмечает 800-летие ключевых событий жизни св. Франциска Ассизского",
-      "summary": "В 2023–2026 годах францисканцы отмечают важные даты, связанные со св. Франциском: установку вертепа в Греччо, чудо стигматов, Песнь о брате Солнце и «блаженный переход» — день смерти святого, который в этом году совпал с возвращением национального праздника 4 октября в Италии.",
-      "category": "Россия",
-      "source": "Сибирская католическая газета",
-      "url": "https://sib-catholic.ru/blazhennyiy-perehod-sv-frantsiska/",
-      "publishedAt": "2026-11-12T08:56:59.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-returns-to-peru-much-of-my-own-story-belongs-to-you",
-      "title": "Папа Лев XIV возвращается в Перу: «Большая часть моей истории принадлежит вам»",
-      "summary": "В первую ночь после возвращения в Перу, свою вторую родину, Папа Лев XIV обратился к лидерам страны, подчеркнув особое значение своего визита и призвав создавать возможности для молодежи.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-returns-to-peru-much-of-my-own-story-belongs-to-you",
-      "publishedAt": "2026-11-12T06:06:06.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.vaticannews.va/en/church/news/2026-11/peru-saints-blessed-recalled-pope-leo-xiv-apostolic-journey.html",
-      "title": "Папа в Перу вспомнил святых и блаженных, формировавших духовное наследие Латинской Америки",
-      "summary": "Во время апостольского путешествия в Перу Папа Лев XIV отметил святых и блаженных, которые посвятили свою жизнь служению нуждающимся и внесли значительный вклад в духовное развитие страны.",
-      "category": "Ватикан",
-      "source": "Vatican News (английский)",
-      "url": "https://www.vaticannews.va/en/church/news/2026-11/peru-saints-blessed-recalled-pope-leo-xiv-apostolic-journey.html",
-      "publishedAt": "2026-11-12T02:25:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-distance-does-not-necessarily-diminish-love-homeland-peru.html",
-      "title": "Папа в Перу: «Расстояние не обязательно уменьшает любовь к родине»",
-      "summary": "В своей первой публичной речи в Перу Папа Лев XIV обратился к властям и дипломатам, подчеркнув свои глубокие связи с этой страной и призвав лидеров защищать повседневный мир и благополучие народа.",
-      "category": "Ватикан",
-      "source": "Vatican News (английский)",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-distance-does-not-necessarily-diminish-love-homeland-peru.html",
-      "publishedAt": "2026-11-12T02:15:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://sib-catholic.ru/12-noyabrya-svyatoy-iosafat-kuntsevich-episkop-i-muchenik-pamyat/",
-      "title": "12 ноября. Святой Иосафат (Кунцевич), епископ и мученик. Память",
-      "summary": "Святой Иосафат Кунцевич — униатский архиепископ Полоцкий конца XVI — начала XVII века, который стремился к церковному единству Запада и Востока, строго соблюдая восточные духовные и монашеские традиции.",
-      "category": "Россия",
-      "source": "Сибирская католическая газета",
-      "url": "https://sib-catholic.ru/12-noyabrya-svyatoy-iosafat-kuntsevich-episkop-i-muchenik-pamyat/",
-      "publishedAt": "2026-11-12T01:00:01.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/vatican/photos-pope-leo-xiv-concludes-visit-to-argentina-returns-to-adopted-country-of-peru",
-      "title": "Папа Лев XIV завершил визит в Аргентину и вернулся в Перу",
-      "summary": "Святейший Отец завершил историческое путешествие по Южной Америке, проведя почти неделю в Перу — своей стране пребывания.",
-      "category": "Ватикан",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/vatican/photos-pope-leo-xiv-concludes-visit-to-argentina-returns-to-adopted-country-of-peru",
-      "publishedAt": "2026-11-12T00:47:20.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/11/261111d.html",
-      "title": "Апостольское путешествие Папы Льва XIV в Уругвай, Аргентину и Перу (6–17 ноября 2026) – Церемония прощания в Аргентине и отъезд из Буэнос-Айреса",
-      "summary": "Папа Лев XIV завершил визит в Аргентину церемонией прощания и отъездом из Буэнос-Айреса. Во время перелета в Лиму были направлены телеграммы президенту Аргентины и главе Чили. Официальный прием состоялся на авиабазе в Кальяо.",
-      "category": "Ватикан",
-      "source": "Пресс-служба Святого Престола",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/11/261111d.html",
-      "publishedAt": "2026-11-11T22:52:14.000Z",
-      "importance": 8,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-leo-returns-to-what-is-expected-to-be-a-national-party-in-his-second-homeland-of-peru/",
-      "title": "Папа Лев возвращается в Перу, где его ожидает национальный праздник",
-      "summary": "Перу с населением 34 миллиона человек сталкивается с вызовами, включая приближение Эль-Ниньо, рост преступности и неравенство доходов.",
-      "category": "Мир",
-      "source": "Crux",
-      "url": "https://cruxnow.com/2026_pope_in_south_america/2026/11/pope-leo-returns-to-what-is-expected-to-be-a-national-party-in-his-second-homeland-of-peru/",
-      "publishedAt": "2026-11-11T22:35:50.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/theologians-advance-walijewski-cause",
-      "title": "Ватиканские теологи продвигают дело о канонизации миссионерского священника из Висконсина",
-      "summary": "Слуга Божий Джозеф Валижевски, миссионер в Боливии и Перу, будет рассмотрен прелатами в Дикастерии по делам святых Ватикана.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/theologians-advance-walijewski-cause",
-      "publishedAt": "2026-11-11T21:49:00.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://cruxnow.com/2026_pope_in_south_america/2026/11/the-pope-ends-an-emotional-argentina-visit-with-a-plea-for-unity-and-reconciliation/",
-      "title": "Папа завершил эмоциональный визит в Аргентину призывом к единству и примирению",
-      "summary": "По оценкам Ватикана, около 2 миллионов человек приняли участие в мессе — самой массовой встрече с Папой за почти 40 лет в Аргентине.",
-      "category": "Мир",
-      "source": "Crux",
-      "url": "https://cruxnow.com/2026_pope_in_south_america/2026/11/the-pope-ends-an-emotional-argentina-visit-with-a-plea-for-unity-and-reconciliation/",
-      "publishedAt": "2026-11-11T21:48:36.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/americas/peru-recognizes-st-turibius-of-mogrovejo-as-patron-of-human-rights",
-      "title": "Перу признало святого Турибио де Могровехо покровителем прав человека",
-      "summary": "Правительство Перу издало указ, признающий заслуги святого в защите уязвимых и поддерживающий инициативы по популяризации его жизни и дела.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/americas/peru-recognizes-st-turibius-of-mogrovejo-as-patron-of-human-rights",
-      "publishedAt": "2026-11-11T21:09:21.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://aleteia.org/2026/11/11/pope-leo-entrusts-himself-to-argentinas-virgin-mary/",
-      "title": "Папа Лев доверяет себя Деве Марии Аргентины",
-      "summary": "Папа Лев, находясь в Аргентине, выразил глубокое духовное единение с местной Девой Марией. Его пребывание вызвало сильные эмоции у более 6 миллионов аргентинцев, а в завершение последней мессы он благословил эту землю.",
-      "category": "Мир",
-      "source": "Aleteia",
-      "url": "https://aleteia.org/2026/11/11/pope-leo-entrusts-himself-to-argentinas-virgin-mary/",
-      "publishedAt": "2026-11-11T20:57:36.000Z",
-      "importance": 8,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-s-first-day-in-peru.html",
-      "title": "Папа Лев благодарит Перу за теплый прием: «Я здесь как дома»",
-      "summary": "В конце первого дня пребывания в Перу Папа Лев приветствовал верующих у Апостольской нунциатуры в Лиме, призывая молиться за мир и укреплять единство в семьях.",
-      "category": "Ватикан",
-      "source": "Vatican News (английский)",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-s-first-day-in-peru.html",
-      "publishedAt": "2026-11-11T20:53:00.000Z",
-      "importance": 8,
       "aiProcessed": true
     }
   ]

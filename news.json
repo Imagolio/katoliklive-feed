@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-11-24T23:55:17.370Z",
+  "updatedAt": "2026-11-25T08:38:51.606Z",
   "news": [
+    {
+      "id": "https://www.agensir.it/chiesa/2026/11/25/preti-dal-papa-don-badiali-cpi-chi-ha-cura-danime-sperimenta-spesso-la-mancanza-di-chi-si-prenda-cura-di-lui/",
+      "title": "Священники у Папы: дон Федерико Бадиали о духовной заботе и одиночестве пастырей",
+      "summary": "Дон Федерико Бадиали, священник архиепархии Болоньи и секретарь Итальянской пресвитерской комиссии, говорит о том, что те, кто заботится о душах, часто испытывают нехватку заботы о себе.",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/chiesa/2026/11/25/preti-dal-papa-don-badiali-cpi-chi-ha-cura-danime-sperimenta-spesso-la-mancanza-di-chi-si-prenda-cura-di-lui/",
+      "publishedAt": "2026-11-25T07:01:55.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.agensir.it/mondo/2026/11/25/donne-sfregiate-in-india-oltre-le-cicatrici-lo-stigma/",
+      "title": "Женщины с изуродованными лицами в Индии: за шрамами — стигма",
+      "summary": "Женщины, пережившие кислотные атаки в Индии, несут на себе следы жестокого насилия, укорененного в патриархальной культуре. Их лица символизируют стойкость и переосмысление красоты.",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/mondo/2026/11/25/donne-sfregiate-in-india-oltre-le-cicatrici-lo-stigma/",
+      "publishedAt": "2026-11-25T07:00:55.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.agensir.it/italia/2026/11/25/violenza-sulle-donne-milani-quella-psicologica-e-subdola-e-come-la-goccia-che-scava-nella-roccia/",
+      "title": "Насилие над женщинами: Милани о психологическом насилии как скрытой угрозе",
+      "summary": "Психологическое насилие оставляет невидимые раны в душе женщины, вызывая потерю самооценки, тревогу и депрессию. Об этом говорится в связи с Международным днем борьбы с насилием над женщинами.",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/italia/2026/11/25/violenza-sulle-donne-milani-quella-psicologica-e-subdola-e-come-la-goccia-che-scava-nella-roccia/",
+      "publishedAt": "2026-11-25T06:59:55.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.agensir.it/italia/2026/11/25/violenza-sulle-donne-mariarosa-e-giuseppe-delmonte-rincorrere-il-bene-oltre-il-male-vissuto/",
+      "title": "Насилие над женщинами: Мариароза и Джузеппе Дельмонте о преодолении зла через добро",
+      "summary": "История семьи Дельмонте показывает, что зло не имеет последнего слова. После трагической гибели матери от домашнего насилия дети нашли силы преобразовать боль в стремление к добру.",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/italia/2026/11/25/violenza-sulle-donne-mariarosa-e-giuseppe-delmonte-rincorrere-il-bene-oltre-il-male-vissuto/",
+      "publishedAt": "2026-11-25T06:58:55.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://sib-catholic.ru/24-noyabrya-svyataya-ekaterina-aleksandriyskaya-deva-i-muchenitsa-pamyat/",
+      "title": "25 ноября — память святой Екатерины Александрийской, девы и мученицы",
+      "summary": "25 ноября католики чтят память святой Екатерины Александрийской, мученическая кончина которой относится к эпохе правления римского императора Максимина или Максенция. Ее имя означает «Всегда чистая».",
+      "category": "Россия",
+      "source": "Сибирская католическая газета",
+      "url": "https://sib-catholic.ru/24-noyabrya-svyataya-ekaterina-aleksandriyskaya-deva-i-muchenitsa-pamyat/",
+      "publishedAt": "2026-11-25T01:00:41.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
     {
       "id": "https://www.ewtnnews.com/world/us/united-nations-candidate-could-push-for-global-right-to-abortion-lawmakers-warn",
       "title": "Кандидат на пост Генсекретаря ООН может продвигать глобальное «право» на аборт, предупреждают законодатели",
@@ -5444,61 +5499,6 @@
       "url": "https://www.ewtnnews.com/world/us/catholic-school-students-in-three-nyc-boroughs-outpace-public-school-counterparts",
       "publishedAt": "2026-11-13T11:00:00.000Z",
       "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.agensir.it/mondo/2026/11/13/data-center-milano-solo-restituendo-valore-tangibile-al-territorio-lai-potra-legittimarsi-come-motore-di-uno-sviluppo-davvero-sostenibile/",
-      "title": "Милан: «Искусственный интеллект станет двигателем устойчивого развития, только если принесет реальную пользу территории»",
-      "summary": "На конференции COP31 в Турции обсудят энергопотребление дата-центров, важное в эпоху искусственного интеллекта и цифровых платформ, которые требуют больших ресурсов для работы и охлаждения.",
-      "category": "Мир",
-      "source": "Agenzia SIR",
-      "url": "https://www.agensir.it/mondo/2026/11/13/data-center-milano-solo-restituendo-valore-tangibile-al-territorio-lai-potra-legittimarsi-come-motore-di-uno-sviluppo-davvero-sostenibile/",
-      "publishedAt": "2026-11-13T10:28:08.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.agensir.it/mondo/2026/11/13/attacchi-informatici-in-italia-3-067-a-settimana-36-in-un-anno-il-mondo-digitale-e-fragile/",
-      "title": "Кибератаки в Италии: 3067 в неделю, рост на 36% за год. Цифровой мир уязвим",
-      "summary": "В Италии еженедельно фиксируется около 3067 кибератак, что на 36% больше по сравнению с прошлым годом. Эксперты призывают к профилактике, обновлению систем и обмену информацией о угрозах.",
-      "category": "Мир",
-      "source": "Agenzia SIR",
-      "url": "https://www.agensir.it/mondo/2026/11/13/attacchi-informatici-in-italia-3-067-a-settimana-36-in-un-anno-il-mondo-digitale-e-fragile/",
-      "publishedAt": "2026-11-13T10:27:03.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.agensir.it/mondo/2026/11/13/jensen-huang-nvidia-il-potere-appeso-a-un-chip/",
-      "title": "Власть, зависящая от микрочипа",
-      "summary": "В Гонконге на складах скопилось 600 тысяч процессоров Nvidia H200, продажа которых ограничена из-за политических и технологических барьеров между США и Китаем.",
-      "category": "Мир",
-      "source": "Agenzia SIR",
-      "url": "https://www.agensir.it/mondo/2026/11/13/jensen-huang-nvidia-il-potere-appeso-a-un-chip/",
-      "publishedAt": "2026-11-13T09:18:08.000Z",
-      "importance": 4,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.agensir.it/mondo/2026/11/13/jensen-huang-nvidia-power-hanging-on-a-chip/",
-      "title": "Полупроводники Nvidia H200 задерживаются из-за ограничений США и Китая",
-      "summary": "В Гонконге на складах простаивают 600 тысяч процессоров Nvidia H200. США разрешили их продажу избранным китайским клиентам, но Китай пока не одобряет крупные поставки, чтобы не зависеть от американских технологий.",
-      "category": "Мир",
-      "source": "Agenzia SIR",
-      "url": "https://www.agensir.it/mondo/2026/11/13/jensen-huang-nvidia-power-hanging-on-a-chip/",
-      "publishedAt": "2026-11-13T09:18:08.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.agensir.it/mondo/2026/11/13/peru-sabato-leone-xiv-a-santa-cruz-nelle-ande-padre-quispe-torna-come-papa-colui-che-ci-ha-visitato-tante-volte/",
-      "title": "Папа Лев XIV посетит Санта-Крус в Андах в Перу",
-      "summary": "Папа Лев XIV в субботу посетит Санта-Крус в Андах. Отец Киспе отметил, что Папа возвращается к народу, которого уже много раз посещал, подтверждая свою близость к местной общине.",
-      "category": "Мир",
-      "source": "Agenzia SIR",
-      "url": "https://www.agensir.it/mondo/2026/11/13/peru-sabato-leone-xiv-a-santa-cruz-nelle-ande-padre-quispe-torna-come-papa-colui-che-ci-ha-visitato-tante-volte/",
-      "publishedAt": "2026-11-13T09:17:08.000Z",
-      "importance": 6,
       "aiProcessed": true
     }
   ]

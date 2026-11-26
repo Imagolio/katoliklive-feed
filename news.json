@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-11-25T19:18:50.734Z",
+  "updatedAt": "2026-11-26T03:35:44.401Z",
   "news": [
+    {
+      "id": "https://www.ewtnnews.com/world/europe/study-on-two-decades-of-clerical-abuse-in-italy-presented-to-italian-bishops-conference",
+      "title": "Кардинал Зуппи назвал проблему насилия «открытой раной» в ходе анализа статистики по Италии",
+      "summary": "Президент Итальянской епископской конференции заявил, что Церковь испытывает стыд и не желает скрывать проблему насилия.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/europe/study-on-two-decades-of-clerical-abuse-in-italy-presented-to-italian-bishops-conference",
+      "publishedAt": "2026-11-25T23:37:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/europe/ruling-british-city-employee-unfairly-fired-over-catholic-beliefs-on-gender",
+      "title": "Суд признал увольнение сотрудницы британского города из-за католических взглядов на гендер несправедливым",
+      "summary": "Трибунал постановил, что увольнение было необоснованным, а расследование проходило с нарушениями в отношении сотрудницы.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/europe/ruling-british-city-employee-unfairly-fired-over-catholic-beliefs-on-gender",
+      "publishedAt": "2026-11-25T22:57:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://cruxnow.com/publishers-note/2026/11/publishers-note-a-personal-message-of-thanks-and-an-update-on-our-year-at-crux/",
+      "title": "Издатель Crux выразил благодарность и подвел итоги года",
+      "summary": "Издатель Crux поделился личным посланием благодарности и рассказал о событиях и достижениях издания за прошедший год.",
+      "category": "Мир",
+      "source": "Crux",
+      "url": "https://cruxnow.com/publishers-note/2026/11/publishers-note-a-personal-message-of-thanks-and-an-update-on-our-year-at-crux/",
+      "publishedAt": "2026-11-25T22:37:51.000Z",
+      "importance": 3,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/americas/argentine-diocese-disavows-actions-of-priest-who-blessed-gay-couple-s-wedding",
+      "title": "Аргентинская епархия осудила действия священника, благословившего однополую «свадьбу»",
+      "summary": "Отец Франциско Ольвейра Фустер благословил однополую пару вскоре после визита Папы Льва XIV в Аргентину, что вызвало осуждение епархии.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/americas/argentine-diocese-disavows-actions-of-priest-who-blessed-gay-couple-s-wedding",
+      "publishedAt": "2026-11-25T22:17:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/europe/christian-pro-life-advocate-will-stand-trial-for-silently-praying-near-abortion-clinic",
+      "title": "Христианка из Великобритании предстанет перед судом за молчаливую молитву у клиники абортов",
+      "summary": "Изабель Воан-Спрюс получила международную поддержку после ареста за молитву в «буферной зоне» возле клиники, где делают аборты.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/europe/christian-pro-life-advocate-will-stand-trial-for-silently-praying-near-abortion-clinic",
+      "publishedAt": "2026-11-25T21:37:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/faith-in-uniform-how-one-dutch-admiral-is-supporting-catholic-soldiers",
+      "title": "Вице-адмирал Нидерландов Маттье Борсбум о поддержке католиков в армии",
+      "summary": "Вице-адмирал Маттье Борсбум рассказал EWTN News о вопросах этической войны, важности общины в католической военной среде и теории справедливой войны.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/faith-in-uniform-how-one-dutch-admiral-is-supporting-catholic-soldiers",
+      "publishedAt": "2026-11-25T20:57:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/massachusetts-bishop-challenges-catholics-to-invite-one-person-to-mass-on-sunday",
+      "title": "Епископ Массачусетса призывает католиков пригласить на мессу хотя бы одного человека",
+      "summary": "Епископ Уильям Бирн советует приглашать на мессу дружелюбно и без давления, поддерживая тех, кто делает такие приглашения.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/massachusetts-bishop-challenges-catholics-to-invite-one-person-to-mass-on-sunday",
+      "publishedAt": "2026-11-25T20:17:00.000Z",
+      "importance": 5,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/world/us/dozens-of-pro-life-leaders-urge-trump-to-oppose-abortion-extremism",
+      "title": "Десятки лидеров движения за жизнь призывают Трампа выступить против «экстремизма в вопросах абортов»",
+      "summary": "Обзор последних новостей, связанных с движением за жизнь и вопросами абортов, включая призывы к политическим действиям.",
+      "category": "Мир",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/world/us/dozens-of-pro-life-leaders-urge-trump-to-oppose-abortion-extremism",
+      "publishedAt": "2026-11-25T19:37:00.000Z",
+      "importance": 6,
+      "aiProcessed": true
+    },
     {
       "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-overhauls-prison-ministry-places-it-under-vatican-office",
       "title": "Папа Лев XIV реформирует тюремное служение, передавая его под управление Ватиканского ведомства",
@@ -5411,94 +5499,6 @@
       "url": "https://www.vaticannews.va/en/world/news/2026-11/west-bank-israeli-attacks-tension-palestinians.html",
       "publishedAt": "2026-11-14T14:14:00.000Z",
       "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://cruxnow.com/2026_pope_in_south_america/2026/11/church-in-latin-america/",
-      "title": "Визит Папы в центр афро-перуанской общины высветил тему африканской работорговли в Перу",
-      "summary": "Появление афро-перуанской певицы Сусаны Бака на встрече с Папой Львом XIV подчеркнуло культурное наследие, связанное с африканской работорговлей в Перу, привлекая внимание к этой теме.",
-      "category": "Мир",
-      "source": "Crux",
-      "url": "https://cruxnow.com/2026_pope_in_south_america/2026/11/church-in-latin-america/",
-      "publishedAt": "2026-11-14T14:02:15.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/don-t-flush-babies-act-introduced-in-congress",
-      "title": "В Конгрессе США представлен закон «Не смывайте младенцев»",
-      "summary": "Обзор последних новостей по вопросам защиты жизни и абортов, включая введение нового законопроекта, направленного на защиту новорожденных.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/don-t-flush-babies-act-introduced-in-congress",
-      "publishedAt": "2026-11-14T14:00:00.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-santa-cruz-peru-incoronation-virgin-mary.html",
-      "title": "Папа Лео XIV посвятил свою жизнь Деве Марии в Перу, где начал епископское служение",
-      "summary": "Папа Лео XIV короновал Непорочную Деву в кафедральном соборе Чиклае и посвятил ей свою жизнь и служение, в том же месте, где в 2015 году начал епископскую деятельность.",
-      "category": "Ватикан",
-      "source": "Vatican News (английский)",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-santa-cruz-peru-incoronation-virgin-mary.html",
-      "publishedAt": "2026-11-14T13:50:46.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://cruxnow.com/2026_pope_in_south_america/2026/11/huge-crowds-and-low-vaccination-rates-raise-measles-alarms-as-pope-leo-xiv-visits-south-america/",
-      "title": "Массовые скопления и низкий уровень вакцинации вызывают тревогу по поводу кори во время визита Папы Льва XIV в Южную Америку",
-      "summary": "Во время визита Папы Льва XIV в Южную Америку миллионы католиков собираются на его встречи, а здравоохранительные службы обеспокоены риском распространения кори из-за больших скоплений людей и низких показателей вакцинации.",
-      "category": "Мир",
-      "source": "Crux",
-      "url": "https://cruxnow.com/2026_pope_in_south_america/2026/11/huge-crowds-and-low-vaccination-rates-raise-measles-alarms-as-pope-leo-xiv-visits-south-america/",
-      "publishedAt": "2026-11-14T13:42:28.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.ewtnnews.com/world/us/jonathan-roumie-says-the-chosen-season-6-deepened-his-understanding-of-redemptive-suffering",
-      "title": "Джонатан Руми: шестой сезон сериала «Избранные» углубил понимание искупительного страдания",
-      "summary": "Джонатан Руми и актеры сериала «Избранные» поделились размышлениями о духовном влиянии шестого сезона, затронув темы страдания, прощения и искупления.",
-      "category": "Мир",
-      "source": "Catholic News Agency",
-      "url": "https://www.ewtnnews.com/world/us/jonathan-roumie-says-the-chosen-season-6-deepened-his-understanding-of-redemptive-suffering",
-      "publishedAt": "2026-11-14T13:00:00.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-synodality-as-a-constitutive-dimension-of-the-church.html",
-      "title": "Папа Лео XIV о синодальности как «конститутивном измерении» Церкви",
-      "summary": "Папа в обращении к синодальным командам Перу подчеркнул важность совместного пути, слушания, различения и участия в миссии в духе общей ответственности.",
-      "category": "Ватикан",
-      "source": "Vatican News (английский)",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-synodality-as-a-constitutive-dimension-of-the-church.html",
-      "publishedAt": "2026-11-14T12:54:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://aleteia.org/2026/11/14/canada-raise-your-voice-bishops-say/",
-      "title": "Канада: епископы призывают высказаться по законопроекту о медицинской помощи при умирании",
-      "summary": "Епископская конференция Канады призывает католиков и граждан выразить мнение о части законопроекта C-41, регулирующего медицинскую помощь при умирании, особенно в части, касающейся доступа для пациентов с психическими заболеваниями.",
-      "category": "Мир",
-      "source": "Aleteia",
-      "url": "https://aleteia.org/2026/11/14/canada-raise-your-voice-bishops-say/",
-      "publishedAt": "2026-11-14T12:20:39.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://aleteia.org/2026/11/14/soccer-stars-little-girl-steals-the-show/",
-      "title": "Дочь турецкого футболиста Семиха Гюлера покорила сердца болельщиков",
-      "summary": "Турецкий футболист Семих Гюлер отмечает успехи своей команды, связывая их с поддержкой маленькой дочери Дефне, которая посетила два матча и стала настоящей талисманом команды.",
-      "category": "Мир",
-      "source": "Aleteia",
-      "url": "https://aleteia.org/2026/11/14/soccer-stars-little-girl-steals-the-show/",
-      "publishedAt": "2026-11-14T12:19:23.000Z",
-      "importance": 2,
       "aiProcessed": true
     }
   ]

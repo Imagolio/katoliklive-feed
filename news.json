@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-11-26T16:56:32.854Z",
+  "updatedAt": "2026-11-27T01:44:55.918Z",
   "news": [
+    {
+      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-the-gospel-is-not-a-mere-social-or-welfare-program",
+      "title": "Папа Лев: Евангелие — не просто социальная или благотворительная программа",
+      "summary": "Обращаясь к Дикастерии по содействию целостному человеческому развитию, Папа предостерег от чистого активизма и игнорирования страданий, призвав Церковь отвергнуть «алгоритмическую эффективность» и строить любовь.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-the-gospel-is-not-a-mere-social-or-welfare-program",
+      "publishedAt": "2026-11-26T20:00:00.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.agensir.it/territori/2026/11/26/milano-se-labete-di-natale-diventa-albero-del-dono/",
+      "title": "Милан: рождественская ель стала «Деревом дара»",
+      "summary": "В Милане обсуждают название 26-метровой ели из Трентино, установленной на площади Дуомо перед собором к рождественским праздникам — «Дерево дара» или «Рождественская ель».",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/territori/2026/11/26/milano-se-labete-di-natale-diventa-albero-del-dono/",
+      "publishedAt": "2026-11-26T19:24:00.000Z",
+      "importance": 4,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/the-3-documents-on-evangelization-featured-in-pope-francis-diary",
+      "title": "Три документа об евангелизации в дневнике Папы Франциска",
+      "summary": "В недавно опубликованном «Личном дневнике Папы Франциска» отмечается, что три церковных документа оказали глубокое влияние на покойного понтифика.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/the-3-documents-on-evangelization-featured-in-pope-francis-diary",
+      "publishedAt": "2026-11-26T19:00:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-consecrated-men-and-women-build-unity-by-loving-the-fragile-and-difficult",
+      "title": "Папа к посвященным: Стройте единство, любя «хрупких и трудных»",
+      "summary": "Папа Лев XIV встретился с участниками совместной Ассамблеи Союза Верховных Настоятелей (USG) и Международного Союза Верховных Настоятелей (UISG), призывая к единству через любовь к уязвимым.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-consecrated-men-and-women-build-unity-by-loving-the-fragile-and-difficult",
+      "publishedAt": "2026-11-26T18:00:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-bread-must-not-become-a-hostage-to-war.html",
+      "title": "Кардинал Паролин: Хлеб не должен становиться заложником войны",
+      "summary": "Кардинал Пьетро Паролин отслужил Мессу в базилике Святого Иоанна Латеранского в Риме в память жертв Голодомора — трагического голода 1932–1933 годов в Украине.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-bread-must-not-become-a-hostage-to-war.html",
+      "publishedAt": "2026-11-26T17:32:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/motu-proprio-prison-pastoral-ministry-archbishop-buenos-aires.html",
+      "title": "Архиепископ Буэнос-Айреса: Присутствие Церкви в тюрьмах — пророческое",
+      "summary": "Архиепископ Хорхе Гарсия Куэрва рассказал СМИ Ватикана о начале новой миссии координатора пастырской службы тюремного служения, учрежденной Папой Львом XIV 25 ноября.",
+      "category": "Ватикан",
+      "source": "Vatican News (английский)",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/motu-proprio-prison-pastoral-ministry-archbishop-buenos-aires.html",
+      "publishedAt": "2026-11-26T17:04:00.000Z",
+      "importance": 7,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-dialogue-between-religions-can-help-disarm-hearts-and-nations",
+      "title": "Папа Лев XIV: Диалог между религиями может помочь разоружить сердца и народы",
+      "summary": "Папа Римский провел частную аудиенцию с членами Дикастерии по межрелигиозному диалогу, подчеркнув важность диалога для мира и взаимопонимания между народами.",
+      "category": "Ватикан",
+      "source": "Catholic News Agency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-dialogue-between-religions-can-help-disarm-hearts-and-nations",
+      "publishedAt": "2026-11-26T17:00:00.000Z",
+      "importance": 8,
+      "aiProcessed": true
+    },
+    {
+      "id": "https://www.agensir.it/diocesi/2026/11/26/i-settimanali-diocesani-una-voce-libera-dentro-la-vita-delle-comunita/",
+      "title": "Епархиальные еженедельники — свободный голос в жизни общин",
+      "summary": "Епархиальные газеты близко знакомы с жизнью общин, отражают их ожидания и трудности, наблюдают перемены и стремятся глубоко интерпретировать реальность, не ограничиваясь поверхностным взглядом.",
+      "category": "Мир",
+      "source": "Agenzia SIR",
+      "url": "https://www.agensir.it/diocesi/2026/11/26/i-settimanali-diocesani-una-voce-libera-dentro-la-vita-delle-comunita/",
+      "publishedAt": "2026-11-26T17:00:00.000Z",
+      "importance": 4,
+      "aiProcessed": true
+    },
     {
       "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/ukraine-tree-planted-vatican-gardens-viburnum-diplomacy-holy-see.html",
       "title": "Ватикан: в Садах Ватикана посажено и освящено украинское дерево",
@@ -5410,94 +5498,6 @@
       "source": "Catholic News Agency",
       "url": "https://www.ewtnnews.com/world/americas/photos-pope-leo-xiv-heads-to-cusco-pucallpa",
       "publishedAt": "2026-11-15T22:17:33.000Z",
-      "importance": 5,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-in-heart-of-peruvian-amazon-decries-human-rights-abuses.html",
-      "title": "Папа Лев XIV осудил нарушения прав человека и эксплуатацию в перуанской Амазонии",
-      "summary": "В Пукайльпе, в сердце перуанской Амазонии, Папа Лев XIV встретился с миссионерами и представителями местных народов, осудил нарушения прав человека и безответственную эксплуатацию природных ресурсов, призвав поддержать местную Церковь.",
-      "category": "Ватикан",
-      "source": "Vatican News (английский)",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-in-heart-of-peruvian-amazon-decries-human-rights-abuses.html",
-      "publishedAt": "2026-11-15T20:50:00.000Z",
-      "importance": 8,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/15/261115c.html",
-      "title": "Папа Лев XIV возглавил молитву Angelus у кафедрального собора в Куско и почтил память архиепископа",
-      "summary": "15 ноября Папа Лев XIV в Куско возглавил молитву Angelus у кафедрального собора Успения Пресвятой Девы Марии. Перед молитвой он посетил гробницу недавно скончавшегося архиепископа Ричарда Даниэля Аларкона Уррутии.",
-      "category": "Ватикан",
-      "source": "Пресс-служба Святого Престола",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/15/261115c.html",
-      "publishedAt": "2026-11-15T20:25:11.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-s-penultimate-day-in-peru-from-cusco-s-devotions.html",
-      "title": "Предпоследний день Папы Льва XIV в Перу: от Куско до Амазонки",
-      "summary": "Папа Лев XIV почтил многовековые традиции Куско, помолился Ангел Господень на площади Пласа-де-Армас, затем отправился в Пукальпу, где встретился с представителями коренных народов и миссионерами.",
-      "category": "Ватикан",
-      "source": "Vatican News (английский)",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-s-penultimate-day-in-peru-from-cusco-s-devotions.html",
-      "publishedAt": "2026-11-15T18:40:00.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/15/261115b.html",
-      "title": "Апостольское путешествие Папы Льва XIV в Уругвай, Аргентину и Перу (6–17 ноября 2026) – Встреча с верующими и представителями народного благочестия в национальном археологическом парке «Саксайуаман»",
-      "summary": "Папа Лев XIV прибыл на встречу с верующими и представителями народного благочестия в национальном археологическом парке «Саксайуаман» в Куско, где собралось около 100 тысяч человек. По улицам города его приветствовали около 500 тысяч человек.",
-      "category": "Ватикан",
-      "source": "Пресс-служба Святого Престола",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/15/261115b.html",
-      "publishedAt": "2026-11-15T18:13:13.000Z",
-      "importance": 8,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-angelus-cusco-peru-illness-lord-earthquakes.html",
-      "title": "Папа на молитве Ангелус в Куско: болезнь – путь к возрастанию в любви Божией",
-      "summary": "Во время визита в перуанский город Куско Папа Лев XIV размышляет о христианском смысле болезни, отмечая, что слабость может быть преобразована в божественную силу через любовь Бога.",
-      "category": "Ватикан",
-      "source": "Vatican News (английский)",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-angelus-cusco-peru-illness-lord-earthquakes.html",
-      "publishedAt": "2026-11-15T17:24:13.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://sib-catholic.ru/angelus-v-kusko-talantyi-simvol-bozhey-lyubvi/",
-      "title": "Папа Лев XIV возглавил молитву Angelus в Куско, размышляя о талантах и призвании богопосвященных",
-      "summary": "15 ноября в ходе апостольского визита в Перу Папа Лев XIV провел молитву Angelus на площади кафедрального собора в Куско. В обращении он размышлял о притче о талантах, значении человеческих страданий и призвании богопосвященных.",
-      "category": "Ватикан",
-      "source": "Сибирская католическая газета",
-      "url": "https://sib-catholic.ru/angelus-v-kusko-talantyi-simvol-bozhey-lyubvi/",
-      "publishedAt": "2026-11-15T16:53:32.000Z",
-      "importance": 7,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/15/261115a.html",
-      "title": "Апостольское путешествие Папы Льва XIV в Уругвай, Аргентину и Перу (6–17 ноября 2026) – Приветствие Святейшего Отца у епископской резиденции в Чиклае, отъезд из Чиклае и прибытие в Куско",
-      "summary": "Папа Лев XIV попрощался с присутствующими у епископской резиденции в Чиклае, после чего отправился в аэропорт и вылетел в Куско, где продолжит свое апостольское путешествие.",
-      "category": "Ватикан",
-      "source": "Пресс-служба Святого Престола",
-      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/11/15/261115a.html",
-      "publishedAt": "2026-11-15T16:40:10.000Z",
-      "importance": 6,
-      "aiProcessed": true
-    },
-    {
-      "id": "https://www.vaticannews.va/en/vatican-city/news/2026-11/editorial-apostolic-journey-zana-peru-pope-leo-xiv.html",
-      "title": "Миссионерское сердце Папы Льва XIV",
-      "summary": "Редактор издания размышляет о личной речи Папы Льва XIV, произнесенной в завершение Юбилейного года святого Турибио де Могровехо в святилище в Санье, отмечая ее особую значимость.",
-      "category": "Ватикан",
-      "source": "Vatican News (английский)",
-      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/editorial-apostolic-journey-zana-peru-pope-leo-xiv.html",
-      "publishedAt": "2026-11-15T16:36:00.000Z",
       "importance": 5,
       "aiProcessed": true
     }
